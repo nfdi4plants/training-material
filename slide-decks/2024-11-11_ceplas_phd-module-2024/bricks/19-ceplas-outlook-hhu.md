@@ -13,25 +13,25 @@ author:
 
 # CEPLAS connection to the NFDI
 
-![](../../images/ceplas-nfdi-connection-light.drawio.png)
+![](../../../images/ceplas-nfdi-connection-light.drawio.png)
 
 ---
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../images/dataplant-collaborationceplas.drawio.png)
+![w:880](./../../../images/dataplant-collaborationceplas.drawio.png)
 
 ---
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../images/datahub-gitlab.drawio.png)
+![](./../../../images/datahub-gitlab.drawio.png)
 
 ---
 
 # On-premise DataHUBs
 
-![alt text](../../images/datahub-onpremise.drawio.png)
+![alt text](../../../images/datahub-onpremise.drawio.png)
 
 ARC services are available as on-premise option
 
@@ -39,7 +39,7 @@ ARC services are available as on-premise option
 
 # HHU-DataHUB
 
-![w:800](./../../images/hhu-datahub.drawio.png)
+![w:800](./../../../images/hhu-datahub.drawio.png)
 
 ---
 
@@ -51,26 +51,26 @@ ARC services are available as on-premise option
 - Integration of existing services and infrastructure
 - External collaboration
 
-![bg right:45% w:500](./../../images/hhu-datahub.drawio.png)
+![bg right:45% w:500](./../../../images/hhu-datahub.drawio.png)
 
 ---
 
 # HHU-DataHUB &ndash; Node for platforms
 
 
-![w:900](./../../images/ceplas-enablingplatforms-logos.drawio.png)
+![w:900](./../../../images/ceplas-enablingplatforms-logos.drawio.png)
 
 ---
 
 # Embedded into an RDM network
 
-![w:600](./../../images/datahub-network-putative.drawio.png)
+![w:600](./../../../images/datahub-network-putative.drawio.png)
 
 ---
 
 # CEPLAS collaborates with DataPLANT and NFDI4BIOIMAGE <!-- fit -->
 
-![w:700](./../../images/dataplant-collaborationceplas-nfdi4bi.drawio.png)
+![w:700](./../../../images/dataplant-collaborationceplas-nfdi4bi.drawio.png)
 
 ---
 
@@ -79,12 +79,12 @@ ARC services are available as on-premise option
 <div class="two-columns">
   <div>
   
-  ![](./../../images/ceplas-policy-title.png)
+  ![](./../../../images/ceplas-policy-title.png)
   
   </div>
   <div>
 
-  ![](./../../images/ceplas-arcs.drawio.svg)
+  ![](./../../../images/ceplas-arcs.drawio.svg)
     
   </div>
 </div>

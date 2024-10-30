@@ -19,6 +19,9 @@ Additional slides were contributed by
 - name: Cristina Martins Rodrigues
   github: https://github.com/CMR248
   orcid: https://orcid.org/0000-0002-4849-1537
+- name: Hajira Jabeen
+  github: https://github.com/HajiraJabeen
+  orcid: https://orcid.org/0000-0003-1476-2121
 - name: Kevin Frey
   github: https://github.com/Freymaurer
   orcid: https://orcid.org/0000-0002-8493-1077

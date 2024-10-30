@@ -123,18 +123,3 @@ Check out: https://creativecommons.org/about/cclicenses/
 > Check out the [Elixir RDMkit](https://rdmkit.elixir-europe.org/data_management_plan) for more
 
 ---
-
-
-
----
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
-- name: Hajira Jabeen
-  github: https://github.com/HajiraJabeen
-  orcid: https://orcid.org/0000-0003-1476-2121

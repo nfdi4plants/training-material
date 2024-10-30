@@ -8,178 +8,18 @@ date: 2024-10-30
 ---
 
 
-# Preparation
-
-<!--  _color: white; -->
-<!-- _paginate: false -->
-
-<style scoped>section {background: none; background-color: white;}</style>
-
-**before** November 11th, 2024
-
-Dominik Brilhaus, [CEPLAS Data](https://www.ceplas.eu/en/research/data-science-and-data-management/)
-
-![bg fit](./../../../images/background-title-ceplas.drawio.svg)
-
----
-
-# Checklist hands-on sessions
-
-<style scoped>
-
-ul{
-  list-style-type: none; /* Remove bullets */
-}
-</style>
-
-:bulb: Please prepare the following before the class:
-
-- :white_check_mark: Register at DataPLANT
-- :white_check_mark: Find your command line
-- :white_check_mark: Install and configure Git on your computer
-- :white_check_mark: Install ARC Commander on your computer
-- :white_check_mark: Install ARCitect on your computer
-- :white_check_mark: Install Swate on your computer
-- :white_check_mark: (optional) Install VS Code
-
----
-
-# DataPLANT Registration
-
-If you do not have a DataPLANT account, please register at the <a href="https://register.nfdi4plants.org" target="_blank">DataPLANT website</a>.
-
-![w:800](./../../../images/dataplant-registration.png)
-
----
-
-## Role and consortium
-
-Please add your `Project/consortium` (e.g. CEPLAS) and choose the role `Guest`
-
-![bg right:40% fit](./../../../images/dataplant-registration-roles.png)
-
----
-
-# The command line
-
-Find the **command-line interface (CLI)** on your system.
-
-- On Windows: Enter `powershell` into the explorer path
-- On MacOS: Search `terminal` via spotlight (&#8984; + &#9251;) or navigate to `Applications` -> `Utilities` -> `Terminal`
-
-<br>
-
-:bulb: In our tutorials we sometimes use *terminal*, *command-line interface (CLI)* and *powershell* interchangeably.
-
----
-
-# Git Installation
-
-Please install <a href="https://git-scm.com/downloads" target="_blank">Git</a> and <a href="https://git-lfs.github.com/" target="_blank">Git LFS</a> on your system
-
-:bulb: Git LFS may already be installed with your Git installation (at least on Windows)
-
-:bulb: For macOS we recommend to install via homebrew as described on the site above
-
----
-
-# Configuration of Git
-
-Check the git user configuration on your system, by executing
-
-```bash
-git config --global --get-regexp user
-```
-
-This should prompt two lines
-`user.name <Your Name>`
-`user.email <Your Email>`
-
-:bulb: Configuration needs to be done once after installation of git on your system.
-
----
-
-# Git configuration
-
-Set the git user configuration on your system, by executing
-
-1. Your name
-
-```bash
-git config --global user.name "Your Name"
-```
-
-2. Your email address
-
-```bash
-git config --global user.email "Your Email"
-```
-
----
-
-# ARC Commander Installation
-
-Please install the latest version of the ARC Commander and dependencies for your operating system according to the <a href="https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/ArcCommanderManual/index.html" target="_blank">manual's setup instructions</a>.
-
-Check if the ARC Commander is functional by displaying the ARC Commander version and help menu:
-
-```bash
-arc --version
-```
-
-![bg right:30% width:300](./../../../images/arc-manual-setup.png)
-
----
-
-# ARCitect Installation
-
-Please follow the instructions to install the latest version of ARCitect.
-
-- <a href="https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/ARCitect-Manual/arcitect_installation_macos.html" target="_blank">macOS</a>
-- <a href="https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/ARCitect-Manual/arcitect_installation_windows.html" target="_blank">Windows</a>
-
----
-
-# Swate Installation
-
-Please follow <a href="https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/SwateManual/Docs01-Installing-Swate.html" target="_blank">these instructions</a> to install the latest version of Swate.
-
----
-
-## Have a simple text editor ready
-
-- Windows Notepad
-- MacOS TextEdit
-
-Recommended text editor with code highlighting, git support, terminal, etc: <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
-
----
-
-# Resources
-
-### <img align="left" style="height:35px" src='https://raw.githubusercontent.com/nfdi4plants/Branding/7e7d442aafeaa767b9c14a63a16e459dadcbdaaf/logos/DataPLANT/dataplant-logo-minimal-rounded-bg-darkblue.svg'/> DataPLANT (nfdi4plants)
-
-Website: <a href="https://nfdi4plants.org/" target="_blank">https://nfdi4plants.org/</a>
-Knowledge Base: <a href="https://nfdi4plants.org/nfdi4plants.knowledgebase/" target="_blank">https://nfdi4plants.org/nfdi4plants.knowledgebase/</a>
-DataHUB: <a href="https://git.nfdi4plants.org" target="_blank">https://git.nfdi4plants.org</a>
-GitHub: <a href="https://github.com/nfdi4plants" target="_blank">https://github.com/nfdi4plants</a>
-
----
-
-
----
-
-
-# Good Data Management Practices
+## Good Data Management Practices
 
 <!--  _color: white; -->
 <!-- _paginate: false -->
 <style scoped>section {background: none; background-color: white;}</style>
 
 *part of M4468 &ndash; Plant developmental genetics, evolution<br>and biostatistics in the CEPLAS research program*
-<br>
-November 8<sup>th</sup>, 2023
-Dominik Brilhaus, CEPLAS Data Science
+
+November 10<sup>th</sup>, 2024
+
+Vittorio Tracanna, Dominik Brilhaus
+CEPLAS Data
 
 ![bg fit](./../../../images/background-title-ceplas.drawio.svg)
 
@@ -191,7 +31,7 @@ Dominik Brilhaus, CEPLAS Data Science
 
 # House-keeping
 
-Pad: https://pad.hhu.de/oI-NjeUtSHSMzk5huWRkJw
+Pad: https://pad.hhu.de/0NdPKO5LQ5CHBRN2iuG91Q
  
 ---
 
@@ -203,45 +43,36 @@ Slides will be shared via DataPLANT knowledge base and the Sciebo folder
 
 # Tentative agenda
 
-<style scoped>
-.columns {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    font-size: 20px;
-}
-</style>
-
-<div class="columns">
-<div class="columns-left">
-
-## Day 1
-
-Time | Topics
--------- | --------
-09:30 - 10:45 | Intro to RDM and ARC
-10:45 - 11:00 | *Short break*
-11:00 - 12:00 | ARC Hands-on
-12:30 - 13:30 | *Lunch*
-13:00 - 15:30 | Data storage and sharing
-15:30 - 16:00 | Wrap-up
-
-</div>
-
-<div class="columns-right">
-
-## Day 2
-
-Time | Topics
--------- | --------
-09:30 - 10:30 | ARC Feedback session
-10:30 - 10:45 | *Short break*
-10:45 - 12:00 | ISA and Metadata
-12:30 - 13:30 | *Lunch*
-13:00 - 15:00 | Hands-on Swate
-15:00 - 15:30 | ARC ecosystem: Additional features
-15:30 - 16:00 | Wrap-up
-
-</div>
+<div class="two-columns">
+  <div>
+  
+  ## Day 1
+  
+  Time | Topics
+  -------- | --------
+  09:30 - 10:45 | Intro to RDM and ARC
+  10:45 - 11:00 | *Short break*
+  11:00 - 12:00 | ARC Hands-on
+  12:30 - 13:30 | *Lunch*
+  13:00 - 15:30 | Data storage and sharing
+  15:30 - 16:00 | Wrap-up
+  
+  </div>
+  <div>
+  
+  ## Day 2
+  
+  Time | Topics
+  -------- | --------
+  09:30 - 10:30 | ARC Feedback session
+  10:30 - 10:45 | *Short break*
+  10:45 - 12:00 | ISA and Metadata
+  12:30 - 13:30 | *Lunch*
+  13:00 - 15:00 | Hands-on Swate
+  15:00 - 15:30 | ARC ecosystem: Additional features
+  15:30 - 16:00 | Wrap-up
+  
+  </div>
 </div>
 
 ---
@@ -249,9 +80,23 @@ Time | Topics
 # Goals
 
 - Appreciate FAIR principles
-- Tools and services for FAIR data management
+- Learn tools and services for FAIR data management
 - Effectively manage your own research data
-- Communication and terminology
+
+---
+
+# Introduce yourself
+
+- Used code / programming language before
+- Experience with Git / GitLab / GitHub?
+- Have an ORCID
+- My motivation / expectation
+- My favorite lab assay
+
+---
+
+# Let's draw a typical lab workflow :pencil:
+
 
 ---
 
@@ -356,6 +201,8 @@ object-fit: cover;
 - What tools do you use to analyse your data?
 - How do you reuse other people's data?
 
+![bg right:40% w:500](./../../../images/user-challenges-002.svg)
+
 ---
 
 ## Findable
@@ -415,45 +262,31 @@ object-fit: cover;
 
 <span class="footer-reference">https://www.go-fair.org/fair-principles/<span>
 
---- 
+---
 
-# Scattered Data Silos
 
-![w:900](././../../../images/data-fragmentation-ceplas.png)
+# CEPLAS &ndash; One cluster, four locations
+
+![w:800](./../../images/data-fragmentation-ceplas00.drawio.png)
 
 ---
 
-# Scattered Data Silos
+# Data silos impede collaboration
 
-![w:900](././../../../images/data-fragmentation-ceplas-mibinet-trr.png)
+![w:800](./../../images/data-fragmentation-ceplas01.drawio.png)
 
 ---
 
-# FAIR Data for everyone
+# Data silos impede collaboration
 
-<style scoped>
+![w:800](./../../images/data-fragmentation-ceplas02.drawio.png)
 
-section p img {
-width: 1300px;
-height: 350px;
-object-fit: cover;
-/* object-position: 100% 100%; */
-}
-</style>
+---
 
-![](./../../../images/fair-unfair-stories.png)
+# Missing interfaces impede collaboration
 
---- 
+![w:800](./../../images/hhu-services-withoutdatahub.drawio.png)
 
---- 
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
 ---
 
 
@@ -482,10 +315,6 @@ Participant n | Participant n+1
 ---
 
 
-# Intro to DataPLANT and ARC
-
----
-
 # DataPLANT &ndash; <br>The NFDI4Plants
 
 ![bg right:50% width:500px](./../../../images/dataplant-taskareas.svg)
@@ -495,15 +324,134 @@ Participant n | Participant n+1
 
 ---
 
-# Data Stewardship between DataPLANT and the community  <!-- fit -->
+# Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](././../../../images/dataplant-collaborationceplas.drawio.png)
+![w:880](./../../../images/dataplant-collaborationceplas.drawio.png)
 
 ---
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../../images/arc-datacentricintegration-img1.png)
+![width:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-bag.svg)
+
+Your entire investigation in a single unified bag
+
+---
+
+# You can store your ARC in the DataHUB
+
+![w:800](./../../../images/dataplant-bigpicture-seq2.png)
+
+---
+
+# ARCs are versioned
+
+![w:800](./../../../images/dataplant-bigpicture-seq3.png)
+
+---
+
+# You can invite collaborators
+
+![w:800](./../../../images/dataplant-bigpicture-seq4.png)
+
+---
+
+# Collaborate and contribute
+
+![w:800](./../../../images/dataplant-bigpicture-seq5.png)
+
+---
+
+# Reuse data in ARCs
+
+![w:800](./../../../images/dataplant-bigpicture-seq6.png)
+
+---
+
+# Publish your ARC
+
+![w:800](./../../../images/dataplant-bigpicture-seq7.png)
+
+---
+
+
+# Publish your ARC, get a DOI
+
+![w:800px](../../../images/arc-seamlesspublication.svg)
+
+---
+
+# ARC as single-entry point
+
+![w:900](./../../../images/arc-publication-outlets.drawio.png)
+
+---
+
+# Data analysis and workflows
+
+![w:800](./../../../images/tpj16474-fig-0005-m.jpg)
+
+<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
+
+---
+
+# Galaxy integration: Extra value for plant research
+
+<div class="two-columns">
+<div>
+
+![](./../../../images/galaxy-integration.drawio.png)
+
+</div>
+
+<div>
+
+- Full ARC compatibility
+- Automated metadata generation
+- Specialized tools and workflows for ‘omics processing and analysis
+- Public repository compatibility
+- Galaxy teaching resource for data analysis
+
+</div>
+</div>
+
+
+---
+
+# Enabling platforms
+
+
+<div class="two-columns">
+  <div>
+  
+  - Streamlined exchange of (meta)data
+  - Communication and project management
+  
+  </div><div>
+  
+  ![](./../../../images/ceplas-enablingplatforms.drawio.png)
+  
+  </div>
+</div>
+
+
+---
+
+# Streamlined data exchange
+
+<img src="./../../../images/enablingplatform-fileshare.drawio.png" style="width:60%;display: block;margin-left: auto;margin-right: auto;">
+
+---
+
+# Meet your collaborators in an ARC
+
+<img src="./../../../images/enablingplatform-timeline.drawio.png" style="width:80%;display: block;margin-left: auto;margin-right: auto;">
+
+---
+
+# The ARC ecosystem
+
+![w:850](./../../../images/arc-ecosystem-10.drawio.png)
 
 ---
 
@@ -513,31 +461,19 @@ Participant n | Participant n+1
 
 ---
 
-# What does an ARC look like?
-
-![width:950](./../../../images/arc-fillwithdata-seq2.png)
-
----
-
-# What does an ARC look like?
+# ARCs store experimental data
 
 ![width:950](./../../../images/arc-fillwithdata-seq3.png)
 
 ---
 
-# What does an ARC look like?
-
-![width:950](./../../../images/arc-fillwithdata-seq4.png)
-
----
-
-# What does an ARC look like?
+# Computations can be run inside ARCs
 
 ![width:950](./../../../images/arc-fillwithdata-seq5.png)
 
 ---
 
-# What does an ARC look like?
+# ARCs come with comprehensive metadata
 
 ![width:950](./../../../images/arc-fillwithdata-seq6.png)
 
@@ -545,876 +481,37 @@ Participant n | Participant n+1
 
 # ARC builds on standards
 
-![w:900](./../../../images/arc-buildsonstandards1.png)
-
----
-
-# ARC builds on standards + Git
-
-![w:900](./../../../images/arc-buildsonstandards2.png)
-
----
-
----
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
-- name: Cristina Martins Rodrigues
-  github: https://github.com/CMR248
-  orcid: https://orcid.org/0000-0002-4849-1537
-- name: Martin Kuhl
-  github: https://github.com/Martin-Kuhl
-  orcid: https://orcid.org/0000-0002-8493-1077
-
-
----
-
-
-# ARC Commander Hands-on
-
----
-
-## Registration
-
-Everyone <a href="https://register.nfdi4plants.org" target="_blank">signed-up</a> at the DataHUB?
-
----
-
-## Check your installation
-
-Open a terminal and one after the other execute
-
-```bash
-git --version
-```
-
-```bash
-git-lfs --version
-```
-
-```bash
-arc --version
-```
-
-:bulb: If you see a warning at any of these, let us know.
-
----
-
-## Config
-
-```bash
-git config --global --get-regexp user
-```
-
-:bulb: If this does not display your user name and email, you need to [configure git](https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/ArcCommanderManual/arc_installation_git.html).
-
----
-
-## Have a simple text editor ready
-
-- Windows Notepad
-- MacOS TextEdit
-
-Recommended text editor with code highlighting, git support, terminal, etc: <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
-
----
-
-## Create a fresh folder for your ARCs
-
-For this workshop, create a new folder somewhere on your machine where you want to store ARCs, e.g. in your documents folder:
-
-- `C:\Users\<username>\Documents\workshop-arcs` (windows)
-- `~/Documents/workshop-arcs` (mac)
-
-:warning: Ideally this folder is not "watched" by any cloud service (Sciebo, google drive, iCloud, etc.)
-
----
-
-# Hands-on with demo data
-
-First steps towards your ARC using the **ARC Commander**
-
----
-
-## Download the demo data
-
-```bash
-git clone "https://demo-user:1_eznikmzxzARAbUxxnF@git.nfdi4plants.org/teaching/demo-arc_level0.git"
-```
-
----
-
-## You just received your data
-
-![bg right width:400](./../../../images/demo-data-screenshot.png)
-
----
-
-## Goal
-
-- Structure,
-- Annotate, and
-- Share your experimental data.
-
-<br>
-
-:bulb: We'll talk about data annotation later
-
----
-
-
-## Structure your data
-
-![width:800](./../../../images/arc-fillwithdata-experimental.png)
-
----
-
-# Your fresh ARC folder
-
-1. Create a new folder, which you want to initialize as an ARC.
-2. Open the command line inside the folder or navigate via command line to that folder.
-
-For example:
-```bash
-mkdir -p ~/Documents/workshop-arcs/arc-demo
-cd ~/Documents/workshop-arcs/arc-demo
-```
----
-
-## Initiate the ARC folder structure
-
-```bash
-arc init
-```
-
----
-
-## Create an investigation
-
-```bash
-arc investigation create -i TalinumPhotosynthesis
-```
-
----
-
-## Add a person
-
-```bash
-arc i person register --lastname Brilhaus --firstname Dominik --email brilhaus@hhu.de --affiliation CEPLAS
-```
-
-
----
-
-## Add a study
-
-```bash
-arc study add -s talinum_drought
-```
+<div class="two-columns">
+  <div>
   
----
-
-## Add assays
-
-```bash
-arc assay add -s talinum_drought -a rnaseq
-arc assay add -s talinum_drought -a metabolomics
-```
-
----
-
-## Collaborate and share
-
-![w:650](./../../../images/arc-datasharing-experts02-img1.png)
-
----
-
-# Upload your local ARC to the DataHUB
-
-```bash
-arc sync -f -r https://git.nfdi4plants.org/<username>/arc-demo
-```
-
----
-
-## Sort the demo data into the ARC
-
-Identify "raw dataset(s)" and "protocols" and move them to the proper subfolders in the ARC.
-
-![bg right w:500](./../../../images/demo-data-screenshot.png)
-
----
-
-
-## Sync your ARC to the DataHUB
-
-To save the changes, sync the ARC to the DataHUB including a message.
-
-```bash
-arc sync -m "sorted the demo data"
-```
-
----
-
-## Check the ARC in the DataHUB
-
-Navigate to `https://git.nfdi4plants.org/<username>/arc-demo` to visit your ARC in the DataHUB
-
----
-
-## Your ARC is ready
-
-![bg 80% right:75%](./../../../images/demo-data-screenshot.png)
-![bg 80%](./../../../images/demo-arc-screenshot.png)
-
----
-
----
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
-
----
-
-
-# ARCitect hands-on
-
-<style scoped>section {background: none; background-color: white}</style>
-<!-- _paginate: false -->
-
----
-
-# ARCitect installation
-
-Please install version **v0.0.10** of the ARCitect: https://github.com/nfdi4plants/ARCitect/releases/tag/v0.0.10
-
-:fire: (released September 20th, 2023) :fire:
-
----
-
-## Download the demo data <!-- fit -->
-
-https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZlS_Kzf7psk-5w-xg?e=u0sADd
-
-![bg right w:600](./../../../images/demo-data-download.png)
-
----
-
-# Sort Demo data in an ARC
-
-![bg right width:400](./../../../images/demo-data-screenshot.png)
-
-![width:900](./../../../images/arc-fillwithdata-experimental.png)
-
----
-
-# Open ARCitect
-
-
-1. Login to DataHUB (1)
-   ![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
-
----
-
-# Initiate the ARC folder structure
-
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
-
-1. Create a **New ARC** (2)
-2. Select a location and name it **TalinumPhotosynthesis**
-
----
-
-# Your ARC's name
-
-<style scoped>section {font-size: 25px;}</style>
-
-💡 By default, your ARC's name will be used
-   - for the ARC folder on your machine
-   - to create your ARC in the DataHUB at `https://git.nfdi4plants.org/<YourUserName>/<YourARC>` (see next steps)
-   - as the identifier for your investigation
-
-💡 Make sure that no ARC exists at  `https://git.nfdi4plants.org/<YourUserName>/<YourARC>`. Otherwise you will sync to that ARC.
-
-💡Don't use spaces in ARC's name
-
-![bg right:30% w:500](././../../../images/arcitect-talinumphotosynthesis.png)
-
----
-
-# Add a description to your investigation
-
-![w:800](./../../../images/arcitect-talinumphotosynthesis-investigationmetadata.png)
-
----
-
-# Add a contributor
-
-
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-investigationperson.png)
-
----
-
-# Add a study
-
-by clicking "Add Study" and entering an identifier for your study
-
-Use **talinum_drought** as an identifier
-
-![bg right w:500](././../../../images/arcitect-talinumphotosynthesis-study.png)
-
----
-
-# Study panel
-
-In the study panel you can add
-
-- general metadata,
-- people, and
-- publications
-- data process information
-
-![bg right w:500](././../../../images/arcitect-talinumphotosynthesis-studypanel.png)
-
----
-
-
-# Add an assay
-
-by clicking "Add Assay" and entering an identifier for your assay
-
-Add two assays with **rnaseq** and **metabolomics** as an identifier
-![bg right w:500](././../../../images/arcitect-talinumphotosynthesis-assay.png)
-
----
-
-# Link your assay to a study
-
-You can either
-- link your new assay to an existing study in your ARC or
-- create a new one
+  ![w:500](./../../../images/arc-buildsonstandards3.png)
   
-Link your assays to your **talinum_drought** study
-
-
-![bg right w:500](././../../../images/arcitect-talinumphotosynthesis-assay2.png)
-
----
-
-# Add information about your assay
-
-In the assay panel you can
-
-1. link or unlink the assay to studies, and
-2. define the assay's
-   - measurement type
-   - technology type, and
-   - technology platform.
-3. add data process information
-
-![bg right w:500](././../../../images/arcitect-talinumphotosynthesis-assaypanel.png)
-
----
-
-# Add protocols
-
-You can either
-- directly write a **new protocol** within the ARCitect or
-- import an existing one from your computer
-
-![w:800](./../../../images/arcitect-arcpanel-protocol.png)
-
----
-
-# Add protocols and datasets
-
-In the file tree you can
-  - **add a dataset** and 
-  - **protocols** associated to that dataset.
-
-:bulb: **Add Dataset** allows to import data from any location on your computer into the ARC.
-
-:warning: Depending on the file size, this may take a while. Test this with a small batch of files first.
-
-<!-- Demo dataset cannot be added via add dataset. Only individual files can be added, not multiple folders -->
-
-![bg right:40% w:400](./../../../images/arcitect-arcpanel-assay03.png)
-
----
-
-# Sort Demo Data to your ARC
-
-💡 protocols can directly be imported via ARCitect
-
-💡 to add multiple datasets folders, they have to be added manually via file browser
-
----
-
-# Login to the DataHUB
-
-Click **Login** (1) in the sidebar to login to the DataHUB.
-
-:bulb: This automatically opens your browser at the DataHUB (https://git.nfdi4plants.org) and asks you to login, if you are not already logged in. 
-
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
-
----
-
-# Upload your local ARC to the DataHUB
-
-From the sidebar, navigate to **Versions** (6)
-
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
-
----
-
-# Versions
-
-The versions panel allows you to
-- store the local changes to your ARC in form of "commits",
-- sync the changes to the DataHUB, and
-- check the history of your ARC
-
-![bg right w:650](./../../../images/arcitect-versionspanel.png)
-
----
-
-# Connection to the DataHUB
-
-If you are logged in, the versions panel shows
-- your DataHUB's *Full Name* and *eMail*
-- the URL of the current ARC in the DataHUB `https://git.nfdi4plants.org/<YourUserName>/<YourARC>`
-
-![bg right w:650](./../../../images/arcitect-versionspanel.png)
-
----
-
-# Check if your ARC is successfully uploaded
-
-1. [sign in](https://auth.nfdi4plants.org/realms/dataplant/login-actions/registration?client_id=account&tab_id=4bQkU161waI) to the DataHUB 
-2. Check your projects
-
----
-
-# Your ARC is ready
-
-<style scoped>
-
-section p br {
-   display: block;
-   margin-top: 20px;
-   content: "";
-}
-</style>
-
-👩‍💻 Initiated an ARC
-<br>
-📂 Structured and ...  
-<br>
-<img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... annotated experimental data
-<br>
-🌐 Shared with collaborators
-
-![bg right width:400](./../../../images/demo-arc-screenshot.png)
-
----
-
----
-
-# Received two emails from "GitLab" about a failed pipeline? <!-- fit -->
-
-![w:600](./../../../images/cqc-error-email.png)
-
-:fire: Don't worry :smile:
-
----
-
-## Pipeline Failed
-
-![bg right w:700](./../../../images/cqc-error-badges.png)
-
-- a "continuous quality control" (CQC) pipeline validates your ARC
-- This fails if one of the following metadata items is missing:
-
-    ```bash
-    Investigation Identifier
-    Investigation Title
-    Investigation Description
-    Investigation Person Last Name
-    Investigation Person First Name
-    Investigation Person Email
-    Investigation Person Affiliation
-    ```  
-
----
-
-## Pipeline Failed
-
-If the pipeline has failed once, it is disabled by default
-
-![bg right w:500](././../../../images/cqc-error-email2.png)
-
----
-
-## Reactivate the CQC pipeline
-
-<style scoped>
-section {font-size: 22px;}
-</style>
-
-To reactivate it and let the DataHUB validate your ARC again:
+  </div>
+  <div>
   
-  1. navigate to CI/CD setting `<arc-url>/-/settings/ci_cd`
-  2. expand "Auto DevOps"
-  3. check box "Default to Auto DevOps pipeline"
-  4. Save changes
+  - RO-Crate: standardized exchange
+  - ISA: structured, machine-readable metadata
+  - CWL: reproducible, re-usable data analysis
+  - Git: version control
+  
+  </div>
+</div>
 
-![bg right:60% w:600](./../../../images/cqc-activate-autodevops.png)
-
----
-
----
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
-- name: Cristina Martins Rodrigues
-  github: https://github.com/CMR248
-  orcid: https://orcid.org/0000-0002-4849-1537
-- name: Sabrina Zander
-  github: https://github.com/SabrinaZander
-  orcid: https://orcid.org/0009-0000-4569-6126
+<span class="footer-reference">https://isa-tools.org/ | https://www.commonwl.org/
+https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
 
 
-# Data Storage and Versioning
+# CEPLAS connection to the NFDI
+
+![](../../../images/ceplas-nfdi-connection-light.drawio.png)
 
 ---
 
-# Data stores
+# Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:900](././../../../images/data-stores.drawio.svg)
-
----
-
-# Backup vs. Archive
-
-| <br>         | Backup              | Archive                       |
-|--------------|---------------------|-------------------------------|
-| Storage type | Short-, mid-term    | Long-term                     |
-| Purpose      | Disaster recovery   | Long-term storage, compliance |
-| Reason       | Duplication         | Migration                     |
-| Usage        | Work in progress    | Cold, Unused data             |
-| Changes      | Short-term updates  | No updates                    |
-| Trend        | Cyclic, Replacement | Growing                       |
-| Latency      | Short/Costly        | High/Cheaper                  |
-
----
-
-# 3-2-1 backup rule
-
-![w:800](././../../../images/3-2-1-backup-rule.drawio.svg)
-
----
-
-# Version control and track changes
-
-It’s good practice to document:
-
-- What was changed?
-- Who is responsible?
-- When did it happen?
-- Why the changes?
-
----
-
-# Types of Version Control
-
-- by file name (_v1, _v2)
-- cloud services
-  - dropbox, icloud, gdrive
-- distributed version control system
-  - e.g. Git
-
----
-
-# Which files need to be "versioned"? :pencil: 
-
-- paper manuscript (.docx)
-- single-cell RNASeq reads (.fastq.gz)
-- spread sheet with photometer measurements (.xlsx)
-- calendar invitation (.ical)
-- photo of SDS-PAGE (.jpeg)
-- excel workbook with calculations (.xlsx)
-- presentation for a conference (.pdf)
-- data analysis script (.py)
-
-<!--
-
-## No versioning
-
-- "Raw data" or "original data" > backup and do not touch
-- do not calculate anything in measurement excel workbooks
-
-## Versioning
-
-anything that is (frequently) updated
-- manuscripts
-- calculations
-- workflows
-- scripts
-
-## Does not matter
-
-things you use and ignore
-- calendar invitations
-
--->
-
----
-
-# Concept of Git and git-based platforms
-
----
-
-# Cloud Services
-
-![bg right:50% w:800](./../../../images/datasharing-cloud-img6.png)
-
-<span style="color:#B4CE82">✓ Documents</span>  
-<span style="color:#B4CE82">✓ Small data</span>  
-<span style="color:#B4CE82">✓ Presentations</span>  
-
-<span style="color:#c21f3a">X  Code</span>  
-<span style="color:#c21f3a">X  Data analytical projects</span>  
-<span style="color:#c21f3a">X  Big (“raw”) data</span>  
-
----
-
-# Git and git platforms
-
-![bg right:50% w:800](./../../../images/datasharing-git-img1.png)
-
-<span style="color:#F9CD69">∼ Documents</span>
-<span style="color:#B4CE82">✓ Small data</span>  
-<span style="color:#F9CD69">∼ Presentations</span>
-
-<span style="color:#B4CE82">✓✓ Code</span>
-<span style="color:#B4CE82">✓✓ Data analytical projects</span>
-<span style="color:#F9CD69">∼ Big (“raw”) data</span>
-
----
-
-# Why git? ≈> Why code?
-
-- Save time
-- Avoid doing repetitive tasks “by hand”
-- Reuse scripts, analyses, pipelines
-- Reproduce results
-
----
-
-# A simple example: RNASeq project
-
-![w:900](./../../../images/git-rnaseq-example-img1.png)
-
----
-
-# A simple example: RNASeq project
-
-![w:900](./../../../images/git-rnaseq-example-img2.png)
-
----
-
-# A simple example: RNASeq project
-
-![w:900](./../../../images/git-rnaseq-example-img3.png)
-
----
-
-# A simple example: RNASeq project
-
-![w:900](./../../../images/git-rnaseq-example-img4.png)
-
----
-
-# A simple example: RNASeq project
-
-![w:900](./../../../images/git-rnaseq-example-img5.png)
-
----
-
-# Take snapshots of your code work…
-
-(... as long as it works)
-
-![w:900](./../../../images/git-rnaseq-example-img6.png)
-
----
-
-# Take snapshots of your code work…
-
-(... as long as it works)
-
-![w:900](./../../../images/git-rnaseq-example-img7.png)
-
----
-
-# Scenario 1: More data
-
-![w:900](./../../../images/git-rnaseq-example-img8.png)
-
----
-
-# Scenario 1: More data
-
-![w:900](./../../../images/git-rnaseq-example-img9.png)
-
----
-
-# Scenario 1: More data
-
-![w:900](./../../../images/git-rnaseq-example-img10.png)
-
----
-
-# Let git track changes and keep things clean
-
-![w:900](./../../../images/git-rnaseq-example-img11.png)
-
----
-
-# Scenario 2: Pipeline breaks
-
-![w:900](./../../../images/git-rnaseq-example-img12.png)
-
----
-
-# Revert to snapshot
-
-![w:900](./../../../images/git-rnaseq-example-img13.png)
-
----
-
-# Scenario 3: New project, same type of data and analysis
-
-![w:900](./../../../images/git-rnaseq-example-img14.png)
-
----
-
-# Scenario 3: New project, same type of data and analysis
-
-![w:900](./../../../images/git-rnaseq-example-img15.png)
-
----
-
-# Re-use code
-
-![w:900](./../../../images/git-rnaseq-reusecode-img1.png)
-
----
-
-# Re-use code
-
-![w:900](./../../../images/git-rnaseq-reusecode-img2.png)
-
----
-
-# Re-use code – People have done this
-
-![w:900](./../../../images/git-rnaseq-reusecode-img3.png)
-
----
-
-# Re-use code – People have done this
-
-![w:900](./../../../images/git-rnaseq-reusecode-img4.png)
-
----
-
-# Re-use code – Link and contribute
-
-![w:900](./../../../images/git-rnaseq-reusecode-img5.png)
-
----
-
-# Git: summary
-
-- Version control system
-- Git “repository” = a central data package (directory)
-- Allows to track changes to any file in the repository
-  - **What** was changed
-  - **When** was it changed
-  - By **whom** was it changed
-  - **Why** was it changed?
-
----
-
-# GitHub and GitLab
-
-- A well-documented cloud environment
-- Active syncing
-- Not automatically synced
-- Non-automated version control
-- You have the control what changes to track and what to sync
-- Time machine to go back to older versions
-
----
-
-# GitHub and Gitlab team projects
-
-Simplifies concurrent work & merging changes
-
-- Online service to host our projects
-- Share code with other developers
-- Others can download our projects, work on and contribute to them
-- They can upload their changes and merge them with the main project
-
----
-
-# Cloud vs. Git
-
-![w:1000](./../../../images/git-cloud-comparison.png)
-
---- 
-
---- 
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
-- name: Hajira Jabeen
-  github: https://github.com/HajiraJabeen
-  orcid: https://orcid.org/0000-0003-1476-2121
----
-
-
-# DataPLANT DataHUB
-
----
-
-# ARC builds on standards + Git
-
-![w:900](./../../../images/arc-buildsonstandards2.png)
+![w:880](./../../../images/dataplant-collaborationceplas.drawio.png)
 
 ---
 
@@ -1424,399 +521,78 @@ Slides presented here include contributions by
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq2.png)
+# On-premise DataHUBs
+
+![alt text](../../../images/datahub-onpremise.drawio.png)
+
+ARC services are available as on-premise option
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq3.png)
+# HHU-DataHUB
+
+![w:800](./../../../images/hhu-datahub.drawio.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq4.png)
+# HHU-DataHUB
+
+- FAIR data along the research data cycle
+- Structured exchange of (meta)data
+- Local (long-term) storage, backup, version control
+- Integration of existing services and infrastructure
+- External collaboration
+
+![bg right:45% w:500](./../../../images/hhu-datahub.drawio.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq5.png)
+# HHU-DataHUB &ndash; Node for platforms
+
+
+![w:900](./../../../images/ceplas-enablingplatforms-logos.drawio.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq6.png)
+# Embedded into an RDM network
+
+![w:600](./../../../images/datahub-network-putative.drawio.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq7.png)
+# CEPLAS collaborates with DataPLANT and NFDI4BIOIMAGE <!-- fit -->
+
+![w:700](./../../../images/dataplant-collaborationceplas-nfdi4bi.drawio.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq8.png)
+# CEPLAS Research Data Policy
 
----
+<div class="two-columns">
+  <div>
+  
+  ![](./../../../images/ceplas-policy-title.png)
+  
+  </div>
+  <div>
 
-# **Mutable** data life cycle
-
-![w:700](./../../../images/tpj16474-fig-0006-m.jpg)
-
-<!-- 
-
-- Invite other (demo) account
-- add notes from there
--->
-
-<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
----
-
-# Project management
-
-![w:800](./../../../images/tpj16474-fig-0007-m.jpg)
-
-<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
----
-
----
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
-- name: Cristina Martins Rodrigues
-  github: https://github.com/CMR248
-  orcid: https://orcid.org/0000-0002-4849-1537
+  ![](./../../../images/ceplas-arcs.drawio.svg)
+    
+  </div>
+</div>
 
 ---
 
 
-# DataHub Hands-On
+# Hands-on: ARCitect part 1
 
----
+Follow the **Start Here** guide in the DataPLANT knowledge base.
 
-# Navigation Bar
+Until step "add a study"
 
-![](./../../../images/datahub-navbar.drawio.svg)
-
-1. navigate directly to the [projects panel](./../../../../../../DataHUB-Manual/datahub-Manual/datahub-projectsPanel.html) via the icon in the top-left (1)
-2. open the [hamburger Menu](#hamburger-menu) (2)
-3. use the search field (3) to find ARCs, users and groups
-4. open the [avatar Menu](#avatar-menu) (4)
-
----
-
-# Hamburger Menu
-
-1. From the hamburger menu (1) you can
-2. navigate to the [projects](./../../../DataHUB-Manual/datahub-projectsPanel.html) (2)
-3. or [groups](datahub-groupsPanel.html) (3) panels
-
-![bg right w:500](./../../../images/datahub-hamburgermenu.drawio.svg)
-
----
-
-# Avatar Menu
-
-1. In the avatar menu (1) you can
-2. find your profile name and user name (2), 
-3. navigate to the [user settings](./../../../DataHUB-Manual/datahub-userSettings.html) (3) 
-4. or sign out (4) of the DataHUB.
-
-![bg right w:500](./../../../images/datahub-avatarmenu.drawio.svg)
-
----
-
-# Projects Panel
-
-![](./../../../images/datahub-projectspanel.drawio.svg)
-
-1. Choose a tab (1) to see only your ARCs, or explore other publicly available ARCs. 
-2. The main panel (2) lists all ARCs
-3. Here you can also see, the visibility level (3), and 
-4. your permission or role (4) for the listed ARC. 
-5. You can create a **New Project** in the top-right corner (5).
-
----
-
-# ARC Panel
-
-The ARC Panel is the main working area for your ARC.
-
-![w:1000](./../../../images/datahub-arc-overview.drawio.svg)
-
----
-
-# ARC Panel &ndash; sidebar <!-- fit -->
-
-<style scoped> section {font-size: 23px;} </style>
-
-![bg right w:600](./../../../images/datahub-arc-overview.drawio.svg)
-
-1. access the project information (1), e.g. invite members to the ARC
-2. follow the progress of your ARC repository (2),
-3. organize tasks in issue lists and boards (3),
-4. take notes in a wiki to your ARC (4),
-5. adapt the [settings (5) of the ARC](datahub-ARCSettings.html).
-
----
-
-# ARC Panel &ndash; main panel <!-- fit -->
-
-<style scoped> section {font-size: 23px;} </style>
-
-![bg right w:600](./../../../images/datahub-arc-overview.drawio.svg)
-
-6. see the ARC's name and visibility level (6),
-7. follow the ARC's commit history (7),
-8. see files contained in your ARC just like on your computer (8),
-9. add new files or directories (9), and
-10. download or clone your ARC (10).
-
----
-
-# Collaborate and share
-
-![w:650](./../../../images/arc-datasharing-experts02-img1.png)
-
----
-
-# Invite collaborators
-
-* Unless changed, your ARC is set to private by default.
-* To collaborate, you can invite lab colleagues or project partners to your ARC by following the steps on the subsequent slides. 
-* To get started [sign in](https://auth.nfdi4plants.org/realms/dataplant/login-actions/registration?client_id=account&tab_id=4bQkU161waI) to the DataHUB and open the ARC you want to share.
-
----
-
-1. Click on **Project Information** in the left navigation panel
-
-![fit w:1050](./../../../images/datahub-members-seq2.png)
-
----
-
-2. Click on **Members**
-
-![fit w:1050](./../../../images/datahub-members-seq3.png)
-
----
-
-3. Click on **Invite members**
-
-![fit w:1050](./../../../images/datahub-members-seq4.png)
-
----
-
-4. Search for potential collaborators
-
-![fit w:1050](./../../../images/datahub-members-seq5.png)
-
----
-
-5. Select a role
-
-![fit w:1050](./../../../images/datahub-members-seq6.png)
-
----
-
-# Choosing the proper role
-
-<style scoped> section{font-size: 22px;}</style>
-
-<u>Guests</u>
-Have the least rights. They will not be able to see the content of your ARC (only the wiki page).
-
-<u>Reporters</u>
-Have **read access** to your ARC. This is recommended for people you ask for consultancy.
-
-<u>Developers</u>
-The choice for most people you want to invite to your ARC. Developers have **read and write access**, but cannot maintain the project on the DataHUB, e.g. inviting others.
-
-<u>Maintainers</u> 
-Gives the person the same rights as you have (except of removing you from your own project). This is recommended for inviting PIs or group leaders allowing them to add their group members for data upload or analysis to the project as well.
-
-*A detailed list of all permissions for the individual roles can be found [here](https://docs.gitlab.com/ee/user/permissions.html)*
-
----
-
-# <div align="center">Congratulations!</div>
-<div align="center">You have just shared your ARC with a collaborator.</div>
-
-<style scoped>
-
-section p img {
-width: 1000px;
-height: 300px;
-object-fit: cover;
-object-position: 100% 45%;
-/* display: block; */;
-}
-</style>
-
-![](./../../../images/arc-sharing-img1.png)
-
----
-
-
-# Version control
-
-- Commit history
-
----
-
-# Project Management
-
-- Issues
-
----
-
-# ARCs come with their own wiki space
-
-- directly associated to your ARC
-- same access rights as your ARC
-- share meeting minutes or ideas with collaboration partners
-- keep ARC clean of files that are not considered "research data"
-
-![bg right w:600](./../../../images/datahub-wiki.png)
-
----
-
----
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
-- name: Cristina Martins Rodrigues
-  github: https://github.com/CMR248
-  orcid: https://orcid.org/0000-0002-4849-1537
-
----
-
-
-# :pencil: Structure your project as an ARC :pencil:
-
-1. Follow the slides to build an ARC for your project
-1. Go back to the shared folder prepared before class
-1. Add data from your project to your ARC
----
-
-
-# Q&A and Wrap-up Day1
-
----
-
-# Preparation for next day
-
-- Please try to prepare your own ARC
-- Please install SWATE
-
----
-
-# Resources
-
-### <img align="left" style="height:35px" src='https://raw.githubusercontent.com/nfdi4plants/Branding/7e7d442aafeaa767b9c14a63a16e459dadcbdaaf/logos/DataPLANT/dataplant-logo-minimal-rounded-bg-darkblue.svg'/> DataPLANT (nfdi4plants)
-
-Website: <a href="https://nfdi4plants.org/" target="_blank">https://nfdi4plants.org/</a>
-Knowledge Base: <a href="https://nfdi4plants.org/nfdi4plants.knowledgebase/" target="_blank">https://nfdi4plants.org/nfdi4plants.knowledgebase/</a>
-DataHUB: <a href="https://git.nfdi4plants.org" target="_blank">https://git.nfdi4plants.org</a>
-
-
-GitHub: <a href="https://github.com/nfdi4plants" target="_blank">https://github.com/nfdi4plants</a>
-HelpDesk: <a href="https://helpdesk.nfdi4plants.org" target="_blank">https://helpdesk.nfdi4plants.org</a>
-
-:bulb: You can help us by raising issues, bugs, ideas...
-
----
-
-# Overview of Institutional services at UoC and HHU
-
-<style scoped>
-section {font-size: 25px;}
-</style>
-
-
-### UoC
-
-- C3RDM: https://fdm.uni-koeln.de/en/home
-- Data storage and sharing: https://rrzk.uni-koeln.de/daten-speichern-teilen
-- HPC: https://rrzk.uni-koeln.de/hpc-projekte 
-- service overview: https://fdm.uni-koeln.de/en/rdm-services/service-catalogue
-
-### HHU
-
-- RDM Competence Center: https://www.fdm.hhu.de
-- Support for research including HPC: https://www.zim.hhu.de/servicekatalog/forschungsunterstuetzung 
-- Processing & storing data: https://www.zim.hhu.de/servicekatalog/rechnen-und-speichern
-
----
-
-# Five-Finger-Feedback
-
-<style scoped>
-section {
-  text-align: center;
-  /* background: #F9CD69; */
-}
-</style>
-
-![width:800px](./../../../images/feedback01-fivefinger.drawio.svg)
-
-<!-- 
-- Invite participants to give feedback
-- If feasible, collect transparently on a board or in a markdown pad, etc. 
-
-# Five-Finger-Feedback
-
-...was too short | I'm happy with... | I did not like at all ...| This idea or advice was good: ... | I really liked ...  
----|---|---|---|---
-... | ... | ... | ... | ...
-
--->
-
----
-
-
-# Good Data Management Practices
-
-<!--  _color: white; -->
-<!-- _paginate: false -->
-<style scoped>section {background: none; background-color: white;}</style>
-
-*part of M4468 &ndash; Plant developmental genetics, evolution<br>and biostatistics in the CEPLAS research program*
-<br>
-November 10<sup>th</sup>, 2023
-Dominik Brilhaus, CEPLAS Data Science
-
-![bg fit](./../../../images/background-title-ceplas.drawio.svg)
-
----
-
-# House-keeping
-
-Pad: https://pad.hhu.de/oI-NjeUtSHSMzk5huWRkJw
-
----
-
-# Tentative agenda
-
-## Day 2
-
-Time | Topics
--------- | --------
-09:30 - 10:30 | Feedback session
-10:30 - 10:45 | *Short break*
-10:45 - 12:30 | ISA, Metadata and Swate
-12:30 - 13:30 | *Lunch*
-13:30 - 15:00 | Hands-on Swate
-15:00 - 15:30 | Data Publication
-15:30 - 16:00 | Wrap-up
-
----
-
-# Points to discuss from and since day 1
+- 01-create-arc-scaffold.mdx
+- 02-investigation.mdx
+- 03-study.mdx
 
 ---
 
@@ -2591,614 +1367,540 @@ Slides presented here include contributions by
 ---
 
 
-# Swate hands-on
-
----
-
-# Goals
-
-- Get familiar with ISA metadata and Swate
-- Annotate data in your ARC
-
----
-
-## Check Swate installation
-
-:ballot_box_with_check: Make sure [Swate is installed](./../../../SwateManual/Docs01-Installing-Swate.html):
-
-1. Open Excel (online or Desktop)
-2. Go to the `Insert` tab: Click the arrow next to "My Add-ins". There you should be able to select Swate.
-3. Go to the `Data` tab: you should see the Swate (Core) add-in.
-
-:bulb: Alternatively, you can use [Swate standalone](https://swate-alpha.nfdi4plants.org)  
-(:warning: this is however *work in progress* and likely to change)
-
----
-
-## Have a simple text editor ready
-
-- Windows Notepad
-- MacOS TextEdit
-
-Recommended text editor with code highlighting, git support, terminal, etc: <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
-
----
-
-## Download the demo data
-
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
-
-1. Open the ARCitect
-2. Login (1) to your DataHUB account
-3. Navigate to **Download ARC** (4)
-
----
-
-## Download the demo data
-
-4. Search for **Talinum-CAM-Photosynthesis**
-5. Click the download button, select a location and open the ARC.
-
-![w:700](./../../../images/arcitect-download-talinumarc.png)
-
-:bulb: This is basically the ARC we created last session.
-
----
-
-## Where we left off last time
-
-👩‍💻 Initiated an ARC
-📂 Structured and ...  
-🌐 Shared with collaborators
-
-<br>
-
-**Today** we want to
-
-<img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... **annotate the experimental data**
-
-![bg right:40% width:400](./../../../images/arcitect-talinum-demo-arc.png)
-
----
-
-# Swate hands-on with demo data
-
----
-
-## Swate Overview
-
-![width:1000](./../../../images/swate-overview.png)
-
----
-
-## Let's annotate the plant samples first
-
-1. Navigate to the demo ARC. 
-2. Open the lab notes `studies/talinum_drought/protocols/plant_material.txt` in a text editor. 
-3. Open the empty `studies/talinum_drought/isa.study.xlsx` workbook in Excel.
-
-
----
-
-## Create an annotation table
-
-<br>
-
-<style scoped>
+<style>
 .columns {
-    /* grid-template-columns: repeat(2, minmax(0, 1fr)); */
-    grid-template-columns: 500px 500px;
-    gap: 30px;
-    display: flex;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
 }
 </style>
+
+# Code Notebooks and IDEs
 
 <div class="columns">
 <div class="columns-left">
 
-Create a Swate annotation table via the <kbd>create annotation table</kbd> button in the yellow pop-up box *OR* click the <kbd>Create Annotation Table</kbd> quick access button.
+- Visual Studio Code: https://code.visualstudio.com/
+- RMarkdown: http://rmarkdown.rstudio.com
+- Jupyter Notebooks: https://jupyter.org/ 
 
-<br>
+</div>
 
-> :bulb: Each table is by default created with one input (`Source Name`) and one output (`Sample Name`) column  
+<div class="columns-right" style="list-style-type: none;">
 
-> :bulb: Only one annotation table can be added per Excel sheet
+- 🟢 Interactive (good start for non-coders)
+- 🟢 Document and comment code
+- 🟢 Often offer integrated version control (e.g. git plugin)
+- 🟠 Executable code + "result preview"
+- 🟠 Reproducibility (package / library dependencies)
+
+
+</div>
+
+
+</div>
+</div>
+
+---
+
+# Computational workflow languages
+
+<div class="columns">
+<div class="columns-left">
+
+- Describe analysis workflows and tools
+- Make them portable and scalable
+- Across a variety of environments (software and hardware)
 
 </div>
 
 <div class="columns-right">
-    <img src="./../../../images/swate-createannotationtable-exp.jpg" style="width: 1200px">
-</div>
+
+<!-- - <https://www.docker.com>
+- singularity -->
+<https://www.commonwl.org>
+<https://www.nextflow.io>
+<https://nf-co.re/>
+<https://snakemake.github.io>
+<br>
+<https://galaxyproject.eu/>
 
 </div>
 
 ---
 
-## Add a building block
 
-1. Navigate to the *Building Blocks* tab via the navbar. Here you can add *Building Blocks* to the table.
-2. Instead of *Parameter* select *Characteristic* from the drop-down menu (A)
-3. Search for `organism` in the search bar (B). This search looks for suitable *Terms* in our *Ontology* database.
-4. Select the Term with the id `OBI:0100026` and, 
-5. Click <kbd>Add building block</kbd>.
+# Hands-on part 2: ARCitect (and Swate)
 
-> :bulb: This adds three columns to your table, one visible and **two** hidden.
+Follow the **Start Here** guide in the DataPLANT knowledge base.
 
-![bg right:30% w:400](./../../../images/swate-addbuildingblock-exp.jpg?v31.01.22)
-
-
----
-## Insert values to annotate your data
-
-1. Navigate to the *Terms* tab in the Navbar
-2. In the annotation table, select any number of cells below `Characteristic [organism]`
-3. Click into the search field in Swate.
-
-> :bulb: You should see `organism` showing in a field in front of the search field  
-> :bulb: The search will now yield results related to `organism`
-
-4. In the search field, search for "Talinum fruticosum"
-5. Select the first hit and click <kbd>Fill selected cells with this term</kbd>
-
----
-
-## Add a building block with a unit
-
-1. In the *Building Blocks* tab, select *Parameter*, search for `light intensity exposure` and select the term with id `PECO:0007224`.
-2. Check the box for *This Parameter has a unit* and search for `microeinstein per square meter per second` in the adjacent search bar.
-3. Select `UO:0000160`.
-4. Click <kbd>Add building block</kbd>.
-
-> :bulb: This adds four columns to your table, one visible and **three** hidden.
-
----
-
-## Insert unit-values to annotate your data
-
-In the annotation table, select any cell below `Parameter [light intensity exposure]` and add "425" as light intensity.
-
-> :bulb: You can see the numbers being complemented with the chosen unit, e.g. `425.00 microeinstein per square meter per second`
-
----
-
-## Showing ontology reference columns
-
-Hold <kbd>Ctrl</kbd> and click the *Autoformat Table* quick access button to adjust column widths and un-hide all hidden columns.
-
-> :bulb: You can see that your organism of choice was added with id and source Ontology in the reference (hidden) columns.  
-> :warning: This feature is currently not supported on MacOS
-
----
-
-## Update ontology reference columns
-
-Click the <kbd>Update Ontology Terms</kbd> quick access buttons.
-
-> :bulb: This updates all reference columns according to the main column. In this case the reference columns for `Parameter [light intensity exposure]` are updated with the id and source ontology of the `microeinstein per square meter per second` unit.
-
----
-
-## Your ISA table is growing
-
-At this point. Your table should look similar to this:
-
-![w:1000](./../../../images/demo-isa.study1.png)
-
----
-
-## Hiding ontology reference columns
-
-Click the <kbd>Autoformat Table</kbd> quick access button without holding <kbd>Ctrl</kbd> to hide all reference columns.
-
----
-
-## Exercise :pencil:
-
-Try to add suitable *building blocks* for other pieces of metadata from the plant growth protocol (`studies/talinum_drought/protocols/plant_material.txt`).
-
+Until "Data analysis"
 ---
 
 
-## Let's annotate the RNA Seq data
-
-1. Navigate to the demo ARC. 
-2. Open the lab notes `assays/rnaseq/protocols/RNA_extraction.txt` in a text editor. 
-3. Open the empty `assays/rnaseq/isa.assay.xlsx)` workbook in Excel.
+# Q&A and Wrap-up Day1
 
 ---
 
-## Use a template
+# Preparation for next day
 
-1. Navigate to *Templates* in the Navbar and click *Browse database* in the first function block.
-
-> :bulb: Here you can find community created workflow annotation templates
-
-1. Search for `RNA extraction` and click <kbd>select</kbd> 
-    - You will see a preview of all building blocks which are part of this template.
-2. Click <kbd>Add template</kbd> to add all Building Blocks from the template to your table, which <u>do not exist yet</u>.
-
-![bg right:30% w:350px](./../../../images/swate-templates.svg)
+- Please try to prepare your own ARC
+- Please install SWATE
 
 ---
 
-## Adding / Updating unit references
+# Resources
 
-Sometimes you need to add or update the unit of an existing building block. 
+### <img align="left" style="height:35px" src='https://raw.githubusercontent.com/nfdi4plants/Branding/7e7d442aafeaa767b9c14a63a16e459dadcbdaaf/logos/DataPLANT/dataplant-logo-minimal-rounded-bg-darkblue.svg'/> DataPLANT (nfdi4plants)
 
-1. Select any number of rows of the `Parameter [biosource amount]` building block to mark it for the next steps.
-2. Open the *Building Blocks* tab
-3. In the bottom panel "Add/Update unit reference to existing building block", search for the unit "milligram". Select the unit term and click <kbd>Update unit for cells</kbd>.
-:bulb: If you already had values in the main column they will be updated automatically.
-4. Click the *Update Ontology Terms* <a href=".../images/swate-overlay-exp.jpg" target="_blank">quick access button</a>, to update the reference columns.
-   
----
+Website: <a href="https://nfdi4plants.org/" target="_blank">https://nfdi4plants.org/</a>
+Knowledge Base: <a href="https://nfdi4plants.org/nfdi4plants.knowledgebase/" target="_blank">https://nfdi4plants.org/nfdi4plants.knowledgebase/</a>
+DataHUB: <a href="https://git.nfdi4plants.org" target="_blank">https://git.nfdi4plants.org</a>
 
-## Remove building blocks
 
-If there are any Building Blocks which do not fit your experiment you can use the <kbd>Remove Building Block</kbd> quick access button to remove it including all related (hidden) reference columns.
+GitHub: <a href="https://github.com/nfdi4plants" target="_blank">https://github.com/nfdi4plants</a>
+HelpDesk: <a href="https://helpdesk.nfdi4plants.org" target="_blank">https://helpdesk.nfdi4plants.org</a>
 
-:warning: Due to the hidden reference columns, we recommend not to delete table columns via usual Excel functions. 
+:bulb: You can help us by raising issues, bugs, ideas...
 
 ---
 
-## New process, new worksheet
+# Overview of Institutional services at UoC and HHU
 
-1. Add a new sheet to the `assays/rnaseq/isa.assay.xlsx)` workbook.
-2. Add the template "RNASeq Assay"
+<style scoped>
+section {font-size: 25px;}
+</style>
 
----
 
-## Exercise :pencil:
+### UoC
 
-Try to fill the two sheets with the protocol details:
-  - `assays/rnaseq/protocols/RNA_extraction.txt` and
-  - `assays/rnaseq/protocols/Illumina_libraries.txt`
+- C3RDM: https://fdm.uni-koeln.de/en/home
+- Data storage and sharing: https://rrzk.uni-koeln.de/daten-speichern-teilen
+- HPC: https://rrzk.uni-koeln.de/hpc-projekte 
+- service overview: https://fdm.uni-koeln.de/en/rdm-services/service-catalogue
 
----
+### HHU
 
-## Your ISA table is ready 🎉
-
-Go ahead, adjust the Building Blocks you want to use to describe your experiment as you see fit.
-Insert values using Swate Term search and add input and output.
-
----
-
-## A small detour on "Excel Tables"
-
-Swate uses Excel's "table" feature to annotate workflows. Each table represents one *process* from input (e.g. plant leaf material) to output (e.g. leaf extract).
-
-Example workflows with three *processes* each:
-
-- Plant growth &rarr; sampling &rarr; extraction
-- Measured data files  &rarr; statistical analysis  &rarr; result files
-
-> :bulb: Excel tables allow to group data that belongs together inside one sheet. This is not to be confused with a (work)sheet or workbook.
-> ```bash
-> workbook              (e.g. "isa.assay.xlsx")
->  └─── worksheet       (e.g. "plant_growth")
->           └─── table  (e.g. "annotationTable")
+- RDM Competence Center: https://www.fdm.hhu.de
+- Support for research including HPC: https://www.zim.hhu.de/servicekatalog/forschungsunterstuetzung 
+- Processing & storing data: https://www.zim.hhu.de/servicekatalog/rechnen-und-speichern
 
 ---
 
-# :construction: Known issues with ARCitect and Swate (Nov 2023)
-
-1. Annotation within ARCitect is not yet available.
-2. Swate and ARCitect handle isa.study.xlsx / isa.assay.xlsx files differently.
-
-
----
-
----
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
-- name: Kevin Frey
-  github: https://github.com/Freymaurer
-  orcid: https://orcid.org/0000-0002-8493-1077
-- name: Martin Kuhl
-  github: https://github.com/Martin-Kuhl
-  orcid: https://orcid.org/0000-0002-8493-1077
-- name: Sabrina Zander
-  orcid: https://orcid.org/0009-0000-4569-6126
-
----
-
-
-# :pencil: Annotate your ARC with metadata :pencil:
-
-1. Go to your ARC
-2. Try to annotate studies and assays with proper metadata using Swate
-
----
-
-
-# Legal aspects of RDM
-
----
-
-# Different laws touched by RDM
-
-![w:700](././../../../images/hartmann-terraincognita-forschungsdaten-rechtlicheheimat.png)
-
-<span class="footer-reference">Hartmann, Thomas. (2019). Rechtsfragen: Institutioneller Rahmen und Handlungsoptionen für universitäres FDM. Zenodo. https://doi.org/10.5281/zenodo.2654306</span>
-
----
-
-# Open Access (OA) categories
-
-- Gold: Published in an open-access journal that is indexed by the [DOAJ](https://doaj.org).
-- Green: Toll-access on the publisher page, but there is a free copy in an OA repository.
-- Hybrid: Free under an open license in a toll-access journal.
-- Bronze: Free to read on the publisher page, but without a clearly identifiable license.
-- Closed: All other articles, including those shared only on an Academic Social Network or in Sci-Hub.
-
-<span class="footer-reference">Piwowar H et al. (2018), PeerJ https://doi.org/10.7717/peerj.4375</span>
-
----
-
-# Open Science is more than Open Access
-
-![w:900](https://www.frontiersin.org/files/Articles/855198/frma-07-855198-HTML/image_m/frma-07-855198-g001.jpg)
-
-<span class="footer-reference">Okafor et al. (2022) https://doi.org/10.3389/frma.2022.855198, Figure 1</span>
-
----
-
-# Creative commons
-
-Check out: https://creativecommons.org/about/cclicenses/
-
-![w:400](././../../../images/creative-commons-brochure.png)
-
-<span class="footer-reference">adapted from https://wiki.creativecommons.org../images/0/01/6licenses-folded.pdf</span>
-
----
-
-# Data protection
-
-[GDPR](https://gdpr-info.eu/): General Data Protection Regulation
-[DS-GVO](https://www.datenschutz-wiki.de/Datenschutz-Grundverordnung) (german): Datenschutz-Grundverordnung
-
----
-
-# Use of biological materials
-
-- MTA: material transfer agreement
-- Nagoya Protocol: https://www.cbd.int/abs/about/
-- DSI: [Digital sequence information](https://www.genres.de/en/access-and-benefit-sharing/digital-sequence-information)
-
----
-
-# FAIR and CARE
-
-![](https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1567592451970-2R8XFL670QNMAGDRV7ED/Be+FAIR+and+care.png?format=2500w)
-
-<span class="footer-reference">https://www.gida-global.org/care</span>
-
----
-
-# CARE principles
-
-![bg right w:450](https://storage.googleapis.com/jnl-up-j-dsj-files/journals/1/articles/1158/submission/proof/1158-10-8531-1-17-20201104.png)
-
-<span class="footer-reference">https://datascience.codata.org/articles/10.5334/dsj-2020-043/</span>
-
----
-
-# Research Data policies
-![w:500](./../../../images/forschungsdaten-policy-kit-abb2.png)
-
-
-<span class="footer-reference">Hiemenz, Bea & Kuberek, Monika (2018) http://dx.doi.org/10.14279/depositonce-7521</span>
-
----
-
-# CEPLAS relevant data handling guidelines & policies
-
-<style scoped> section{font-size: 25px;} </style>
-
-- [Deutsche Forschungsgemeinschaft (2015): DFG Guidelines on the Handling of Research Data](https://www.dfg.de/en/research_funding/proposal_review_decision/applicants/research_data/)
-- [Amtliche Mitteilungen der Universität zu Köln AM 07/2018: Leitlinie zum Umgang mit Forschungsdaten](https://am.uni-koeln.de/e21463/am_mitteilungen/@6/AM_2018-07_Leitlinie-zum-Umgang-mit-Forschungsdaten_ger.pdf)
-- [Amtliche Bekanntmachung der Heinrich-Heine-Universität Nr. 43/2022: Forschungsdaten-Richtlinie](https://www.fdm.hhu.de/fileadmin/redaktion/Forschungsdatenmanagement/2022_Forschungsdaten-Richtlinie.pdf) 
-- [Leitlinie zum Umgang mit Forschungsdaten im Forschungszentrum Jülich 05/2019](https://www.fz-juelich.de/SharedDocs/Downloads/ZB/DE/Forschungsdaten/fdm_leitlinie_forschungsdaten_fzj.pdf)
-- [Senat der Max-Planck-Gesellschaft (2009): Regeln zur Sicherung guter wissenschaftlicher Praxis](https://www.mpg.de/199493/regelnWissPraxis.pdf)
-
----
-
-# The Data Management Plan (DMP)
-
-- Covers the full research data lifecycle
-- Frequently updated as your project develops
-- Required to different extents by funding agencies (e.g. DFG, Horizon Europe, BMBF, BMEL, ... )
-
----
-
-# DMP tools
-
-- Data Stewardship Wizard https://ds-wizard.org/
-- RDMO https://rdmorganiser.github.io/ (e.g. https://rdmo.hhu.de)
-- Dataplan: https://dmpg.nfdi4plants.org
-
-> Check out the [Elixir RDMkit](https://rdmkit.elixir-europe.org/data_management_plan) for more
-
----
-
-
-
----
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
-- name: Hajira Jabeen
-  github: https://github.com/HajiraJabeen
-  orcid: https://orcid.org/0000-0003-1476-2121
----
-
-
-# :pencil: Share your ARC :pencil:
-
-1. Follow the next slides to learn how to share your ARC with a colleague
-3. Go to your colleague’s ARC and try to understand it
-
----
-
-# :pencil: Understand your colleague’s ARC :pencil:
-
-1. Go to your colleague’s ARC
-2. Try to identify one experiment that led to results (e.g. a figure in the thesis)
-3. What are the samples (e.g. plants, bacteria)?
-4. How were the samples prepared (~ materials)?  
-5. How was the experiment performed (~ methods)?
-6. What is the raw data (~ results)?
-7. How was the data analyzed (~ computational methods, statistics)?  
-8. Collect all of the above in a `README_<YourArbitraryParticipantID>.md` in the same folder.
-
----
-
-# Assignment
-
-Participant | looks at ARC of
---- | ---
-Participant02 | Participant01
-Participant03 | Participant02
-… | …
-Participant n | Participant n-1
-
----
-
-
-# Electronic Lab Notebooks (ELNs)
-
----
-
-# ELN ≈ Digital Protocol Editors
-
-- Documenting daily lab routine
-- Lab methods & protocols
-- Lab inventory (biologicals, chemicals, instruments)
-- Local sharing & collaboration
-- Backup (locally)
-
-✅ ELNs help to digitalize research documentation
-
-![bg right:40% w:400](./../../../images/documents-handwritten.svg)
-
----
+# Five-Finger-Feedback
+
+<style scoped>
+section {
+  text-align: center;
+  /* background: #F9CD69; */
+}
+</style>
+
+![width:800px](./../../../images/feedback01-fivefinger.drawio.svg)
 
 <!-- 
-# Are ELNs FAIR?
+- Invite participants to give feedback
+- If feasible, collect transparently on a board or in a markdown pad, etc. 
 
-- Version control / Track changes
-- Transparent contributions
-- Use of IDs / PIDs
-- External sharing / access
-- (Long term) data storage
-- Analyses
-  - is code reproducible
-- Metadata
-  - standards
-  - schemata
+# Five-Finger-Feedback
 
---- -->
+...was too short | I'm happy with... | I did not like at all ...| This idea or advice was good: ... | I really liked ...  
+---|---|---|---|---
+... | ... | ... | ... | ...
 
-# Are ELNs FAIR?
-
-FAIR indicator* | ELN
--------------- | ---
-**Findable**
-F1. (Meta)data are assigned a globally unique and persistent identifier.
-F2. Data are described with rich metadata (defined by R1 below).
-F3. Metadata clearly and explicitly include the identifier of the data they describe.
-F4. (Meta)data are registered or indexed in a searchable resource.
-**Accessible**
-A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
-A1.1 The protocol is open, free, and universally implementable
-A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
-A2. Metadata are accessible, even when the data are no longer available
-**Interoperable**
-I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
-I2. (Meta)data use vocabularies that follow FAIR principles.
-I3. (Meta)data include qualified references to other (meta)data.
-**Reusable**
-R1. (Meta)data are richly described with a plurality of accurate and relevant attributes
-R1.1. (Meta)data are released with a clear and accessible data usage license
-R1.2. (Meta)data are associated with detailed provenance
-R1.3. (Meta)data meet domain-relevant community standards
-
-<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
+-->
 
 ---
 
-# Findable
 
-| FAIR indicator*                                                                       | elabFTW |
-|---------------------------------------------------------------------------------------|---------|
-| F1. (Meta)data are assigned a globally unique and persistent identifier.              | 🟠 / 🔴 |
-| F2. Data are described with rich metadata (defined by R1 below).                      | 🔴      |
-| F3. Metadata clearly and explicitly include the identifier of the data they describe. | 🟠 / 🔴 |
-| F4. (Meta)data are registered or indexed in a searchable resource.                    | 🔴      |
+## Good Data Management Practices
 
-<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
+<!--  _color: white; -->
+<!-- _paginate: false -->
+<style scoped>section {background: none; background-color: white;}</style>
 
---- 
+*part of M4468 &ndash; Plant developmental genetics, evolution<br>and biostatistics in the CEPLAS research program*
 
-# Accessible
+November 12<sup>th</sup>, 2024
 
-| FAIR indicator*                                                                                 | elabFTW |
-|-------------------------------------------------------------------------------------------------|---------|
-| A1. (Meta)data are retrievable by their identifier using a standardised communications protocol | 🔴
-| A1.1 The protocol is open, free, and universally implementable                                  | 🟢 / 🟠
-| A1.2 The protocol allows for an authentication and authorisation procedure, where necessary     | ❓
-| A2. Metadata are accessible, even when the data are no longer available                         | ❓
+Vittorio Tracanna, Dominik Brilhaus
+CEPLAS Data
 
-<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
-
---- 
-
-# Interoperable
-
-| FAIR indicator*                                                                                                | elabFTW |
-|----------------------------------------------------------------------------------------------------------------|---------|
-| I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation. | 🔴
-| I2. (Meta)data use vocabularies that follow FAIR principles.                                                   | 🔴
-| I3. (Meta)data include qualified references to other (meta)data.                                               | 🔴
-
-<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
+![bg fit](./../../../images/background-title-ceplas.drawio.svg)
 
 ---
 
-# Reusable
+# House-keeping
 
-| FAIR indicator*                                                                          | elabFTW |
-|------------------------------------------------------------------------------------------|---------|
-| R1. (Meta)data are richly described with a plurality of accurate and relevant attributes | 🔴
-| R1.1. (Meta)data are released with a clear and accessible data usage license             | 🔴
-| R1.2. (Meta)data are associated with detailed provenance                                 | 🔴
-| R1.3. (Meta)data meet domain-relevant community standards                                | 🔴
-
-<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
----
+Pad:  https://pad.hhu.de/0NdPKO5LQ5CHBRN2iuG91Q
 
 ---
 
-# Contributors
 
-Slides presented here include contributions by
+# Points to discuss from and since day 1
 
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
+---
+
+
+# Data Storage and Versioning
+
+---
+
+# Data stores
+
+![w:900](././../../../images/data-stores.drawio.svg)
+
+---
+
+# Backup vs. Archive
+
+| <br>         | Backup              | Archive                       |
+|--------------|---------------------|-------------------------------|
+| Storage type | Short-, mid-term    | Long-term                     |
+| Purpose      | Disaster recovery   | Long-term storage, compliance |
+| Reason       | Duplication         | Migration                     |
+| Usage        | Work in progress    | Cold, Unused data             |
+| Changes      | Short-term updates  | No updates                    |
+| Trend        | Cyclic, Replacement | Growing                       |
+| Latency      | Short/Costly        | High/Cheaper                  |
+
+---
+
+# 3-2-1 backup rule
+
+![w:800](././../../../images/3-2-1-backup-rule.drawio.svg)
+
+---
+
+# Version control and track changes
+
+It’s good practice to document:
+
+- What was changed?
+- Who is responsible?
+- When did it happen?
+- Why the changes?
+
+---
+
+# Types of Version Control
+
+- by file name (_v1, _v2)
+- cloud services
+  - dropbox, icloud, gdrive
+- distributed version control system
+  - e.g. Git
+
+---
+
+# Which files need to be "versioned"? :pencil: 
+
+- paper manuscript (.docx)
+- single-cell RNASeq reads (.fastq.gz)
+- spread sheet with photometer measurements (.xlsx)
+- calendar invitation (.ical)
+- photo of SDS-PAGE (.jpeg)
+- excel workbook with calculations (.xlsx)
+- presentation for a conference (.pdf)
+- data analysis script (.py)
+
+<!--
+
+## No versioning
+
+- "Raw data" or "original data" > backup and do not touch
+- do not calculate anything in measurement excel workbooks
+
+## Versioning
+
+anything that is (frequently) updated
+- manuscripts
+- calculations
+- workflows
+- scripts
+
+## Does not matter
+
+things you use and ignore
+- calendar invitations
+
+-->
+
+---
+
+# Concept of Git and git-based platforms
+
+---
+
+# Cloud Services
+
+![bg right:50% w:800](./../../../images/datasharing-cloud-img6.png)
+
+<span style="color:#B4CE82">✓ Documents</span>  
+<span style="color:#B4CE82">✓ Small data</span>  
+<span style="color:#B4CE82">✓ Presentations</span>  
+
+<span style="color:#c21f3a">X  Code</span>  
+<span style="color:#c21f3a">X  Data analytical projects</span>  
+<span style="color:#c21f3a">X  Big (“raw”) data</span>  
+
+---
+
+# Git and git platforms
+
+![bg right:50% w:800](./../../../images/datasharing-git-img1.png)
+
+<span style="color:#F9CD69">∼ Documents</span>
+<span style="color:#B4CE82">✓ Small data</span>  
+<span style="color:#F9CD69">∼ Presentations</span>
+
+<span style="color:#B4CE82">✓✓ Code</span>
+<span style="color:#B4CE82">✓✓ Data analytical projects</span>
+<span style="color:#F9CD69">∼ Big (“raw”) data</span>
+
+---
+
+# Why git? ≈> Why code?
+
+- Save time
+- Avoid doing repetitive tasks “by hand”
+- Reuse scripts, analyses, pipelines
+- Reproduce results
+
+---
+
+# A simple example: RNASeq project
+
+![w:900](./../../../images/git-rnaseq-example-img1.png)
+
+---
+
+# A simple example: RNASeq project
+
+![w:900](./../../../images/git-rnaseq-example-img2.png)
+
+---
+
+# A simple example: RNASeq project
+
+![w:900](./../../../images/git-rnaseq-example-img3.png)
+
+---
+
+# A simple example: RNASeq project
+
+![w:900](./../../../images/git-rnaseq-example-img4.png)
+
+---
+
+# A simple example: RNASeq project
+
+![w:900](./../../../images/git-rnaseq-example-img5.png)
+
+---
+
+# Take snapshots of your code work…
+
+(... as long as it works)
+
+![w:900](./../../../images/git-rnaseq-example-img6.png)
+
+---
+
+# Take snapshots of your code work…
+
+(... as long as it works)
+
+![w:900](./../../../images/git-rnaseq-example-img7.png)
+
+---
+
+# Scenario 1: More data
+
+![w:900](./../../../images/git-rnaseq-example-img8.png)
+
+---
+
+# Scenario 1: More data
+
+![w:900](./../../../images/git-rnaseq-example-img9.png)
+
+---
+
+# Scenario 1: More data
+
+![w:900](./../../../images/git-rnaseq-example-img10.png)
+
+---
+
+# Let git track changes and keep things clean
+
+![w:900](./../../../images/git-rnaseq-example-img11.png)
+
+---
+
+# Scenario 2: Pipeline breaks
+
+![w:900](./../../../images/git-rnaseq-example-img12.png)
+
+---
+
+# Revert to snapshot
+
+![w:900](./../../../images/git-rnaseq-example-img13.png)
+
+---
+
+# Scenario 3: New project, same type of data and analysis
+
+![w:900](./../../../images/git-rnaseq-example-img14.png)
+
+---
+
+# Scenario 3: New project, same type of data and analysis
+
+![w:900](./../../../images/git-rnaseq-example-img15.png)
+
+---
+
+# Re-use code
+
+![w:900](./../../../images/git-rnaseq-reusecode-img1.png)
+
+---
+
+# Re-use code
+
+![w:900](./../../../images/git-rnaseq-reusecode-img2.png)
+
+---
+
+# Re-use code – People have done this
+
+![w:900](./../../../images/git-rnaseq-reusecode-img3.png)
+
+---
+
+# Re-use code – People have done this
+
+![w:900](./../../../images/git-rnaseq-reusecode-img4.png)
+
+---
+
+# Re-use code – Link and contribute
+
+![w:900](./../../../images/git-rnaseq-reusecode-img5.png)
+
+---
+
+# Git: summary
+
+- Version control system
+- Git “repository” = a central data package (directory)
+- Allows to track changes to any file in the repository
+  - **What** was changed
+  - **When** was it changed
+  - By **whom** was it changed
+  - **Why** was it changed?
+
+---
+
+# GitHub and GitLab
+
+- A well-documented cloud environment
+- Active syncing
+- Not automatically synced
+- Non-automated version control
+- You have the control what changes to track and what to sync
+- Time machine to go back to older versions
+
+---
+
+# GitHub and Gitlab team projects
+
+Simplifies concurrent work & merging changes
+
+- Online service to host our projects
+- Share code with other developers
+- Others can download our projects, work on and contribute to them
+- They can upload their changes and merge them with the main project
+
+---
+
+# Cloud vs. Git
+
+![w:1000](./../../../images/git-cloud-comparison.png)
+
+
+---
+
+
+# DataPLANT DataHUB
+
+---
+
+# ARC builds on standards + Git
+
+![w:900](./../../../images/arc-buildsonstandards2.png)
+
+---
+
+# The DataPLANT DataHUB &ndash; a GitLab ***Plus***
+
+![](./../../../images/datahub-gitlab.drawio.png)
+
+---
+
+![bg cover](./../../../images/dataplant-bigpicture-seq2.png)
+
+---
+
+![bg cover](./../../../images/dataplant-bigpicture-seq3.png)
+
+---
+
+![bg cover](./../../../images/dataplant-bigpicture-seq4.png)
+
+---
+
+![bg cover](./../../../images/dataplant-bigpicture-seq5.png)
+
+---
+
+![bg cover](./../../../images/dataplant-bigpicture-seq6.png)
+
+---
+
+![bg cover](./../../../images/dataplant-bigpicture-seq7.png)
+
+---
+
+![bg cover](./../../../images/dataplant-bigpicture-seq8.png)
+
+---
+
+# **Mutable** data life cycle
+
+![w:700](./../../../images/tpj16474-fig-0006-m.jpg)
+
+<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
+
+---
+
+# Project management
+
+![w:800](./../../../images/tpj16474-fig-0007-m.jpg)
+
+<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
+
+---
+
+
+# :pencil: Structure your project as an ARC :pencil:
+
+1. Follow the Start Here guide to build an ARC for your own project
+1. Go back to the shared folder prepared before class
+1. Add data from your project to your ARC
 
 ---
 
@@ -3403,292 +2105,294 @@ object-position: 100% 80%;
 
 ![w:800px](https://www.nfdi4plants.org/nfdi4plants.knowledgebase/docs/img/data-publication/doi-accession.png)
 
+---
+
+
+# Legal aspects of RDM
+
+---
+
+# Different laws touched by RDM
+
+![w:700](././../../../images/hartmann-terraincognita-forschungsdaten-rechtlicheheimat.png)
+
+<span class="footer-reference">Hartmann, Thomas. (2019). Rechtsfragen: Institutioneller Rahmen und Handlungsoptionen für universitäres FDM. Zenodo. https://doi.org/10.5281/zenodo.2654306</span>
+
+---
+
+# Open Access (OA) categories
+
+- Gold: Published in an open-access journal that is indexed by the [DOAJ](https://doaj.org).
+- Green: Toll-access on the publisher page, but there is a free copy in an OA repository.
+- Hybrid: Free under an open license in a toll-access journal.
+- Bronze: Free to read on the publisher page, but without a clearly identifiable license.
+- Closed: All other articles, including those shared only on an Academic Social Network or in Sci-Hub.
+
+<span class="footer-reference">Piwowar H et al. (2018), PeerJ https://doi.org/10.7717/peerj.4375</span>
+
+---
+
+# Open Science is more than Open Access
+
+![w:900](https://www.frontiersin.org/files/Articles/855198/frma-07-855198-HTML/image_m/frma-07-855198-g001.jpg)
+
+<span class="footer-reference">Okafor et al. (2022) https://doi.org/10.3389/frma.2022.855198, Figure 1</span>
+
+---
+
+# Creative commons
+
+Check out: https://creativecommons.org/about/cclicenses/
+
+![w:400](././../../../images/creative-commons-brochure.png)
+
+<span class="footer-reference">adapted from https://wiki.creativecommons.org../images/0/01/6licenses-folded.pdf</span>
+
+---
+
+# Data protection
+
+[GDPR](https://gdpr-info.eu/): General Data Protection Regulation
+[DS-GVO](https://www.datenschutz-wiki.de/Datenschutz-Grundverordnung) (german): Datenschutz-Grundverordnung
+
+---
+
+# Use of biological materials
+
+- MTA: material transfer agreement
+- Nagoya Protocol: https://www.cbd.int/abs/about/
+- DSI: [Digital sequence information](https://www.genres.de/en/access-and-benefit-sharing/digital-sequence-information)
+
+---
+
+# FAIR and CARE
+
+![](https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1567592451970-2R8XFL670QNMAGDRV7ED/Be+FAIR+and+care.png?format=2500w)
+
+<span class="footer-reference">https://www.gida-global.org/care</span>
+
+---
+
+# CARE principles
+
+![bg right w:450](https://storage.googleapis.com/jnl-up-j-dsj-files/journals/1/articles/1158/submission/proof/1158-10-8531-1-17-20201104.png)
+
+<span class="footer-reference">https://datascience.codata.org/articles/10.5334/dsj-2020-043/</span>
+
+---
+
+# Research Data policies
+![w:500](./../../../images/forschungsdaten-policy-kit-abb2.png)
+
+
+<span class="footer-reference">Hiemenz, Bea & Kuberek, Monika (2018) http://dx.doi.org/10.14279/depositonce-7521</span>
+
+---
+
+# CEPLAS relevant data handling guidelines & policies
+
+<style scoped> section{font-size: 25px;} </style>
+
+- [Deutsche Forschungsgemeinschaft (2015): DFG Guidelines on the Handling of Research Data](https://www.dfg.de/en/research_funding/proposal_review_decision/applicants/research_data/)
+- [Amtliche Mitteilungen der Universität zu Köln AM 07/2018: Leitlinie zum Umgang mit Forschungsdaten](https://am.uni-koeln.de/e21463/am_mitteilungen/@6/AM_2018-07_Leitlinie-zum-Umgang-mit-Forschungsdaten_ger.pdf)
+- [Amtliche Bekanntmachung der Heinrich-Heine-Universität Nr. 43/2022: Forschungsdaten-Richtlinie](https://www.fdm.hhu.de/fileadmin/redaktion/Forschungsdatenmanagement/2022_Forschungsdaten-Richtlinie.pdf) 
+- [Leitlinie zum Umgang mit Forschungsdaten im Forschungszentrum Jülich 05/2019](https://www.fz-juelich.de/SharedDocs/Downloads/ZB/DE/Forschungsdaten/fdm_leitlinie_forschungsdaten_fzj.pdf)
+- [Senat der Max-Planck-Gesellschaft (2009): Regeln zur Sicherung guter wissenschaftlicher Praxis](https://www.mpg.de/199493/regelnWissPraxis.pdf)
+
+---
+
+# The Data Management Plan (DMP)
+
+- Covers the full research data lifecycle
+- Frequently updated as your project develops
+- Required to different extents by funding agencies (e.g. DFG, Horizon Europe, BMBF, BMEL, ... )
+
+---
+
+# DMP tools
+
+- Data Stewardship Wizard https://ds-wizard.org/
+- RDMO https://rdmorganiser.github.io/ (e.g. https://rdmo.hhu.de)
+- Dataplan: https://dmpg.nfdi4plants.org
+
+> Check out the [Elixir RDMkit](https://rdmkit.elixir-europe.org/data_management_plan) for more
 
 ---
 
 ---
+
+
+# :pencil: Share your ARC :pencil:
+
+1. Follow the next slides to learn how to share your ARC with a colleague
+3. Go to your colleague’s ARC and try to understand it
+
+---
+
+# :pencil: Understand your colleague’s ARC :pencil:
+
+1. Go to your colleague’s ARC
+2. Try to identify one experiment that led to results (e.g. a figure in the thesis)
+3. What are the samples (e.g. plants, bacteria)?
+4. How were the samples prepared (~ materials)?  
+5. How was the experiment performed (~ methods)?
+6. What is the raw data (~ results)?
+7. How was the data analyzed (~ computational methods, statistics)?  
+8. Collect all of the above in a `README_<YourArbitraryParticipantID>.md` in the same folder.
+
+---
+
+# Assignment
+
+Participant | looks at ARC of
+--- | ---
+Participant02 | Participant01
+Participant03 | Participant02
+… | …
+Participant n | Participant n-1
+
+---
+
+
+# Electronic Lab Notebooks (ELNs)
+
+---
+
+# ELN ≈ Digital Protocol Editors
+
+- Documenting daily lab routine
+- Lab methods & protocols
+- Lab inventory (biologicals, chemicals, instruments)
+- Local sharing & collaboration
+- Backup (locally)
+
+✅ ELNs help to digitalize research documentation
+
+![bg right:40% w:400](./../../../images/documents-handwritten.svg)
+
+---
+
+<!-- 
+# Are ELNs FAIR?
+
+- Version control / Track changes
+- Transparent contributions
+- Use of IDs / PIDs
+- External sharing / access
+- (Long term) data storage
+- Analyses
+  - is code reproducible
+- Metadata
+  - standards
+  - schemata
+
+--- -->
+
+# Are ELNs FAIR?
+
+FAIR indicator* | ELN
+-------------- | ---
+**Findable**
+F1. (Meta)data are assigned a globally unique and persistent identifier.
+F2. Data are described with rich metadata (defined by R1 below).
+F3. Metadata clearly and explicitly include the identifier of the data they describe.
+F4. (Meta)data are registered or indexed in a searchable resource.
+**Accessible**
+A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
+A1.1 The protocol is open, free, and universally implementable
+A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
+A2. Metadata are accessible, even when the data are no longer available
+**Interoperable**
+I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
+I2. (Meta)data use vocabularies that follow FAIR principles.
+I3. (Meta)data include qualified references to other (meta)data.
+**Reusable**
+R1. (Meta)data are richly described with a plurality of accurate and relevant attributes
+R1.1. (Meta)data are released with a clear and accessible data usage license
+R1.2. (Meta)data are associated with detailed provenance
+R1.3. (Meta)data meet domain-relevant community standards
+
+<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
+
+---
+
+# Findable
+
+| FAIR indicator*                                                                       | elabFTW |
+|---------------------------------------------------------------------------------------|---------|
+| F1. (Meta)data are assigned a globally unique and persistent identifier.              | 🟠 / 🔴 |
+| F2. Data are described with rich metadata (defined by R1 below).                      | 🔴      |
+| F3. Metadata clearly and explicitly include the identifier of the data they describe. | 🟠 / 🔴 |
+| F4. (Meta)data are registered or indexed in a searchable resource.                    | 🔴      |
+
+<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
+
+--- 
+
+# Accessible
+
+| FAIR indicator*                                                                                 | elabFTW |
+|-------------------------------------------------------------------------------------------------|---------|
+| A1. (Meta)data are retrievable by their identifier using a standardised communications protocol | 🔴
+| A1.1 The protocol is open, free, and universally implementable                                  | 🟢 / 🟠
+| A1.2 The protocol allows for an authentication and authorisation procedure, where necessary     | ❓
+| A2. Metadata are accessible, even when the data are no longer available                         | ❓
+
+<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
+
+--- 
+
+# Interoperable
+
+| FAIR indicator*                                                                                                | elabFTW |
+|----------------------------------------------------------------------------------------------------------------|---------|
+| I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation. | 🔴
+| I2. (Meta)data use vocabularies that follow FAIR principles.                                                   | 🔴
+| I3. (Meta)data include qualified references to other (meta)data.                                               | 🔴
+
+<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
+
+---
+
+# Reusable
+
+| FAIR indicator*                                                                          | elabFTW |
+|------------------------------------------------------------------------------------------|---------|
+| R1. (Meta)data are richly described with a plurality of accurate and relevant attributes | 🔴
+| R1.1. (Meta)data are released with a clear and accessible data usage license             | 🔴
+| R1.2. (Meta)data are associated with detailed provenance                                 | 🔴
+| R1.3. (Meta)data meet domain-relevant community standards                                | 🔴
+
+<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
+---
+
+---
+
 
 # Contributors
 
-Slides presented here include contributions by
+<style scoped> section{font-size:20px}</style>
+
+If not referenced otherwise, figures and slides presented here were created by members of DataPLANT (https://nfdi4plants.org).
+Additional slides were contributed by
 
 - name: Dominik Brilhaus
   github: https://github.com/brilator
   orcid: https://orcid.org/0000-0001-9021-3197
-
----
-
-
-<style>
-.columns {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 20px;
-}
-</style>
-
-# Code Notebooks and IDEs
-
-<div class="columns">
-<div class="columns-left">
-
-- Visual Studio Code: https://code.visualstudio.com/
-- RMarkdown: http://rmarkdown.rstudio.com
-- Jupyter Notebooks: https://jupyter.org/ 
-
-</div>
-
-<div class="columns-right" style="list-style-type: none;">
-
-- 🟢 Interactive (good start for non-coders)
-- 🟢 Document and comment code
-- 🟢 Often offer integrated version control (e.g. git plugin)
-- 🟠 Executable code + "result preview"
-- 🟠 Reproducibility (package / library dependencies)
-
-
-</div>
-
-
-</div>
-</div>
-
----
-
-# Computational workflow languages
-
-<div class="columns">
-<div class="columns-left">
-
-- Describe analysis workflows and tools
-- Make them portable and scalable
-- Across a variety of environments (software and hardware)
-
-</div>
-
-<div class="columns-right">
-
-<!-- - <https://www.docker.com>
-- singularity -->
-<https://www.commonwl.org>
-<https://www.nextflow.io>
-<https://nf-co.re/>
-<https://snakemake.github.io>
-<br>
-<https://galaxyproject.eu/>
-
-</div>
-
----
-
----
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
-
----
-
-
-<style>
-
-figcaption {
-  font-size: 10px;
-  font-style: italic;
-}
-
-.reference {
-  font-size:15px;
-  line-height: 1.2em;
-  position: fixed;
-  left: 50%;
-  bottom: 0px;
-  transform: translate(-50%, -50%);
-  margin: 0 auto;
-}
-
-.reference-bgright {
-  font-size:15px;
-  line-height: 1.2em;
-  position: fixed;
-  right: 0px;
-  bottom: 0px;
-  transform: translate(-50%, -50%);
-  margin: 0 auto;
-}
-
-</style>
-
-# ARC Ecosystem Demo
-
-"A FAIR RDM journey along a (mutable) data life cycle"
-
-Dominik Brilhaus
-
-<br>
-
-![bg left w:350](./../../../images/rdmkit-data-life-cycle-9.svg)
-
-<span class="footer-reference">https://rdmkit.elixir-europe.org, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>
-
----
-
-# Collect <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-02-collect.png'/>
-
-![width:800](./../../../images/arc-fillwithdata-experimental.png)
-
-<!-- 
-
-- create study folder
-  - take a picture (add more demo pictures)
-- create assay folder
-  - add fastq data
-
--->
-
----
-
-# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-03-process.png'/>
-
-<style scoped>
-
-section p img {
-width: 900px;
-height: 400px;
-object-fit: cover;
-object-position: 50% 60%;
-/* display: block; */;
-}
-</style>
-
-
-![](./../../../images/swate-metadatatemplates.png)
-
-<!-- 
-
-- annotate plant samples
-- annotate rnaseq extraction -->
-
----
-
-# Analyse <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-04-analyse.png'/>
-
-<!-- 
-- run fastqc
-- receive back results
--->
-
-![w:800](./../../../images/tpj16474-fig-0005-m.jpg)
-
-<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
----
-
-# Preserve  <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-05-preserve.png'/>
-
-<!--
-1. Validation: CQC on each DataHUB commit
-2. Publication: DOI
--->
-
-![h:400](./../../../images/tpj16474-fig-0008-m-modified.png)
-
-<span class="footer-reference"> adapted from Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
----
-
-# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-05-preserve.png'/>
-
-<!--
-1. Validation: CQC on each DataHUB commit
-2. Publication: DOI
--->
-
-![h:400](././../../../images/tpj16474-fig-0008-m.jpg)
-
-<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
----
-
-# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-06-share.png'/>
-
-![w:700](./../../../images/arc-datasharing-experts02-img1.png)
-
----
-
-# Reuse <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-07-reuse.png'/>
-
-![w:800](./../../../images/tpj16474-fig-0001-m.jpg)
-
-<!-- 
-- via ARC https://arcregistry.nfdi4plants.org/arcsearch
-- via ISA https://arcregistry.nfdi4plants.org/isasearch 
--->
-
-<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
----
-
-# **Mutable** data life cycle
-
-![w:700](./../../../images/tpj16474-fig-0006-m.jpg)
-
-<!-- 
-
-- Invite other (demo) account
-- add notes from there
--->
-
-<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
----
-
-# Plan (ARC scale) <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-01-plan.png'/>
-
-![w:800](./../../../images/tpj16474-fig-0007-m.jpg)
-
-<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
-<!--
- 
- - **ARCitect**: Create empty ARC
-   - description
-   - author
-     - first name
-     - last name
-     - email
- - **ARCitect**: Upload ARC to DataHUB
- - **DataHUB**
-   - Discuss, collect meeting minutes in Wiki
-   - design / plant investigation (datahub wiki, issues)
-
--->
-
----
-
-# Plan (proposal scale) <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-01-plan.png'/>
-
-<span class="footer-reference">**Zhou *et al.* (2023)**, DataPLAN: a web-based data management plan generator for the plant sciences, bioRxiv 2023.07.07.548147; doi: https://doi.org/10.1101/2023.07.07.548147 </span>
-
-https://dmpg.nfdi4plants.org
-
-![w:800](././../../../images/zhou2023-dataplan.png)
-
----
-
----
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
+- name: Cristina Martins Rodrigues
+  github: https://github.com/CMR248
+  orcid: https://orcid.org/0000-0002-4849-1537
+- name: Hajira Jabeen
+  github: https://github.com/HajiraJabeen
+  orcid: https://orcid.org/0000-0003-1476-2121
+- name: Kevin Frey
+  github: https://github.com/Freymaurer
+  orcid: https://orcid.org/0000-0002-8493-1077
+- name: Sabrina Zander
+  orcid: https://orcid.org/0009-0000-4569-6126
+- name: Martin Kuhl
+  github: https://github.com/Martin-Kuhl
+  orcid: https://orcid.org/0000-0002-8493-1077
 
 ---
 
