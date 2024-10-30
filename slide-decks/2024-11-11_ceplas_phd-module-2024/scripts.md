@@ -52,14 +52,15 @@ mv tmp $indexfile
 ```zsh
 marpTheme=marp-theme_dataplant-ceplas-ccby
 out_dir=combined-slides
-bricks_dir="bricks"
+bricks_dir=bricks
 
 mkdir -p $out_dir
 title=$(pwd | xargs basename)
 outfile="$out_dir"/"$title".md
 currentDate=$(date +"%Y-%m-%d")
 
-echo "---\nmarp: true\n
+echo "---\nmarp: true\nlayout: slides\ntheme: $marpTheme\npaginate: true\ntitle: $title\ndate: $currentDate\n---\n" > $outfile
+
 for unit in $bricks_dir/*.md; do    
     if grep -q "^marp: true" "$unit"
     then

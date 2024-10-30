@@ -122,13 +122,3 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 <span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
 ---
-
----
-
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
