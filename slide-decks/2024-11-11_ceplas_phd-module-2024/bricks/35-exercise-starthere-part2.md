@@ -15,25 +15,25 @@ Until "Data analysis"
 
 ## Identifying assays
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-identify.svg)
+![](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-identify.svg)
 
 ---
 
 ## Assay for sugar measurement
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sugar.svg)
+![w:900](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sugar.svg)
 
 ---
 
 ## Separating different assay elements
 
-![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-modular2.svg)
+![w:800](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-modular2.svg)
 
 ---
 
 ## Isolating the lab processes in an assay
 
-![w:600](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-modular1.svg)
+![w:600](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-modular1.svg)
 
 ---
 
@@ -44,7 +44,7 @@ Until "Data analysis"
 - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> Temperature  
   - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 95 degree celsius
 
-![bg right w:600](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-labprocess1-extraction.svg)
+![bg right w:600](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-labprocess1-extraction.svg)
 
 ---
 
@@ -59,7 +59,7 @@ Until "Data analysis"
 - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> cycle count
   - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 5
 
-![bg right w:600](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-labprocess2-measurement.svg)
+![bg right w:600](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-labprocess2-measurement.svg)
 
 ---
 
@@ -93,19 +93,16 @@ Until "Data analysis"
 </div>
 <div>
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sop-proteomics.svg)
+![](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sop-proteomics.svg)
 </div>
 
 </div>
-
-
-
 
 ---
 
 ## Applying standard procedures to sample record
 
-![w:700](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sop.svg)
+![w:700](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sop.svg)
 
 ---
 
@@ -114,3 +111,37 @@ Until "Data analysis"
 ![w:650px](./../../../images/swate-metadatatemplates.png)
 
 Facilities can define their most common workflows as templates
+
+
+---
+---
+
+## Options to annotate the data analysis
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows1.svg)
+
+---
+
+## A computational workflow is like a protocol
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows2.svg)
+
+---
+
+## Option I: Create a virtual assay
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-virtual.svg)
+
+---
+
+## Option II: Create a workflow and run
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl1.svg)
+
+---
+
+## Use CWL to wrap your workflow
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
+
+---

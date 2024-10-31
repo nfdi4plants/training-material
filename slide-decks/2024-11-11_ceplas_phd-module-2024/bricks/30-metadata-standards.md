@@ -13,7 +13,7 @@ author:
   orcid: https://orcid.org/0000-0002-8493-1077
 ---
 
-# Metadata and ISA
+# Metadata and standards
 
 ---
 
@@ -567,6 +567,7 @@ TODO:
 > - <https://bioportal.bioontology.org>
 
 <!-- 
+
 LIVE-Demo 
 - Search an "interesting" term from PECO in browser (EBI OLS)
   - Example: 
@@ -593,41 +594,7 @@ LIVE-Demo
 
 # ARC builds on ISA
 
-![w:1100](./../../../images/isamodel-arc01-img02.svg)
-
----
-
-# isa.<>.xlsx files within ARCs
-
-![w:1000](./../../../images/isamodel-arc01-img03.svg)
-
----
-
-# Study and assay files are registered in the investigation file <!-- fit -->
-
-![w:950](./../../../images/isamodel-arc01-img04.svg)
-
----
-
-# The output of a study or assay file can function as input for a new isa.assay.xlsx
-
-Output building blocks:
-
-- Sample Name
-- Raw Data File
-- Derived Data File
-
-![bg right w:600](./../../../images/isamodel-arc01-img05.svg)
-
----
-
-#
-
-![bg w:1050](./../../../images/isamodel-arc01-img6.svg)
-
----
-
-# Swate
+![w:900](./../../../images/isamodel-arc01-img02.svg)
 
 ---
 
@@ -652,14 +619,6 @@ section p img{
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
-
----
-
-# Adding new building blocks (columns)
-
-![w:750](./../../../images/swate-newparameter.svg)
-
-- Swate can be used for the annotation of **isa.study.xlsx and isa.assay.xlsx** files
 
 ---
 
@@ -689,94 +648,30 @@ Let's take a detour on [Annotation Principles](https://nfdi4plants.org/nfdi4plan
 
 ---
 
-# Ontology term search
-
-<style scoped>
-h1{
-  text-align: left
-}
-section {
-  text-align: center;
-}
-</style>
-
-![w:750](./../../../images/swate-ontologytermsearch.svg)
-
-Enable **related term directed search** to directly fill cells with child terms
-
----
-
-# Fill your table with ontology terms
-
-![w:800](./../../../images/swate-ontologytermsearch2.svg)
-
----
-
-# Hierarchical combination of ontologies
-
-![w:800](./../../../images/swate-ontologycombination.svg)
-
-<!-- combination of ISA (Characteristics, Parameter, Factor) and a biological or technological ontology (e.g. temperature, strain, instrument model) gives the flexibility to display an ontology term, e.g. temperature, as a regular process parameter or as the factor your study is based on (Parameter \[temperature\] or Factor \[temperature\]). -->
-
----
-
-# Swate templates
-
----
-
-# Checklists and Templates
-
-![w:800px](./../../../images/swate-templateschecklists.svg)
-
-Metadata standards or repository requirements can be represented as templates
-
-<style scoped>
-h1{
-  text-align: left
-}
-section {
-  text-align: center;
-}
-</style>
-
----
 
 # Realization of lab-specific metadata templates
 
-![w:850px](./../../../images/swate-metadatatemplates.png)
+![w:700px](./../../../images/swate-metadatatemplates.png)
 
 Facilities can define their most common workflows as templates
 
-<style scoped>
-h1{
-  text-align: left
-}
-section {
-  text-align: center;
-}
-</style>
+---
+---
+
+# Build on existing well-established standards
+
+![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards.svg)
+
+Integration of established (meta)data standards ensures compatibility by design
 
 ---
 
-# Directly import templates via Swate
+# ISA abstract model in a nutshell
 
-- DataPLANT curated
-- Community templates
-
-![bg right w:450](./../../../images/swate-templates.svg)
+![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards-isa-in-a-nutshell.svg)
 
 ---
 
----
+# ISA and CWL – Connected by similarity
 
-# Contributors
-
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
-- name: Martin Kuhl
-  github: https://github.com/Martin-Kuhl
-  orcid: https://orcid.org/0000-0002-8493-1077
-  
+![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards-isa-cwl.svg)

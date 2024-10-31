@@ -4,7 +4,7 @@ layout: slides
 theme: marp-theme_dataplant-ceplas-ccby
 paginate: true
 title: 2024-11-11_ceplas_phd-module-2024
-date: 2024-10-30
+date: 2024-10-31
 ---
 
 
@@ -500,6 +500,28 @@ Your entire investigation in a single unified bag
 <span class="footer-reference">https://isa-tools.org/ | https://www.commonwl.org/
 https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
+
+
+
+---
+
+
+# Everything is a file
+
+The ARC is a **data-centric** approach to RDM
+
+![w:800](./../../../images/arc-data-centric-everything-is-a-file.drawio.png)
+
+---
+
+# No technical lock-in
+
+![w:1000](./../../../images/arc-tool-assistance.drawio.png)
+
+(Meta)data transparency with tool assistance but **no technical lock-in**
+
+---
+
 ---
 
 
@@ -596,8 +618,173 @@ Until step "add a study"
 
 ---
 
+## ARC: Annotated research context
 
-# Metadata and ISA
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-bag.svg)
+
+---
+
+## The ARC scaffold structure
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-scaffold.svg)
+
+---
+
+## A small prototypic project
+
+![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic.svg)
+
+---
+
+## Divide and conquer for reproducibility
+
+![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-divide-conquer.svg)
+
+---
+
+## Identifying the ‘study’ part
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-identify.svg)
+
+---
+
+## A table-based organization schema
+
+![w:700](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-metadata-table-representation.svg)
+
+---
+
+## Referencing a protocol
+
+This allows you to reference the free-text, human-readable protocol.
+
+![w:700](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-protocolref.svg)
+
+:bulb: It is recommended that the protocol is in an open format (.md|.txt|.docx|…)
+:bulb: But everything is possible also an URI to an electronic lab notebook
+
+---
+
+## Parameterizing the ‘study’
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-parameterization.svg)
+
+---
+
+## Finding the right metadata vocabulary
+
+<div class="two-columns">
+  <div>
+  
+  ### Parameters []
+  
+  - Light intensity 200 µEinstein
+  - Temperature 6°C / 25°C
+  - Growing 4d
+  
+  </div>  
+  <div>
+  
+  ### Characteristics []
+  
+  - Arabidopsis thaliana
+  - Leaf
+  - Hydroponic culture
+  - Columbia
+  
+  </div>
+</div>
+
+---
+
+## OLS: Finding the right metadata vocabulary
+
+![w:1000](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/ontology-lookup-service.svg)
+
+---
+
+## Finding the metadata vocabulary and descriptors
+
+![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-metadata.svg)
+
+---
+
+## Finding the metadata vocabulary and descriptors
+
+<div class="two-columns">
+
+  <div>
+  
+  ### Parameters []
+  
+  - <span class="yellowblock"></span>
+    - <span class="blueblock"></span> Light intensity 200 µEinstein
+  - <span class="yellowblock"></span>  
+    - <span class="blueblock"></span> Temperature 6°C / 25°C
+  - <span class="yellowblock"></span>
+    - <span class="blueblock"></span> Growing 4d
+  
+  </div>  
+
+  <div>
+  
+  ### Characteristics []
+  
+  - <span class="yellowblock"></span>
+    - <span class="blueblock"></span> Arabidopsis thaliana
+  - <span class="yellowblock"></span>
+    - <span class="blueblock"></span> Leaf
+  - <span class="yellowblock"></span>
+    - <span class="blueblock"></span> Hydroponic culture
+  - <span class="yellowblock"></span>
+    - <span class="blueblock"></span> Columbia
+  
+  </div>
+
+</div>
+
+---
+
+## Finding the metadata vocabulary and descriptors
+
+<div class="two-columns">
+
+  <div>
+  
+  ### Parameters []
+  
+  - <span class="yellowblock"></span> Light intensity
+    - <span class="blueblock"></span> 200 µEinstein
+  - <span class="yellowblock"></span> Temperature  
+    - <span class="blueblock"></span> 6°C / 25°C
+  - <span class="yellowblock"></span> Growth time
+    - <span class="blueblock"></span> 4d
+  
+  </div>
+
+  <div>
+  
+  ### Characteristics []
+  
+  - <span class="yellowblock"></span> Organism
+    - <span class="blueblock"></span> Arabidopsis thaliana
+  - <span class="yellowblock"></span> Tissue
+    - <span class="blueblock"></span> Leaf
+  - <span class="yellowblock"></span> Growth medium
+    - <span class="blueblock"></span> Hydroponic culture
+  - <span class="yellowblock"></span> Ecotype
+    - <span class="blueblock"></span> Columbia
+  
+  </div>
+
+</div>
+
+---
+
+---
+
+
+# Metadata and standards
 
 ---
 
@@ -1151,6 +1338,7 @@ TODO:
 > - <https://bioportal.bioontology.org>
 
 <!-- 
+
 LIVE-Demo 
 - Search an "interesting" term from PECO in browser (EBI OLS)
   - Example: 
@@ -1177,41 +1365,7 @@ LIVE-Demo
 
 # ARC builds on ISA
 
-![w:1100](./../../../images/isamodel-arc01-img02.svg)
-
----
-
-# isa.<>.xlsx files within ARCs
-
-![w:1000](./../../../images/isamodel-arc01-img03.svg)
-
----
-
-# Study and assay files are registered in the investigation file <!-- fit -->
-
-![w:950](./../../../images/isamodel-arc01-img04.svg)
-
----
-
-# The output of a study or assay file can function as input for a new isa.assay.xlsx
-
-Output building blocks:
-
-- Sample Name
-- Raw Data File
-- Derived Data File
-
-![bg right w:600](./../../../images/isamodel-arc01-img05.svg)
-
----
-
-#
-
-![bg w:1050](./../../../images/isamodel-arc01-img6.svg)
-
----
-
-# Swate
+![w:900](./../../../images/isamodel-arc01-img02.svg)
 
 ---
 
@@ -1236,14 +1390,6 @@ section p img{
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
-
----
-
-# Adding new building blocks (columns)
-
-![w:750](./../../../images/swate-newparameter.svg)
-
-- Swate can be used for the annotation of **isa.study.xlsx and isa.assay.xlsx** files
 
 ---
 
@@ -1273,97 +1419,34 @@ Let's take a detour on [Annotation Principles](https://nfdi4plants.org/nfdi4plan
 
 ---
 
-# Ontology term search
-
-<style scoped>
-h1{
-  text-align: left
-}
-section {
-  text-align: center;
-}
-</style>
-
-![w:750](./../../../images/swate-ontologytermsearch.svg)
-
-Enable **related term directed search** to directly fill cells with child terms
-
----
-
-# Fill your table with ontology terms
-
-![w:800](./../../../images/swate-ontologytermsearch2.svg)
-
----
-
-# Hierarchical combination of ontologies
-
-![w:800](./../../../images/swate-ontologycombination.svg)
-
-<!-- combination of ISA (Characteristics, Parameter, Factor) and a biological or technological ontology (e.g. temperature, strain, instrument model) gives the flexibility to display an ontology term, e.g. temperature, as a regular process parameter or as the factor your study is based on (Parameter \[temperature\] or Factor \[temperature\]). -->
-
----
-
-# Swate templates
-
----
-
-# Checklists and Templates
-
-![w:800px](./../../../images/swate-templateschecklists.svg)
-
-Metadata standards or repository requirements can be represented as templates
-
-<style scoped>
-h1{
-  text-align: left
-}
-section {
-  text-align: center;
-}
-</style>
-
----
 
 # Realization of lab-specific metadata templates
 
-![w:850px](./../../../images/swate-metadatatemplates.png)
+![w:700px](./../../../images/swate-metadatatemplates.png)
 
 Facilities can define their most common workflows as templates
 
-<style scoped>
-h1{
-  text-align: left
-}
-section {
-  text-align: center;
-}
-</style>
+---
+---
+
+# Build on existing well-established standards
+
+![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards.svg)
+
+Integration of established (meta)data standards ensures compatibility by design
 
 ---
 
-# Directly import templates via Swate
+# ISA abstract model in a nutshell
 
-- DataPLANT curated
-- Community templates
-
-![bg right w:450](./../../../images/swate-templates.svg)
+![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards-isa-in-a-nutshell.svg)
 
 ---
 
----
+# ISA and CWL – Connected by similarity
 
-# Contributors
+![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards-isa-cwl.svg)
 
-Slides presented here include contributions by
-
-- name: Dominik Brilhaus
-  github: https://github.com/brilator
-  orcid: https://orcid.org/0000-0001-9021-3197
-- name: Martin Kuhl
-  github: https://github.com/Martin-Kuhl
-  orcid: https://orcid.org/0000-0002-8493-1077
-  
 ---
 
 
@@ -1435,6 +1518,141 @@ Slides presented here include contributions by
 Follow the **Start Here** guide in the DataPLANT knowledge base.
 
 Until "Data analysis"
+
+---
+
+## Identifying assays
+
+![](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-identify.svg)
+
+---
+
+## Assay for sugar measurement
+
+![w:900](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sugar.svg)
+
+---
+
+## Separating different assay elements
+
+![w:800](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-modular2.svg)
+
+---
+
+## Isolating the lab processes in an assay
+
+![w:600](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-modular1.svg)
+
+---
+
+## Parameteterization: sugar extraction
+
+- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> Vortex Mixer
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 3 seconds
+- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> Temperature  
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 95 degree celsius
+
+![bg right w:600](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-labprocess1-extraction.svg)
+
+---
+
+## Parameteterization: sugar measurement
+
+- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> technical replicate
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 1,2,3,...
+- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> sample volume 
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 10 `microliter`
+- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> buffer volume 
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 190 `microliter`
+- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> cycle count
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 5
+
+![bg right w:600](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-labprocess2-measurement.svg)
+
+---
+
+## Save time using standard methods and SOPs
+
+<div class=three-columns>
+
+<div>
+
+**Parameter []**
+
+- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> Protein Precipitation
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> acetone
+- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> cleavage agent name 
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> Trypsin
+- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> sample preparation
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> reversed-phase solid-phase extraction
+- ...
+
+</div>
+<div>
+
+**Component []**
+
+- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> chromatography instrument model 
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> nanoElute2
+- <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> chromatography column model 
+  - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> PepSep C18 1.9u, 25cm x 75um
+...
+
+</div>
+<div>
+
+![](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sop-proteomics.svg)
+</div>
+
+</div>
+
+---
+
+## Applying standard procedures to sample record
+
+![w:700](../../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sop.svg)
+
+---
+
+# Realization of lab-specific metadata with templates
+
+![w:650px](./../../../images/swate-metadatatemplates.png)
+
+Facilities can define their most common workflows as templates
+
+
+---
+---
+
+## Options to annotate the data analysis
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows1.svg)
+
+---
+
+## A computational workflow is like a protocol
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows2.svg)
+
+---
+
+## Option I: Create a virtual assay
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-virtual.svg)
+
+---
+
+## Option II: Create a workflow and run
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl1.svg)
+
+---
+
+## Use CWL to wrap your workflow
+
+![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
+
+---
 ---
 
 
@@ -1892,6 +2110,21 @@ Simplifies concurrent work & merging changes
 ![w:800](./../../../images/tpj16474-fig-0007-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
+
+---
+
+
+# Hands-on part 3: DataHUB
+
+Follow the **Start Here** guide in the DataPLANT knowledge base.
+
+Until "Complete"
+
+---
+
+## Using the DataHUB to collaborate
+
+![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/collaboration-plantdatahub.svg)
 
 ---
 
