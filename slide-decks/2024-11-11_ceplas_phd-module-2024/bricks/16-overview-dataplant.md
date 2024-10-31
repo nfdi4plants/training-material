@@ -195,3 +195,25 @@ Your entire investigation in a single unified bag
 
 <span class="footer-reference">https://isa-tools.org/ | https://www.commonwl.org/
 https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
+
+
+
+
+---
+
+
+# Everything is a file
+
+The ARC is a **data-centric** approach to RDM
+
+![w:800](./../../../images/arc-data-centric-everything-is-a-file.drawio.png)
+
+---
+
+# No technical lock-in
+
+![w:1000](./../../../images/arc-tool-assistance.drawio.png)
+
+(Meta)data transparency with tool assistance but **no technical lock-in**
+
+---
