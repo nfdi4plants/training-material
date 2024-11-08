@@ -1852,7 +1852,7 @@ things you use and ignore
 
 # Cloud Services
 
-![bg right:50% w:800](./../../../images/datasharing-cloud-img6.png)
+![bg right:50% w:800](./../../../images/teaching-git/datasharing-cloud.png)
 
 <span style="color:#B4CE82">✓ Documents</span>  
 <span style="color:#B4CE82">✓ Small data</span>  
