@@ -314,49 +314,49 @@ Time | Topics
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq1.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq1.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq2.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq2.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq3.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq3.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq4.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq4.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq5.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq5.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq6.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq6.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq7.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq7.png)
 
 ---
 
 # The Research Data Lifecycle ***is mutable***
 
-![h:500](./../../../images/researchdatalifecycle-seq9.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
 
 ---
 
@@ -1010,7 +1010,7 @@ Dominik Brilhaus
 
 ---
 
-# Collect <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-02-collect.png'/>
+# Collect <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-02-collect.png'/>
 
 ![width:800](./../../../images/arc-fillwithdata-experimental.png)
 
@@ -1025,7 +1025,7 @@ Dominik Brilhaus
 
 ---
 
-# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-03-process.png'/>
+# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-03-process.png'/>
 
 ![w:650](./../../../images/swate-metadatatemplates.png)
 
@@ -1036,7 +1036,7 @@ Dominik Brilhaus
 
 ---
 
-# Analyse <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-04-analyse.png'/>
+# Analyse <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-04-analyse.png'/>
 
 <!-- 
 - run fastqc
@@ -1049,7 +1049,7 @@ Dominik Brilhaus
 
 ---
 
-# Preserve  <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-05-preserve.png'/>
+# Preserve  <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
@@ -1062,7 +1062,7 @@ Dominik Brilhaus
 
 ---
 
-# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-05-preserve.png'/>
+# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
@@ -1075,13 +1075,13 @@ Dominik Brilhaus
 
 ---
 
-# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-06-share.png'/>
+# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-06-share.png'/>
 
 ![w:700](./../../../images/arc-datasharing-experts02-img1.png)
 
 ---
 
-# Reuse <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-07-reuse.png'/>
+# Reuse <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-07-reuse.png'/>
 
 ![w:800](./../../../images/tpj16474-fig-0001-m.jpg)
 
@@ -1108,7 +1108,7 @@ Dominik Brilhaus
 
 ---
 
-# Plan (ARC scale) <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-01-plan.png'/>
+# Plan (ARC scale) <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
 ![w:800](./../../../images/tpj16474-fig-0007-m.jpg)
 
@@ -1131,7 +1131,7 @@ Dominik Brilhaus
 
 ---
 
-# Plan (proposal scale) <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-01-plan.png'/>
+# Plan (proposal scale) <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
 <span class="footer-reference">**Zhou *et al.* (2023)**, DataPLAN: a web-based data management plan generator for the plant sciences, bioRxiv 2023.07.07.548147; doi: https://doi.org/10.1101/2023.07.07.548147 </span>
 

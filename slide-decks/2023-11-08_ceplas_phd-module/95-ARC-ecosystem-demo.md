@@ -54,7 +54,7 @@ Dominik Brilhaus
 
 ---
 
-# Collect <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-02-collect.png'/>
+# Collect <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-02-collect.png'/>
 
 ![width:800](./../../images/arc-fillwithdata-experimental.png)
 
@@ -69,7 +69,7 @@ Dominik Brilhaus
 
 ---
 
-# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-03-process.png'/>
+# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-03-process.png'/>
 
 <style scoped>
 
@@ -92,7 +92,7 @@ object-position: 50% 60%;
 
 ---
 
-# Analyse <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-04-analyse.png'/>
+# Analyse <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-04-analyse.png'/>
 
 <!-- 
 - run fastqc
@@ -105,7 +105,7 @@ object-position: 50% 60%;
 
 ---
 
-# Preserve  <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-05-preserve.png'/>
+# Preserve  <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
@@ -118,7 +118,7 @@ object-position: 50% 60%;
 
 ---
 
-# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-05-preserve.png'/>
+# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
@@ -131,13 +131,13 @@ object-position: 50% 60%;
 
 ---
 
-# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-06-share.png'/>
+# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-06-share.png'/>
 
 ![w:700](./../../images/arc-datasharing-experts02-img1.png)
 
 ---
 
-# Reuse <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-07-reuse.png'/>
+# Reuse <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-07-reuse.png'/>
 
 ![w:800](./../../images/tpj16474-fig-0001-m.jpg)
 
@@ -164,7 +164,7 @@ object-position: 50% 60%;
 
 ---
 
-# Plan (ARC scale) <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-01-plan.png'/>
+# Plan (ARC scale) <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
 ![w:800](./../../images/tpj16474-fig-0007-m.jpg)
 
@@ -187,7 +187,7 @@ object-position: 50% 60%;
 
 ---
 
-# Plan (proposal scale) <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-01-plan.png'/>
+# Plan (proposal scale) <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
 <span class="footer-reference">**Zhou *et al.* (2023)**, DataPLAN: a web-based data management plan generator for the plant sciences, bioRxiv 2023.07.07.548147; doi: https://doi.org/10.1101/2023.07.07.548147 </span>
 
