@@ -47,7 +47,7 @@ figcaption {
 
 # Data Stewardship between DataPLANT and the community  <!-- fit -->
 
-![w:880](././../../images/dataplant-collaborationceplas.drawio.png)
+![w:880](././../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 

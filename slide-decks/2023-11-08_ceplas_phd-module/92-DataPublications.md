@@ -21,7 +21,7 @@ date: 2023-11-09
 
 # Spot the PIDs
 
-![w:900](././../../images/exercise-pids-img1.png)
+![w:900](././../../images/ceplas/ceplas-teaching-exercise-pids.png)
 
 <span class="footer-reference"> https://doi.org/10.1093/plcell/koab243</span>
 

@@ -189,7 +189,7 @@ object-fit: cover;
 }
 </style>
 
-![](./../../../images/fair-benefits.png)
+![](./../../../images/ceplas/fair-benefits.png)
 
 ---
 

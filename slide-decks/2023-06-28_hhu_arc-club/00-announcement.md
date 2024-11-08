@@ -61,16 +61,16 @@ DataHUB: https://git.nfdi4plants.org/
 
 ## Status quo: Institute FileShare
 
-![w:900](./../../images/insitutefileshare01.drawio.svg)
+![w:900](./../../images/ceplas/insitutefileshare01.drawio.svg)
 
 
 ## Moving from FileShare to DataHUB
 
-![w:900](./../../images/insitutefileshare02todatahub.drawio.svg)
+![w:900](./../../images/ceplas/insitutefileshare02todatahub.drawio.svg)
 
 ## Moving from FileShare to DataHUB &ndash; *via* ARCs
 
-![w:900](./../../images/insitutefileshare03todatahubviaarc.drawio.svg)
+![w:900](./../../images/ceplas/insitutefileshare03todatahubviaarc.drawio.svg)
 
 
 ## There's a tiny burden
@@ -87,7 +87,7 @@ DataHUB: https://git.nfdi4plants.org/
 - Agile, communicative, collaborative, positive
 - Technical *ad-hoc* support by DataPLANT
 
-![bg right:40% w:450px](./../../images/arcclub.drawio.svg)
+![bg right:40% w:450px](./../../images/ceplas/arc-club.drawio.svg)
 
 ## The ARC Club &ndash; Goals
 

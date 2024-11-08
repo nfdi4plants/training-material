@@ -27,7 +27,7 @@ TODO
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../images/dataplant-big-collaboration.drawio.png)
+![w:880](./../../images/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)
 
 ---
 

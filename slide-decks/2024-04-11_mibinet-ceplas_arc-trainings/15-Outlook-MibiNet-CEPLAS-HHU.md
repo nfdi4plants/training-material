@@ -19,7 +19,7 @@ author:
 
 # Data Stewardship between DataPLANT and the community <!-- fit 
 
-![w:880](./../../images/dataplant-big-collaboration.drawio.png)
+![w:880](./../../images/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)
 
 
 ---
@@ -41,7 +41,7 @@ ARC services are available as on-premise option
 
 # HHU-DataHUB
 
-![w:800](./../../images/hhu-datahub.drawio.png)
+![w:800](./../../images/ceplas/hhu-datahub.drawio.png)
 
 ---
 
@@ -53,7 +53,7 @@ ARC services are available as on-premise option
 - Integration of existing services and infrastructure
 - External collaboration
 
-![bg right:45% w:500](./../../images/hhu-datahub.drawio.png)
+![bg right:45% w:500](./../../images/ceplas/hhu-datahub.drawio.png)
 
 ---
 
@@ -72,7 +72,7 @@ ARC services are available as on-premise option
 
 # CEPLAS collaborates with DataPLANT and NFDI4BIOIMAGE <!-- fit -->
 
-![w:700](./../../images/dataplant-collaborationceplas-nfdi4bi.drawio.png)
+![w:700](./../../images/ceplas/ceplas-dataplant-collaboration-nfdi4bi.drawio.png)
 
 <!--
 ---

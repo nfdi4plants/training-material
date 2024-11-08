@@ -362,7 +362,7 @@ object-fit: cover;
 }
 </style>
 
-![](./../../../images/fair-benefits.png)
+![](./../../../images/ceplas/fair-benefits.png)
 
 ---
 
@@ -461,7 +461,7 @@ object-fit: cover;
 }
 </style>
 
-![](./../../../images/fair-unfair-stories.png)
+![](./../../../images/ceplas/fair-unfair-stories.png)
 
 --- 
 
@@ -523,7 +523,7 @@ Participant n | Participant n+1
 
 # Data Stewardship between DataPLANT and the community  <!-- fit -->
 
-![w:880](./../../../images/dataplant-collaborationceplas.drawio.png)
+![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 
@@ -3284,7 +3284,7 @@ Slides presented here include contributions by
 
 # Spot the PIDs
 
-![w:900](./../../../images/exercise-pids-img1.png)
+![w:900](./../../../images/ceplas/ceplas-teaching-exercise-pids.png)
 
 <span class="footer-reference"> https://doi.org/10.1093/plcell/koab243</span>
 

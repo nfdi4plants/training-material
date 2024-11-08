@@ -187,7 +187,7 @@ object-fit: cover;
 }
 </style>
 
-![](./../../../images/fair-benefits.png)
+![](./../../../images/ceplas/fair-benefits.png)
 
 ---
 
@@ -285,7 +285,7 @@ object-fit: cover;
 
 # Missing interfaces impede collaboration
 
-![w:800](./../../images/hhu-services-withoutdatahub.drawio.png)
+![w:800](./../../images/ceplas/hhu-services-withoutdatahub.drawio.png)
 
 ---
 
@@ -326,7 +326,7 @@ Participant n | Participant n+1
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../../images/dataplant-collaborationceplas.drawio.png)
+![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 
@@ -533,7 +533,7 @@ The ARC is a **data-centric** approach to RDM
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../../images/dataplant-collaborationceplas.drawio.png)
+![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 
@@ -553,7 +553,7 @@ ARC services are available as on-premise option
 
 # HHU-DataHUB
 
-![w:800](./../../../images/hhu-datahub.drawio.png)
+![w:800](./../../../images/ceplas/hhu-datahub.drawio.png)
 
 ---
 
@@ -565,7 +565,7 @@ ARC services are available as on-premise option
 - Integration of existing services and infrastructure
 - External collaboration
 
-![bg right:45% w:500](./../../../images/hhu-datahub.drawio.png)
+![bg right:45% w:500](./../../../images/ceplas/hhu-datahub.drawio.png)
 
 ---
 
@@ -584,7 +584,7 @@ ARC services are available as on-premise option
 
 # CEPLAS collaborates with DataPLANT and NFDI4BIOIMAGE <!-- fit -->
 
-![w:700](./../../../images/dataplant-collaborationceplas-nfdi4bi.drawio.png)
+![w:700](./../../../images/ceplas/ceplas-dataplant-collaboration-nfdi4bi.drawio.png)
 
 ---
 
@@ -2148,7 +2148,7 @@ Until "Complete"
 
 # Spot the PIDs
 
-![w:900](././../../../images/exercise-pids-img1.png)
+![w:900](././../../../images/ceplas/ceplas-teaching-exercise-pids.png)
 
 <span class="footer-reference"> https://doi.org/10.1093/plcell/koab243</span>
 

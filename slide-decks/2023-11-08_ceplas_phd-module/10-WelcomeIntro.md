@@ -182,7 +182,7 @@ object-fit: cover;
 }
 </style>
 
-![](./../../images/fair-benefits.png)
+![](./../../images/ceplas/fair-benefits.png)
 
 ---
 
@@ -281,7 +281,7 @@ object-fit: cover;
 }
 </style>
 
-![](./../../images/fair-unfair-stories.png)
+![](./../../images/ceplas/fair-unfair-stories.png)
 
 --- 
 

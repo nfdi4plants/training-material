@@ -111,7 +111,7 @@ Data managers in Düsseldorf, Cologne, Jülich and close by (CEPLAS, MibiNet, TR
 
 # Missing interfaces impede collaboration
 
-![w:800](./../../../images/hhu-services-withoutdatahub.drawio.png)
+![w:800](./../../../images/ceplas/hhu-services-withoutdatahub.drawio.png)
 
 ---
 
@@ -119,7 +119,7 @@ Data managers in Düsseldorf, Cologne, Jülich and close by (CEPLAS, MibiNet, TR
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../../images/dataplant-collaborationceplas.drawio.png)
+![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 
