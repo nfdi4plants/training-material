@@ -879,7 +879,7 @@ section p br {
 
 # Received two emails from "GitLab" about a failed pipeline? <!-- fit -->
 
-![w:600](./../../../images/cqc-error-email.png)
+![w:600](./../../../images/datahub-cqc/cqc-error-email.png)
 
 :fire: Don't worry :smile:
 
@@ -887,7 +887,7 @@ section p br {
 
 ## Pipeline Failed
 
-![bg right w:700](./../../../images/cqc-error-badges.png)
+![bg right w:700](./../../../images/datahub-cqc/cqc-error-badges.png)
 
 - a "continuous quality control" (CQC) pipeline validates your ARC
 - This fails if one of the following metadata items is missing:
@@ -908,7 +908,7 @@ section p br {
 
 If the pipeline has failed once, it is disabled by default
 
-![bg right w:500](./../../../images/cqc-error-email2.png)
+![bg right w:500](./../../../images/datahub-cqc/cqc-error-email2.png)
 
 ---
 
@@ -925,7 +925,7 @@ To reactivate it and let the DataHUB validate your ARC again:
   3. check box "Default to Auto DevOps pipeline"
   4. Save changes
 
-![bg right:60% w:600](./../../../images/cqc-activate-autodevops.png)
+![bg right:60% w:600](./../../../images/datahub-cqc/cqc-activate-autodevops.png)
 
 ---
 
