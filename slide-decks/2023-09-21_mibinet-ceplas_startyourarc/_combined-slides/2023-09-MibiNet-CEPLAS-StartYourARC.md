@@ -1434,13 +1434,13 @@ git clone "https://demo-user:1_eznikmzxzARAbUxxnF@git.nfdi4plants.org/teaching/d
 
 
 1. Login to DataHUB (1)
-   ![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+   ![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
 # Initiate the ARC folder structure
 
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 1. Create a **New ARC** (2)
 2. Select a location and name it **TalinumPhotosynthesis**
@@ -1460,20 +1460,20 @@ git clone "https://demo-user:1_eznikmzxzARAbUxxnF@git.nfdi4plants.org/teaching/d
 
 💡Don't use spaces in ARC's name
 
-![bg right:30% w:500](././../../../images/arcitect-talinumphotosynthesis.png)
+![bg right:30% w:500](././../../../images/arcitect/arcitect-talinumphotosynthesis.png)
 
 ---
 
 # Add a description to your investigation
 
-![w:800](./../../../images/arcitect-talinumphotosynthesis-investigationmetadata.png)
+![w:800](./../../../images/arcitect/arcitect-talinumphotosynthesis-investigationmetadata.png)
 
 ---
 
 # Add (at least one) contributor
 
 
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-investigationperson.png)
+![bg right w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis-investigationperson.png)
 
 ---
 
@@ -1483,7 +1483,7 @@ by clicking "Add Study" and entering an identifier for your study
 
 Use **talinum_drought** as an identifier
 
-![bg right w:500](././../../../images/arcitect-talinumphotosynthesis-study.png)
+![bg right w:500](././../../../images/arcitect/arcitect-talinumphotosynthesis-study.png)
 
 ---
 
@@ -1496,7 +1496,7 @@ In the study panel you can add
 - publications
 - data process information
 
-![bg right w:500](././../../../images/arcitect-talinumphotosynthesis-studypanel.png)
+![bg right w:500](././../../../images/arcitect/arcitect-talinumphotosynthesis-studypanel.png)
 
 ---
 
@@ -1506,7 +1506,7 @@ In the study panel you can add
 by clicking "Add Assay" and entering an identifier for your assay
 
 Add two assays with **rnaseq** and **metabolomics** as an identifier
-![bg right w:500](././../../../images/arcitect-talinumphotosynthesis-assay.png)
+![bg right w:500](././../../../images/arcitect/arcitect-talinumphotosynthesis-assay.png)
 
 ---
 
@@ -1519,7 +1519,7 @@ You can either
 Link your assays to your **talinum_drought** study
 
 
-![bg right w:500](././../../../images/arcitect-talinumphotosynthesis-assay2.png)
+![bg right w:500](././../../../images/arcitect/arcitect-talinumphotosynthesis-assay2.png)
 
 ---
 
@@ -1534,7 +1534,7 @@ In the assay panel you can
    - technology platform.
 3. add data process information
 
-![bg right w:500](././../../../images/arcitect-talinumphotosynthesis-assaypanel.png)
+![bg right w:500](././../../../images/arcitect/arcitect-talinumphotosynthesis-assaypanel.png)
 
 ---
 
@@ -1544,7 +1544,7 @@ You can either
 - directly write a **new protocol** within the ARCitect or
 - import an existing one from your computer
 
-![w:800](./../../../images/arcitect-arcpanel-protocol.png)
+![w:800](./../../../images/arcitect/arcitect-arcpanel-protocol.png)
 
 ---
 
@@ -1560,7 +1560,7 @@ In the file tree you can
 
 <!-- Demo dataset cannot be added via add dataset. Only individual files can be added, not multiple folders -->
 
-![bg right:40% w:400](./../../../images/arcitect-arcpanel-assay03.png)
+![bg right:40% w:400](./../../../images/arcitect/arcitect-arcpanel-assay03.png)
 
 ---
 
@@ -1578,7 +1578,7 @@ Click **Login** (1) in the sidebar to login to the DataHUB.
 
 :bulb: This automatically opens your browser at the DataHUB (https://git.nfdi4plants.org) and asks you to login, if you are not already logged in. 
 
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -1586,7 +1586,7 @@ Click **Login** (1) in the sidebar to login to the DataHUB.
 
 From the sidebar, navigate to **Versions** (6)
 
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -1597,7 +1597,7 @@ The versions panel allows you to
 - sync the changes to the DataHUB, and
 - check the history of your ARC
 
-![bg right w:650](./../../../images/arcitect-versionspanel.png)
+![bg right w:650](./../../../images/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -1607,7 +1607,7 @@ If you are logged in, the versions panel shows
 - your DataHUB's *Full Name* and *eMail*
 - the URL of the current ARC in the DataHUB `https://git.nfdi4plants.org/<YourUserName>/<YourARC>`
 
-![bg right w:650](./../../../images/arcitect-versionspanel.png)
+![bg right w:650](./../../../images/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -2914,7 +2914,7 @@ Example workflows with three *processes* each:
 
 ## Process Information
 
-![w:700](././../../../images/arcitect-assay-data.png)
+![w:700](././../../../images/arcitect/arcitect-assay-data.png)
 
 <!-- TODO Update ARCitect Annotation 
 Examples, Excelsheet... --> 

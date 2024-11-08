@@ -108,7 +108,7 @@ https://uni-duesseldorf.sciebo.de/s/C7ms3QA6q7OZnU2
 
 ## Initiate the ARC folder structure
 
-![bg right:40% w:250](./../../images/arcitect-help-sidebar.png)
+![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.png)
 
 1. Open ARCitect
 2. Create a **New ARC** (2)
@@ -130,7 +130,7 @@ https://uni-duesseldorf.sciebo.de/s/C7ms3QA6q7OZnU2
 💡 Make sure that no ARC exists at  `https://git.nfdi4plants.org/<YourUserName>/<YourARC>`. Otherwise you will sync to that ARC.
 
 
-![bg right:30% w:500](./../../images/arcitect-talinumphotosynthesis.png)
+![bg right:30% w:500](./../../images/arcitect/arcitect-talinumphotosynthesis.png)
 
 ---
 
@@ -138,7 +138,7 @@ https://uni-duesseldorf.sciebo.de/s/C7ms3QA6q7OZnU2
 
 ## Add a description to your investigation
 
-![w:900](./../../images/arcitect-talinumphotosynthesis-investigationmetadata.png)
+![w:900](./../../images/arcitect/arcitect-talinumphotosynthesis-investigationmetadata.png)
 
 ---
 
@@ -147,7 +147,7 @@ https://uni-duesseldorf.sciebo.de/s/C7ms3QA6q7OZnU2
 ## Add contributors
 
 
-![bg right w:600](./../../images/arcitect-talinumphotosynthesis-investigationperson.png)
+![bg right w:600](./../../images/arcitect/arcitect-talinumphotosynthesis-investigationperson.png)
 - you could also add the contacts directly via ORCID
 
 ---
@@ -172,7 +172,7 @@ by clicking "Add Study" and entering an identifier for your study
 
 Use **talinum_drought** as an identifier
 
-![bg right w:500](./../../images/arcitect-talinumphotosynthesis-study.png)
+![bg right w:500](./../../images/arcitect/arcitect-talinumphotosynthesis-study.png)
 
 ---
 
@@ -187,7 +187,7 @@ In the study panel you can add
 - publications
 - data process information
 
-![bg right w:600](./../../images/arcitect-talinumphotosynthesis-studypanel.png)
+![bg right w:600](./../../images/arcitect/arcitect-talinumphotosynthesis-studypanel.png)
 
 ---
 
@@ -239,7 +239,7 @@ You can either
 - directly write a **new protocol** within the ARCitect or
 - import an existing one from your computer
 
-![w:800](./../../images/arcitect-arcpanel-protocol.png)
+![w:800](./../../images/arcitect/arcitect-arcpanel-protocol.png)
 
 ---
 
@@ -518,7 +518,7 @@ Use double pointed quotation mark to un-hide hidden columns.
 by clicking "Add Assay" and entering an identifier for your assay
 
 Add two assays with **rnaseq** and **metabolomics** as an identifier
-![bg right w:500](./../../images/arcitect-talinumphotosynthesis-assay.png)
+![bg right w:500](./../../images/arcitect/arcitect-talinumphotosynthesis-assay.png)
 
 ---
 
@@ -531,7 +531,7 @@ In the assay panel you can define the assay's
  - technology type, and
  - technology platform
 
-![bg right w:600](./../../images/arcitect-talinumphotosynthesis-assaypanel.png)
+![bg right w:600](./../../images/arcitect/arcitect-talinumphotosynthesis-assaypanel.png)
 
 ---
 
@@ -762,7 +762,7 @@ The ARC is a **data-centric** approach to RDM
 
 The **Explorer (6)** button directly opens your ARC locally
 
-![bg right:40% w:250](./../../images/arcitect-help-sidebar.png)
+![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.png)
 
 ---
 
@@ -778,9 +778,9 @@ The **Explorer (6)** button directly opens your ARC locally
 ## Login to DataHUB
 
 1. Login to DataHUB (1)
-   ![bg right:40% w:250](./../../images/arcitect-help-sidebar.png)
+   ![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.png)
 2. Select `git.nfdi4plants.org` as Host 
-    ![w:800](./../../images/arcitect-choose-datahub.png)
+    ![w:800](./../../images/arcitect/arcitect-choose-datahub.png)
 
 ---
 
@@ -790,7 +790,7 @@ The **Explorer (6)** button directly opens your ARC locally
 
 You have to commit changes before you can upload to the DataHUB
 
-![bg right:40% w:250](./../../images/arcitect-help-sidebar.png)
+![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.png)
 
 ---
 
@@ -806,7 +806,7 @@ It allows you to
 - add a commit message 
 - use different branches 
 
-![bg right:50% w:500](./../../images/arcitect-commit-panel.png)
+![bg right:50% w:500](./../../images/arcitect/arcitect-commit-panel.png)
 
 ---
 <img class="arcitectLogo" src="../../nfdi4plants.knowledgebase/src/assets/images/start-here/arcitectlogo.png"/>
@@ -816,7 +816,7 @@ It allows you to
 In the History panel you can inspect your ARCs history with all commits 
 
 
-![bg right:55% w:500](./../../images/arcitect-history-panel.png)
+![bg right:55% w:500](./../../images/arcitect/arcitect-history-panel.png)
 
 ---
 
@@ -828,7 +828,7 @@ In the History panel you can inspect your ARCs history with all commits
 
 From the sidebar, navigate to **DataHUB Sync** (8)
 
-![bg right:40% w:250](./../../images/arcitect-help-sidebar.png)
+![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.png)
 
 ---
 
@@ -843,7 +843,7 @@ The DataHUB Sync panel allows you to
 - change the Remote for the synchronization
 
 
-![bg right:50% w:500](./../../images/arcitect-datahub-sync.png) 
+![bg right:50% w:500](./../../images/arcitect/arcitect-datahub-sync.png) 
 
 ---
 

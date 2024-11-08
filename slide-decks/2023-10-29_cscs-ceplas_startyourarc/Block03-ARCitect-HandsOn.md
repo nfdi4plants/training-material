@@ -82,7 +82,7 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 
 # Initiate the ARC folder structure
 
-![bg right:40% w:250](./../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 1. Create a **New ARC** (2)
 2. Select a location and name it **TalinumPhotosynthesis**
@@ -103,7 +103,7 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 
 💡 Avoid spaces in your ARC's name
 
-![bg right:30% w:500](./../../images/arcitect-talinumphotosynthesis.png)
+![bg right:30% w:500](./../../images/arcitect/arcitect-talinumphotosynthesis.png)
 
 ---
 
@@ -114,7 +114,7 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 3. Add a description
 4. Click "Update" to save your changes
 
-![bg right w:700](./../../images/arcitect-talinumphotosynthesis-investigationmetadata.png)
+![bg right w:700](./../../images/arcitect/arcitect-talinumphotosynthesis-investigationmetadata.png)
 
 ---
 
@@ -124,13 +124,13 @@ In the section "People" click "ADD PERSON" to add at least one contributor
 
 <br>
 
-![w:1000](./../../images/arcitect-talinumphotosynthesis-addperson.png)
+![w:1000](./../../images/arcitect/arcitect-talinumphotosynthesis-addperson.png)
 
 ---
 
 # Add contributor details
 
-![bg right w:500](./../../images/arcitect-talinumphotosynthesis-investigationperson.png)
+![bg right w:500](./../../images/arcitect/arcitect-talinumphotosynthesis-investigationperson.png)
 
 :bulb: For each person that you add, make sure to add
 - First Name
@@ -144,7 +144,7 @@ In the section "People" click "ADD PERSON" to add at least one contributor
 
 by clicking "Add Study" and entering **talinum_drought** as identifier for the study
 
-![bg right w:500](./../../images/arcitect-talinumphotosynthesis-study.png)
+![bg right w:500](./../../images/arcitect/arcitect-talinumphotosynthesis-study.png)
 
 ---
 
@@ -157,13 +157,13 @@ In the study panel you can add
 - publications
 - data process information
 
-![bg right w:500](./../../images/arcitect-talinumphotosynthesis-studypanel.png)
+![bg right w:500](./../../images/arcitect/arcitect-talinumphotosynthesis-studypanel.png)
 
 ---
 
 # Add a protocol to the study
 
-![bg right w:500](../../images/arcitect-talinumphotosynthesis-study-protocol.png)
+![bg right w:500](../../images/arcitect/arcitect-talinumphotosynthesis-study-protocol.png)
 
 Click "Add Protocol" in the sidebar to add a protocol to the study
 
@@ -176,7 +176,7 @@ You can either
 - directly write a **new protocol** within the ARCitect or
 - import an existing one from your computer
 
-![w:800](./../../images/arcitect-arcpanel-protocol.png)
+![w:800](./../../images/arcitect/arcitect-arcpanel-protocol.png)
 
 ---
 
@@ -190,7 +190,7 @@ From the demo data, transfer the lab notes stored in `plant_material.txt` to the
 
 Click "Add Assay" in the sidebar
 
-![bg right:45% w:500](../../images/arcitect-talinumphotosynthesis-addassay.png)
+![bg right:45% w:500](../../images/arcitect/arcitect-talinumphotosynthesis-addassay.png)
 
 
 ---
@@ -200,7 +200,7 @@ Click "Add Assay" in the sidebar
 1. Enter **rnaseq** as the identifier
 2. Link the assay to the study **talinum_drought**
 
-![bg right:45%  w:600](./../../images/arcitect-talinumphotosynthesis-assay2.png)
+![bg right:45%  w:600](./../../images/arcitect/arcitect-talinumphotosynthesis-assay2.png)
 
 ---
 
@@ -215,7 +215,7 @@ In the assay panel you can
    - technology platform.
 3. add data process information
 
-![bg right w:500](./../../images/arcitect-talinumphotosynthesis-assaypanel.png)
+![bg right w:500](./../../images/arcitect/arcitect-talinumphotosynthesis-assaypanel.png)
 
 
 ---
@@ -237,7 +237,7 @@ In the file tree you can
   - **add a dataset** and 
   - **protocols** associated with that dataset
 
-![bg right:40% w:400](../../images/arcitect-talinumphotosynthesis-assay3.png)
+![bg right:40% w:400](../../images/arcitect/arcitect-talinumphotosynthesis-assay3.png)
 
 ---
 
@@ -246,8 +246,8 @@ In the file tree you can
 1. Cick "Add Dataset"
 2. Select the *.fastq.gz files from the demo data
 
-![bg right w:300](../../images/arcitect-talinumphotosynthesis-assay4.png)
-![bg right w:300](../../images/arcitect-talinumphotosynthesis-assay5.png)
+![bg right w:300](../../images/arcitect/arcitect-talinumphotosynthesis-assay4.png)
+![bg right w:300](../../images/arcitect/arcitect-talinumphotosynthesis-assay5.png)
 
 ---
 
@@ -259,7 +259,7 @@ From the demo data, import the lab notes related to the `rnaseq` assay:
   - Illumina_libraries.txt
   - NGS_SampleSheet.xlsx
 
-![bg right w:500](../../images/arcitect-talinumphotosynthesis-assay6.png)
+![bg right w:500](../../images/arcitect/arcitect-talinumphotosynthesis-assay6.png)
 
 ---
 
@@ -275,7 +275,7 @@ Click **Login** (1) in the sidebar to login to the DataHUB.
 
 :bulb: This automatically opens your browser at the DataHUB (https://git.nfdi4plants.org) and asks you to login, if you are not already logged in. 
 
-![bg right:40% w:250](./../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -283,7 +283,7 @@ Click **Login** (1) in the sidebar to login to the DataHUB.
 
 To communicate with the DataHUB, navigate to **Versions** (6)
 
-![bg right:40% w:250](./../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -295,7 +295,7 @@ The versions panel allows you to
 - sync the changes to the DataHUB, and
 - check the history of your ARC
 
-![bg right w:650](./../../images/arcitect-versionspanel.png)
+![bg right w:650](./../../images/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -305,7 +305,7 @@ If you are logged in, the versions panel shows
 - your DataHUB's *Full Name* and *eMail*
 - the URL of the current ARC in the DataHUB `https://git.nfdi4plants.org/<YourUserName>/<YourARC>`
 
-![bg right w:650](./../../images/arcitect-versionspanel.png)
+![bg right w:650](./../../images/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -315,7 +315,7 @@ If you are logged in, the versions panel shows
 2. Click "COMMIT" to save your changes locally
 3. Click "UPLOAD" to upload your ARC to the DataHUB
 
-![bg right w:700](./../../images/arcitect-versionspanel.png)
+![bg right w:700](./../../images/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -470,7 +470,7 @@ object-position: 100% 45%;
    1. Add a "commit message"
    2. Upload your changes to the DataHUB
 
-![bg right:40% w:400](../../images/arcitect-talinumphotosynthesis-assay3.png)
+![bg right:40% w:400](../../images/arcitect/arcitect-talinumphotosynthesis-assay3.png)
 
 ---
 
@@ -479,7 +479,7 @@ object-position: 100% 45%;
 1. Navigate to Versions
 2. Check the History panel at the bottom
 
-![w:650](./../../images/arcitect-talinumphotosynthesis-history.png)
+![w:650](./../../images/arcitect/arcitect-talinumphotosynthesis-history.png)
 
 ---
 

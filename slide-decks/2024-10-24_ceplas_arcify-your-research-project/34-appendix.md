@@ -65,7 +65,7 @@ author:
 
 ## Download the demo data
 
-![bg right:40% w:250](./../../images/arcitect-help-sidebar.png)
+![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.png)
 
 1. Open the ARCitect
 2. Login (1) to your DataHUB account
@@ -81,7 +81,7 @@ author:
 5. Click the download button, select a location and open the ARC.
 6. Open the downloaded ARC
 
-![w:700](./../../images/arcitect-download-talinumarc.png)
+![w:700](./../../images/arcitect/arcitect-download-talinumarc.png)
 
 :bulb: This is basically the ARC we created in the last session.
 

@@ -61,7 +61,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 ## Download the demo data
 
-![bg right:40% w:250](./../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 1. Open the ARCitect
 2. Login (1) to your DataHUB account
@@ -75,7 +75,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 4. Search for **Talinum-CAM-Photosynthesis**
 5. Click the download button, select a location and open the ARC.
 
-![w:700](./../../images/arcitect-download-talinumarc.png)
+![w:700](./../../images/arcitect/arcitect-download-talinumarc.png)
 
 :bulb: This is basically the ARC we created last session.
 
@@ -93,7 +93,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 <img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... **annotate the experimental data**
 
-![bg right:40% width:400](./../../images/arcitect-talinum-demo-arc.png)
+![bg right:40% width:400](./../../images/arcitect/arcitect-talinum-demo-arc.png)
 
 ---
 

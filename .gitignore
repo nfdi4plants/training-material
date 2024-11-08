@@ -350,3 +350,4 @@ MigrationBackup/
 # Macos temporary files
 .DS_Store
 rename-images.md
+todos.md
