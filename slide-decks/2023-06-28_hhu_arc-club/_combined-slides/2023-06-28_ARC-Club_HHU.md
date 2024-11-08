@@ -22,7 +22,7 @@ June 28th, 2023
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../../images/arc-datacentricintegration-img1.png)
+![width:950](./../../../images/arc-datacentricintegration.svg)
 
 
 # The ARC &ndash; a package for your research data
@@ -348,7 +348,7 @@ August 16th, 2023
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../../images/arc-datacentricintegration-img1.png)
+![width:950](./../../../images/arc-datacentricintegration.svg)
 
 ---
 
