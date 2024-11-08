@@ -1714,7 +1714,7 @@ section {
 }
 </style>
 
-![width:800px](./../../../images/feedback01-fivefinger.drawio.svg)
+![width:800px](./../../../images/teaching-toolbox/feedback01-fivefinger.drawio.svg)
 
 <!-- 
 - Invite participants to give feedback
