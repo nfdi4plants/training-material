@@ -306,7 +306,7 @@ object-position: 100% 80%;
   
   </div><div>
   
-  ![](./../../../images/ceplas-ceplas/ceplas-enablingplatforms.drawio.png)
+  ![](./../../../images/ceplas/ceplas-enablingplatforms.drawio.png)
   
   </div>
 </div>
@@ -467,7 +467,7 @@ ARC services are available as on-premise option
 # HHU-DataHUB &ndash; Node for platforms
 
 
-![w:900](./../../../images/ceplas-ceplas/ceplas-enablingplatforms-logos.drawio.png)
+![w:900](./../../../images/ceplas/ceplas-enablingplatforms-logos.drawio.png)
 
 ---
 

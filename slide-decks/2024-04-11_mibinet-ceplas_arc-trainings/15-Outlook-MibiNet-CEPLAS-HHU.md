@@ -60,7 +60,7 @@ ARC services are available as on-premise option
 # HHU-DataHUB &ndash; Node for platforms
 
 
-![w:900](./../../images/ceplas-ceplas/ceplas-enablingplatforms-logos.drawio.png)
+![w:900](./../../images/ceplas/ceplas-enablingplatforms-logos.drawio.png)
 
 ---
 
