@@ -686,7 +686,7 @@ section {font-size: 25px;}
 
 # Generic data repositories
 
-![bg right:40% width:400](./../../../images/repositories-genericrepos-collage.drawio.svg)
+![bg right:40% width:400](./../../../images/teaching-publication/repositories-genericrepos-collage.drawio.svg)
 
 **Good**
 
@@ -720,7 +720,7 @@ section {font-size: 25px;}
 - Diminish “dead links”
 - Cope with name changes
 
-![bg right width:500](././../../../images/pid-collage.drawio.svg)
+![bg right width:500](././../../../images/teaching-publication/pid-collage.drawio.svg)
 
 ---
 
