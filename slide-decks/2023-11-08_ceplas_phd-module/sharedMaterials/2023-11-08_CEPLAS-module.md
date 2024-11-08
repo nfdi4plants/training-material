@@ -1143,7 +1143,7 @@ Slides presented here include contributions by
 
 # Data stores
 
-![w:900](./../../../images/data-stores.drawio.svg)
+![w:900](./../../../images/teaching-storage-backup/data-stores.drawio.svg)
 
 ---
 
@@ -1163,7 +1163,7 @@ Slides presented here include contributions by
 
 # 3-2-1 backup rule
 
-![w:800](./../../../images/3-2-1-backup-rule.drawio.svg)
+![w:800](./../../../images/teaching-storage-backup/3-2-1-backup-rule.drawio.svg)
 
 ---
 

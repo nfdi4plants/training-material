@@ -1766,7 +1766,7 @@ Pad:  https://pad.hhu.de/0NdPKO5LQ5CHBRN2iuG91Q
 
 # Data stores
 
-![w:900](././../../../images/data-stores.drawio.svg)
+![w:900](././../../../images/teaching-storage-backup/data-stores.drawio.svg)
 
 ---
 
@@ -1786,7 +1786,7 @@ Pad:  https://pad.hhu.de/0NdPKO5LQ5CHBRN2iuG91Q
 
 # 3-2-1 backup rule
 
-![w:800](././../../../images/3-2-1-backup-rule.drawio.svg)
+![w:800](././../../../images/teaching-storage-backup/3-2-1-backup-rule.drawio.svg)
 
 ---
 
