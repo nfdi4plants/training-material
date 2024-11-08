@@ -436,7 +436,7 @@ Freiburg: Dirk von Suchodeletz
 - Jonathan Bauer, Marcel Tschöpe (`DataHUB`, `Swobup`)
 - Cristina Martins Rodrigues (`Knowledge Base`)
 
-![bg right:40% w:550](./../custom/images/hackathon-group.png)
+![bg right:40% w:550](./../custom/images/dataplant/hackathon2022-group.png)
 
 <!-- Source to slide(s) -->
 <!-- ../custom/bricks/acknowledgements.md -->

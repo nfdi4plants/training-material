@@ -13,7 +13,7 @@ author:
 <!--
 # Connection to the NFDI
 
-![](../../images/connection-nfdi.drawio.png)
+![](../../images/ceplas/ceplas-nfdi-connection.drawio.png)
 
 ---
 

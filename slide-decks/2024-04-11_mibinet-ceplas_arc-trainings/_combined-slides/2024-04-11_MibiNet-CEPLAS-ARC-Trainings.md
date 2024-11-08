@@ -253,7 +253,7 @@ TODO
 -->
 # MibiNet connection to NFDIs
 
-![](../../../images/connection-nfdi.drawio.png)
+![](../../../images/ceplas/ceplas-nfdi-connection.drawio.png)
 
 ---
 
@@ -545,7 +545,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 <!--
 # Connection to the NFDI
 
-![](../../../images/connection-nfdi.drawio.png)
+![](../../../images/ceplas/ceplas-nfdi-connection.drawio.png)
 
 ---
 
