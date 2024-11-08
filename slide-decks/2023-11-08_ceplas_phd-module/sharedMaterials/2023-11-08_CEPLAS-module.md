@@ -1458,7 +1458,7 @@ Slides presented here include contributions by
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../../images/datahub-gitlab.drawio.png)
+![](./../../../images/datahub/datahub-gitlab.drawio.png)
 
 ---
 
@@ -1537,7 +1537,7 @@ Slides presented here include contributions by
 
 # Navigation Bar
 
-![](./../../../images/datahub-navbar.drawio.svg)
+![](./../../../images/datahub/datahub-navbar.drawio.svg)
 
 1. navigate directly to the [projects panel](./../../../images/../../../../images/../../../../images/../DataHUB-Manual/datahub-Manual/datahub-projectsPanel.html) via the icon in the top-left (1)
 2. open the [hamburger Menu](#hamburger-menu) (2)
@@ -1549,10 +1549,10 @@ Slides presented here include contributions by
 # Hamburger Menu
 
 1. From the hamburger menu (1) you can
-2. navigate to the [projects](./../../../images/../../../../images/DataHUB-Manual/datahub-projectsPanel.html) (2)
+2. navigate to the [projects](./../../../images/../../../../images/datahub/datahub-Manual/datahub-projectsPanel.html) (2)
 3. or [groups](datahub-groupsPanel.html) (3) panels
 
-![bg right w:500](./../../../images/datahub-hamburgermenu.drawio.svg)
+![bg right w:500](./../../../images/datahub/datahub-hamburgermenu.drawio.svg)
 
 ---
 
@@ -1560,16 +1560,16 @@ Slides presented here include contributions by
 
 1. In the avatar menu (1) you can
 2. find your profile name and user name (2), 
-3. navigate to the [user settings](./../../../images/../../../../images/DataHUB-Manual/datahub-userSettings.html) (3) 
+3. navigate to the [user settings](./../../../images/../../../../images/datahub/datahub-Manual/datahub-userSettings.html) (3) 
 4. or sign out (4) of the DataHUB.
 
-![bg right w:500](./../../../images/datahub-avatarmenu.drawio.svg)
+![bg right w:500](./../../../images/datahub/datahub-avatarmenu.drawio.svg)
 
 ---
 
 # Projects Panel
 
-![](./../../../images/datahub-projectspanel.drawio.svg)
+![](./../../../images/datahub/datahub-projectspanel.drawio.svg)
 
 1. Choose a tab (1) to see only your ARCs, or explore other publicly available ARCs. 
 2. The main panel (2) lists all ARCs
@@ -1583,7 +1583,7 @@ Slides presented here include contributions by
 
 The ARC Panel is the main working area for your ARC.
 
-![w:1000](./../../../images/datahub-arc-overview.drawio.svg)
+![w:1000](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 ---
 
@@ -1591,7 +1591,7 @@ The ARC Panel is the main working area for your ARC.
 
 <style scoped> section {font-size: 23px;} </style>
 
-![bg right w:600](./../../../images/datahub-arc-overview.drawio.svg)
+![bg right w:600](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 1. access the project information (1), e.g. invite members to the ARC
 2. follow the progress of your ARC repository (2),
@@ -1605,7 +1605,7 @@ The ARC Panel is the main working area for your ARC.
 
 <style scoped> section {font-size: 23px;} </style>
 
-![bg right w:600](./../../../images/datahub-arc-overview.drawio.svg)
+![bg right w:600](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 6. see the ARC's name and visibility level (6),
 7. follow the ARC's commit history (7),
@@ -1631,31 +1631,31 @@ The ARC Panel is the main working area for your ARC.
 
 1. Click on **Project Information** in the left navigation panel
 
-![fit w:1050](./../../../images/datahub-members-seq2.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq2.png)
 
 ---
 
 2. Click on **Members**
 
-![fit w:1050](./../../../images/datahub-members-seq3.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq3.png)
 
 ---
 
 3. Click on **Invite members**
 
-![fit w:1050](./../../../images/datahub-members-seq4.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq4.png)
 
 ---
 
 4. Search for potential collaborators
 
-![fit w:1050](./../../../images/datahub-members-seq5.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq5.png)
 
 ---
 
 5. Select a role
 
-![fit w:1050](./../../../images/datahub-members-seq6.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq6.png)
 
 ---
 
@@ -1717,7 +1717,7 @@ object-position: 100% 45%;
 - share meeting minutes or ideas with collaboration partners
 - keep ARC clean of files that are not considered "research data"
 
-![bg right w:600](./../../../images/datahub-wiki.png)
+![bg right w:600](./../../../images/datahub/datahub-wiki.png)
 
 ---
 

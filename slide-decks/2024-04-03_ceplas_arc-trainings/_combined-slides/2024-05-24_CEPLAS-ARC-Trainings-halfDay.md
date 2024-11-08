@@ -425,7 +425,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../../images/datahub-gitlab.drawio.png) 
+![](./../../../images/datahub/datahub-gitlab.drawio.png) 
 
 -->
 
@@ -434,13 +434,13 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../../images/datahub-gitlab.drawio.png)
+![](./../../../images/datahub/datahub-gitlab.drawio.png)
 
 ---
 
 # On-premise DataHUBs
 
-![alt text](../../../images/datahub-onpremise.drawio.png)
+![alt text](../../../images/datahub/datahub-onpremise.drawio.png)
 
 ARC services are available as on-premise option
 
@@ -473,7 +473,7 @@ ARC services are available as on-premise option
 
 # Embedded into an RDM network
 
-![w:600](./../../../images/datahub-network-putative.drawio.png)
+![w:600](./../../../images/datahub/datahub-network-putative.drawio.png)
 
 ---
 
@@ -965,7 +965,7 @@ When inviting new members to an ARC or group, you can choose between different l
 
 # Navigation Bar
 
-![](./../../../images/datahub-navbar.drawio.svg)
+![](./../../../images/datahub/datahub-navbar.drawio.svg)
 
 1. navigate directly to the [projects panel](./../../../../../../DataHUB-Manual/datahub-Manual/datahub-projectsPanel.html) via the icon in the top-left (1)
 2. open the [hamburger Menu](#hamburger-menu) (2)
@@ -988,7 +988,7 @@ When inviting new members to an ARC or group, you can choose between different l
 
 <div>
 
-![](./../../../images/datahub-hamburgermenu.drawio.svg)
+![](./../../../images/datahub/datahub-hamburgermenu.drawio.svg)
 
 </div>
 </div>
@@ -1010,7 +1010,7 @@ When inviting new members to an ARC or group, you can choose between different l
 
 <div>
 
-![w:400](./../../../images/datahub-avatarmenu.drawio.svg)
+![w:400](./../../../images/datahub/datahub-avatarmenu.drawio.svg)
 
 </div>
 </div>
@@ -1019,7 +1019,7 @@ When inviting new members to an ARC or group, you can choose between different l
 
 # Projects Panel
 
-![](./../../../images/datahub-projectspanel.drawio.svg)
+![](./../../../images/datahub/datahub-projectspanel.drawio.svg)
 
 1. Choose a tab (1) to see only your ARCs, or explore other publicly available ARCs. 
 2. The main panel (2) lists all ARCs
@@ -1033,7 +1033,7 @@ When inviting new members to an ARC or group, you can choose between different l
 
 The ARC Panel is the main working area for your ARC.
 
-![w:1000](./../../../images/datahub-arc-overview.drawio.svg)
+![w:1000](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 ---
 
@@ -1054,7 +1054,7 @@ The ARC Panel is the main working area for your ARC.
 
 <div>
 
-![w:600](./../../../images/datahub-arc-overview.drawio.svg)
+![w:600](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 </div>
 </div>
@@ -1078,7 +1078,7 @@ The ARC Panel is the main working area for your ARC.
 
 <div>
 
-![w:600](./../../../images/datahub-arc-overview.drawio.svg)
+![w:600](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 </div>
 </div>
@@ -1101,31 +1101,31 @@ The ARC Panel is the main working area for your ARC.
 
 1. Click on **Project Information** in the left navigation panel
 
-![fit w:1050](./../../../images/datahub-members-seq2.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq2.png)
 
 ---
 
 2. Click on **Members**
 
-![fit w:1050](./../../../images/datahub-members-seq3.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq3.png)
 
 ---
 
 3. Click on **Invite members**
 
-![fit w:1050](./../../../images/datahub-members-seq4.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq4.png)
 
 ---
 
 4. Search for potential collaborators
 
-![fit w:1050](./../../../images/datahub-members-seq5.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq5.png)
 
 ---
 
 5. Select a role
 
-![fit w:1050](./../../../images/datahub-members-seq6.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq6.png)
 
 ---
 
@@ -1172,7 +1172,7 @@ object-position: 100% 45%;
 
 Check out the **commit history** of your ARC via Repository (2) or directly via commits (7)
 
-![w:1000](./../../../images/datahub-arc-overview.drawio.svg)
+![w:1000](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 ---
 
@@ -1180,7 +1180,7 @@ Check out the **commit history** of your ARC via Repository (2) or directly via 
 
 Add issues to your ARC (3)
 
-![w:1000](./../../../images/datahub-arc-overview.drawio.svg)
+![w:1000](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 ---
 
@@ -1199,7 +1199,7 @@ Add issues to your ARC (3)
 
 <div>
 
-![w:600](./../../../images/datahub-wiki.png)
+![w:600](./../../../images/datahub/datahub-wiki.png)
 
 </div>
 </div>

@@ -754,31 +754,31 @@ To reactivate it and let the DataHUB validate your ARC again:
 
 1. Click on **Project Information** in the left navigation panel
 
-![fit w:1050](./../../../images/datahub-members-seq2.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq2.png)
 
 ---
 
 2. Click on **Members**
 
-![fit w:1050](./../../../images/datahub-members-seq3.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq3.png)
 
 ---
 
 3. Click on **Invite members**
 
-![fit w:1050](./../../../images/datahub-members-seq4.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq4.png)
 
 ---
 
 4. Search for potential collaborators
 
-![fit w:1050](./../../../images/datahub-members-seq5.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq5.png)
 
 ---
 
 5. Select a role
 
-![fit w:1050](./../../../images/datahub-members-seq6.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq6.png)
 
 
 ---
@@ -881,7 +881,7 @@ section p br {
 2. Navigate to the general (1) settings
 3. In the advanced section (4) you can **delete** your ARC
 
-![bg right w:600](./../../../images/datahub-arc-settings.drawio.svg)
+![bg right w:600](./../../../images/datahub/datahub-arc-settings.drawio.svg)
 
 ---
 
@@ -891,7 +891,7 @@ section p br {
 2. In the sidebar on the left, navigate to `Repository` &rarr; `Commits`
 3. There you find a chronological list of syncing messages together with who synced and when
 
-![bg right w:600](./../../../images/datahub-commits.png)
+![bg right w:600](./../../../images/datahub/datahub-commits.png)
 
 ---
 
@@ -900,7 +900,7 @@ section p br {
 4. Click on the latest (i.e. uppermost) commit.
 5. In the top-right corner select `Revert` from the drop-down menu `Options`.
 
-<img src="./../../../images/datahub-commits-revert01.png" style="width:75%;display: block;margin-left: auto;margin-right: auto;">
+<img src="./../../../images/datahub/datahub-commits-revert01.png" style="width:75%;display: block;margin-left: auto;margin-right: auto;">
 
 
 --- 
@@ -909,7 +909,7 @@ section p br {
 6. Un-check the box "Start a new merge request with these changes".
 7. Click "Revert"
 
-<img src="./../../../images/datahub-commits-revert02.png" style="width:55%;display: block;margin-left: auto;margin-right: auto;">
+<img src="./../../../images/datahub/datahub-commits-revert02.png" style="width:55%;display: block;margin-left: auto;margin-right: auto;">
 
 
 ---

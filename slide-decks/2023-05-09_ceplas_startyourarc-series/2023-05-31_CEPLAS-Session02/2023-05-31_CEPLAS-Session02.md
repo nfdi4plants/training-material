@@ -181,31 +181,31 @@ arc sync -m "sorted the demo data"
 
 1. Click on **Project Information** in the left navigation panel
 
-![fit w:1050](./../../../images/datahub-members-seq2.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq2.png)
 
 ---
 
 2. Click on **Members**
 
-![fit w:1050](./../../../images/datahub-members-seq3.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq3.png)
 
 ---
 
 3. Click on **Invite members**
 
-![fit w:1050](./../../../images/datahub-members-seq4.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq4.png)
 
 ---
 
 4. Search for potential collaborators
 
-![fit w:1050](./../../../images/datahub-members-seq5.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq5.png)
 
 ---
 
 5. Select a role 
 
-![fit w:1050](./../../../images/datahub-members-seq6.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq6.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/datahub_invite-collaborators.md -->

@@ -299,6 +299,6 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../images/datahub-gitlab.drawio.png) 
+![](./../../images/datahub/datahub-gitlab.drawio.png) 
 
 -->

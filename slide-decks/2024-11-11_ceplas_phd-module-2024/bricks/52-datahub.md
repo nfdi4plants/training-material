@@ -25,7 +25,7 @@ author:
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../../images/datahub-gitlab.drawio.png)
+![](./../../../images/datahub/datahub-gitlab.drawio.png)
 
 ---
 

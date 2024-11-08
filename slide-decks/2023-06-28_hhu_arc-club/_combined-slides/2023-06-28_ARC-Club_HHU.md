@@ -35,7 +35,7 @@ June 28th, 2023
 <style scoped>
 
 section {
-  background-image: url('././../../../images/datahub-icon-placeholder.drawio.svg');
+  background-image: url('././../../../images/datahub/datahub-icon-placeholder.drawio.svg');
   background-repeat: no-repeat;  
   background-size: 10%;
   background-position: 96% 5%;
@@ -44,7 +44,7 @@ section {
 
 </style>
 
-![](./../../../images/datahub-landingpage.png)
+![](./../../../images/datahub/datahub-landingpage.png)
 
 
 DataHUB: https://git.nfdi4plants.org/

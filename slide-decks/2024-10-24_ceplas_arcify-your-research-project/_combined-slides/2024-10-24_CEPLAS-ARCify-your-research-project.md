@@ -1157,7 +1157,7 @@ The DataHUB Sync panel allows you to
 
 ## Navigation Bar
 
-![](./../../../images/datahub-navbar.drawio.svg)
+![](./../../../images/datahub/datahub-navbar.drawio.svg)
 
 1. navigate directly to the [projects panel](./../../../../../../DataHUB-Manual/datahub-Manual/datahub-projectsPanel.html) via the icon in the top-left (1)
 2. open the [hamburger Menu](#hamburger-menu) (2)
@@ -1182,7 +1182,7 @@ The DataHUB Sync panel allows you to
 
 <div>
 
-![](./../../../images/datahub-hamburgermenu.drawio.svg)
+![](./../../../images/datahub/datahub-hamburgermenu.drawio.svg)
 
 </div>
 </div>
@@ -1206,7 +1206,7 @@ The DataHUB Sync panel allows you to
 
 <div>
 
-![w:400](./../../../images/datahub-avatarmenu.drawio.svg)
+![w:400](./../../../images/datahub/datahub-avatarmenu.drawio.svg)
 
 </div>
 </div>
@@ -1217,7 +1217,7 @@ The DataHUB Sync panel allows you to
 
 ## Projects Panel
 
-![bg right w:600](./../../../images/datahub-projectspanel.drawio.svg)
+![bg right w:600](./../../../images/datahub/datahub-projectspanel.drawio.svg)
 
 1. Choose a tab (1) to see only your ARCs, or explore other publicly available ARCs. 
 2. The main panel (2) lists all ARCs
@@ -1232,7 +1232,7 @@ The DataHUB Sync panel allows you to
 
 The ARC Panel is the main working area for your ARC.
 
-![w:1000](./../../../images/datahub-arc-overview.drawio.svg)
+![w:1000](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 ---
 
@@ -1255,7 +1255,7 @@ The ARC Panel is the main working area for your ARC.
 
 <div>
 
-![w:600](./../../../images/datahub-arc-overview.drawio.svg)
+![w:600](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 </div>
 </div>
@@ -1281,7 +1281,7 @@ The ARC Panel is the main working area for your ARC.
 
 <div>
 
-![w:600](./../../../images/datahub-arc-overview.drawio.svg)
+![w:600](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 </div>
 </div>
@@ -1298,7 +1298,7 @@ The ARC Panel is the main working area for your ARC.
 
 1. Click on **Project Information** in the left navigation panel
 
-![fit w:1050](./../../../images/datahub-members-seq2.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq2.png)
 
 ---
 
@@ -1306,7 +1306,7 @@ The ARC Panel is the main working area for your ARC.
 
 2. Click on **Members**
 
-![fit w:1050](./../../../images/datahub-members-seq3.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq3.png)
 
 ---
 
@@ -1314,7 +1314,7 @@ The ARC Panel is the main working area for your ARC.
 
 3. Click on **Invite members**
 
-![w:950](./../../../images/datahub-members-seq4.png)
+![w:950](./../../../images/datahub/datahub-members-seq4.png)
 
 ---
 
@@ -1322,7 +1322,7 @@ The ARC Panel is the main working area for your ARC.
 
 4. Search for potential collaborators
 
-![w:650](./../../../images/datahub-members-seq5.png)
+![w:650](./../../../images/datahub/datahub-members-seq5.png)
 
 ---
 
@@ -1330,7 +1330,7 @@ The ARC Panel is the main working area for your ARC.
 
 5. Select a role
 
-![w:650](./../../../images/datahub-members-seq6.png)
+![w:650](./../../../images/datahub/datahub-members-seq6.png)
 
 ---
 
@@ -1421,7 +1421,7 @@ The visibility of ARCs and groups can be managed individually for each ARC or gr
 
 Check out the **commit history** of your ARC via Repository (2) or directly via commits (7)
 
-![w:1000](./../../../images/datahub-arc-overview.drawio.svg)
+![w:1000](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 ---
 
@@ -1450,7 +1450,7 @@ Check out the **commit history** of your ARC via Repository (2) or directly via 
 
 Add issues to your ARC (3)
 
-![w:1000](./../../../images/datahub-arc-overview.drawio.svg)
+![w:1000](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 ---
 
@@ -1471,7 +1471,7 @@ Add issues to your ARC (3)
 
 <div>
 
-![w:600](./../../../images/datahub-wiki.png)
+![w:600](./../../../images/datahub/datahub-wiki.png)
 
 </div>
 </div>

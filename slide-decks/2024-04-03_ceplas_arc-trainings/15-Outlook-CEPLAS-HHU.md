@@ -25,13 +25,13 @@ author:
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../images/datahub-gitlab.drawio.png)
+![](./../../images/datahub/datahub-gitlab.drawio.png)
 
 ---
 
 # On-premise DataHUBs
 
-![alt text](../../images/datahub-onpremise.drawio.png)
+![alt text](../../images/datahub/datahub-onpremise.drawio.png)
 
 ARC services are available as on-premise option
 
@@ -64,7 +64,7 @@ ARC services are available as on-premise option
 
 # Embedded into an RDM network
 
-![w:600](./../../images/datahub-network-putative.drawio.png)
+![w:600](./../../images/datahub/datahub-network-putative.drawio.png)
 
 ---
 

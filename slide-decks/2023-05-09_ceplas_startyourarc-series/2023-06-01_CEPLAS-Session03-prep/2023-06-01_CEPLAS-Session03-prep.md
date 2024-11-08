@@ -88,7 +88,7 @@ arc sync -r https://git.nfdi4plants.org/<username>/my-arc
 
 Check if the upload was successful by visiting your ARC at the respective URL in your browser.
 
-![w:800](./../../../images/datahub-repository.png)
+![w:800](./../../../images/datahub/datahub-repository.png)
 
 # Part 2: Adding subfolders for your data
 
@@ -177,31 +177,31 @@ Try to place your resources, datasets and protocols for each study and assay in 
 
 1. Click on **Project Information** in the left navigation panel
 
-![fit w:1050](./../../../images/datahub-members-seq2.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq2.png)
 
 ---
 
 2. Click on **Members**
 
-![fit w:1050](./../../../images/datahub-members-seq3.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq3.png)
 
 ---
 
 3. Click on **Invite members**
 
-![fit w:1050](./../../../images/datahub-members-seq4.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq4.png)
 
 ---
 
 4. Search for potential collaborators
 
-![fit w:1050](./../../../images/datahub-members-seq5.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq5.png)
 
 ---
 
 5. Select a role 
 
-![fit w:1050](./../../../images/datahub-members-seq6.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq6.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/datahub_invite-collaborators.md -->
