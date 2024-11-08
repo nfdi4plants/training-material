@@ -18,7 +18,7 @@ October, 2024
 Dominik Brilhaus (CEPLAS)
 Sabrina Zander (MibiNet)
 
-![bg fit](./../../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -93,19 +93,19 @@ Data managers in Düsseldorf, Cologne, Jülich and close by (CEPLAS, MibiNet, TR
 
 # CEPLAS &ndash; One cluster, four locations
 
-![w:800](./../../../images/data-fragmentation-ceplas00.drawio.png)
+![w:800](./../../../images/ceplas/ceplas-data-fragmentation00.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../../images/data-fragmentation-ceplas01.drawio.png)
+![w:800](./../../../images/ceplas/ceplas-data-fragmentation01.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../../images/data-fragmentation-ceplas02.drawio.png)
+![w:800](./../../../images/ceplas/ceplas-data-fragmentation02.drawio.png)
 
 ---
 
@@ -222,7 +222,7 @@ Your entire investigation in a single unified bag
   
   </div><div>
   
-  ![](./../../../images/ceplas-enablingplatforms.drawio.png)
+  ![](./../../../images/ceplas-ceplas/ceplas-enablingplatforms.drawio.png)
   
   </div>
 </div>

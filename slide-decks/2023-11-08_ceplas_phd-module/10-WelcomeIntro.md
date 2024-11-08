@@ -21,7 +21,7 @@ author:
 November 8<sup>th</sup>, 2023
 Dominik Brilhaus, CEPLAS Data Science
 
-![bg fit](./../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -259,13 +259,13 @@ object-fit: cover;
 
 # Scattered Data Silos
 
-![w:900](././../../images/data-fragmentation-ceplas.png)
+![w:900](././../../images/ceplas/ceplas-data-fragmentation.png)
 
 ---
 
 # Scattered Data Silos
 
-![w:900](././../../images/data-fragmentation-ceplas-mibinet-trr.png)
+![w:900](././../../images/ceplas/ceplas-data-fragmentation-mibinet-trr.png)
 
 ---
 

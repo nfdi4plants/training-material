@@ -27,7 +27,7 @@ Sabrina Zander, MibiNet
 Dominik Brilhaus, CEPLAS
 
 
-![bg fit](./../../../images/background-title-mibinet-ceplas.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title-mibinet.drawio.svg)
 
 ---
 
@@ -417,7 +417,7 @@ Facilities and labs can define their common workflows as templates
   
   </div><div>
   
-  ![](./../../../images/ceplas-enablingplatforms.drawio.png)
+  ![](./../../../images/ceplas-ceplas/ceplas-enablingplatforms.drawio.png)
   
   </div>
 </div>
@@ -592,7 +592,7 @@ ARC services are available as on-premise option
 # HHU-DataHUB &ndash; Node for platforms
 
 
-![w:900](./../../../images/ceplas-enablingplatforms-logos.drawio.png)
+![w:900](./../../../images/ceplas-ceplas/ceplas-enablingplatforms-logos.drawio.png)
 
 ---
 

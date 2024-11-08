@@ -13,19 +13,19 @@ author:
 
 # CEPLAS &ndash; One cluster, four locations
 
-![w:800](./../../images/data-fragmentation-ceplas00.drawio.png)
+![w:800](./../../images/ceplas/ceplas-data-fragmentation00.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../images/data-fragmentation-ceplas01.drawio.png)
+![w:800](./../../images/ceplas/ceplas-data-fragmentation01.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../images/data-fragmentation-ceplas02.drawio.png)
+![w:800](./../../images/ceplas/ceplas-data-fragmentation02.drawio.png)
 
 ---
 

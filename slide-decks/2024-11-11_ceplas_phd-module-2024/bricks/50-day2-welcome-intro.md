@@ -23,7 +23,7 @@ November 12<sup>th</sup>, 2024
 Vittorio Tracanna, Dominik Brilhaus
 CEPLAS Data
 
-![bg fit](./../../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 

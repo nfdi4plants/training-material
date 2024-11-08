@@ -26,7 +26,7 @@ May, 2024
 Dominik Brilhaus (CEPLAS)
 Stella Eggels (DataPLANT)
 
-![bg fit](./../../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -221,19 +221,19 @@ object-fit: cover;
 
 # CEPLAS &ndash; One cluster, four locations
 
-![w:800](./../../../images/data-fragmentation-ceplas00.drawio.png)
+![w:800](./../../../images/ceplas/ceplas-data-fragmentation00.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../../images/data-fragmentation-ceplas01.drawio.png)
+![w:800](./../../../images/ceplas/ceplas-data-fragmentation01.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../../images/data-fragmentation-ceplas02.drawio.png)
+![w:800](./../../../images/ceplas/ceplas-data-fragmentation02.drawio.png)
 
 ---
 
@@ -413,7 +413,7 @@ Facilities and labs can define their common workflows as templates
   
   </div><div>
   
-  ![](./../../../images/ceplas-enablingplatforms.drawio.png)
+  ![](./../../../images/ceplas-ceplas/ceplas-enablingplatforms.drawio.png)
   
   </div>
 </div>
@@ -586,7 +586,7 @@ ARC services are available as on-premise option
 # HHU-DataHUB &ndash; Node for platforms
 
 
-![w:900](./../../../images/ceplas-enablingplatforms-logos.drawio.png)
+![w:900](./../../../images/ceplas-ceplas/ceplas-enablingplatforms-logos.drawio.png)
 
 ---
 

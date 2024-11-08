@@ -125,7 +125,7 @@ Your entire investigation in a single unified bag
   
   </div><div>
   
-  ![](./../../../images/ceplas-enablingplatforms.drawio.png)
+  ![](./../../../images/ceplas-ceplas/ceplas-enablingplatforms.drawio.png)
   
   </div>
 </div>

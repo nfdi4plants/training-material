@@ -322,13 +322,13 @@ object-fit: cover;
 
 # Scattered Data Silos
 
-![w:900](././../../images/data-fragmentation-ceplas.png)
+![w:900](././../../images/ceplas/ceplas-data-fragmentation.png)
 
 ---
 
 # Scattered Data Silos
 
-![w:900](././../../images/data-fragmentation-ceplas-mibinet-trr.png)
+![w:900](././../../images/ceplas/ceplas-data-fragmentation-mibinet-trr.png)
 
 ---
 

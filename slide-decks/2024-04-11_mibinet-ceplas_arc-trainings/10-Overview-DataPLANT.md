@@ -185,7 +185,7 @@ Facilities and labs can define their common workflows as templates
   
   </div><div>
   
-  ![](./../../images/ceplas-enablingplatforms.drawio.png)
+  ![](./../../images/ceplas-ceplas/ceplas-enablingplatforms.drawio.png)
   
   </div>
 </div>

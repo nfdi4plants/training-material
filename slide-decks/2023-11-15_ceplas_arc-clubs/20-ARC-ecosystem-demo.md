@@ -41,7 +41,7 @@ figcaption {
 
 <br>
 
-![bg fit](./../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 

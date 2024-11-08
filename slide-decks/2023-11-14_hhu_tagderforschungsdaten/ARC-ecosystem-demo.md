@@ -45,7 +45,7 @@ Tag der Forschungsdaten in NRW 2023
 November 14<sup>th</sup>, 2023
 Dominik Brilhaus, CEPLAS Data Science & Data Management
 
-![bg fit](./../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 

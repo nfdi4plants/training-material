@@ -21,7 +21,7 @@ October, 2024
 Dominik Brilhaus (CEPLAS)
 Sabrina Zander (MibiNet)
 
-![bg fit](./../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
