@@ -680,7 +680,7 @@ git clone "https://demo-user:1_eznikmzxzARAbUxxnF@git.nfdi4plants.org/teaching/d
 
 ## You just received your data
 
-![bg right width:400](./../../../images/demo-data-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -775,7 +775,7 @@ arc sync -f -r https://git.nfdi4plants.org/<username>/arc-demo
 
 Identify "raw dataset(s)" and "protocols" and move them to the proper subfolders in the ARC.
 
-![bg right w:500](./../../../images/demo-data-screenshot.png)
+![bg right w:500](./../../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -798,8 +798,8 @@ Navigate to `https://git.nfdi4plants.org/<username>/arc-demo` to visit your ARC 
 
 ## Your ARC is ready
 
-![bg 80% right:75%](./../../../images/demo-data-screenshot.png)
-![bg 80%](./../../../images/demo-arc-screenshot.png)
+![bg 80% right:75%](./../../../images/training-demo-talinum/demo-data-screenshot.png)
+![bg 80%](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -838,13 +838,13 @@ Please install version **v0.0.10** of the ARCitect: https://github.com/nfdi4plan
 
 https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZlS_Kzf7psk-5w-xg?e=u0sADd
 
-![bg right w:600](./../../../images/demo-data-download.png)
+![bg right w:600](./../../../images/training-demo-talinum/demo-data-download.png)
 
 ---
 
 # Sort Demo data in an ARC
 
-![bg right width:400](./../../../images/demo-data-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ![width:900](./../../../images/arc-fillwithdata-experimental.png)
 
@@ -880,20 +880,20 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 
 💡Don't use spaces in ARC's name
 
-![bg right:30% w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis.png)
+![bg right:30% w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis.png)
 
 ---
 
 # Add a description to your investigation
 
-![w:800](./../../../images/arcitect/arcitect-talinumphotosynthesis-investigationmetadata.png)
+![w:800](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationmetadata.png)
 
 ---
 
 # Add a contributor
 
 
-![bg right w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis-investigationperson.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationperson.png)
 
 ---
 
@@ -903,7 +903,7 @@ by clicking "Add Study" and entering an identifier for your study
 
 Use **talinum_drought** as an identifier
 
-![bg right w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis-study.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-study.png)
 
 ---
 
@@ -916,7 +916,7 @@ In the study panel you can add
 - publications
 - data process information
 
-![bg right w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis-studypanel.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-studypanel.png)
 
 ---
 
@@ -926,7 +926,7 @@ In the study panel you can add
 by clicking "Add Assay" and entering an identifier for your assay
 
 Add two assays with **rnaseq** and **metabolomics** as an identifier
-![bg right w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis-assay.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay.png)
 
 ---
 
@@ -939,7 +939,7 @@ You can either
 Link your assays to your **talinum_drought** study
 
 
-![bg right w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis-assay2.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay2.png)
 
 ---
 
@@ -954,7 +954,7 @@ In the assay panel you can
    - technology platform.
 3. add data process information
 
-![bg right w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis-assaypanel.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assaypanel.png)
 
 ---
 
@@ -1057,7 +1057,7 @@ section p br {
 <br>
 🌐 Shared with collaborators
 
-![bg right width:400](./../../../images/demo-arc-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -2695,7 +2695,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 4. Search for **Talinum-CAM-Photosynthesis**
 5. Click the download button, select a location and open the ARC.
 
-![w:700](./../../../images/arcitect/arcitect-download-talinumarc.png)
+![w:700](./../../../images/training-demo-talinum/arcitect-talinum-download-arc.png)
 
 :bulb: This is basically the ARC we created last session.
 
@@ -2713,7 +2713,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 <img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... **annotate the experimental data**
 
-![bg right:40% width:400](./../../../images/arcitect/arcitect-talinum-demo-arc.png)
+![bg right:40% width:400](./../../../images/training-demo-talinum/arcitect-talinum-demo-arc.png)
 
 ---
 
@@ -2839,7 +2839,7 @@ Click the <kbd>Update Ontology Terms</kbd> quick access buttons.
 
 At this point. Your table should look similar to this:
 
-![w:1000](./../../../images/demo-isa.study1.png)
+![w:1000](./../../../images/training-demo-talinum/demo-isa-study.png)
 
 ---
 

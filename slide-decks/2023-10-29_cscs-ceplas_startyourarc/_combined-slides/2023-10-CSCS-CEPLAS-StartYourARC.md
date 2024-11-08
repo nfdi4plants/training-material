@@ -411,13 +411,13 @@ Please install the latest version of the ARCitect: https://github.com/nfdi4plant
 
 https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZlS_Kzf7psk-5w-xg?e=u0sADd
 
-![bg right w:600](./../../../images/demo-data-download.png)
+![bg right w:600](./../../../images/training-demo-talinum/demo-data-download.png)
 
 ---
 
 ## You just received your data
 
-![bg right width:400](./../../../images/demo-data-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -464,7 +464,7 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 
 💡 Avoid spaces in your ARC's name
 
-![bg right:30% w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis.png)
+![bg right:30% w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis.png)
 
 ---
 
@@ -475,7 +475,7 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 3. Add a description
 4. Click "Update" to save your changes
 
-![bg right w:700](./../../../images/arcitect/arcitect-talinumphotosynthesis-investigationmetadata.png)
+![bg right w:700](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationmetadata.png)
 
 ---
 
@@ -485,13 +485,13 @@ In the section "People" click "ADD PERSON" to add at least one contributor
 
 <br>
 
-![w:1000](./../../../images/arcitect/arcitect-talinumphotosynthesis-addperson.png)
+![w:1000](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-addperson.png)
 
 ---
 
 # Add contributor details
 
-![bg right w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis-investigationperson.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationperson.png)
 
 :bulb: For each person that you add, make sure to add
 - First Name
@@ -505,7 +505,7 @@ In the section "People" click "ADD PERSON" to add at least one contributor
 
 by clicking "Add Study" and entering **talinum_drought** as identifier for the study
 
-![bg right w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis-study.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-study.png)
 
 ---
 
@@ -518,13 +518,13 @@ In the study panel you can add
 - publications
 - data process information
 
-![bg right w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis-studypanel.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-studypanel.png)
 
 ---
 
 # Add a protocol to the study
 
-![bg right w:500](../../../images/arcitect/arcitect-talinumphotosynthesis-study-protocol.png)
+![bg right w:500](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-study-protocol.png)
 
 Click "Add Protocol" in the sidebar to add a protocol to the study
 
@@ -551,7 +551,7 @@ From the demo data, transfer the lab notes stored in `plant_material.txt` to the
 
 Click "Add Assay" in the sidebar
 
-![bg right:45% w:500](../../../images/arcitect/arcitect-talinumphotosynthesis-addassay.png)
+![bg right:45% w:500](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-addassay.png)
 
 
 ---
@@ -561,7 +561,7 @@ Click "Add Assay" in the sidebar
 1. Enter **rnaseq** as the identifier
 2. Link the assay to the study **talinum_drought**
 
-![bg right:45%  w:600](./../../../images/arcitect/arcitect-talinumphotosynthesis-assay2.png)
+![bg right:45%  w:600](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay2.png)
 
 ---
 
@@ -576,7 +576,7 @@ In the assay panel you can
    - technology platform.
 3. add data process information
 
-![bg right w:500](./../../../images/arcitect/arcitect-talinumphotosynthesis-assaypanel.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assaypanel.png)
 
 
 ---
@@ -598,7 +598,7 @@ In the file tree you can
   - **add a dataset** and 
   - **protocols** associated with that dataset
 
-![bg right:40% w:400](../../../images/arcitect/arcitect-talinumphotosynthesis-assay3.png)
+![bg right:40% w:400](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay3.png)
 
 ---
 
@@ -607,8 +607,8 @@ In the file tree you can
 1. Cick "Add Dataset"
 2. Select the *.fastq.gz files from the demo data
 
-![bg right w:300](../../../images/arcitect/arcitect-talinumphotosynthesis-assay4.png)
-![bg right w:300](../../../images/arcitect/arcitect-talinumphotosynthesis-assay5.png)
+![bg right w:300](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay4.png)
+![bg right w:300](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay5.png)
 
 ---
 
@@ -620,7 +620,7 @@ From the demo data, import the lab notes related to the `rnaseq` assay:
   - Illumina_libraries.txt
   - NGS_SampleSheet.xlsx
 
-![bg right w:500](../../../images/arcitect/arcitect-talinumphotosynthesis-assay6.png)
+![bg right w:500](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay6.png)
 
 ---
 
@@ -831,7 +831,7 @@ object-position: 100% 45%;
    1. Add a "commit message"
    2. Upload your changes to the DataHUB
 
-![bg right:40% w:400](../../../images/arcitect/arcitect-talinumphotosynthesis-assay3.png)
+![bg right:40% w:400](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay3.png)
 
 ---
 
@@ -840,7 +840,7 @@ object-position: 100% 45%;
 1. Navigate to Versions
 2. Check the History panel at the bottom
 
-![w:650](./../../../images/arcitect/arcitect-talinumphotosynthesis-history.png)
+![w:650](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-history.png)
 
 ---
 
@@ -864,7 +864,7 @@ section p br {
 <br>
 🌐 Shared with collaborators
 
-![bg right width:400](./../../../images/demo-arc-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -1511,7 +1511,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 4. Search for **Talinum-CAM-Photosynthesis**
 5. Click the download button, select a location and open the ARC.
 
-![w:700](./../../../images/arcitect/arcitect-download-talinumarc.png)
+![w:700](./../../../images/training-demo-talinum/arcitect-talinum-download-arc.png)
 
 :bulb: This is basically the ARC we created last session.
 
@@ -1529,7 +1529,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 <img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... **annotate the experimental data**
 
-![bg right:40% width:400](./../../../images/arcitect/arcitect-talinum-demo-arc.png)
+![bg right:40% width:400](./../../../images/training-demo-talinum/arcitect-talinum-demo-arc.png)
 
 ---
 
@@ -1655,7 +1655,7 @@ Click the <kbd>Update Ontology Terms</kbd> quick access buttons.
 
 At this point. Your table should look similar to this:
 
-![w:1000](./../../../images/demo-isa.study1.png)
+![w:1000](./../../../images/training-demo-talinum/demo-isa-study.png)
 
 ---
 

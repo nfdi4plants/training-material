@@ -87,7 +87,7 @@ git clone "https://demo-user:1_eznikmzxzARAbUxxnF@git.nfdi4plants.org/teaching/d
 
 ## You just received your data
 
-![bg right width:400](./../../images/demo-data-screenshot.png)
+![bg right width:400](./../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -182,7 +182,7 @@ arc sync -f -r https://git.nfdi4plants.org/<username>/arc-demo
 
 Identify "raw dataset(s)" and "protocols" and move them to the proper subfolders in the ARC.
 
-![bg right w:500](./../../images/demo-data-screenshot.png)
+![bg right w:500](./../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -205,8 +205,8 @@ Navigate to `https://git.nfdi4plants.org/<username>/arc-demo` to visit your ARC 
 
 ## Your ARC is ready
 
-![bg 80% right:75%](./../../images/demo-data-screenshot.png)
-![bg 80%](./../../images/demo-arc-screenshot.png)
+![bg 80% right:75%](./../../images/training-demo-talinum/demo-data-screenshot.png)
+![bg 80%](./../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 

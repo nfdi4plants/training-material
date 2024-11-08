@@ -46,7 +46,7 @@ author:
 5. Click the download button, select a location and open the ARC.
 6. Open the downloaded ARC
 
-![w:700](./../../images/arcitect/arcitect-download-talinumarc.png)
+![w:700](./../../images/training-demo-talinum/arcitect-talinum-download-arc.png)
 
 :bulb: This is basically the ARC we created in the last session.
 
@@ -169,7 +169,7 @@ Use double pointed quotation mark to un-hide hidden columns.
 
 At this point. Your table should look similar to this:
 
-![w:1000](./../../images/demo-isa.study1.png)
+![w:1000](./../../images/training-demo-talinum/demo-isa-study.png)
 
 
 

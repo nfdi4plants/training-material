@@ -43,13 +43,13 @@ Please install version **v0.0.31** (or later) of the ARCitect: https://github.co
 
 https://uni-duesseldorf.sciebo.de/s/C7ms3QA6q7OZnU2 
 
-![bg right w:600](./../../images/demo-data-download.png)
+![bg right w:600](./../../images/training-demo-talinum/demo-data-download.png)
 
 ---
 
 # Sort Demo data in an ARC
 
-![bg right width:400](./../../images/demo-data-screenshot.png)
+![bg right width:400](./../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ![width:900](./../../images/arc-fillwithdata-experimental.png)
 
@@ -84,20 +84,20 @@ https://uni-duesseldorf.sciebo.de/s/C7ms3QA6q7OZnU2
 💡 Make sure that no ARC exists at  `https://git.nfdi4plants.org/<YourUserName>/<YourARC>`. Otherwise you will sync to that ARC.
 
 
-![bg right:30% w:500](./../../images/arcitect/arcitect-talinumphotosynthesis.png)
+![bg right:30% w:500](./../../images/training-demo-talinum/arcitect-talinumphotosynthesis.png)
 
 ---
 
 # Add a description to your investigation
 
-![w:900](./../../images/arcitect/arcitect-talinumphotosynthesis-investigationmetadata.png)
+![w:900](./../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationmetadata.png)
 
 ---
 
 # Add a contributor
 
 
-![bg right w:600](./../../images/arcitect/arcitect-talinumphotosynthesis-investigationperson.png)
+![bg right w:600](./../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationperson.png)
 - you could also add the contacts directly via ORCID
 ---
 
@@ -107,7 +107,7 @@ by clicking "Add Study" and entering an identifier for your study
 
 Use **talinum_drought** as an identifier
 
-![bg right w:500](./../../images/arcitect/arcitect-talinumphotosynthesis-study.png)
+![bg right w:500](./../../images/training-demo-talinum/arcitect-talinumphotosynthesis-study.png)
 
 ---
 
@@ -120,7 +120,7 @@ In the study panel you can add
 - publications
 - data process information
 
-![bg right w:500](./../../images/arcitect/arcitect-talinumphotosynthesis-studypanel.png)
+![bg right w:500](./../../images/training-demo-talinum/arcitect-talinumphotosynthesis-studypanel.png)
 <!-- TODO show connected assays -->
 ---
 
@@ -130,7 +130,7 @@ In the study panel you can add
 by clicking "Add Assay" and entering an identifier for your assay
 
 Add two assays with **rnaseq** and **metabolomics** as an identifier
-![bg right w:500](./../../images/arcitect/arcitect-talinumphotosynthesis-assay.png)
+![bg right w:500](./../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay.png)
 
 ---
 
@@ -143,7 +143,7 @@ You can either
 Link your assays to your **talinum_drought** study
 
 
-![bg right w:500](./../../images/arcitect/arcitect-talinumphotosynthesis-assay2.png)
+![bg right w:500](./../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay2.png)
 
 ---
 
@@ -154,7 +154,7 @@ In the assay panel you can define the assay's
  - technology type, and
  - technology platform
 
-![bg right w:600](./../../images/arcitect/arcitect-talinumphotosynthesis-assaypanel.png)
+![bg right w:600](./../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assaypanel.png)
 
 ---
 
@@ -274,7 +274,7 @@ section p br {
 <br>
 🌐 Shared with collaborators
 
-![bg right width:400](./../../images/demo-arc-screenshot.png)
+![bg right width:400](./../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 

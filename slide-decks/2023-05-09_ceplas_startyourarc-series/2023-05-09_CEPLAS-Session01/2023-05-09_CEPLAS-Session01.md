@@ -236,7 +236,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ## You just received your data
 
-![bg right width:400](./../../../images/demo-data-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -350,8 +350,8 @@ arc assay add -s talinum_drought -a metabolomics
 
 ## Your ARC is ready
 
-![bg 80% right:75%](./../../../images/demo-data-screenshot.png)
-![bg 80%](./../../../images/demo-arc-screenshot.png)
+![bg 80% right:75%](./../../../images/training-demo-talinum/demo-data-screenshot.png)
+![bg 80%](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -375,7 +375,7 @@ section p br {
 <br>
 🌐 Shared with collaborators
 
-![bg right width:400](./../../../images/demo-arc-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 
 <!-- ## Outlook

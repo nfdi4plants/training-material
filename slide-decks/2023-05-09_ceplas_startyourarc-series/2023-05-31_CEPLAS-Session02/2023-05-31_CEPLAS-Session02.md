@@ -164,7 +164,7 @@ arc sync -r https://git.nfdi4plants.org/<username>/arc-demo
 
 Identify "raw dataset(s)" and "protocols" and move them to the proper subfolders in the ARC.
 
-![bg right w:500](./../../../images/demo-data-screenshot.png)
+![bg right w:500](./../../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ## Sync your ARC to the DataHUB
 
