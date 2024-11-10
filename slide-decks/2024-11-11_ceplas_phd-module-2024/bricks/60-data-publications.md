@@ -150,27 +150,14 @@ Domain-specific >> Generic >> Institutional
 
 # From ARC to repositories
 
-<style scoped>
-
-section p img {
-width: 1000px;
-height: 400px;
-object-fit: cover;
-object-position: 100% 80%;
-/* display: block; */;
-}
-</style>
-
-![](https://www.nfdi4plants.org/nfdi4plants.knowledgebase/docs../images/arc-repository03-img1.png)
+![w:900](../../../images/data-publications/publication-outlets.svg)
 
 ---
 
 # Moving from paper to data publications
 
-![w:400px](https://www.nfdi4plants.org/nfdi4plants.knowledgebase/docs../images/dataplant-landingpage-mission.svg)
 
-
-![](../../../nfdi4plants.knowledgebase/src/assets/images/guides/)
+![w:900px](../../../images/data-publications/publication-fair-data-publication.svg)
 
 ---
 
@@ -183,7 +170,7 @@ object-position: 100% 80%;
 
 # Publish your ARC with a few clicks
 
-![w:900px](https://www.nfdi4plants.org/nfdi4plants.knowledgebase/docs../images/data-publication/cqc-results.png)
+![w:900px](../../../nfdi4plants.knowledgebase/src/assets/images/data-publications/cqc-results.png)
 
 ---
 
@@ -207,4 +194,4 @@ object-position: 100% 80%;
 
 # Receive a DOI
 
-![w:800px](https://www.nfdi4plants.org/nfdi4plants.knowledgebase/docs/img/data-publication/doi-accession.png)
+![w:800px](../../../nfdi4plants.knowledgebase/src/assets/images/data-publications/doi-accession.png)
