@@ -11,7 +11,7 @@ author:
   orcid: https://orcid.org/0000-0001-9021-3197
 ---
 
-# DataPLANT &ndash; <br>The NFDI4Plants
+# DataPLANT &ndash; The NFDI4Plants
 
 ![bg right:50% width:500px](./../../../images/dataplant-taskareas.svg)
 
@@ -175,29 +175,31 @@ Your entire investigation in a single unified bag
 
 ---
 
-# ARC builds on standards
-
-<div class="two-columns">
-  <div>
+# ARC builds on standards <!-- fit -->
   
-  ![w:500](./../../../images/arc-buildsonstandards3.png)
-  
-  </div>
-  <div>
-  
-  - RO-Crate: standardized exchange
-  - ISA: structured, machine-readable metadata
-  - CWL: reproducible, re-usable data analysis
-  - Git: version control
-  
-  </div>
-</div>
+![bg left w:600](./../../../images/arc-buildsonstandards3.png)
 
-<span class="footer-reference">https://isa-tools.org/ | https://www.commonwl.org/
-https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
+<div style="font-size:0.7em">
 
+##### RO-Crate
 
+- standardized exchange
+- https://www.researchobject.org/ro-crate/ 
 
+##### ISA
+ 
+ - structured, machine-readable metadata
+ - https://isa-tools.org/
+
+##### CWL
+
+- reproducible, re-usable data analysis 
+- https://www.commonwl.org/
+
+##### Git
+
+- version control
+- https://git-scm.com
 
 ---
 
@@ -215,5 +217,3 @@ The ARC is a **data-centric** approach to RDM
 ![w:1000](./../../../images/arc-tool-assistance.drawio.png)
 
 (Meta)data transparency with tool assistance but **no technical lock-in**
-
----
