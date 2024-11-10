@@ -43,7 +43,7 @@ ARC services are available as on-premise option
   <div>
   
   ![](./../../../images/ceplas/ceplas-policy-title.png)
-  
+
   </div>
   <div>
   
@@ -51,3 +51,5 @@ ARC services are available as on-premise option
   
   </div>
 </div>
+
+The policy is available via [CEPLAS intranet](https://www.ceplas.eu/en/intranet/overview)
