@@ -1,8 +1,8 @@
-# DataPLANT Training Materials
+# DataPLANT Training Material
 
-Welcome to the DataPLANT Training Materials.
+Welcome to the DataPLANT Training Material.
 
-Here you can find training materials of previous workshops and classes.
+Here you can find training material of previous workshops and classes.
 
 Check out the [DataPLANT Knowledge Base](https://nfdi4plants.org/nfdi4plants.knowledgebase/) for up-to-date guides and tutorials.
 
