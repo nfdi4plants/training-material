@@ -31,3 +31,7 @@ Participant01 | Participant02
 Participant02 | Participant03
 … | …
 Participant n | Participant n+1
+
+---
+
+# Let's discuss your findings
