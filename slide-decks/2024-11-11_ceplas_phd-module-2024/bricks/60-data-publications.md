@@ -169,10 +169,8 @@ object-position: 100% 80%;
 
 ![w:400px](https://www.nfdi4plants.org/nfdi4plants.knowledgebase/docs../images/dataplant-landingpage-mission.svg)
 
-<!-- 
-![w:800px](https://www.nfdi4plants.org/nfdi4plants.knowledgebase/docs../images/fairdata-classicalpublication.svg)
 
---- -->
+![](../../../nfdi4plants.knowledgebase/src/assets/images/guides/)
 
 ---
 
