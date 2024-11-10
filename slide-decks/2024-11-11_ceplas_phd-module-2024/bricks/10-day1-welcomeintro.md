@@ -16,7 +16,8 @@ author:
 <!-- _paginate: false -->
 <style scoped>section {background: none; background-color: white;}</style>
 
-*part of M4468 &ndash; Plant developmental genetics, evolution<br>and biostatistics in the CEPLAS research program*
+*part of M4468 &ndash; Plant developmental genetics, evolution  
+and biostatistics in the CEPLAS research program*
 
 November 10<sup>th</sup>, 2024
 
@@ -40,42 +41,6 @@ Pad: https://pad.hhu.de/0NdPKO5LQ5CHBRN2iuG91Q
 # Materials
 
 Slides will be shared via DataPLANT knowledge base and the Sciebo folder
-
----
-
-# Tentative agenda
-
-<div class="two-columns">
-  <div>
-  
-  ## Day 1
-  
-  Time | Topics
-  -------- | --------
-  09:30 - 10:45 | Intro to RDM and ARC
-  10:45 - 11:00 | *Short break*
-  11:00 - 12:00 | ARC Hands-on
-  12:30 - 13:30 | *Lunch*
-  13:00 - 15:30 | Data storage and sharing
-  15:30 - 16:00 | Wrap-up
-  
-  </div>
-  <div>
-  
-  ## Day 2
-  
-  Time | Topics
-  -------- | --------
-  09:30 - 10:30 | ARC Feedback session
-  10:30 - 10:45 | *Short break*
-  10:45 - 12:00 | ISA and Metadata
-  12:30 - 13:30 | *Lunch*
-  13:00 - 15:00 | Hands-on Swate
-  15:00 - 15:30 | ARC ecosystem: Additional features
-  15:30 - 16:00 | Wrap-up
-  
-  </div>
-</div>
 
 ---
 

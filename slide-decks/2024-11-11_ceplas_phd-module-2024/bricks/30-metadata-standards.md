@@ -584,11 +584,18 @@ LIVE-Demo
 
 ---
 
+# ARC builds on standards
+
+![w:600](../../../images/arc-buildsonstandards3.png)
+
+---
+
 # ARC builds on ISA
 
 ![w:900](./../../../images/isamodel-arc01-img01.svg)
 
 <https://isa-tools.org/format/specification.html>
+
 
 ---
 
@@ -608,12 +615,6 @@ LIVE-Demo
 ---
 
 # Annotation principle
-
-<!-- <style scoped>
-section p img{
-  /* padding-left: 230px */
-}  
-</style> -->
 
 ![w:650](./../../../images/swate-parentchildterm2.svg)
 
