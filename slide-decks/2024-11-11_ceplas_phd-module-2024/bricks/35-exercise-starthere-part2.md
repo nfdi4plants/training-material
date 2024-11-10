@@ -5,11 +5,7 @@ paginate: true
 title: Hands-on
 ---
 
-# Hands-on part 2: ARCitect (and Swate)
-
-Follow the **Start Here** guide in the DataPLANT knowledge base.
-
-Until "Data analysis"
+## Hands-on part 2: ARCitect (and Swate)
 
 ---
 
@@ -141,3 +137,11 @@ Facilities can define their most common workflows as templates
 ## Use CWL to wrap your workflow
 
 ![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
+
+---
+
+## Hands-on part 2: ARCitect (and Swate)
+
+Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+
+:pencil: Until step **Data analysis**
