@@ -41,7 +41,7 @@ Dominik Brilhaus, [CEPLAS Data Science](https://www.ceplas.eu/en/research/data-s
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../images/arc-datacentricintegration-img1.png)
+![width:950](./../../images/arc-datacentricintegration.svg)
 
 ---
 

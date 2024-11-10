@@ -442,28 +442,28 @@ https://git.nfdi4plants.org
 
 # Example ARC DataHUB - project overview
 
-![w:800](./images/datahub-project-overview.png)
+![w:800](./images/datahub/datahub-project-overview.png)
 
 
 ---
 
 # Example ARC DataHUB - ARC overview
 
-![w:800](./images/datahub-arc-root.png)
+![w:800](./images/datahub/datahub-arc-root.png)
 
 
 ---
 
 # Example ARC DataHUB - assay protocols
 
-![w:800](./images/datahub-arc-assay-protocols.png)
+![w:800](./images/datahub/datahub-arc-assay-protocols.png)
 
 
 ---
 
 # Example ARC DataHUB - protocol detail
 
-![w:800](./images/datahub-arc-study-protocol-view.png)
+![w:800](./images/datahub/datahub-arc-study-protocol-view.png)
 
 
 ---

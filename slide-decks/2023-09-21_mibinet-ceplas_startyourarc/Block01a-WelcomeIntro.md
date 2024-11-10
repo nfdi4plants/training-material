@@ -158,49 +158,49 @@ Time | Topics
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/researchdatalifecycle-seq1.png)
+![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq1.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/researchdatalifecycle-seq2.png)
+![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq2.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/researchdatalifecycle-seq3.png)
+![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq3.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/researchdatalifecycle-seq4.png)
+![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq4.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/researchdatalifecycle-seq5.png)
+![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq5.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/researchdatalifecycle-seq6.png)
+![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq6.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/researchdatalifecycle-seq7.png)
+![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq7.png)
 
 ---
 
 # The Research Data Lifecycle ***is mutable***
 
-![h:500](./../../images/researchdatalifecycle-seq9.png)
+![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
 
 ---
 
@@ -246,7 +246,7 @@ object-fit: cover;
 }
 </style>
 
-![](./../../images/fair-benefits.png)
+![](./../../images/ceplas/fair-benefits.png)
 
 ---
 
@@ -322,13 +322,13 @@ object-fit: cover;
 
 # Scattered Data Silos
 
-![w:900](././../../images/data-fragmentation-ceplas.png)
+![w:900](././../../images/ceplas/ceplas-data-fragmentation.png)
 
 ---
 
 # Scattered Data Silos
 
-![w:900](././../../images/data-fragmentation-ceplas-mibinet-trr.png)
+![w:900](././../../images/ceplas/ceplas-data-fragmentation-mibinet-trr.png)
 
 ---
 
@@ -344,4 +344,4 @@ object-fit: cover;
 }
 </style>
 
-![](./../../images/fair-unfair-stories.png)
+![](./../../images/ceplas/fair-unfair-stories.png)

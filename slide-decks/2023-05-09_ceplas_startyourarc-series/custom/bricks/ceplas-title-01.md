@@ -15,7 +15,7 @@ title: CEPLAS title
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-![bg fit](./images/background-title-ceplas.drawio.svg)
+![bg fit](./images/ceplas/ceplas-background-title.drawio.svg)
 
 Session 01 - Introduction to the ARC (demo)
 May 9th, 2023

@@ -22,7 +22,7 @@ TODO
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../images/dataplant-collaborationceplas.drawio.png)
+![w:880](./../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 
@@ -180,7 +180,7 @@ Facilities and labs can define their common workflows as templates
   
   </div><div>
   
-  ![](./../../images/ceplas-enablingplatforms.drawio.png)
+  ![](./../../images/ceplas/ceplas-enablingplatforms.drawio.png)
   
   </div>
 </div>
@@ -299,6 +299,6 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../images/datahub-gitlab.drawio.png) 
+![](./../../images/datahub/datahub-gitlab.drawio.png) 
 
 -->

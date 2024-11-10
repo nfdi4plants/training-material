@@ -21,13 +21,13 @@ TODO
 -->
 # MibiNet connection to NFDIs
 
-![](../../images/connection-nfdi.drawio.png)
+![](../../images/ceplas/ceplas-nfdi-connection.drawio.png)
 
 ---
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../images/dataplant-big-collaboration.drawio.png)
+![w:880](./../../images/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)
 
 ---
 
@@ -185,7 +185,7 @@ Facilities and labs can define their common workflows as templates
   
   </div><div>
   
-  ![](./../../images/ceplas-enablingplatforms.drawio.png)
+  ![](./../../images/ceplas/ceplas-enablingplatforms.drawio.png)
   
   </div>
 </div>
@@ -304,6 +304,6 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../images/datahub-gitlab.drawio.png) 
+![](./../../images/datahub/datahub-gitlab.drawio.png) 
 
 -->

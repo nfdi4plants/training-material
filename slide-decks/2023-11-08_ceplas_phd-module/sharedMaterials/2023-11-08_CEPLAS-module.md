@@ -21,7 +21,7 @@ author:
 November 8th and 9th, 2023
 Dominik Brilhaus, CEPLAS Data Science
 
-![bg fit](./../../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -36,7 +36,7 @@ Dominik Brilhaus, CEPLAS Data Science
 
 Dominik Brilhaus, [CEPLAS Data Science](https://www.ceplas.eu/en/research/data-science-and-data-management/)
 
-![bg fit](./../../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -201,7 +201,7 @@ GitHub: <a href="https://github.com/nfdi4plants" target="_blank">https://github.
 November 8<sup>th</sup>, 2023
 Dominik Brilhaus, CEPLAS Data Science
 
-![bg fit](./../../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -291,49 +291,49 @@ Time | Topics
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq1.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq1.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq2.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq2.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq3.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq3.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq4.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq4.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq5.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq5.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq6.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq6.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/researchdatalifecycle-seq7.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq7.png)
 
 ---
 
 # The Research Data Lifecycle ***is mutable***
 
-![h:500](./../../../images/researchdatalifecycle-seq9.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
 
 ---
 
@@ -362,7 +362,7 @@ object-fit: cover;
 }
 </style>
 
-![](./../../../images/fair-benefits.png)
+![](./../../../images/ceplas/fair-benefits.png)
 
 ---
 
@@ -439,13 +439,13 @@ object-fit: cover;
 
 # Scattered Data Silos
 
-![w:900](./../../../images/data-fragmentation-ceplas.png)
+![w:900](./../../../images/ceplas/ceplas-data-fragmentation.png)
 
 ---
 
 # Scattered Data Silos
 
-![w:900](./../../../images/data-fragmentation-ceplas-mibinet-trr.png)
+![w:900](./../../../images/ceplas/ceplas-data-fragmentation-mibinet-trr.png)
 
 ---
 
@@ -461,7 +461,7 @@ object-fit: cover;
 }
 </style>
 
-![](./../../../images/fair-unfair-stories.png)
+![](./../../../images/ceplas/fair-unfair-stories.png)
 
 --- 
 
@@ -523,13 +523,13 @@ Participant n | Participant n+1
 
 # Data Stewardship between DataPLANT and the community  <!-- fit -->
 
-![w:880](./../../../images/dataplant-collaborationceplas.drawio.png)
+![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../../images/arc-datacentricintegration-img1.png)
+![width:950](./../../../images/arc-datacentricintegration.svg)
 
 ---
 
@@ -680,7 +680,7 @@ git clone "https://demo-user:1_eznikmzxzARAbUxxnF@git.nfdi4plants.org/teaching/d
 
 ## You just received your data
 
-![bg right width:400](./../../../images/demo-data-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -775,7 +775,7 @@ arc sync -f -r https://git.nfdi4plants.org/<username>/arc-demo
 
 Identify "raw dataset(s)" and "protocols" and move them to the proper subfolders in the ARC.
 
-![bg right w:500](./../../../images/demo-data-screenshot.png)
+![bg right w:500](./../../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -798,8 +798,8 @@ Navigate to `https://git.nfdi4plants.org/<username>/arc-demo` to visit your ARC 
 
 ## Your ARC is ready
 
-![bg 80% right:75%](./../../../images/demo-data-screenshot.png)
-![bg 80%](./../../../images/demo-arc-screenshot.png)
+![bg 80% right:75%](./../../../images/training-demo-talinum/demo-data-screenshot.png)
+![bg 80%](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -838,13 +838,13 @@ Please install version **v0.0.10** of the ARCitect: https://github.com/nfdi4plan
 
 https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZlS_Kzf7psk-5w-xg?e=u0sADd
 
-![bg right w:600](./../../../images/demo-data-download.png)
+![bg right w:600](./../../../images/training-demo-talinum/demo-data-download.png)
 
 ---
 
 # Sort Demo data in an ARC
 
-![bg right width:400](./../../../images/demo-data-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ![width:900](./../../../images/arc-fillwithdata-experimental.png)
 
@@ -854,13 +854,13 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 
 
 1. Login to DataHUB (1)
-   ![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+   ![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
 # Initiate the ARC folder structure
 
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 1. Create a **New ARC** (2)
 2. Select a location and name it **TalinumPhotosynthesis**
@@ -880,20 +880,20 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 
 💡Don't use spaces in ARC's name
 
-![bg right:30% w:500](./../../../images/arcitect-talinumphotosynthesis.png)
+![bg right:30% w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis.png)
 
 ---
 
 # Add a description to your investigation
 
-![w:800](./../../../images/arcitect-talinumphotosynthesis-investigationmetadata.png)
+![w:800](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationmetadata.png)
 
 ---
 
 # Add a contributor
 
 
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-investigationperson.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationperson.png)
 
 ---
 
@@ -903,7 +903,7 @@ by clicking "Add Study" and entering an identifier for your study
 
 Use **talinum_drought** as an identifier
 
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-study.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-study.png)
 
 ---
 
@@ -916,7 +916,7 @@ In the study panel you can add
 - publications
 - data process information
 
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-studypanel.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-studypanel.png)
 
 ---
 
@@ -926,7 +926,7 @@ In the study panel you can add
 by clicking "Add Assay" and entering an identifier for your assay
 
 Add two assays with **rnaseq** and **metabolomics** as an identifier
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-assay.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay.png)
 
 ---
 
@@ -939,7 +939,7 @@ You can either
 Link your assays to your **talinum_drought** study
 
 
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-assay2.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay2.png)
 
 ---
 
@@ -954,7 +954,7 @@ In the assay panel you can
    - technology platform.
 3. add data process information
 
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-assaypanel.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assaypanel.png)
 
 ---
 
@@ -964,7 +964,7 @@ You can either
 - directly write a **new protocol** within the ARCitect or
 - import an existing one from your computer
 
-![w:800](./../../../images/arcitect-arcpanel-protocol.png)
+![w:800](./../../../images/arcitect/arcitect-arcpanel-protocol.png)
 
 ---
 
@@ -980,7 +980,7 @@ In the file tree you can
 
 <!-- Demo dataset cannot be added via add dataset. Only individual files can be added, not multiple folders -->
 
-![bg right:40% w:400](./../../../images/arcitect-arcpanel-assay03.png)
+![bg right:40% w:400](./../../../images/arcitect/arcitect-arcpanel-assay03.png)
 
 ---
 
@@ -998,7 +998,7 @@ Click **Login** (1) in the sidebar to login to the DataHUB.
 
 :bulb: This automatically opens your browser at the DataHUB (https://git.nfdi4plants.org) and asks you to login, if you are not already logged in. 
 
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -1006,7 +1006,7 @@ Click **Login** (1) in the sidebar to login to the DataHUB.
 
 From the sidebar, navigate to **Versions** (6)
 
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -1017,7 +1017,7 @@ The versions panel allows you to
 - sync the changes to the DataHUB, and
 - check the history of your ARC
 
-![bg right w:650](./../../../images/arcitect-versionspanel.png)
+![bg right w:650](./../../../images/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -1027,7 +1027,7 @@ If you are logged in, the versions panel shows
 - your DataHUB's *Full Name* and *eMail*
 - the URL of the current ARC in the DataHUB `https://git.nfdi4plants.org/<YourUserName>/<YourARC>`
 
-![bg right w:650](./../../../images/arcitect-versionspanel.png)
+![bg right w:650](./../../../images/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -1057,7 +1057,7 @@ section p br {
 <br>
 🌐 Shared with collaborators
 
-![bg right width:400](./../../../images/demo-arc-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -1065,7 +1065,7 @@ section p br {
 
 # Received two emails from "GitLab" about a failed pipeline? <!-- fit -->
 
-![w:600](./../../../images/cqc-error-email.png)
+![w:600](./../../../images/datahub-cqc/cqc-error-email.png)
 
 :fire: Don't worry :smile:
 
@@ -1073,7 +1073,7 @@ section p br {
 
 ## Pipeline Failed
 
-![bg right w:700](./../../../images/cqc-error-badges.png)
+![bg right w:700](./../../../images/datahub-cqc/cqc-error-badges.png)
 
 - a "continuous quality control" (CQC) pipeline validates your ARC
 - This fails if one of the following metadata items is missing:
@@ -1094,7 +1094,7 @@ section p br {
 
 If the pipeline has failed once, it is disabled by default
 
-![bg right w:500](./../../../images/cqc-error-email2.png)
+![bg right w:500](./../../../images/datahub-cqc/cqc-error-email2.png)
 
 ---
 
@@ -1111,7 +1111,7 @@ To reactivate it and let the DataHUB validate your ARC again:
   3. check box "Default to Auto DevOps pipeline"
   4. Save changes
 
-![bg right:60% w:600](./../../../images/cqc-activate-autodevops.png)
+![bg right:60% w:600](./../../../images/datahub-cqc/cqc-activate-autodevops.png)
 
 ---
 
@@ -1143,7 +1143,7 @@ Slides presented here include contributions by
 
 # Data stores
 
-![w:900](./../../../images/data-stores.drawio.svg)
+![w:900](./../../../images/teaching-storage-backup/data-stores.drawio.svg)
 
 ---
 
@@ -1163,7 +1163,7 @@ Slides presented here include contributions by
 
 # 3-2-1 backup rule
 
-![w:800](./../../../images/3-2-1-backup-rule.drawio.svg)
+![w:800](./../../../images/teaching-storage-backup/3-2-1-backup-rule.drawio.svg)
 
 ---
 
@@ -1229,7 +1229,7 @@ things you use and ignore
 
 # Cloud Services
 
-![bg right:50% w:800](./../../../images/datasharing-cloud-img6.png)
+![bg right:50% w:800](./../../../images/teaching-git/datasharing-cloud.png)
 
 <span style="color:#B4CE82">✓ Documents</span>  
 <span style="color:#B4CE82">✓ Small data</span>  
@@ -1266,31 +1266,31 @@ things you use and ignore
 
 # A simple example: RNASeq project
 
-![w:900](./../../../images/git-rnaseq-example-img1.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img1.png)
 
 ---
 
 # A simple example: RNASeq project
 
-![w:900](./../../../images/git-rnaseq-example-img2.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img2.png)
 
 ---
 
 # A simple example: RNASeq project
 
-![w:900](./../../../images/git-rnaseq-example-img3.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img3.png)
 
 ---
 
 # A simple example: RNASeq project
 
-![w:900](./../../../images/git-rnaseq-example-img4.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img4.png)
 
 ---
 
 # A simple example: RNASeq project
 
-![w:900](./../../../images/git-rnaseq-example-img5.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img5.png)
 
 ---
 
@@ -1298,7 +1298,7 @@ things you use and ignore
 
 (... as long as it works)
 
-![w:900](./../../../images/git-rnaseq-example-img6.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img6.png)
 
 ---
 
@@ -1306,85 +1306,85 @@ things you use and ignore
 
 (... as long as it works)
 
-![w:900](./../../../images/git-rnaseq-example-img7.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img7.png)
 
 ---
 
 # Scenario 1: More data
 
-![w:900](./../../../images/git-rnaseq-example-img8.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img8.png)
 
 ---
 
 # Scenario 1: More data
 
-![w:900](./../../../images/git-rnaseq-example-img9.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img9.png)
 
 ---
 
 # Scenario 1: More data
 
-![w:900](./../../../images/git-rnaseq-example-img10.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img10.png)
 
 ---
 
 # Let git track changes and keep things clean
 
-![w:900](./../../../images/git-rnaseq-example-img11.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img11.png)
 
 ---
 
 # Scenario 2: Pipeline breaks
 
-![w:900](./../../../images/git-rnaseq-example-img12.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img12.png)
 
 ---
 
 # Revert to snapshot
 
-![w:900](./../../../images/git-rnaseq-example-img13.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img13.png)
 
 ---
 
 # Scenario 3: New project, same type of data and analysis
 
-![w:900](./../../../images/git-rnaseq-example-img14.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img14.png)
 
 ---
 
 # Scenario 3: New project, same type of data and analysis
 
-![w:900](./../../../images/git-rnaseq-example-img15.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-example-img15.png)
 
 ---
 
 # Re-use code
 
-![w:900](./../../../images/git-rnaseq-reusecode-img1.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-reusecode-img1.png)
 
 ---
 
 # Re-use code
 
-![w:900](./../../../images/git-rnaseq-reusecode-img2.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-reusecode-img2.png)
 
 ---
 
 # Re-use code – People have done this
 
-![w:900](./../../../images/git-rnaseq-reusecode-img3.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-reusecode-img3.png)
 
 ---
 
 # Re-use code – People have done this
 
-![w:900](./../../../images/git-rnaseq-reusecode-img4.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-reusecode-img4.png)
 
 ---
 
 # Re-use code – Link and contribute
 
-![w:900](./../../../images/git-rnaseq-reusecode-img5.png)
+![w:900](./../../../images/teaching-git/git-rnaseq-reusecode-img5.png)
 
 ---
 
@@ -1424,7 +1424,7 @@ Simplifies concurrent work & merging changes
 
 # Cloud vs. Git
 
-![w:1000](./../../../images/git-cloud-comparison.png)
+![w:1000](./../../../images/teaching-git/git-cloud-comparison.png)
 
 --- 
 
@@ -1458,7 +1458,7 @@ Slides presented here include contributions by
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../../images/datahub-gitlab.drawio.png)
+![](./../../../images/datahub/datahub-gitlab.drawio.png)
 
 ---
 
@@ -1537,7 +1537,7 @@ Slides presented here include contributions by
 
 # Navigation Bar
 
-![](./../../../images/datahub-navbar.drawio.svg)
+![](./../../../images/datahub/datahub-navbar.drawio.svg)
 
 1. navigate directly to the [projects panel](./../../../images/../../../../images/../../../../images/../DataHUB-Manual/datahub-Manual/datahub-projectsPanel.html) via the icon in the top-left (1)
 2. open the [hamburger Menu](#hamburger-menu) (2)
@@ -1549,10 +1549,10 @@ Slides presented here include contributions by
 # Hamburger Menu
 
 1. From the hamburger menu (1) you can
-2. navigate to the [projects](./../../../images/../../../../images/DataHUB-Manual/datahub-projectsPanel.html) (2)
+2. navigate to the [projects](./../../../images/../../../../images/datahub/datahub-Manual/datahub-projectsPanel.html) (2)
 3. or [groups](datahub-groupsPanel.html) (3) panels
 
-![bg right w:500](./../../../images/datahub-hamburgermenu.drawio.svg)
+![bg right w:500](./../../../images/datahub/datahub-hamburgermenu.drawio.svg)
 
 ---
 
@@ -1560,16 +1560,16 @@ Slides presented here include contributions by
 
 1. In the avatar menu (1) you can
 2. find your profile name and user name (2), 
-3. navigate to the [user settings](./../../../images/../../../../images/DataHUB-Manual/datahub-userSettings.html) (3) 
+3. navigate to the [user settings](./../../../images/../../../../images/datahub/datahub-Manual/datahub-userSettings.html) (3) 
 4. or sign out (4) of the DataHUB.
 
-![bg right w:500](./../../../images/datahub-avatarmenu.drawio.svg)
+![bg right w:500](./../../../images/datahub/datahub-avatarmenu.drawio.svg)
 
 ---
 
 # Projects Panel
 
-![](./../../../images/datahub-projectspanel.drawio.svg)
+![](./../../../images/datahub/datahub-projectspanel.drawio.svg)
 
 1. Choose a tab (1) to see only your ARCs, or explore other publicly available ARCs. 
 2. The main panel (2) lists all ARCs
@@ -1583,7 +1583,7 @@ Slides presented here include contributions by
 
 The ARC Panel is the main working area for your ARC.
 
-![w:1000](./../../../images/datahub-arc-overview.drawio.svg)
+![w:1000](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 ---
 
@@ -1591,7 +1591,7 @@ The ARC Panel is the main working area for your ARC.
 
 <style scoped> section {font-size: 23px;} </style>
 
-![bg right w:600](./../../../images/datahub-arc-overview.drawio.svg)
+![bg right w:600](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 1. access the project information (1), e.g. invite members to the ARC
 2. follow the progress of your ARC repository (2),
@@ -1605,7 +1605,7 @@ The ARC Panel is the main working area for your ARC.
 
 <style scoped> section {font-size: 23px;} </style>
 
-![bg right w:600](./../../../images/datahub-arc-overview.drawio.svg)
+![bg right w:600](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 6. see the ARC's name and visibility level (6),
 7. follow the ARC's commit history (7),
@@ -1631,31 +1631,31 @@ The ARC Panel is the main working area for your ARC.
 
 1. Click on **Project Information** in the left navigation panel
 
-![fit w:1050](./../../../images/datahub-members-seq2.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq2.png)
 
 ---
 
 2. Click on **Members**
 
-![fit w:1050](./../../../images/datahub-members-seq3.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq3.png)
 
 ---
 
 3. Click on **Invite members**
 
-![fit w:1050](./../../../images/datahub-members-seq4.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq4.png)
 
 ---
 
 4. Search for potential collaborators
 
-![fit w:1050](./../../../images/datahub-members-seq5.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq5.png)
 
 ---
 
 5. Select a role
 
-![fit w:1050](./../../../images/datahub-members-seq6.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq6.png)
 
 ---
 
@@ -1717,7 +1717,7 @@ object-position: 100% 45%;
 - share meeting minutes or ideas with collaboration partners
 - keep ARC clean of files that are not considered "research data"
 
-![bg right w:600](./../../../images/datahub-wiki.png)
+![bg right w:600](./../../../images/datahub/datahub-wiki.png)
 
 ---
 
@@ -1809,7 +1809,7 @@ section {
 }
 </style>
 
-![width:800px](./../../../images/feedback01-fivefinger.drawio.svg)
+![width:800px](./../../../images/teaching-toolbox/feedback01-fivefinger.drawio.svg)
 
 <!-- 
 - Invite participants to give feedback
@@ -1840,7 +1840,7 @@ section {
 November 10<sup>th</sup>, 2023
 Dominik Brilhaus, CEPLAS Data Science
 
-![bg fit](./../../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -2115,7 +2115,7 @@ Examples from [Minimum Information for Biological and Biomedical Investigations 
 
 # How does google "know"?!
 
-![w:800](./../../../images/googlecom-screenshot-kg.png)
+![w:800](./../../../images/teaching-ontologies/googlecom-screenshot-kg.png)
 
 ---
 
@@ -2322,7 +2322,7 @@ Alphabetically lists terms and their definitions
 
 Hierarchy or classification
 
-![bg right:60% w:780](./../../../images/ontologies-pizzaanalogy-seq1.png)
+![bg right:60% w:780](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq1.png)
 
 ---
 
@@ -2345,31 +2345,31 @@ Dictionary of synonyms and relations
 
 # The semantic triple
 
-![w:1000](./../../../images/ontologies-pizzaanalogy-seq2.png)
+![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq2.png)
 
 ---
 
 # Modeling a pizza menu
 
-![w:1000](./../../../images/ontologies-pizzaanalogy-seq3.png)
+![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq3.png)
 
 ---
 
 # Modeling a pizza menu
 
-![w:1000](./../../../images/ontologies-pizzaanalogy-seq4.png)
+![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq4.png)
 
 ---
 
 # Modeling a pizza menu
 
-![w:1000](./../../../images/ontologies-pizzaanalogy-seq5.png)
+![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq5.png)
 
 ---
 
 # Predicates have two directions
 
-![w:1000](./../../../images/ontologies-pizzaanalogy-seq6.png)
+![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq6.png)
 
 ---
 
@@ -2377,13 +2377,13 @@ Dictionary of synonyms and relations
 
 An object of one triplet can be the subject to another
 
-![w:1000](./../../../images/ontologies-pizzaanalogy-seq7.png)
+![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq7.png)
 
 ---
 
 # (Towards) a knowledge graph
 
-![w:1020](./../../../images/ontologies-pizzaanalogy-seq8.png)
+![w:1020](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq8.png)
 
 ---
 
@@ -2393,7 +2393,7 @@ An ontology can be queried:
 
 - *"name all pizzas with topping mushrooms"*
 
-![bg right w:1020](./../../../images/ontologies-pizzaanalogy-seq9.png)
+![bg right w:1020](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq9.png)
 
 <!-- 
 TODO: 
@@ -2682,7 +2682,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 ## Download the demo data
 
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 1. Open the ARCitect
 2. Login (1) to your DataHUB account
@@ -2695,7 +2695,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 4. Search for **Talinum-CAM-Photosynthesis**
 5. Click the download button, select a location and open the ARC.
 
-![w:700](./../../../images/arcitect-download-talinumarc.png)
+![w:700](./../../../images/training-demo-talinum/arcitect-talinum-download-arc.png)
 
 :bulb: This is basically the ARC we created last session.
 
@@ -2713,7 +2713,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 <img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... **annotate the experimental data**
 
-![bg right:40% width:400](./../../../images/arcitect-talinum-demo-arc.png)
+![bg right:40% width:400](./../../../images/training-demo-talinum/arcitect-talinum-demo-arc.png)
 
 ---
 
@@ -2839,7 +2839,7 @@ Click the <kbd>Update Ontology Terms</kbd> quick access buttons.
 
 At this point. Your table should look similar to this:
 
-![w:1000](./../../../images/demo-isa.study1.png)
+![w:1000](./../../../images/training-demo-talinum/demo-isa-study.png)
 
 ---
 
@@ -2986,7 +2986,7 @@ Slides presented here include contributions by
 
 # Different laws touched by RDM
 
-![w:700](./../../../images/hartmann-terraincognita-forschungsdaten-rechtlicheheimat.png)
+![w:700](./../../../images/teaching-legal/hartmann-terraincognita-forschungsdaten-rechtlicheheimat.png)
 
 <span class="footer-reference">Hartmann, Thomas. (2019). Rechtsfragen: Institutioneller Rahmen und Handlungsoptionen für universitäres FDM. Zenodo. https://doi.org/10.5281/zenodo.2654306</span>
 
@@ -3016,7 +3016,7 @@ Slides presented here include contributions by
 
 Check out: https://creativecommons.org/about/cclicenses/
 
-![w:400](./../../../images/creative-commons-brochure.png)
+![w:400](./../../../images/teaching-legal/creative-commons-brochure.png)
 
 <span class="footer-reference">adapted from https://wiki.creativecommons.org/images/0/01/6licenses-folded.pdf</span>
 
@@ -3054,7 +3054,7 @@ Check out: https://creativecommons.org/about/cclicenses/
 ---
 
 # Research Data policies
-![w:500](./../../../images/forschungsdaten-policy-kit-abb2.png)
+![w:500](./../../../images/teaching-legal/forschungsdaten-policy-kit-abb2.png)
 
 
 <span class="footer-reference">Hiemenz, Bea & Kuberek, Monika (2018) http://dx.doi.org/10.14279/depositonce-7521</span>
@@ -3284,7 +3284,7 @@ Slides presented here include contributions by
 
 # Spot the PIDs
 
-![w:900](./../../../images/exercise-pids-img1.png)
+![w:900](./../../../images/ceplas/ceplas-teaching-exercise-pids.png)
 
 <span class="footer-reference"> https://doi.org/10.1093/plcell/koab243</span>
 
@@ -3297,7 +3297,7 @@ Slides presented here include contributions by
 - Diminish “dead links”
 - Cope with name changes
 
-![bg right width:500](./../../../images/pid-collage.drawio.svg)
+![bg right width:500](./../../../images/teaching-publication/pid-collage.drawio.svg)
 
 ---
 
@@ -3396,7 +3396,7 @@ Domain-specific >> Generic >> Institutional
 
 # Generic data repositories
 
-![bg right:40% width:400](./../../../images/repositories-genericrepos-collage.drawio.svg)
+![bg right:40% width:400](./../../../images/teaching-publication/repositories-genericrepos-collage.drawio.svg)
 
 **Good**
 

@@ -77,7 +77,7 @@ git clone "https://demo-user:5ehDYeHcqP2MqVXsNNPu@git.nfdi4plants.org/teaching/d
 
 <img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... **annotate the experimental data**
 
-![bg right:40% width:400](./../../images/demo-arc-screenshot.png)
+![bg right:40% width:400](./../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -267,7 +267,7 @@ Click the <kbd>Update Ontology Terms</kbd> quick access buttons.
 
 At this point. Your table should look similar to this:
 
-![w:1000](./../../images/demo-isa.study1.png)
+![w:1000](./../../images/training-demo-talinum/demo-isa-study.png)
 
 ---
 

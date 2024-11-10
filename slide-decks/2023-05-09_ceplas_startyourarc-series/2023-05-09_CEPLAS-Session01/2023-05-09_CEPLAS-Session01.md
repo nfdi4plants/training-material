@@ -19,7 +19,7 @@ author:
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-![bg fit](./../../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
 
 Session 01 - Introduction to the ARC (demo)
 May 9th, 2023
@@ -52,7 +52,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../../images/arc-datacentricintegration-img1.png)
+![width:950](./../../../images/arc-datacentricintegration.svg)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_DataCentricIntegration.md -->
@@ -236,7 +236,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ## You just received your data
 
-![bg right width:400](./../../../images/demo-data-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -350,8 +350,8 @@ arc assay add -s talinum_drought -a metabolomics
 
 ## Your ARC is ready
 
-![bg 80% right:75%](./../../../images/demo-data-screenshot.png)
-![bg 80%](./../../../images/demo-arc-screenshot.png)
+![bg 80% right:75%](./../../../images/training-demo-talinum/demo-data-screenshot.png)
+![bg 80%](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -375,7 +375,7 @@ section p br {
 <br>
 🌐 Shared with collaborators
 
-![bg right width:400](./../../../images/demo-arc-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 
 <!-- ## Outlook
@@ -436,7 +436,7 @@ Freiburg: Dirk von Suchodeletz
 - Jonathan Bauer, Marcel Tschöpe (`DataHUB`, `Swobup`)
 - Cristina Martins Rodrigues (`Knowledge Base`)
 
-![bg right:40% w:550](./../custom/images/hackathon-group.png)
+![bg right:40% w:550](./../custom/images/dataplant/hackathon2022-group.png)
 
 <!-- Source to slide(s) -->
 <!-- ../custom/bricks/acknowledgements.md -->
@@ -453,7 +453,7 @@ section {
 }
 </style>
 
-![width:800px](./../../../images/feedback01-fivefinger.drawio.svg)
+![width:800px](./../../../images/teaching-toolbox/feedback01-fivefinger.drawio.svg)
 
 <!-- 
 - Invite participants to give feedback

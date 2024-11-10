@@ -41,7 +41,7 @@ git clone "https://demo-user:1_eznikmzxzARAbUxxnF@git.nfdi4plants.org/teaching/d
 
 # Sort Demo data in an ARC
 
-![bg right width:400](./../../images/demo-data-screenshot.png)
+![bg right width:400](./../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ![width:900](./../../images/arc-fillwithdata-experimental.png)
 
@@ -51,13 +51,13 @@ git clone "https://demo-user:1_eznikmzxzARAbUxxnF@git.nfdi4plants.org/teaching/d
 
 
 1. Login to DataHUB (1)
-   ![bg right:40% w:250](./../../images/arcitect-help-sidebar.drawio.svg)
+   ![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
 # Initiate the ARC folder structure
 
-![bg right:40% w:250](./../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 1. Create a **New ARC** (2)
 2. Select a location and name it **TalinumPhotosynthesis**
@@ -77,20 +77,20 @@ git clone "https://demo-user:1_eznikmzxzARAbUxxnF@git.nfdi4plants.org/teaching/d
 
 💡Don't use spaces in ARC's name
 
-![bg right:30% w:500](././../../images/arcitect-talinumphotosynthesis.png)
+![bg right:30% w:500](././../../images/training-demo-talinum/arcitect-talinumphotosynthesis.png)
 
 ---
 
 # Add a description to your investigation
 
-![w:800](./../../images/arcitect-talinumphotosynthesis-investigationmetadata.png)
+![w:800](./../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationmetadata.png)
 
 ---
 
 # Add (at least one) contributor
 
 
-![bg right w:500](./../../images/arcitect-talinumphotosynthesis-investigationperson.png)
+![bg right w:500](./../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationperson.png)
 
 ---
 
@@ -100,7 +100,7 @@ by clicking "Add Study" and entering an identifier for your study
 
 Use **talinum_drought** as an identifier
 
-![bg right w:500](././../../images/arcitect-talinumphotosynthesis-study.png)
+![bg right w:500](././../../images/training-demo-talinum/arcitect-talinumphotosynthesis-study.png)
 
 ---
 
@@ -113,7 +113,7 @@ In the study panel you can add
 - publications
 - data process information
 
-![bg right w:500](././../../images/arcitect-talinumphotosynthesis-studypanel.png)
+![bg right w:500](././../../images/training-demo-talinum/arcitect-talinumphotosynthesis-studypanel.png)
 
 ---
 
@@ -123,7 +123,7 @@ In the study panel you can add
 by clicking "Add Assay" and entering an identifier for your assay
 
 Add two assays with **rnaseq** and **metabolomics** as an identifier
-![bg right w:500](././../../images/arcitect-talinumphotosynthesis-assay.png)
+![bg right w:500](././../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay.png)
 
 ---
 
@@ -136,7 +136,7 @@ You can either
 Link your assays to your **talinum_drought** study
 
 
-![bg right w:500](././../../images/arcitect-talinumphotosynthesis-assay2.png)
+![bg right w:500](././../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay2.png)
 
 ---
 
@@ -151,7 +151,7 @@ In the assay panel you can
    - technology platform.
 3. add data process information
 
-![bg right w:500](././../../images/arcitect-talinumphotosynthesis-assaypanel.png)
+![bg right w:500](././../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assaypanel.png)
 
 ---
 
@@ -161,7 +161,7 @@ You can either
 - directly write a **new protocol** within the ARCitect or
 - import an existing one from your computer
 
-![w:800](./../../images/arcitect-arcpanel-protocol.png)
+![w:800](./../../images/arcitect/arcitect-arcpanel-protocol.png)
 
 ---
 
@@ -177,7 +177,7 @@ In the file tree you can
 
 <!-- Demo dataset cannot be added via add dataset. Only individual files can be added, not multiple folders -->
 
-![bg right:40% w:400](./../../images/arcitect-arcpanel-assay03.png)
+![bg right:40% w:400](./../../images/arcitect/arcitect-arcpanel-assay03.png)
 
 ---
 
@@ -195,7 +195,7 @@ Click **Login** (1) in the sidebar to login to the DataHUB.
 
 :bulb: This automatically opens your browser at the DataHUB (https://git.nfdi4plants.org) and asks you to login, if you are not already logged in. 
 
-![bg right:40% w:250](./../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -203,7 +203,7 @@ Click **Login** (1) in the sidebar to login to the DataHUB.
 
 From the sidebar, navigate to **Versions** (6)
 
-![bg right:40% w:250](./../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -214,7 +214,7 @@ The versions panel allows you to
 - sync the changes to the DataHUB, and
 - check the history of your ARC
 
-![bg right w:650](./../../images/arcitect-versionspanel.png)
+![bg right w:650](./../../images/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -224,7 +224,7 @@ If you are logged in, the versions panel shows
 - your DataHUB's *Full Name* and *eMail*
 - the URL of the current ARC in the DataHUB `https://git.nfdi4plants.org/<YourUserName>/<YourARC>`
 
-![bg right w:650](./../../images/arcitect-versionspanel.png)
+![bg right w:650](./../../images/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -237,7 +237,7 @@ If you are logged in, the versions panel shows
 
 # Received two emails from "GitLab" about a failed pipeline? <!-- fit -->
 
-![w:600](./../../images/cqc-error-email.png)
+![w:600](./../../images/datahub-cqc/cqc-error-email.png)
 
 :fire: Don't worry :smile:
 
@@ -245,7 +245,7 @@ If you are logged in, the versions panel shows
 
 ## Pipeline Failed
 
-![bg right w:700](./../../images/cqc-error-badges.png)
+![bg right w:700](./../../images/datahub-cqc/cqc-error-badges.png)
 
 - a "continuous quality control" (CQC) pipeline validates your ARC
 - This fails if one of the following metadata items is missing:
@@ -266,7 +266,7 @@ If you are logged in, the versions panel shows
 
 If the pipeline has failed once, it is disabled by default
 
-![bg right w:500](././../../images/cqc-error-email2.png)
+![bg right w:500](././../../images/datahub-cqc/cqc-error-email2.png)
 
 ---
 
@@ -283,7 +283,7 @@ To reactivate it and let the DataHUB validate your ARC again:
   3. check box "Default to Auto DevOps pipeline"
   4. Save changes
 
-![bg right:60% w:600](./../../images/cqc-activate-autodevops.png)
+![bg right:60% w:600](./../../images/datahub-cqc/cqc-activate-autodevops.png)
 
 ---
 
@@ -303,31 +303,31 @@ To reactivate it and let the DataHUB validate your ARC again:
 
 1. Click on **Project Information** in the left navigation panel
 
-![fit w:1050](./../../images/datahub-members-seq2.png)
+![fit w:1050](./../../images/datahub/datahub-members-seq2.png)
 
 ---
 
 2. Click on **Members**
 
-![fit w:1050](./../../images/datahub-members-seq3.png)
+![fit w:1050](./../../images/datahub/datahub-members-seq3.png)
 
 ---
 
 3. Click on **Invite members**
 
-![fit w:1050](./../../images/datahub-members-seq4.png)
+![fit w:1050](./../../images/datahub/datahub-members-seq4.png)
 
 ---
 
 4. Search for potential collaborators
 
-![fit w:1050](./../../images/datahub-members-seq5.png)
+![fit w:1050](./../../images/datahub/datahub-members-seq5.png)
 
 ---
 
 5. Select a role 
 
-![fit w:1050](./../../images/datahub-members-seq6.png)
+![fit w:1050](./../../images/datahub/datahub-members-seq6.png)
 
 
 ---
@@ -390,7 +390,7 @@ section p br {
 <br>
 🌐 Shared with collaborators
 
-![bg right width:400](./../../images/demo-arc-screenshot.png)
+![bg right width:400](./../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 

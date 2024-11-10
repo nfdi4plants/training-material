@@ -13,13 +13,13 @@ author:
 <!--
 # Connection to the NFDI
 
-![](../../images/connection-nfdi.drawio.png)
+![](../../images/ceplas/ceplas-nfdi-connection.drawio.png)
 
 ---
 
 # Data Stewardship between DataPLANT and the community <!-- fit 
 
-![w:880](./../../images/dataplant-big-collaboration.drawio.png)
+![w:880](./../../images/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)
 
 
 ---
@@ -27,13 +27,13 @@ author:
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../images/datahub-gitlab.drawio.png)
+![](./../../images/datahub/datahub-gitlab.drawio.png)
 
 ---
 
 # On-premise DataHUBs
 
-![alt text](../../images/datahub-onpremise.drawio.png)
+![alt text](../../images/datahub/datahub-onpremise.drawio.png)
 
 ARC services are available as on-premise option
 
@@ -41,7 +41,7 @@ ARC services are available as on-premise option
 
 # HHU-DataHUB
 
-![w:800](./../../images/hhu-datahub.drawio.png)
+![w:800](./../../images/ceplas/hhu-datahub.drawio.png)
 
 ---
 
@@ -53,26 +53,26 @@ ARC services are available as on-premise option
 - Integration of existing services and infrastructure
 - External collaboration
 
-![bg right:45% w:500](./../../images/hhu-datahub.drawio.png)
+![bg right:45% w:500](./../../images/ceplas/hhu-datahub.drawio.png)
 
 ---
 
 # HHU-DataHUB &ndash; Node for platforms
 
 
-![w:900](./../../images/ceplas-enablingplatforms-logos.drawio.png)
+![w:900](./../../images/ceplas/ceplas-enablingplatforms-logos.drawio.png)
 
 ---
 
 # Embedded into an RDM network
 
-![w:600](./../../images/datahub-network-putative.drawio.png)
+![w:600](./../../images/datahub/datahub-network-putative.drawio.png)
 
 ---
 
 # CEPLAS collaborates with DataPLANT and NFDI4BIOIMAGE <!-- fit -->
 
-![w:700](./../../images/dataplant-collaborationceplas-nfdi4bi.drawio.png)
+![w:700](./../../images/ceplas/ceplas-dataplant-collaboration-nfdi4bi.drawio.png)
 
 <!--
 ---

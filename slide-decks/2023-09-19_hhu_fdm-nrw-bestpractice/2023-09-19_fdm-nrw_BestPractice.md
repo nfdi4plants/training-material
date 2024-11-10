@@ -84,13 +84,13 @@ September 19th, 2023
 
 # Data Stewardship between DataPLANT and the community  <!-- fit -->
 
-![w:700](./images/dataplant-collaborationceplas.drawio.png)
+![w:700](./images/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../images/arc-datacentricintegration-img1.png)
+![width:950](./../../images/arc-datacentricintegration.svg)
 
 ---
 
@@ -119,7 +119,7 @@ September 19th, 2023
 
 ---
 
-# Collect <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-02-collect.png'/>
+# Collect <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-02-collect.png'/>
 
 ![width:800](./../../images/arc-fillwithdata-experimental.png)
 
@@ -134,7 +134,7 @@ September 19th, 2023
 
 ---
 
-# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-03-process.png'/>
+# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-03-process.png'/>
 
 ![w:650](./../../images/swate-metadatatemplates.png)
 
@@ -145,7 +145,7 @@ September 19th, 2023
 
 ---
 
-# Analyse <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-04-analyse.png'/>
+# Analyse <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-04-analyse.png'/>
 
 <!-- 
 - run fastqc
@@ -160,7 +160,7 @@ September 19th, 2023
 
 ---
 
-# Preserve  <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-05-preserve.png'/>
+# Preserve  <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
@@ -173,7 +173,7 @@ September 19th, 2023
 
 ---
 
-# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-05-preserve.png'/>
+# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
@@ -186,13 +186,13 @@ September 19th, 2023
 
 ---
 
-# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-06-share.png'/>
+# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-06-share.png'/>
 
 ![w:700](./../../images/arc-datasharing-experts02-img1.png)
 
 ---
 
-# Reuse <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-07-reuse.png'/>
+# Reuse <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-07-reuse.png'/>
 
 ![w:800](./../../images/tpj16474-fig-0001-m.jpg)
 
@@ -217,7 +217,7 @@ September 19th, 2023
 
 ---
 
-# Plan (ARC scale) <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-01-plan.png'/>
+# Plan (ARC scale) <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
 ![w:800](./../../images/tpj16474-fig-0007-m.jpg)
 
@@ -240,7 +240,7 @@ September 19th, 2023
 
 ---
 
-# Plan (proposal scale) <img align="left" class="center" style="height:75px" src='./../../images/screenshot-rdmkit-01-plan.png'/>
+# Plan (proposal scale) <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
 <span class="footer-reference">**Zhou *et al.* (2023)**, DataPLAN: a web-based data management plan generator for the plant sciences, bioRxiv 2023.07.07.548147; doi: https://doi.org/10.1101/2023.07.07.548147 </span>
 
@@ -295,4 +295,4 @@ Freiburg: Dirk von Suchodeletz
 - Jonathan Bauer, Marcel Tschöpe (`DataHUB`, `Swobup`)
 - Cristina Martins Rodrigues (`Knowledge Base`)
 
-![bg right:40% w:550](./../../images/hackathon-group.png)
+![bg right:40% w:550](./../../images/dataplant/hackathon2022-group.png)

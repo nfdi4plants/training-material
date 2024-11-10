@@ -30,7 +30,7 @@ Sabrina Zander, MibiNet
 Dominik Brilhaus, CEPLAS
 
 
-![bg fit](./../../images/background-title-mibinet-ceplas.drawio.svg)
+![bg fit](./../../images/ceplas/ceplas-background-title-mibinet.drawio.svg)
 
 ---
 

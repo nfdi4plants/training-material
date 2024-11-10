@@ -31,13 +31,13 @@ author:
 
 # Data Stewardship between DataPLANT and the community  <!-- fit -->
 
-![w:880](././../../images/dataplant-collaborationceplas.drawio.png)
+![w:880](././../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../images/arc-datacentricintegration-img1.png)
+![width:950](./../../images/arc-datacentricintegration.svg)
 
 ---
 

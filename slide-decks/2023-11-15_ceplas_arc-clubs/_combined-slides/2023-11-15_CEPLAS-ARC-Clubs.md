@@ -18,7 +18,7 @@ date: 2024-10-29
 December 7<sup>th</sup>, 2023
 Dominik Brilhaus, CEPLAS Data Science
 
-![bg fit](./../../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -170,13 +170,13 @@ figcaption {
 
 <br>
 
-![bg fit](./../../../images/background-title-ceplas.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
 # Data Stewardship between DataPLANT and the community  <!-- fit -->
 
-![w:880](././../../../images/dataplant-collaborationceplas.drawio.png)
+![w:880](././../../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 
@@ -192,7 +192,7 @@ figcaption {
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../../images/arc-datacentricintegration-img1.png)
+![width:950](./../../../images/arc-datacentricintegration.svg)
 
 ---
 
@@ -236,7 +236,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 ---
 
 
-# Collect <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-02-collect.png'/>
+# Collect <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-02-collect.png'/>
 
 ![width:800](./../../../images/arc-fillwithdata-experimental.png)
 
@@ -251,7 +251,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
 
-# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-03-process.png'/>
+# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-03-process.png'/>
 
 ![w:650](./../../../images/swate-metadatatemplates.png)
 
@@ -262,7 +262,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
 
-# Analyse <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-04-analyse.png'/>
+# Analyse <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-04-analyse.png'/>
 
 <!-- 
 - run fastqc
@@ -275,7 +275,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
 
-# Preserve  <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-05-preserve.png'/>
+# Preserve  <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
@@ -288,7 +288,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
 
-# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-05-preserve.png'/>
+# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
@@ -301,13 +301,13 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
 
-# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-06-share.png'/>
+# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-06-share.png'/>
 
 ![w:700](./../../../images/arc-datasharing-experts02-img1.png)
 
 ---
 
-# Reuse <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-07-reuse.png'/>
+# Reuse <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-07-reuse.png'/>
 
 ![w:800](./../../../images/tpj16474-fig-0001-m.jpg)
 
@@ -334,7 +334,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
 
-# Plan &ndash; ARC scale <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-01-plan.png'/>
+# Plan &ndash; ARC scale <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
 ![w:800](./../../../images/tpj16474-fig-0007-m.jpg)
 
@@ -357,7 +357,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
 
-# Plan  &ndash; proposal scale <img align="left" class="center" style="height:75px" src='./../../../images/screenshot-rdmkit-01-plan.png'/>
+# Plan  &ndash; proposal scale <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
 <span class="footer-reference">**Zhou *et al.* (2023)**, DataPLAN: a web-based data management plan generator for the plant sciences, bioRxiv 2023.07.07.548147; doi: https://doi.org/10.1101/2023.07.07.548147 </span>
 
@@ -423,13 +423,13 @@ Please install version **v0.0.21** (or later) of the ARCitect: https://github.co
 
 https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZlS_Kzf7psk-5w-xg?e=u0sADd
 
-![bg right w:600](./../../../images/demo-data-download.png)
+![bg right w:600](./../../../images/training-demo-talinum/demo-data-download.png)
 
 ---
 
 # Sort Demo data in an ARC
 
-![bg right width:400](./../../../images/demo-data-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-data-screenshot.png)
 
 ![width:900](./../../../images/arc-fillwithdata-experimental.png)
 
@@ -438,13 +438,13 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 # Open ARCitect
 
 1. Login to DataHUB (1)
-   ![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+   ![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
 # Initiate the ARC folder structure
 
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 1. Create a **New ARC** (2)
 2. Select a location and name it **TalinumPhotosynthesis**
@@ -464,20 +464,20 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 
 💡Don't use spaces in ARC's name
 
-![bg right:30% w:500](./../../../images/arcitect-talinumphotosynthesis.png)
+![bg right:30% w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis.png)
 
 ---
 
 # Add a description to your investigation
 
-![w:800](./../../../images/arcitect-talinumphotosynthesis-investigationmetadata.png)
+![w:800](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationmetadata.png)
 
 ---
 
 # Add a contributor
 
 
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-investigationperson.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationperson.png)
 
 ---
 
@@ -487,7 +487,7 @@ by clicking "Add Study" and entering an identifier for your study
 
 Use **talinum_drought** as an identifier
 
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-study.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-study.png)
 
 ---
 
@@ -500,7 +500,7 @@ In the study panel you can add
 - publications
 - data process information
 
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-studypanel.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-studypanel.png)
 
 ---
 
@@ -510,7 +510,7 @@ In the study panel you can add
 by clicking "Add Assay" and entering an identifier for your assay
 
 Add two assays with **rnaseq** and **metabolomics** as an identifier
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-assay.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay.png)
 
 ---
 
@@ -523,7 +523,7 @@ You can either
 Link your assays to your **talinum_drought** study
 
 
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-assay2.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay2.png)
 
 ---
 
@@ -538,7 +538,7 @@ In the assay panel you can
    - technology platform.
 3. add data process information
 
-![bg right w:500](./../../../images/arcitect-talinumphotosynthesis-assaypanel.png)
+![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assaypanel.png)
 
 ---
 
@@ -548,7 +548,7 @@ You can either
 - directly write a **new protocol** within the ARCitect or
 - import an existing one from your computer
 
-![w:800](./../../../images/arcitect-arcpanel-protocol.png)
+![w:800](./../../../images/arcitect/arcitect-arcpanel-protocol.png)
 
 ---
 
@@ -564,7 +564,7 @@ In the file tree you can
 
 <!-- Demo dataset cannot be added via add dataset. Only individual files can be added, not multiple folders -->
 
-![bg right:40% w:400](./../../../images/arcitect-arcpanel-assay03.png)
+![bg right:40% w:400](./../../../images/arcitect/arcitect-arcpanel-assay03.png)
 
 ---
 
@@ -580,7 +580,7 @@ In the file tree you can
 
 From the sidebar, navigate to **Versions** (6)
 
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -591,7 +591,7 @@ The versions panel allows you to
 - sync the changes to the DataHUB, and
 - check the history of your ARC
 
-![bg right w:650](./../../../images/arcitect-versionspanel.png)
+![bg right w:650](./../../../images/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -601,7 +601,7 @@ If you are logged in, the versions panel shows
 - your DataHUB's *Full Name* and *eMail*
 - the URL of the current ARC in the DataHUB `https://git.nfdi4plants.org/<YourUserName>/<YourARC>`
 
-![bg right w:650](./../../../images/arcitect-versionspanel.png)
+![bg right w:650](./../../../images/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -631,7 +631,7 @@ section p br {
 <br>
 🌐 Shared with collaborators
 
-![bg right width:400](./../../../images/demo-arc-screenshot.png)
+![bg right width:400](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -639,7 +639,7 @@ section p br {
 
 # Received two emails from "GitLab" about a failed pipeline? <!-- fit -->
 
-![w:600](./../../../images/cqc-error-email.png)
+![w:600](./../../../images/datahub-cqc/cqc-error-email.png)
 
 :fire: Don't worry :smile:
 
@@ -647,7 +647,7 @@ section p br {
 
 ## Pipeline Failed
 
-![bg right w:700](./../../../images/cqc-error-badges.png)
+![bg right w:700](./../../../images/datahub-cqc/cqc-error-badges.png)
 
 - a "continuous quality control" (CQC) pipeline validates your ARC
 - This fails if one of the following metadata items is missing:
@@ -668,7 +668,7 @@ section p br {
 
 If the pipeline has failed once, it is disabled by default
 
-![bg right w:500](./../../../images/cqc-error-email2.png)
+![bg right w:500](./../../../images/datahub-cqc/cqc-error-email2.png)
 
 ---
 
@@ -685,7 +685,7 @@ To reactivate it and let the DataHUB validate your ARC again:
   3. check box "Default to Auto DevOps pipeline"
   4. Save changes
 
-![bg right:60% w:600](./../../../images/cqc-activate-autodevops.png)
+![bg right:60% w:600](./../../../images/datahub-cqc/cqc-activate-autodevops.png)
 
 ---
 
@@ -720,7 +720,7 @@ Slides presented here include contributions by
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../../images/datahub-gitlab.drawio.png)
+![](./../../../images/datahub/datahub-gitlab.drawio.png)
 
 ---
 
@@ -796,7 +796,7 @@ Slides presented here include contributions by
 
 # Navigation Bar
 
-![](./../../../images/datahub-navbar.drawio.svg)
+![](./../../../images/datahub/datahub-navbar.drawio.svg)
 
 1. navigate directly to the [projects panel](./../../../../../../DataHUB-Manual/datahub-Manual/datahub-projectsPanel.html) via the icon in the top-left (1)
 2. open the [hamburger Menu](#hamburger-menu) (2)
@@ -819,7 +819,7 @@ Slides presented here include contributions by
 
 <div>
 
-![](./../../../images/datahub-hamburgermenu.drawio.svg)
+![](./../../../images/datahub/datahub-hamburgermenu.drawio.svg)
 
 </div>
 </div>
@@ -842,7 +842,7 @@ Slides presented here include contributions by
 
 <div>
 
-![w:400](./../../../images/datahub-avatarmenu.drawio.svg)
+![w:400](./../../../images/datahub/datahub-avatarmenu.drawio.svg)
 
 </div>
 </div>
@@ -851,7 +851,7 @@ Slides presented here include contributions by
 
 # Projects Panel
 
-![](./../../../images/datahub-projectspanel.drawio.svg)
+![](./../../../images/datahub/datahub-projectspanel.drawio.svg)
 
 1. Choose a tab (1) to see only your ARCs, or explore other publicly available ARCs. 
 2. The main panel (2) lists all ARCs
@@ -865,7 +865,7 @@ Slides presented here include contributions by
 
 The ARC Panel is the main working area for your ARC.
 
-![w:1000](./../../../images/datahub-arc-overview.drawio.svg)
+![w:1000](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 ---
 
@@ -886,7 +886,7 @@ The ARC Panel is the main working area for your ARC.
 
 <div>
 
-![w:600](./../../../images/datahub-arc-overview.drawio.svg)
+![w:600](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 </div>
 </div>
@@ -910,7 +910,7 @@ The ARC Panel is the main working area for your ARC.
 
 <div>
 
-![w:600](./../../../images/datahub-arc-overview.drawio.svg)
+![w:600](./../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 </div>
 </div>
@@ -933,31 +933,31 @@ The ARC Panel is the main working area for your ARC.
 
 1. Click on **Project Information** in the left navigation panel
 
-![fit w:1050](./../../../images/datahub-members-seq2.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq2.png)
 
 ---
 
 2. Click on **Members**
 
-![fit w:1050](./../../../images/datahub-members-seq3.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq3.png)
 
 ---
 
 3. Click on **Invite members**
 
-![fit w:1050](./../../../images/datahub-members-seq4.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq4.png)
 
 ---
 
 4. Search for potential collaborators
 
-![fit w:1050](./../../../images/datahub-members-seq5.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq5.png)
 
 ---
 
 5. Select a role
 
-![fit w:1050](./../../../images/datahub-members-seq6.png)
+![fit w:1050](./../../../images/datahub/datahub-members-seq6.png)
 
 ---
 
@@ -1027,7 +1027,7 @@ object-position: 100% 45%;
 
 <div>
 
-![w:600](./../../../images/datahub-wiki.png)
+![w:600](./../../../images/datahub/datahub-wiki.png)
 
 </div>
 </div>
@@ -1291,7 +1291,7 @@ Examples from [Minimum Information for Biological and Biomedical Investigations 
 
 # How does google "know"?!
 
-![w:800](./../../../images/googlecom-screenshot-kg.png)
+![w:800](./../../../images/teaching-ontologies/googlecom-screenshot-kg.png)
 
 ---
 
@@ -1498,7 +1498,7 @@ Alphabetically lists terms and their definitions
 
 Hierarchy or classification
 
-![bg right:60% w:780](./../../../images/ontologies-pizzaanalogy-seq1.png)
+![bg right:60% w:780](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq1.png)
 
 ---
 
@@ -1521,31 +1521,31 @@ Dictionary of synonyms and relations
 
 # The semantic triple
 
-![w:1000](./../../../images/ontologies-pizzaanalogy-seq2.png)
+![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq2.png)
 
 ---
 
 # Modeling a pizza menu
 
-![w:1000](./../../../images/ontologies-pizzaanalogy-seq3.png)
+![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq3.png)
 
 ---
 
 # Modeling a pizza menu
 
-![w:1000](./../../../images/ontologies-pizzaanalogy-seq4.png)
+![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq4.png)
 
 ---
 
 # Modeling a pizza menu
 
-![w:1000](./../../../images/ontologies-pizzaanalogy-seq5.png)
+![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq5.png)
 
 ---
 
 # Predicates have two directions
 
-![w:1000](./../../../images/ontologies-pizzaanalogy-seq6.png)
+![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq6.png)
 
 ---
 
@@ -1553,13 +1553,13 @@ Dictionary of synonyms and relations
 
 An object of one triplet can be the subject to another
 
-![w:1000](./../../../images/ontologies-pizzaanalogy-seq7.png)
+![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq7.png)
 
 ---
 
 # (Towards) a knowledge graph
 
-![w:1020](./../../../images/ontologies-pizzaanalogy-seq8.png)
+![w:1020](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq8.png)
 
 ---
 
@@ -1569,7 +1569,7 @@ An ontology can be queried:
 
 - *"name all pizzas with topping mushrooms"*
 
-![bg right w:1020](./../../../images/ontologies-pizzaanalogy-seq9.png)
+![bg right w:1020](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq9.png)
 
 <!-- 
 TODO: 
@@ -1855,7 +1855,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 ## Download the demo data
 
-![bg right:40% w:250](./../../../images/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
 
 1. Open the ARCitect
 2. Login (1) to your DataHUB account
@@ -1868,7 +1868,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 4. Search for **Talinum-CAM-Photosynthesis**
 5. Click the download button, select a location and open the ARC.
 
-![w:700](./../../../images/arcitect-download-talinumarc.png)
+![w:700](./../../../images/training-demo-talinum/arcitect-talinum-download-arc.png)
 
 :bulb: This is basically the ARC we created last session.
 
@@ -1886,7 +1886,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 <img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... **annotate the experimental data**
 
-![bg right:40% width:400](./../../../images/arcitect-talinum-demo-arc.png)
+![bg right:40% width:400](./../../../images/training-demo-talinum/arcitect-talinum-demo-arc.png)
 
 ---
 
@@ -2013,7 +2013,7 @@ Click the <kbd>Update Ontology Terms</kbd> quick access buttons.
 
 At this point. Your table should look similar to this:
 
-![w:1000](./../../../images/demo-isa.study1.png)
+![w:1000](./../../../images/training-demo-talinum/demo-isa-study.png)
 
 ---
 
@@ -2233,7 +2233,7 @@ Happy ARCing
 
 ## Moving from FileShare to DataHUB &ndash; *via* ARCs
 
-![w:900](./../../../images/insitutefileshare03todatahubviaarc.drawio.svg)
+![w:900](./../../../images/ceplas/insitutefileshare03todatahubviaarc.drawio.svg)
 
 ---
 
@@ -2315,7 +2315,7 @@ arc sync -f -r https://git.nfdi4plants.org/<GroupName>/<InvestigationID>
 
 ## Administration / Backup
 
-![Alt text](./../../../images/insitutefileshare04-backupclones.drawio.svg)
+![Alt text](./../../../images/ceplas/insitutefileshare04-backupclones.drawio.svg)
 
 ---
 
