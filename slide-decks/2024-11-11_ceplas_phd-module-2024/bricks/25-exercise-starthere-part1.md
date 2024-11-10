@@ -5,6 +5,27 @@ paginate: true
 title: Hands-on
 ---
 
+<style>
+
+.yellowblock {
+  display: inline-block;
+  color: rgba(0, 0, 0, 0);
+  width: 1em;
+  height: 1em;
+  background-color: #FFC000;
+}
+
+.blueblock {
+  display: inline-block;
+  color: rgba(0, 0, 0, 0);
+  width: 1em;
+  height: 1em;
+  background-color: #2D3E50;
+}
+
+</style>
+
+
 # Hands-on: ARCitect part 1
 
 Follow the **Start Here** guide in the DataPLANT knowledge base.
