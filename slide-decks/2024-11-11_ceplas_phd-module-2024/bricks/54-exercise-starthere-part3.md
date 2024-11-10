@@ -19,4 +19,4 @@ title: Hands-on
 
 Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
 
-:pencil: Until the final complete step
+:pencil: Until the final **complete** step
