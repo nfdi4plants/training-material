@@ -14,14 +14,14 @@ description:
 title: exercise_FAIRProject_final
 ---
 
-# :pencil: Share your ARC :pencil:
+# :pencil: Share your ARC
 
-1. Follow the next slides to learn how to share your ARC with a colleague
-3. Go to your colleague’s ARC and try to understand it
+Invite your colleague to your ARC
+
 
 ---
 
-# :pencil: Understand your colleague’s ARC :pencil:
+# :pencil: Understand your colleague’s ARC
 
 1. Go to your colleague’s ARC
 2. Try to identify one experiment that led to results (e.g. a figure in the thesis)
