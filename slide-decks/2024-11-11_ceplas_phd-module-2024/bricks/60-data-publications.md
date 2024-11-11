@@ -15,10 +15,6 @@ date: 2023-11-09
 
 ---
 
-# Peristent Identifiers (PIDs)
-
----
-
 # Spot the PIDs
 
 ![w:900](././../../../images/ceplas/ceplas-teaching-exercise-pids.png)
@@ -27,14 +23,16 @@ date: 2023-11-09
 
 ---
 
-# Globally unique, stable, persistent identifiers (PIDs)
+# Peristent Identifiers (PIDs)
+
+### Globally unique, stable, persistent 
 
 - Long-term findability
 - Make data, digital objects, people, … uniquely identifiable
 - Diminish “dead links”
 - Cope with name changes
 
-![bg right width:500](././../../../images/teaching-publication/pid-collage.drawio.svg)
+![bg right:45% width:400](././../../../images/teaching-publication/pid-collage.drawio.svg)
 
 ---
 
@@ -145,53 +143,3 @@ Domain-specific >> Generic >> Institutional
 
 - Only generic / high-level metadata schema
 - Limited reusability
-
----
-
-# From ARC to repositories
-
-![w:900](../../../images/data-publications/publication-outlets.svg)
-
----
-
-# Moving from paper to data publications
-
-
-![w:900px](../../../images/data-publications/publication-fair-data-publication.svg)
-
----
-
-# Publish your ARC, get a DOI
-
-![w:800px](../../../images/arc-seamlesspublication.svg)
-
-
----
-
-# Publish your ARC with a few clicks
-
-![w:900px](../../../nfdi4plants.knowledgebase/src/assets/images/data-publications/cqc-results.png)
-
----
-
-# Validation
-
-
-![h:400](./../../../images/tpj16474-fig-0008-m-modified.png)
-
-<span class="footer-reference"> adapted from Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
----
-
-# Validate & publish
-
-
-![h:400](././../../../images/tpj16474-fig-0008-m.jpg)
-
-<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
----
-
-# Receive a DOI
-
-![w:800px](../../../nfdi4plants.knowledgebase/src/assets/images/data-publications/doi-accession.png)

@@ -3430,7 +3430,7 @@ object-position: 100% 80%;
 
 # Moving from paper to data publications
 
-![w:400px](./../../../images/dataplant-landingpage-mission.svg)
+![w:400px](./../../../images/data-publications/calssical-to-arc-publication.svg)
 
 <!-- 
 ![w:800px](./../../../images/fairdata-classicalpublication.svg)

@@ -356,10 +356,15 @@ Add issues to your ARC (3)
 
 ---
 
+# Moving from paper to FAIR data publication
+
+![w:900](../../images/fairdata-classicalpublication.svg)
+
+---
 
 # Moving from paper to FAIR data publication
 
-![w:900](../../nfdi4plants.knowledgebase/src/assets/images/start-here/fair-data-publication.svg)
+![w:900](../../images/data-publications/publication-fair-data-publication.svg)
 
 
 ---
@@ -389,5 +394,5 @@ Add issues to your ARC (3)
 
 ## Receive a DOI
 
-![w:800px](https://www.nfdi4plants.org/nfdi4plants.knowledgebase/docs/img/data-publication/doi-accession.png)
+![w:800px](../../nfdi4plants.knowledgebase/src/assets/images/data-publications/doi-accession.png)
 
