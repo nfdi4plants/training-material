@@ -332,7 +332,7 @@ object-position: 100% 80%;
 
 # Moving from paper to data publications
 
-![w:400px](https://www.nfdi4plants.org/nfdi4plants.knowledgebase/docs/images/dataplant-landingpage-mission.svg)
+![w:400px](https://www.nfdi4plants.org/nfdi4plants.knowledgebase/docs/images/data-publications/calssical-to-arc-publication.svg)
 
 
 ---

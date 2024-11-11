@@ -7,7 +7,7 @@ title: Hands-on
 
 # Hands-on part 5: ARC data publication
 
-![](../../../images/)
+![w:500](../../../images/data-publications/calssical-to-arc-publication.svg)
 
 ---
 
