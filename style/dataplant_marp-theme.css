@@ -42,12 +42,14 @@ h1 {
   font-size: 50px;
   font-family: Calibri, sans-serif;
   color: #2D3E50;
+  padding-top: 0%;
 }
 
 h2 {
   font-size: 40px;
   font-family: Calibri, sans-serif;
   color: #2D3E50;  
+  padding-top: 0%;
 }
 
 /* ul = unordered list (bullet points) */

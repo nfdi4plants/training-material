@@ -111,6 +111,29 @@ Platform that makes using code-based tools easy to use in a graphical user inter
 
 ---
 
+
+## Galaxy integration: Extra value for plant research
+
+<div class="two-columns">
+<div>
+
+![](./../../../images/galaxy-integration.drawio.png)
+
+</div>
+
+<div>
+
+- Full ARC compatibility
+- Automated metadata generation
+- Specialized tools and workflows for ‘omics processing and analysis
+- Public repository compatibility
+- Galaxy teaching resource for data analysis
+
+</div>
+</div>
+
+---
+
 # Software Containers
 
 - Big step towards reproducibility **and** reusability

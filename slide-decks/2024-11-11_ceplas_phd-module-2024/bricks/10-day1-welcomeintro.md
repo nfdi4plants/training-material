@@ -28,10 +28,6 @@ CEPLAS Data
 
 ---
 
-# Welcome
-
----
-
 # House-keeping
 
 Pad: https://pad.hhu.de/0NdPKO5LQ5CHBRN2iuG91Q

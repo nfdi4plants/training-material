@@ -284,12 +284,33 @@ Participant n | Participant n+1
 ---
 
 
-# DataPLANT &ndash; The NFDI4Plants
 
-![bg right:50% width:500px](./../../../images/dataplant-taskareas.svg)
+# NFDI – Nationale Forschungsdaten Infrastruktur
 
-- NFDI: "Nationale Forschungsdaten Infrastruktur" &ndash; [www.nfdi.de](https://www.nfdi.de/)
-- Funded since end of 2020
+![w:900](../../../images/nfdi/nfdi.drawio.png)
+
+
+---
+
+# NFDI – A community-targeted approach for RDM
+
+![w:800](../../../images/nfdi/nfdi-consortia.drawio.png)
+
+---
+
+# CEPLAS connection to the NFDI
+
+![](../../../images/ceplas/ceplas-nfdi-connection-light.drawio.png)
+
+---
+
+# DataPLANT &ndash; *NFDI4plants*
+
+![width:700px](./../../../images/dataplant/dataplant-landing-page.png)
+
+- https://nfdi4plants.org
+- https://arc-rdm.org
+
 
 ---
 
@@ -299,11 +320,38 @@ Participant n | Participant n+1
 
 ---
 
+
+# CEPLAS Research Data Policy
+
+<div class="two-columns">
+  <div>
+  
+  ![](./../../../images/ceplas/ceplas-policy-title.png)
+
+  </div>
+  <div>
+  
+  ![](./../../../images/ceplas/ceplas-arcs.drawio.svg)
+  
+  </div>
+</div>
+
+The policy is available via [CEPLAS intranet](https://www.ceplas.eu/en/intranet/overview)
+
+---
+
+
 # Annotated Research Context (ARC)
 
 ![width:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-bag.svg)
 
 Your entire investigation in a single unified bag
+
+---
+
+# You can store your ARC in the DataHUB
+
+![w:500](./../../../images/user-challenges-002.svg)
 
 ---
 
@@ -450,26 +498,26 @@ Your entire investigation in a single unified bag
 
 # ARC builds on standards <!-- fit -->
   
-![bg left w:600](./../../../images/arc-buildsonstandards3.png)
+![bg left:45% w:500](./../../../images/arc-buildsonstandards3.png)
 
 <div style="font-size:0.7em">
 
-##### RO-Crate
+### RO-Crate
 
 - standardized exchange
 - https://www.researchobject.org/ro-crate/ 
 
-##### ISA
+### ISA
  
  - structured, machine-readable metadata
  - https://isa-tools.org/
 
-##### CWL
+### CWL
 
 - reproducible, re-usable data analysis 
 - https://www.commonwl.org/
 
-##### Git
+### Git
 
 - version control
 - https://git-scm.com
@@ -490,52 +538,6 @@ The ARC is a **data-centric** approach to RDM
 ![w:1000](./../../../images/arc-tool-assistance.drawio.png)
 
 (Meta)data transparency with tool assistance but **no technical lock-in**
-
----
-
-
-# CEPLAS connection to the NFDI
-
-![](../../../images/ceplas/ceplas-nfdi-connection-light.drawio.png)
-
----
-
-# Data Stewardship between DataPLANT and the community <!-- fit -->
-
-![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
-
----
-
-# The DataPLANT DataHUB &ndash; a GitLab ***Plus***
-
-![](./../../../images/datahub/datahub-gitlab.drawio.png)
-
----
-
-# On-premise DataHUBs
-
-![alt text](../../../images/datahub/datahub-onpremise.drawio.png)
-
-ARC services are available as on-premise option
-
----
-
-# CEPLAS Research Data Policy
-
-<div class="two-columns">
-  <div>
-  
-  ![](./../../../images/ceplas/ceplas-policy-title.png)
-
-  </div>
-  <div>
-  
-  ![](./../../../images/ceplas/ceplas-arcs.drawio.svg)
-  
-  </div>
-</div>
-
-The policy is available via [CEPLAS intranet](https://www.ceplas.eu/en/intranet/overview)
 
 ---
 
@@ -2075,6 +2077,14 @@ Simplifies concurrent work & merging changes
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
 ![](./../../../images/datahub/datahub-gitlab.drawio.png)
+
+---
+
+# On-premise DataHUBs
+
+![alt text](../../../images/datahub/datahub-onpremise.drawio.png)
+
+ARC services are available as on-premise option
 
 ---
 
