@@ -4,7 +4,7 @@ layout: slides
 theme: marp-theme_dataplant-ceplas-ccby
 paginate: true
 title: 2024-11-11_ceplas_phd-module-2024
-date: 2024-11-10
+date: 2024-11-11
 ---
 
 
@@ -279,8 +279,12 @@ Participant n | Participant n+1
 
 ---
 
+# Let's discuss your findings
 
-# DataPLANT &ndash; <br>The NFDI4Plants
+---
+
+
+# DataPLANT &ndash; The NFDI4Plants
 
 ![bg right:50% width:500px](./../../../images/dataplant-taskareas.svg)
 
@@ -444,29 +448,31 @@ Your entire investigation in a single unified bag
 
 ---
 
-# ARC builds on standards
-
-<div class="two-columns">
-  <div>
+# ARC builds on standards <!-- fit -->
   
-  ![w:500](./../../../images/arc-buildsonstandards3.png)
-  
-  </div>
-  <div>
-  
-  - RO-Crate: standardized exchange
-  - ISA: structured, machine-readable metadata
-  - CWL: reproducible, re-usable data analysis
-  - Git: version control
-  
-  </div>
-</div>
+![bg left w:600](./../../../images/arc-buildsonstandards3.png)
 
-<span class="footer-reference">https://isa-tools.org/ | https://www.commonwl.org/
-https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
+<div style="font-size:0.7em">
 
+##### RO-Crate
 
+- standardized exchange
+- https://www.researchobject.org/ro-crate/ 
 
+##### ISA
+ 
+ - structured, machine-readable metadata
+ - https://isa-tools.org/
+
+##### CWL
+
+- reproducible, re-usable data analysis 
+- https://www.commonwl.org/
+
+##### Git
+
+- version control
+- https://git-scm.com
 
 ---
 
@@ -484,8 +490,6 @@ The ARC is a **data-centric** approach to RDM
 ![w:1000](./../../../images/arc-tool-assistance.drawio.png)
 
 (Meta)data transparency with tool assistance but **no technical lock-in**
-
----
 
 ---
 
@@ -522,7 +526,7 @@ ARC services are available as on-premise option
   <div>
   
   ![](./../../../images/ceplas/ceplas-policy-title.png)
-  
+
   </div>
   <div>
   
@@ -531,18 +535,32 @@ ARC services are available as on-premise option
   </div>
 </div>
 
+The policy is available via [CEPLAS intranet](https://www.ceplas.eu/en/intranet/overview)
+
 ---
 
 
-# Hands-on: ARCitect part 1
+<style>
 
-Follow the **Start Here** guide in the DataPLANT knowledge base.
+.yellowblock {
+  display: inline-block;
+  color: rgba(0, 0, 0, 0);
+  width: 1em;
+  height: 1em;
+  background-color: #FFC000;
+}
 
-Until step "add a study"
+.blueblock {
+  display: inline-block;
+  color: rgba(0, 0, 0, 0);
+  width: 1em;
+  height: 1em;
+  background-color: #2D3E50;
+}
 
-- 01-create-arc-scaffold.mdx
-- 02-investigation.mdx
-- 03-study.mdx
+</style>
+
+## Hands-on part 1: Setup and ARCitect
 
 ---
 
@@ -627,7 +645,9 @@ This allows you to reference the free-text, human-readable protocol.
 
 ## OLS: Finding the right metadata vocabulary
 
-![w:1000](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/ontology-lookup-service.svg)
+![w:1000](../../../images/teaching-ontologies/ontology-lookup-service.svg)
+
+Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
 ---
 
@@ -709,6 +729,11 @@ This allows you to reference the free-text, human-readable protocol.
 
 ---
 
+## Hands-on part 1: Setup and ARCitect
+
+Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+
+:pencil: Until step **Add a study**
 ---
 
 
@@ -1496,11 +1521,7 @@ Platform that makes using code-based tools easy to use in a graphical user inter
 ---
 
 
-# Hands-on part 2: ARCitect (and Swate)
-
-Follow the **Start Here** guide in the DataPLANT knowledge base.
-
-Until "Data analysis"
+## Hands-on part 2: ARCitect (and Swate)
 
 ---
 
@@ -1632,6 +1653,14 @@ Facilities can define their most common workflows as templates
 ## Use CWL to wrap your workflow
 
 ![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
+
+---
+
+## Hands-on part 2: ARCitect (and Swate)
+
+Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+
+:pencil: Until step **Data analysis**
 
 ---
 
@@ -2096,15 +2125,19 @@ Simplifies concurrent work & merging changes
 
 # Hands-on part 3: DataHUB
 
-Follow the **Start Here** guide in the DataPLANT knowledge base.
-
-Until "Complete"
-
 ---
 
 ## Using the DataHUB to collaborate
 
 ![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/collaboration-plantdatahub.svg)
+
+---
+
+## Hands-on part 3: DataHUB
+
+Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+
+:pencil: Until the final **complete** step
 
 ---
 
@@ -2302,6 +2335,14 @@ Domain-specific >> Generic >> Institutional
 # Receive a DOI
 
 ![w:800px](../../../nfdi4plants.knowledgebase/src/assets/images/data-publications/doi-accession.png)
+
+---
+
+
+## Hands-on part 4: Data publication
+
+1. [ARC validation](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/guides/validate-arc/)
+2. (Towards) [ARC publication](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/guides/publish-arc/)
 
 ---
 
