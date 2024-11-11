@@ -5,15 +5,27 @@ paginate: true
 title: Hands-on
 ---
 
-# Hands-on: ARCitect part 1
+<style>
 
-Follow the **Start Here** guide in the DataPLANT knowledge base.
+.yellowblock {
+  display: inline-block;
+  color: rgba(0, 0, 0, 0);
+  width: 1em;
+  height: 1em;
+  background-color: #FFC000;
+}
 
-Until step "add a study"
+.blueblock {
+  display: inline-block;
+  color: rgba(0, 0, 0, 0);
+  width: 1em;
+  height: 1em;
+  background-color: #2D3E50;
+}
 
-- 01-create-arc-scaffold.mdx
-- 02-investigation.mdx
-- 03-study.mdx
+</style>
+
+## Hands-on part 1: Setup and ARCitect
 
 ---
 
@@ -98,7 +110,9 @@ This allows you to reference the free-text, human-readable protocol.
 
 ## OLS: Finding the right metadata vocabulary
 
-![w:1000](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/ontology-lookup-service.svg)
+![w:1000](../../../images/teaching-ontologies/ontology-lookup-service.svg)
+
+Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
 ---
 
@@ -179,3 +193,9 @@ This allows you to reference the free-text, human-readable protocol.
 </div>
 
 ---
+
+## Hands-on part 1: Setup and ARCitect
+
+Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+
+:pencil: Until step **Add a study**
