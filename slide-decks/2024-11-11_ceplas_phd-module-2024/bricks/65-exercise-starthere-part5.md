@@ -5,13 +5,15 @@ paginate: true
 title: Hands-on
 ---
 
-# Hands-on part 5: Data publication
+# Hands-on part 5: ARC data publication
+
+![](../../../images/)
 
 ---
 
-# From ARC to repositories
+# Moving from paper to FAIR data publication
 
-![w:900](../../../images/data-publications/publication-outlets.svg)
+![w:900](../../../images/fairdata-classicalpublication.svg)
 
 ---
 
@@ -41,41 +43,6 @@ title: Hands-on
 ![h:400](./../../../images/tpj16474-fig-0008-m-modified.png)
 
 <span class="footer-reference"> adapted from Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
----
-
-# Validate & publish
-
-
-![h:400](././../../../images/tpj16474-fig-0008-m.jpg)
-
-<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
----
-
-# Receive a DOI
-
-![w:800px](../../../nfdi4plants.knowledgebase/src/assets/images/data-publications/doi-accession.png)
-
-
----
-
-# Moving from paper to FAIR data publication
-
-![w:900](../../../images/fairdata-classicalpublication.svg)
-
----
-
-# Moving from paper to FAIR data publication
-
-![w:900](../../../images/data-publications/publication-fair-data-publication.svg)
-
-
----
-
-# Publish your ARC, get a DOI
-
-![w:800px](../../../images/arc-seamlesspublication.svg)
 
 ---
 

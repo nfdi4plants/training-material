@@ -398,7 +398,7 @@ Your entire investigation in a single unified bag
 
 # ARC as single-entry point
 
-![w:900](./../../../images/arc-publication-outlets.drawio.png)
+![w:900](./../../../images/data-publications/publication-outlets.svg)
 
 ---
 
