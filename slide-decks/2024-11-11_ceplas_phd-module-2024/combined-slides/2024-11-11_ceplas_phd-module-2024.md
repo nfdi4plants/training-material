@@ -26,10 +26,6 @@ CEPLAS Data
 
 ---
 
-# Welcome
-
----
-
 # House-keeping
 
 Pad: https://pad.hhu.de/0NdPKO5LQ5CHBRN2iuG91Q
@@ -281,6 +277,8 @@ Participant n | Participant n+1
 
 # Let's discuss your findings
 
+![bg right:40% w:500](./../../../images/user-challenges-002.svg)
+
 ---
 
 
@@ -411,7 +409,7 @@ Your entire investigation in a single unified bag
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
 ---
-
+<!-- 
 # Galaxy integration: Extra value for plant research
 
 <div class="two-columns">
@@ -433,7 +431,7 @@ Your entire investigation in a single unified bag
 </div>
 
 
----
+--- -->
 
 # Enabling platforms
 
@@ -736,6 +734,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
 
 :pencil: Until step **Add a study**
+
 ---
 
 
@@ -1406,123 +1405,6 @@ Integration of established (meta)data standards ensures compatibility by design
 ---
 
 
-# Code Notebooks and IDEs
-
-<div class="two-columns">
-
-<div>
-
-- Interactive (good start for non-coders)
-- Document and comment code
-- Often offer integrated version control (e.g. git plugin)
-- Executable code + "result preview"
-
-</div>
-<div>
-
-#### Examples
-
-- Visual Studio Code: https://code.visualstudio.com/
-- RMarkdown: http://rmarkdown.rstudio.com
-- Jupyter Notebooks: https://jupyter.org/ 
-
-</div>
-
-</div>
-</div>
-
----
-
-# Workflow languages
-
-<div class="two-columns">
-<div>
-
-- Describe analysis workflows and tools
-- Make them portable and scalable
-- Across a variety of environments (software and hardware)
-
-</div>
-
-<div>
-
-#### Examples
-
-<https://www.commonwl.org>
-<https://www.nextflow.io>
-<https://nf-co.re/>
-<https://snakemake.github.io>
-
-</div>
-</div>
-
----
-
-## Common Workflow Language
-
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
-
----
-
-## Common Workflow Language
-
-```yml
-cwlVersion: v1.2
-class: CommandLineTool
-requirements:
-  - class: InitialWorkDirRequirement
-    listing:
-      - entryname: heatmap.py
-        entry:
-          $include: heatmap.py
-baseCommand: [python, heatmap.py]
-inputs:
-  MeasurementTableCSV:
-    type: File
-    inputBinding:
-      position: 1
-  FigureFileName:
-    type: string
-    inputBinding:
-      position: 2
-
-outputs:
-  output:
-    type: File
-    outputBinding:
-      glob: "*.svg"
-```
-
----
-
-# Galaxy
-
-Platform that makes using code-based tools easy to use in a graphical user interface
-
-#### Resources
-
-- https://usegalaxy.eu
-- https://galaxyproject.eu/
-
----
-
-# Software Containers
-
-- Big step towards reproducibility **and** reusability
-- Help installing software (OS-agnostic)
-- Help managing and documenting package and library dependencies
-
-#### Examples:
-  - https://www.docker.com
-  - https://podman.io
-
-#### Resources
-  - https://www.bioconductor.org
-  - BioContainers: https://github.com/BioContainers/
-
----
-
-
 ## Hands-on part 2: ARCitect (and Swate)
 
 ---
@@ -1628,6 +1510,159 @@ Facilities can define their most common workflows as templates
 
 ---
 
+## Hands-on part 2: ARCitect (and Swate)
+
+Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+
+:pencil: Until step **Add assay data**
+
+---
+
+
+# Code Notebooks and IDEs
+
+<div class="two-columns">
+
+<div>
+
+- Interactive (good start for non-coders)
+- Document and comment code
+- Often offer integrated version control (e.g. git plugin)
+- Executable code + "result preview"
+
+</div>
+<div>
+
+#### Examples
+
+- Visual Studio Code: https://code.visualstudio.com/
+- RMarkdown: http://rmarkdown.rstudio.com
+- Jupyter Notebooks: https://jupyter.org/ 
+
+</div>
+
+</div>
+</div>
+
+---
+
+# Workflow languages
+
+<div class="two-columns">
+<div>
+
+- Describe analysis workflows and tools
+- Make them portable and scalable
+- Across a variety of environments (software and hardware)
+
+</div>
+
+<div>
+
+#### Examples
+
+<https://www.commonwl.org>
+<https://www.nextflow.io>
+<https://nf-co.re/>
+<https://snakemake.github.io>
+
+</div>
+</div>
+
+---
+
+## Common Workflow Language
+
+![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
+
+---
+
+## Common Workflow Language
+
+```yml
+cwlVersion: v1.2
+class: CommandLineTool
+requirements:
+  - class: InitialWorkDirRequirement
+    listing:
+      - entryname: heatmap.py
+        entry:
+          $include: heatmap.py
+baseCommand: [python, heatmap.py]
+inputs:
+  MeasurementTableCSV:
+    type: File
+    inputBinding:
+      position: 1
+  FigureFileName:
+    type: string
+    inputBinding:
+      position: 2
+
+outputs:
+  output:
+    type: File
+    outputBinding:
+      glob: "*.svg"
+```
+
+---
+
+# Galaxy
+
+Platform that makes using code-based tools easy to use in a graphical user interface
+
+#### Resources
+
+- https://usegalaxy.eu
+- https://galaxyproject.eu/
+
+---
+
+
+## Galaxy integration: Extra value for plant research
+
+<div class="two-columns">
+<div>
+
+![](./../../../images/galaxy-integration.drawio.png)
+
+</div>
+
+<div>
+
+- Full ARC compatibility
+- Automated metadata generation
+- Specialized tools and workflows for ‘omics processing and analysis
+- Public repository compatibility
+- Galaxy teaching resource for data analysis
+
+</div>
+</div>
+
+---
+
+# Software Containers
+
+- Big step towards reproducibility **and** reusability
+- Help installing software (OS-agnostic)
+- Help managing and documenting package and library dependencies
+
+#### Examples:
+  - https://www.docker.com
+  - https://podman.io
+
+#### Resources
+  - https://www.bioconductor.org
+  - BioContainers: https://github.com/BioContainers/
+
+---
+
+
+## Hands-on part 3: Data
+
+---
+
 ## Options to annotate the data analysis
 
 ![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows1.svg)
@@ -1658,7 +1693,7 @@ Facilities can define their most common workflows as templates
 
 ---
 
-## Hands-on part 2: ARCitect (and Swate)
+## Hands-on part 3: Data
 
 Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
 
@@ -2133,7 +2168,7 @@ ARC services are available as on-premise option
 ---
 
 
-# Hands-on part 3: DataHUB
+# Hands-on part 4: DataHUB
 
 ---
 
@@ -2143,7 +2178,7 @@ ARC services are available as on-premise option
 
 ---
 
-## Hands-on part 3: DataHUB
+## Hands-on part 4: DataHUB
 
 Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
 
@@ -2349,7 +2384,7 @@ Domain-specific >> Generic >> Institutional
 ---
 
 
-## Hands-on part 4: Data publication
+## Hands-on part 5: Data publication
 
 1. [ARC validation](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/guides/validate-arc/)
 2. (Towards) [ARC publication](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/guides/publish-arc/)
