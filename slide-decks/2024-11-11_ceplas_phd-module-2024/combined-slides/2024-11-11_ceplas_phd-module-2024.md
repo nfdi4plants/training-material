@@ -2108,7 +2108,13 @@ Simplifies concurrent work & merging changes
 ---
 
 
-# DataPLANT DataHUB
+# Hands-on part 4: DataHUB
+
+---
+
+# DataHUB overview
+
+![w:900px](./../../../images/dataplant-bigpicture-seq8.png)
 
 ---
 
@@ -2130,33 +2136,18 @@ Simplifies concurrent work & merging changes
 
 ARC services are available as on-premise option
 
----
-
-![bg cover](./../../../images/dataplant-bigpicture-seq2.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq3.png)
+## Using the DataHUB to collaborate
+
+![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/collaboration-plantdatahub.svg)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq4.png)
+# The Research Data Lifecycle ***is mutable***
 
----
-
-![bg cover](./../../../images/dataplant-bigpicture-seq5.png)
-
----
-
-![bg cover](./../../../images/dataplant-bigpicture-seq6.png)
-
----
-
-![bg cover](./../../../images/dataplant-bigpicture-seq7.png)
-
----
-
-![bg cover](./../../../images/dataplant-bigpicture-seq8.png)
+![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
 
 ---
 
@@ -2168,22 +2159,35 @@ ARC services are available as on-premise option
 
 ---
 
-# Project management
+## Project management
 
-![w:800](./../../../images/tpj16474-fig-0007-m.jpg)
+![w:800](../../../images/tpj16474-fig-0007-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
 ---
 
+## ARCs come with their own wiki space
 
-# Hands-on part 4: DataHUB
+<div class="two-columns">
 
----
+<div style="font-size: 27px">
 
-## Using the DataHUB to collaborate
+- directly associated to your ARC
+- same access rights as your ARC
+- share meeting minutes or ideas with collaboration partners
+- keep ARC clean of files that are not considered "research data"
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/collaboration-plantdatahub.svg)
+</div>
+
+<div>
+
+![w:600](../../../images/datahub/datahub-wiki.png)
+
+</div>
+</div>
+
+
 
 ---
 
@@ -2192,6 +2196,92 @@ ARC services are available as on-premise option
 Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
 
 :pencil: Until the final **complete** step
+
+---
+
+
+# DataHUB terminology and data sharing
+
+---
+
+## Choosing the proper role
+
+When inviting new members to an ARC or group, you can choose between different levels.
+
+<img src="../../../images/arc-sharing-permissionsroles.drawio.png" style="display: block; margin: auto" width=800px>
+
+:bulb: By default you are **Owner** of an ARC you create or upload to the DataHUB.
+
+---
+
+## **Projects** and **Groups** are not the same
+
+- "Project" = ARC
+- "Groups" = Group of users
+
+---
+
+## Project = ARC
+
+- In the DataHUB, ARCs are called "projects"; they are the same.
+- An ARC can be shared with individual users (invited as "members") or a group.
+
+---
+
+## DataHUB Groups = Group of members (e.g. lab)
+
+- A "Group" is a group of users with specific [permissions](#roles-and-permissions)
+- A group can share ARCs
+- A group can be invited to an ARC
+- Groups can have subgroups
+
+---
+
+## Options to share an ARC via the DataHUB
+
+<img src="../../../images/arc-sharing-options.drawio.png" style="display: block; margin: auto" width=700px>
+
+---
+
+## Namespaces
+
+- Every user has a personal namespace, where they can upload or create new ARCs
+- Every group and subgroup has its own namespace
+
+<div class="table-container" style="font-size: 25px">
+
+Type | URL | Namespace | Name
+--- | --- | --- | --- 
+A **personal** ARC | https://git.nfdi4plants.org/brilator/Facultative-CAM-in-Talinum | `brilator` | Dominik Brilhaus
+An **group**-shared ARC | https://git.nfdi4plants.org/hhu-plant-biochemistry/Samuilov-2018-BOU-PSP | `hhu-plant-biochemistry` | HHU Plant Biochemistry
+
+### :bulb: **Personal** is not the same as **private**
+
+---
+
+## Visibility
+
+The visibility of ARCs and groups can be managed individually for each ARC or group
+  
+<img src="../../../images/arc-sharing-visibility.drawio.png" style="display: block; margin: auto" width=800px>
+
+:bulb: By default every ARC and every group is set to **private**.
+
+---
+
+## ARC DataHUB members // ARC Investigation contacts <!-- fit -->
+
+![w:1100](../../../images/arc-sharing-membersvscontacts.drawio.png)
+
+:bulb: Investigation contacts are not automatically invited as members to the ARC.
+
+---
+
+## Version control
+
+Check out the **commit history** of your ARC via Repository (2) or directly via commits (7)
+
+![w:1000](../../../images/datahub/datahub-arc-overview.drawio.svg)
 
 ---
 
@@ -2209,10 +2299,6 @@ Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.kn
 
 ---
 
-# Peristent Identifiers (PIDs)
-
----
-
 # Spot the PIDs
 
 ![w:900](././../../../images/ceplas/ceplas-teaching-exercise-pids.png)
@@ -2221,14 +2307,16 @@ Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.kn
 
 ---
 
-# Globally unique, stable, persistent identifiers (PIDs)
+# Peristent Identifiers (PIDs)
+
+### Globally unique, stable, persistent 
 
 - Long-term findability
 - Make data, digital objects, people, … uniquely identifiable
 - Diminish “dead links”
 - Cope with name changes
 
-![bg right width:500](././../../../images/teaching-publication/pid-collage.drawio.svg)
+![bg right:45% width:400](././../../../images/teaching-publication/pid-collage.drawio.svg)
 
 ---
 
@@ -2342,9 +2430,16 @@ Domain-specific >> Generic >> Institutional
 
 ---
 
-# From ARC to repositories
 
-![w:900](../../../images/data-publications/publication-outlets.svg)
+# Hands-on part 5: ARC data publication
+
+![w:500](../../../images/data-publications/calssical-to-arc-publication.svg)
+
+---
+
+# Moving from paper to FAIR data publication
+
+![w:900](../../../images/fairdata-classicalpublication.svg)
 
 ---
 
@@ -2380,18 +2475,23 @@ Domain-specific >> Generic >> Institutional
 # Validate & publish
 
 
-![h:400](././../../../images/tpj16474-fig-0008-m.jpg)
+![h:400](../../../images/tpj16474-fig-0008-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
 ---
 
-# Receive a DOI
+## Validation towards publication
+
+![w:900px](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/publication-validation.svg)
+
+---
+
+## Receive a DOI
 
 ![w:800px](../../../nfdi4plants.knowledgebase/src/assets/images/data-publications/doi-accession.png)
 
 ---
-
 
 ## Hands-on part 5: Data publication
 
@@ -2510,19 +2610,18 @@ Check out: https://creativecommons.org/about/cclicenses/
 
 > Check out the [Elixir RDMkit](https://rdmkit.elixir-europe.org/data_management_plan) for more
 
----
 
 ---
 
 
-# :pencil: Share your ARC :pencil:
+# :pencil: Share your ARC
 
-1. Follow the next slides to learn how to share your ARC with a colleague
-3. Go to your colleague’s ARC and try to understand it
+Invite your colleague to your ARC
+
 
 ---
 
-# :pencil: Understand your colleague’s ARC :pencil:
+# :pencil: Understand your colleague’s ARC
 
 1. Go to your colleague’s ARC
 2. Try to identify one experiment that led to results (e.g. a figure in the thesis)
@@ -2543,121 +2642,6 @@ Participant02 | Participant01
 Participant03 | Participant02
 … | …
 Participant n | Participant n-1
-
----
-
-
-# Electronic Lab Notebooks (ELNs)
-
----
-
-# ELN ≈ Digital Protocol Editors
-
-- Documenting daily lab routine
-- Lab methods & protocols
-- Lab inventory (biologicals, chemicals, instruments)
-- Local sharing & collaboration
-- Backup (locally)
-
-✅ ELNs help to digitalize research documentation
-
-![bg right:40% w:400](./../../../images/documents-handwritten.svg)
-
----
-
-<!-- 
-# Are ELNs FAIR?
-
-- Version control / Track changes
-- Transparent contributions
-- Use of IDs / PIDs
-- External sharing / access
-- (Long term) data storage
-- Analyses
-  - is code reproducible
-- Metadata
-  - standards
-  - schemata
-
---- -->
-
-# Are ELNs FAIR?
-
-FAIR indicator* | ELN
--------------- | ---
-**Findable**
-F1. (Meta)data are assigned a globally unique and persistent identifier.
-F2. Data are described with rich metadata (defined by R1 below).
-F3. Metadata clearly and explicitly include the identifier of the data they describe.
-F4. (Meta)data are registered or indexed in a searchable resource.
-**Accessible**
-A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
-A1.1 The protocol is open, free, and universally implementable
-A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
-A2. Metadata are accessible, even when the data are no longer available
-**Interoperable**
-I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
-I2. (Meta)data use vocabularies that follow FAIR principles.
-I3. (Meta)data include qualified references to other (meta)data.
-**Reusable**
-R1. (Meta)data are richly described with a plurality of accurate and relevant attributes
-R1.1. (Meta)data are released with a clear and accessible data usage license
-R1.2. (Meta)data are associated with detailed provenance
-R1.3. (Meta)data meet domain-relevant community standards
-
-<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
-
----
-
-# Findable
-
-| FAIR indicator*                                                                       | elabFTW |
-|---------------------------------------------------------------------------------------|---------|
-| F1. (Meta)data are assigned a globally unique and persistent identifier.              | 🟠 / 🔴 |
-| F2. Data are described with rich metadata (defined by R1 below).                      | 🔴      |
-| F3. Metadata clearly and explicitly include the identifier of the data they describe. | 🟠 / 🔴 |
-| F4. (Meta)data are registered or indexed in a searchable resource.                    | 🔴      |
-
-<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
-
---- 
-
-# Accessible
-
-| FAIR indicator*                                                                                 | elabFTW |
-|-------------------------------------------------------------------------------------------------|---------|
-| A1. (Meta)data are retrievable by their identifier using a standardised communications protocol | 🔴
-| A1.1 The protocol is open, free, and universally implementable                                  | 🟢 / 🟠
-| A1.2 The protocol allows for an authentication and authorisation procedure, where necessary     | ❓
-| A2. Metadata are accessible, even when the data are no longer available                         | ❓
-
-<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
-
---- 
-
-# Interoperable
-
-| FAIR indicator*                                                                                                | elabFTW |
-|----------------------------------------------------------------------------------------------------------------|---------|
-| I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation. | 🔴
-| I2. (Meta)data use vocabularies that follow FAIR principles.                                                   | 🔴
-| I3. (Meta)data include qualified references to other (meta)data.                                               | 🔴
-
-<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
-
----
-
-# Reusable
-
-| FAIR indicator*                                                                          | elabFTW |
-|------------------------------------------------------------------------------------------|---------|
-| R1. (Meta)data are richly described with a plurality of accurate and relevant attributes | 🔴
-| R1.1. (Meta)data are released with a clear and accessible data usage license             | 🔴
-| R1.2. (Meta)data are associated with detailed provenance                                 | 🔴
-| R1.3. (Meta)data meet domain-relevant community standards                                | 🔴
-
-<span class="footer-reference">*FAIR classified by https://www.go-fair.org/fair-principles/<span>
----
 
 ---
 

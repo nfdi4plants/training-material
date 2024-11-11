@@ -122,4 +122,3 @@ Check out: https://creativecommons.org/about/cclicenses/
 
 > Check out the [Elixir RDMkit](https://rdmkit.elixir-europe.org/data_management_plan) for more
 
----
