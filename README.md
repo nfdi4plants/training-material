@@ -12,6 +12,7 @@ Materials are shared here under [CC BY 4.0 license](https://creativecommons.org/
 
 Event | Slide decks
 --------------------------|-------------------------------------------
+2024-11-11_ceplas_phd-module-2024 | [2024-11-11_ceplas_phd-module-2024.pdf](slide-decks/2024-11-11_ceplas_phd-module-2024/combined-slides/2024-11-11_ceplas_phd-module-2024.pdf)
 2024-10-24_ceplas_arcify-your-research-project | [2024-10-24_ceplas_arcify-your-research-project](slide-decks/2024-10-24_ceplas_arcify-your-research-project)
 2024-06-19_trr175_tutzing-retreat | [2024-06-19_trr175_tutzing-retreat](slide-decks/2024-06-19_trr175_tutzing-retreat)
 2024-04-11_mibinet-ceplas_arc-trainings | [2024-04-11_mibinet-ceplas_arc-trainings](slide-decks/2024-04-11_mibinet-ceplas_arc-trainings)
