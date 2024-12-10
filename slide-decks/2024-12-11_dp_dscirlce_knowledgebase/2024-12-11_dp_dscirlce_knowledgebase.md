@@ -10,9 +10,7 @@ paginate: true
 date: 2024-12-11
 ---
 
-# The DataPLANT Knowledge Base
-
-Contribution to DataPLANT
+# The (new) DataPLANT Knowledge Base
 
 DataSteward Circle – December 11<sup>th</sup>, 2024
 
@@ -20,8 +18,15 @@ Dominik Brilhaus
 
 ---
 
-# Goal of the Knowledge Base
+# Data Stewardship – Between DataPLANT and the community <!-- fit -->
 
+
+![](dataplant-datastewardship.drawio.png)
+
+
+---
+
+# Why do we maintain a Knowledge Base?
 
 - Articles about RDM topics, DataPLANT concepts
 - Self-guided tutorials
@@ -39,6 +44,10 @@ https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/
 
 - ready-to-use for workshops
 - includes demo material
+
+---
+
+# Who maintains the Knowledge Base?
 
 ---
 
@@ -291,7 +300,7 @@ src/assets/images/arc-commander/access-2.png
   - ...
 
   </div>
-</div>a
+</div>
 
 ---
 
