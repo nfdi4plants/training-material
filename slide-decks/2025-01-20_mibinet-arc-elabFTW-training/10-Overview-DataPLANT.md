@@ -212,6 +212,7 @@ object-position: 100% 80%;
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
+<!--
 ---
 
 # DataPLAN &ndash; a DataPLANT DMP generator
@@ -222,22 +223,7 @@ https://dmpg.nfdi4plants.org
 
 ![w:800](./../../images/zhou2023-dataplan.png)
 
----
-
-# Everything is a file
-
-DataPLANT employs a **data-centric** approach to RDM
-
-![w:800](./../../images/arc-data-centric-everything-is-a-file.drawio.png)
-
----
-
-# No technical lock-in
-
-![w:1000](./../../images/arc-tool-assistance.drawio.png)
-
-(Meta)data transparency with tool assistance but **no technical lock-in**
-
+-->
 ---
 
 # The ARC ecosystem
@@ -291,11 +277,19 @@ DataPLANT employs a **data-centric** approach to RDM
 <span class="footer-reference">https://isa-tools.org/ | https://www.commonwl.org/
 https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
-<!-- 
+---
+# Everything is a file
+
+DataPLANT employs a **data-centric** approach to RDM
+
+![w:800](./../../images/arc-data-centric-everything-is-a-file.drawio.png)
+
 ---
 
-# The DataPLANT DataHUB &ndash; a GitLab ***Plus***
+# No technical lock-in
 
-![](./../../images/datahub/datahub-gitlab.drawio.png) 
+![w:1000](./../../images/arc-tool-assistance.drawio.png)
 
--->
+(Meta)data transparency with tool assistance but **no technical lock-in**
+
+

@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: marp-theme_dataplant-ceplas-ccby
+theme: marp-theme_dataplant-ceplas-mibinet-ccby
 paginate: true
 title: Hands-on
 ---
@@ -25,43 +25,46 @@ title: Hands-on
 
 </style>
 
-## Hands-on part 1: Setup and ARCitect
+## Hands-on part 1: Start Here guide
+Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+
+:pencil: Until step **Add a study**
 
 ---
 
 ## ARC: Annotated research context
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-bag.svg)
+![w:900](../../images/start-here/arc-bag.svg)
 
 ---
 
 ## The ARC scaffold structure
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-scaffold.svg)
+![w:900](../../images/start-here/arc-scaffold.svg)
 
 ---
 
 ## A small prototypic project
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic.svg)
+![](../../images/start-here/arc-prototypic.svg)
 
 ---
 
 ## Divide and conquer for reproducibility
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-divide-conquer.svg)
+![](../../images/start-here/arc-prototypic-study-divide-conquer.svg)
 
 ---
 
 ## Identifying the ‘study’ part
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-identify.svg)
+![w:900](../../images/start-here/arc-prototypic-study-identify.svg)
 
 ---
 
 ## A table-based organization schema
 
-![w:700](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-metadata-table-representation.svg)
+![w:700](../../images/start-here/arc-prototypic-metadata-table-representation.svg)
 
 ---
 
@@ -78,7 +81,7 @@ This allows you to reference the free-text, human-readable protocol.
 
 ## Parameterizing the ‘study’
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-parameterization.svg)
+![w:900](../../images/start-here/arc-prototypic-study-parameterization.svg)
 
 ---
 
@@ -110,7 +113,7 @@ This allows you to reference the free-text, human-readable protocol.
 
 ## OLS: Finding the right metadata vocabulary
 
-![w:1000](../../../images/teaching-ontologies/ontology-lookup-service.svg)
+![w:1000](../../images/teaching-ontologies/ontology-lookup-service.svg)
 
 Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
@@ -118,7 +121,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
 ## Finding the metadata vocabulary and descriptors
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-metadata.svg)
+![](../../images/start-here/arc-prototypic-metadata.svg)
 
 ---
 
