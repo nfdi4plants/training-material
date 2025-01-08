@@ -23,7 +23,7 @@ January, 2025
 Sabrina Zander (MibiNet)
 Stella Eggels (DataPLANT)
 
-![bg fit](./../../images/ceplas/ceplas-background-title.drawio.svg)
+![bg fit](./../../images/ceplas/ceplas-background-title-mibinet.drawio.svg)
 
 ---
 # Tentative agenda
@@ -68,7 +68,7 @@ Time | Topics
 <div class="two-columns">
   <div>
 
-  - Use the pad to raise questions and feedback
+  - Use the [pad](https://pad.hhu.de/BpqX_5KHSUiW5gDhrUFtgg) to raise questions and feedback
   - Copy / paste links (hands-on)
 
   </div>
