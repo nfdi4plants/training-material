@@ -282,4 +282,4 @@ Facilities can define their most common workflows as templates
 
 Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
 
-:pencil: Until step **Add datamap**
+:pencil: Stop after step **Add assay data**

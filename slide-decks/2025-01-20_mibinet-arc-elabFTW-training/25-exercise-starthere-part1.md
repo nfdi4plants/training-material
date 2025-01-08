@@ -44,6 +44,6 @@ title: Hands-on
 
 Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
 
-:pencil: Until step **Add a study**
+:pencil: Stop after step **Describing the Investigation**
 
 :question: Please ask if you have any question/problems :question:
