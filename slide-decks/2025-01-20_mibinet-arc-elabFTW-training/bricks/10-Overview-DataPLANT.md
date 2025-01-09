@@ -21,19 +21,19 @@ TODO
 -->
 # MibiNet connection to NFDIs
 
-![](../../images/ceplas/ceplas-nfdi-connection.drawio.png)
+![](../../../images/ceplas/ceplas-nfdi-connection.drawio.png)
 
 ---
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../images/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)
+![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)
 
 ---
 
 # Annotated Research Context (ARC)
 
-![width:850](./../../images/arc-data-cycle-bag.drawio.png)
+![width:850](./../../../images/arc-data-cycle-bag.drawio.png)
 
 Your entire investigation in a single unified bag
 
@@ -41,42 +41,42 @@ Your entire investigation in a single unified bag
 
 # You can store your ARC in the DataHUB
 
-![w:800](./../../images/dataplant-bigpicture-seq2.png)
+![w:800](./../../../images/dataplant-bigpicture-seq2.png)
 
 ---
 
 # ARCs are versioned
 
-![w:800](./../../images/dataplant-bigpicture-seq3.png)
+![w:800](./../../../images/dataplant-bigpicture-seq3.png)
 
 ---
 
 # You can invite collaborators
 
-![w:800](./../../images/dataplant-bigpicture-seq4.png)
+![w:800](./../../../images/dataplant-bigpicture-seq4.png)
 
 ---
 
 # Collaborate and contribute
 
-![w:800](./../../images/dataplant-bigpicture-seq5.png)
+![w:800](./../../../images/dataplant-bigpicture-seq5.png)
 
 ---
 
 # Reuse data in ARCs
 
-![w:800](./../../images/dataplant-bigpicture-seq6.png)
+![w:800](./../../../images/dataplant-bigpicture-seq6.png)
 
 ---
 
 # Publish your ARC
 
-![w:800](./../../images/dataplant-bigpicture-seq7.png)
+![w:800](./../../../images/dataplant-bigpicture-seq7.png)
 
 ---
 # Publish your ARC, get a DOI
 
-![w:800px](../../images/arc-seamlesspublication.svg)
+![w:800px](../../../images/arc-seamlesspublication.svg)
 
 ---
 <!-- 
@@ -99,14 +99,14 @@ object-position: 100% 80%;
 }
 </style>
 
-![](../../images/arc-repository03-img1.png)
+![](../../../images/arc-repository03-img1.png)
 
 ---
 
 
 # Moving from paper to data publications
 
-![w:400px](../../images/data-publications/calssical-to-arc-publication.svg)
+![w:400px](../../../images/data-publications/calssical-to-arc-publication.svg)
 
 
 ---
@@ -208,7 +208,7 @@ object-position: 100% 80%;
 
 # Project management
 
-![w:800](./../../images/tpj16474-fig-0007-m.jpg)
+![w:800](./../../../images/tpj16474-fig-0007-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -228,31 +228,31 @@ https://dmpg.nfdi4plants.org
 
 # The ARC ecosystem
 
-![w:850](./../../images/arc-ecosystem-10.drawio.png)
+![w:850](./../../../images/arc-ecosystem-10.drawio.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq1.png)
+![width:950](./../../../images/arc-fillwithdata-seq1.png)
 
 ---
 
 # ARCs store experimental data
 
-![width:950](./../../images/arc-fillwithdata-seq3.png)
+![width:950](./../../../images/arc-fillwithdata-seq3.png)
 
 ---
 
 # Computations can be run inside ARCs
 
-![width:950](./../../images/arc-fillwithdata-seq5.png)
+![width:950](./../../../images/arc-fillwithdata-seq5.png)
 
 ---
 
 # ARCs come with comprehensive metadata
 
-![width:950](./../../images/arc-fillwithdata-seq6.png)
+![width:950](./../../../images/arc-fillwithdata-seq6.png)
 
 ---
 
@@ -261,7 +261,7 @@ https://dmpg.nfdi4plants.org
 <div class="two-columns">
   <div>
   
-  ![w:500](./../../images/arc-buildsonstandards3.png)
+  ![w:500](./../../../images/arc-buildsonstandards3.png)
   
   </div>
   <div>
@@ -282,13 +282,13 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 DataPLANT employs a **data-centric** approach to RDM
 
-![w:800](./../../images/arc-data-centric-everything-is-a-file.drawio.png)
+![w:800](./../../../images/arc-data-centric-everything-is-a-file.drawio.png)
 
 ---
 
 # No technical lock-in
 
-![w:1000](./../../images/arc-tool-assistance.drawio.png)
+![w:1000](./../../../images/arc-tool-assistance.drawio.png)
 
 (Meta)data transparency with tool assistance but **no technical lock-in**
 

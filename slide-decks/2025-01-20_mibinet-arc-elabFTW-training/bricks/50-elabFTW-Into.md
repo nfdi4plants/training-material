@@ -5,31 +5,32 @@ paginate: true
 license: '[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)'
 title: elabFTW-Into
 author:
-
-- name: Sabrina Zander 
-  
-  ---
+- name: Sabrina Zander
+  github: https://github.com/SabrinaZander
+  orcid: https://orcid.org/0009-0000-4569-6126
+ 
+---
 # elabFTW Introduction
 
 ---
 # Login into eLabFTW HHU
 
 
-![alt text](../../images/elabftw/elabftw-hhu-login.png)
+![alt text](../../../images/elabftw/elabftw-hhu-login.png)
 
 ---
 
 # eLab-FTW - Dashboard
 
 
-![alt text](../../images/elabFTW/elabFTW-dashboard.png)
+![alt text](../../../images/elabFTW/elabFTW-dashboard.png)
 
 ---
 
 # eLabFTW - Experiment panel
 
 
-![alt text](../../images/elabFTW/elabFTW-experiment-panel.png)
+![alt text](../../../images/elabFTW/elabFTW-experiment-panel.png)
 
 Default "working area" for protocols of daily lab work
 
@@ -38,7 +39,7 @@ Default "working area" for protocols of daily lab work
 # eLabFTW - Resource panel
 
 
-![alt text](../../images/elabFTW/elabFTW-resource-panel.png)
+![alt text](../../../images/elabFTW/elabFTW-resource-panel.png)
 
 Place to categorize content
 
@@ -47,7 +48,7 @@ Place to categorize content
 # eLabFTW - Experiment information
 
 
-![alt text](../../images/elabFTW/elabftw-experiment-settings.png)
+![alt text](../../../images/elabFTW/elabftw-experiment-settings.png)
 
 ---
 
@@ -68,7 +69,7 @@ Use keywords you would search/filter for
 
 # eLabFTW - Extra fields
 
-![w:400](../../images/elabFTW/elabftw-extra-field.png)
+![w:400](../../../images/elabFTW/elabftw-extra-field.png)
 
 ---
 
@@ -76,7 +77,7 @@ Use keywords you would search/filter for
 
 Dropdown            |  URL | Number          |  Date
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![alt text](../../images/elabFTW/elabftw-extra-field-ex1.png)  |  ![alt text](../../images/elabFTW/elabftw-extra-field-ex2.png) | ![alt text](../../images/elabFTW/elabftw-extra-field-ex3.png) | ![alt text](../../images/elabFTW/elabftw-extra-field-ex4.png)
+![alt text](../../../images/elabFTW/elabftw-extra-field-ex1.png)  |  ![alt text](../../../images/elabFTW/elabftw-extra-field-ex2.png) | ![alt text](../../../images/elabFTW/elabftw-extra-field-ex3.png) | ![alt text](../../../images/elabFTW/elabftw-extra-field-ex4.png)
 
 ---
 
@@ -110,7 +111,7 @@ Use Resources to categorize content & manage lab
 
 # eLabFTW - Scheduler
 
-![w:900](../../images/elabFTW/elabftw-scheduler.png)
+![w:900](../../../images/elabFTW/elabftw-scheduler.png)
 
 ---
 
@@ -118,9 +119,16 @@ Use Resources to categorize content & manage lab
 
 You can modify booking parameter for reach Resource
 
-![alt text](../../images/elabFTW/elabftw-booking-parameter.png)
+![alt text](../../../images/elabFTW/elabftw-booking-parameter.png)
 
 ---
 
 # eLabFTW - Templates
+
+---
+
+# eLabFTW - Tipps and tricks
+
+---
+# eLabFTW - Support
 

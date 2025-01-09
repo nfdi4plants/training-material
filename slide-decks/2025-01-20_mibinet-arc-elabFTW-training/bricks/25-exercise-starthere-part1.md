@@ -35,7 +35,7 @@ title: Hands-on
 
 ## A small prototypic project
 
-![](../../images/start-here/arc-prototypic.svg)
+![](../../../images/start-here/arc-prototypic.svg)
 
 ---
 
