@@ -23,7 +23,7 @@ January, 2025
 Sabrina Zander (MibiNet)
 Stella Eggels (DataPLANT)
 
-![bg fit](./../../images/ceplas/ceplas-background-title-mibinet.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title-mibinet.drawio.svg)
 
 ---
 # Tentative agenda
