@@ -21,13 +21,13 @@ TODO
 -->
 # MibiNet connection to NFDIs
 
-![](../../../images/ceplas/ceplas-nfdi-connection.drawio.png)
+![w:900](../../../images/ceplas/ceplas-nfdi-connection.drawio.png)
 
 ---
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)
+![w:800](./../../../images/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)
 
 ---
 
@@ -228,31 +228,31 @@ https://dmpg.nfdi4plants.org
 
 # The ARC ecosystem
 
-![w:850](./../../../images/arc-ecosystem-10.drawio.png)
+![w:800](./../../../images/arc-ecosystem-10.drawio.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq1.png)
+![width:900](./../../../images/arc-fillwithdata-seq1.png)
 
 ---
 
 # ARCs store experimental data
 
-![width:950](./../../../images/arc-fillwithdata-seq3.png)
+![width:900](./../../../images/arc-fillwithdata-seq3.png)
 
 ---
 
 # Computations can be run inside ARCs
 
-![width:950](./../../../images/arc-fillwithdata-seq5.png)
+![width:900](./../../../images/arc-fillwithdata-seq5.png)
 
 ---
 
 # ARCs come with comprehensive metadata
 
-![width:950](./../../../images/arc-fillwithdata-seq6.png)
+![width:900](./../../../images/arc-fillwithdata-seq6.png)
 
 ---
 
