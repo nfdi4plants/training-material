@@ -47,3 +47,12 @@ Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.know
 :pencil: Stop after step **Describing the Investigation**
 
 :question: Please ask if you have any question/problems :question:
+
+<!-- 
+
+Download Demo Data 
+Open ARCitect
+Create an ARC
+Describe Investigation 
+
+-->
