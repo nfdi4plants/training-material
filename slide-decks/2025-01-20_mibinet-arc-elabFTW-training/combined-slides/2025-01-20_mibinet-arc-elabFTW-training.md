@@ -4,7 +4,7 @@ layout: slides
 theme: marp-theme_dataplant-ceplas-mibinet-ccby
 paginate: true
 title: 2025-01-20_mibinet-arc-elabFTW-training
-date: 2025-01-09
+date: 2025-01-13
 ---
 
 #  ARCify your research project
@@ -18,7 +18,7 @@ January, 2025
 Sabrina Zander (MibiNet)
 Stella Eggels (DataPLANT)
 
-![bg fit](./../../images/ceplas/ceplas-background-title-mibinet.drawio.svg)
+![bg fit](./../../../images/ceplas/ceplas-background-title-mibinet.drawio.svg)
 
 ---
 # Tentative agenda
