@@ -40,7 +40,7 @@ title: Hands-on
 ---
 
 
-## Hands-on part 1: Setup and ARCitect
+## Hands-on part 1: Setup and Investigation
 
 Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
 

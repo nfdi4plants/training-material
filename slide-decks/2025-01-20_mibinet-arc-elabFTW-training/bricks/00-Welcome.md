@@ -79,7 +79,7 @@ Time | Topics
   </div>
 
   <div>
-  <a href="https://pad.hhu.de/BpqX_5KHSUiW5gDhrUFtgg" target="_blank"> </a>
+  <a href="https://pad.hhu.de/BpqX_5KHSUiW5gDhrUFtgg" target="_blank"> <img src="./../pad-qr-code.png"></a>
   </div>
 </div>
 

@@ -10,18 +10,20 @@ author:
   github: https://github.com/brilator
   orcid: https://orcid.org/0000-0001-9021-3197
 - name: Sabrina Zander
+  github: https://github.com/SabrinaZander
+  orcid: https://orcid.org/0009-0000-4569-6126
 ---
 
 
 # ARCs come with comprehensive metadata
 
-![width:950](./../../../images/arc-fillwithdata-seq6.png)
+![width:900](./../../../images/arc-fillwithdata-seq6.png)
 
 ---
 
 # ARC builds on standards
 
-![w:600](./../../../images/arc-buildsonstandards3.png)
+![w:500](./../../../images/arc-buildsonstandards3.png)
 
 <span class="footer-reference">https://isa-tools.org/ | https://www.commonwl.org/
 https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
@@ -38,7 +40,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # ARC builds on ISA to connect data
 
-![w:1000](./../../../images/isamodel-arc01-img02.svg)
+![w:900](./../../../images/isamodel-arc01-img02.svg)
 
 ---
 
@@ -68,7 +70,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # Annotation by flattening the knowledge graph
 
-![w:800](./../../../images/swate-parentchildterm.svg)
+![w:700](./../../../images/swate-parentchildterm.svg)
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
@@ -77,7 +79,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # Annotation principle
 
-![w:650](./../../../images/swate-parentchildterm2.svg)
+![w:550](./../../../images/swate-parentchildterm2.svg)
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
@@ -86,9 +88,9 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # Adding new building blocks
 
-![w:1000](./../../../images/swate-a-newbuildingblocks.png)
+![w:900](./../../../images/swate-a-newbuildingblocks.png)
 
-Swate can be used for the annotation of **isa.study.xlsx and isa.assay.xlsx** files
+Swate (now integrated in ARCitect) can be used for the annotation of **isa.study.xlsx and isa.assay.xlsx** files
 
 ---
 
