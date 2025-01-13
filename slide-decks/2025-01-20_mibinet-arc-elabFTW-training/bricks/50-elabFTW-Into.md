@@ -95,17 +95,35 @@ Dropdown            |  URL | Number          |  Date
 
 # eLabFTW - Categories in Resources 
 
-Use Resources to categorize content & manage lab
- Use unique identifier & naming conventions ( e.g. Methode MTH0001, Media MED0001, Plasmid PL0001)
-  - Investigation
-  - Plant sheet
-  - Plasmid sheet
-  - Collections
-  - Methode
-  - Manual
-  - Media & Solution
-  - Formblatt Z
-  - Equipment
+Use Resources to categorize content & manage lab.
+Use unique identifier & naming conventions ( e.g. Methode MTH0001, Media MED0001, Plasmid PL0001).
+
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 48%;">
+
+
+- List of Investigation
+- Investigation
+- Plant sheet
+- Plasmid sheet
+- Equipment
+
+</div>
+
+<div style="width: 48%;">
+
+- Collections
+- Methods
+- Manuals
+- Media & Solution
+- Formblatt Z
+
+</div>
+
+</div>
+
+  
 
 ---
 
@@ -124,11 +142,29 @@ You can modify booking parameter for reach Resource
 ---
 
 # eLabFTW - Templates
+Create templates for experiments you often use
+
+- „Skeleton“ of a real experiment 
+- Select „Templates“ from User menu
+- You can have different permissions for the template itself and for Experiment that will created from that template 
+- You can add tags, steps, links to it (e.g. link to project)
+- Can also be imported directly in your text (allows merging several templates in one experiment)
 
 ---
 
 # eLabFTW - Tipps and tricks
+- Use # to link experiments/resources in the text
+- Use .gb files for plasmid cards ( can be opend in a plasmid viewer in elabFTW) 
+- Use versions, possibility to upload new versions of files/methods
 
 ---
 # eLabFTW - Support
 
+## General
+https://github.com/elabftw/elabftw 
+https://www.elabftw.net/ (Newsletter)
+
+## HHU specific
+elabftw@hhu.de
+https://rocketchat.hhu.de/channel/elb_eln
+https://wiki.hhu.de/display/ZIM/eLabFTW
