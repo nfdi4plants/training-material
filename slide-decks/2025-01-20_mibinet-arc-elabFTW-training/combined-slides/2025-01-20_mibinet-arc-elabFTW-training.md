@@ -4,10 +4,10 @@ layout: slides
 theme: marp-theme_dataplant-ceplas-mibinet-ccby
 paginate: true
 title: 2025-01-20_mibinet-arc-elabFTW-training
-date: 2025-01-13
+date: 2025-01-15
 ---
 
-#  ARCify your research project
+#  ARC and elabFTW Introduction IMET
 
 <!--  _color: white; -->
 <!-- _paginate: false -->
@@ -30,12 +30,12 @@ Stella Eggels (DataPLANT)
 
 Time | Topics
 -------- | --------
-09:00 - 09:15 | Welcome, Intro RDM and NFDI
-09:15 - 09:45 | Overview DataPLANT, and DataPLANT Tool chain
-09:45 - 10:30 | Hands-on ARCitect
-10:30 - 10:45 | *Short break* :coffee:
-10:45 - 11:45 | Intro and Hands-on DataHUB
-11:45 - 12:00 | Q & A
+09:30 - 09:45 | Welcome, Intro RDM and NFDI
+09:45 - 10:15 | Overview DataPLANT, and DataPLANT Tool chain
+10:15 - 10:45 | Hands-on Start Here Guide Part I
+10:45 - 11:00 | *Short break* :coffee:
+11:00 - 11:30 | Metadata Intro 
+11:30 - 12:15 | Hands-on Start Here Guide Part II 
 
 </div>
 
@@ -45,12 +45,15 @@ Time | Topics
 
 Time | Topics
 -------- | --------
-12:00 - 13:00 | *Lunch break* :pizza:
-13:00 - 14:00 | Intro and Hands-on Metadata annotation with SWATE
-14:00 - 15:00 | Create your own ARC
-15:00 - 15:15 | *Short break* :coffee:
-15:15 - 16:30 | Create your own ARC
-16:30 - 17:00 | Q & A and wrap-up
+12:15 - 13:15 | *Lunch break* :pizza:
+13:15 - 13:45 | DataHUB Into
+13:45 - 14:15 | Hands-on Start Here Guide Part III
+14:15 - 15:00 | Q & A ARC
+14:15 - 15:00 | *Short break* :coffee:
+15:00 - 16:00 | elabFTW Intro
+16:00 - 16:30 | elab2ARC tool 
+16:30 - 17:30 | Q & A and wrap-up 
+
 
 </div>
 </div>
@@ -69,7 +72,7 @@ Time | Topics
   </div>
 
   <div>
-  <a href="https://pad.hhu.de/BpqX_5KHSUiW5gDhrUFtgg" target="_blank"> </a>
+  <a href="https://pad.hhu.de/BpqX_5KHSUiW5gDhrUFtgg" target="_blank"> <img src="./../pad-qr-code.png"></a>
   </div>
 </div>
 
@@ -235,23 +238,38 @@ object-fit: cover;
 
 ---
 
-<!-- 
 
-TODO 
+# NFDI – Nationale Forschungsdaten Infrastruktur
 
-- Galaxy
-- ARC / metadata registry
+![w:900](../../../images/nfdi/nfdi.drawio.png)
 
--->
+
+---
+
+# NFDI – A community-targeted approach for RDM
+
+![w:800](../../../images/nfdi/nfdi-consortia.drawio.png)
+
+---
+
 # MibiNet connection to NFDIs
 
-![](../../../images/ceplas/ceplas-nfdi-connection.drawio.png)
+![w:900](../../../images/ceplas/ceplas-nfdi-connection.drawio.png)
+
+---
+
+# DataPLANT &ndash; *NFDI4plants*
+
+![width:700px](./../../../images/dataplant/dataplant-landing-page.png)
+
+- https://nfdi4plants.org
+- https://arc-rdm.org
 
 ---
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)
+![w:800](./../../../images/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)
 
 ---
 
@@ -452,31 +470,31 @@ https://dmpg.nfdi4plants.org
 
 # The ARC ecosystem
 
-![w:850](./../../../images/arc-ecosystem-10.drawio.png)
+![w:800](./../../../images/arc-ecosystem-10.drawio.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq1.png)
+![width:900](./../../../images/arc-fillwithdata-seq1.png)
 
 ---
 
 # ARCs store experimental data
 
-![width:950](./../../../images/arc-fillwithdata-seq3.png)
+![width:900](./../../../images/arc-fillwithdata-seq3.png)
 
 ---
 
 # Computations can be run inside ARCs
 
-![width:950](./../../../images/arc-fillwithdata-seq5.png)
+![width:900](./../../../images/arc-fillwithdata-seq5.png)
 
 ---
 
 # ARCs come with comprehensive metadata
 
-![width:950](./../../../images/arc-fillwithdata-seq6.png)
+![width:900](./../../../images/arc-fillwithdata-seq6.png)
 
 ---
 
@@ -555,7 +573,7 @@ DataPLANT employs a **data-centric** approach to RDM
 ---
 
 
-## Hands-on part 1: Setup and ARCitect
+## Hands-on part 1: Setup and Investigation
 
 Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
 
@@ -563,18 +581,26 @@ Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.know
 
 :question: Please ask if you have any question/problems :question:
 
+<!-- 
+
+Download Demo Data 
+Open ARCitect
+Create an ARC
+Describe Investigation 
+
+-->
 ---
 
 
 # ARCs come with comprehensive metadata
 
-![width:950](./../../../images/arc-fillwithdata-seq6.png)
+![width:900](./../../../images/arc-fillwithdata-seq6.png)
 
 ---
 
 # ARC builds on standards
 
-![w:600](./../../../images/arc-buildsonstandards3.png)
+![w:500](./../../../images/arc-buildsonstandards3.png)
 
 <span class="footer-reference">https://isa-tools.org/ | https://www.commonwl.org/
 https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
@@ -591,7 +617,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # ARC builds on ISA to connect data
 
-![w:1000](./../../../images/isamodel-arc01-img02.svg)
+![w:900](./../../../images/isamodel-arc01-img02.svg)
 
 ---
 
@@ -621,7 +647,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # Annotation by flattening the knowledge graph
 
-![w:800](./../../../images/swate-parentchildterm.svg)
+![w:700](./../../../images/swate-parentchildterm.svg)
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
@@ -630,7 +656,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # Annotation principle
 
-![w:650](./../../../images/swate-parentchildterm2.svg)
+![w:550](./../../../images/swate-parentchildterm2.svg)
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
@@ -639,9 +665,9 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # Adding new building blocks
 
-![w:1000](./../../../images/swate-a-newbuildingblocks.png)
+![w:900](./../../../images/swate-a-newbuildingblocks.png)
 
-Swate can be used for the annotation of **isa.study.xlsx and isa.assay.xlsx** files
+Swate (now integrated in ARCitect) can be used for the annotation of **isa.study.xlsx and isa.assay.xlsx** files
 
 ---
 
@@ -693,6 +719,44 @@ Enable **related term directed search** to directly fill cells with child terms
 
 ---
 
+# Realization of lab-specific metadata templates
+
+![w:600px](./../../../images/swate-metadatatemplates.png)
+
+Facilities can define their most common workflows as templates
+
+---
+
+# Directly import templates via Swate
+
+- DataPLANT curated
+- Community templates
+
+![bg right w:450](./../../../images/swate-a-templates.png)
+
+---
+
+# Build on existing well-established standards
+
+![w:800](../../../images/start-here/standards.svg)
+
+Integration of established (meta)data standards ensures compatibility by design
+
+---
+
+# ISA abstract model in a nutshell
+
+![w:800](../../../images/start-here/standards-isa-in-a-nutshell.svg)
+
+---
+
+# ISA and CWL – Connected by similarity
+
+![w:800](../../../images/start-here/standards-isa-cwl.svg)
+
+<!-- 
+---
+
 # Hierarchical combination of ontologies
 
 ![w:800](./../../../images/swate-ontologycombination.svg)
@@ -705,31 +769,8 @@ Enable **related term directed search** to directly fill cells with child terms
 
 Metadata standards or repository requirements can be represented as templates
 
----
+-->
 
-# Realization of lab-specific metadata templates
-
-![w:650px](./../../../images/swate-metadatatemplates.png)
-
-Facilities can define their most common workflows as templates
-
-<style scoped>
-h1{
-  text-align: left
-}
-section {
-  text-align: center;
-}
-</style>
-
----
-
-# Directly import templates via Swate
-
-- DataPLANT curated
-- Community templates
-
-![bg right w:450](./../../../images/swate-a-templates.png)
 
 ---
 
@@ -925,7 +966,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
 ## Isolating the lab processes in an assay
 
-![w:600](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-modular1.svg)
+![w:600](../../../images/start-here/arc-prototypic-assay-modular1.svg)
 
 ---
 
@@ -998,7 +1039,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
 ---
 
-# Realization of lab-specific metadata with templates
+## Realization of lab-specific metadata with templates
 
 ![w:650px](./../../../images/swate-metadatatemplates.png)
 
@@ -1053,6 +1094,83 @@ Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.kn
 
 :pencil: We will skip the **Add a datamap** step
 :pencil: Do the **Data analysis** step and stop
+
+---
+
+# Hands-on part 4: DataHUB
+
+---
+
+# DataHUB overview
+
+![w:900px](./../../../images/dataplant-bigpicture-seq8.png)
+
+---
+
+# ARC builds on standards + Git
+
+![w:900](./../../../images/arc-buildsonstandards2.png)
+
+---
+
+# The DataPLANT DataHUB &ndash; a GitLab ***Plus***
+
+![](./../../../images/datahub/datahub-gitlab.drawio.png)
+
+---
+
+# On-premise DataHUBs
+
+![alt text](../../../images/datahub/datahub-onpremise.drawio.png)
+
+ARC services are available as on-premise option
+
+
+---
+
+## Using the DataHUB to collaborate
+
+![](../../../images/start-here/collaboration-plantdatahub.svg)
+
+---
+
+## Project management
+
+![w:800](../../../images/tpj16474-fig-0007-m.jpg)
+
+<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
+
+---
+
+## ARCs come with their own wiki space
+
+<div class="two-columns">
+
+<div style="font-size: 27px">
+
+- directly associated to your ARC
+- same access rights as your ARC
+- share meeting minutes or ideas with collaboration partners
+- keep ARC clean of files that are not considered "research data"
+
+</div>
+
+<div>
+
+![w:600](../../../images/datahub/datahub-wiki.png)
+
+</div>
+</div>
+
+
+
+---
+
+## Hands-on part 4: DataHUB
+
+Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
+
+:pencil: Until the final **complete** step
 
 ---
 
@@ -1202,83 +1320,6 @@ When inviting new members to an ARC or group, you can choose between different l
 :bulb: Investigation contacts are not automatically invited as members to the ARC.
 
 ---
-
-# Hands-on part 4: DataHUB
-
----
-
-# DataHUB overview
-
-![w:900px](./../../../images/dataplant-bigpicture-seq8.png)
-
----
-
-# ARC builds on standards + Git
-
-![w:900](./../../../images/arc-buildsonstandards2.png)
-
----
-
-# The DataPLANT DataHUB &ndash; a GitLab ***Plus***
-
-![](./../../../images/datahub/datahub-gitlab.drawio.png)
-
----
-
-# On-premise DataHUBs
-
-![alt text](../../../images/datahub/datahub-onpremise.drawio.png)
-
-ARC services are available as on-premise option
-
-
----
-
-## Using the DataHUB to collaborate
-
-![](../../../images/start-here/collaboration-plantdatahub.svg)
-
----
-
-## Project management
-
-![w:800](../../../images/tpj16474-fig-0007-m.jpg)
-
-<span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
-
----
-
-## ARCs come with their own wiki space
-
-<div class="two-columns">
-
-<div style="font-size: 27px">
-
-- directly associated to your ARC
-- same access rights as your ARC
-- share meeting minutes or ideas with collaboration partners
-- keep ARC clean of files that are not considered "research data"
-
-</div>
-
-<div>
-
-![w:600](../../../images/datahub/datahub-wiki.png)
-
-</div>
-</div>
-
-
-
----
-
-## Hands-on part 4: DataHUB
-
-Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.
-
-:pencil: Until the final **complete** step
-
----
 # elabFTW Introduction
 
 ---
@@ -1326,8 +1367,8 @@ Place to categorize content
 Very individual, some examples:
 - Investigation ID
 - Subgroup
-- Organism /part (e.g. A.taliana, leaf, root, mitrochondria)
-- Goal (strain generation, plasmid genertion)
+- Organism /part (e.g. A.thaliana, leaf, root, mitochondria)
+- Goal (strain generation, plasmid generation)
 - Methode (e.g. transformation, western blot, extraction, biolector)
 - Genes/ Proteins (e.g. mKate2, eGfp, Rrm4)
 
@@ -1364,17 +1405,35 @@ Dropdown            |  URL | Number          |  Date
 
 # eLabFTW - Categories in Resources 
 
-Use Resources to categorize content & manage lab
- Use unique identifier & naming conventions ( e.g. Methode MTH0001, Media MED0001, Plasmid PL0001)
-  - Investigation
-  - Plant sheet
-  - Plasmid sheet
-  - Collections
-  - Methode
-  - Manual
-  - Media & Solution
-  - Formblatt Z
-  - Equipment
+Use Resources to categorize content & manage lab.
+Use unique identifier & naming conventions ( e.g. Methode MTH0001, Media MED0001, Plasmid PL0001).
+
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 48%;">
+
+
+- List of Investigation
+- Investigation
+- Plant sheet
+- Plasmid sheet
+- Equipment
+
+</div>
+
+<div style="width: 48%;">
+
+- Collections
+- Methods
+- Manuals
+- Media & Solution
+- Formblatt Z
+
+</div>
+
+</div>
+
+  
 
 ---
 
@@ -1393,14 +1452,32 @@ You can modify booking parameter for reach Resource
 ---
 
 # eLabFTW - Templates
+Create templates for experiments you often use
+
+- „Skeleton“ of a real experiment 
+- Select „Templates“ from User menu
+- You can have different permissions for the template itself and for Experiment that will created from that template 
+- You can add tags, steps, links to it (e.g. link to project)
+- Can also be imported directly in your text (allows merging several templates in one experiment)
 
 ---
 
 # eLabFTW - Tipps and tricks
+- Use # to link experiments/resources in the text
+- Use .gb files for plasmid cards ( can be opend in a plasmid viewer in elabFTW) 
+- Use versions, possibility to upload new versions of files/methods
 
 ---
 # eLabFTW - Support
 
+## General
+https://github.com/elabftw/elabftw 
+https://www.elabftw.net/ (Newsletter)
+
+## HHU specific
+elabftw@hhu.de
+https://rocketchat.hhu.de/channel/elb_eln
+https://wiki.hhu.de/display/ZIM/eLabFTW
 
 ---
 
@@ -1410,20 +1487,102 @@ https://nfdi4plants.github.io/nfdi4plants.knowledgebase/resources/elab2arc/
 
 ---
 
+# Working Scenario
 
+### 1. Use ARCs to
+- Organize and store (raw) data locally
+- Share and communicate data with collaboration partners
+- Annotate and prepare data for publication
 
-## Conversion 
+### 2. Use elabFTW to
+- Document daily lab work „on the fly“
+- Organize lab routines with colleagues
 
-![alt text](../../images/elabftw/elabftw-hhu-login.png)
+---
+# eLabFTW & ARC Connection
 
+<div style="display: flex; justify-content: space-between; gap: 10px;">
 
+<div style="width: 32%;">
 
+### Aim
+- Reducing duplication/ additional workload
+- Transformation of data from elabFTW into ARC
+- User-friendly, easy implementation 
+
+</div>
+
+<div style="width: 32%;">
+
+### Challanges
+- ELNs are unstructed; automated translation and interoperation into well-structured ARC challenging 
+
+</div>
+
+<div style="width: 32%;">
+
+### Solution
+- Start with automated transition of data without 
+    - metadata mapping, 
+    - structured metadata extraction,
+    - re-structuring of elabFTW content
+
+</div>
+
+</div>
+
+---
+# Conversion 
+
+![alt text](../images/elab2arc/elab2arc-conversion.png)
+
+---
+
+# Conversion 
 The elab2ARC tool will automatically convert your elabFTW experiments into ARC format
-- create a new assay folder with eLabFTW experiment name as assay name (green)
+- create a new assay folder with eLabFTW experiment name as assay name 
 - create the assay folder structure (dataset/protocols/isa.assay)
-- convert experiment main text into a .md file and store it in the protocol folder (purple)
-- add all attachments of the eLabFTW experiment into the dataset folder (yellow)
+- convert experiment main text into a .md file and store it in the protocol folder 
+- add all attachments of the eLabFTW experiment into the dataset folder 
 - enter name/email/affiliation of the eLabFTW experiment metadata into the isa.assay sheet
 
+---
+
+
+# elab2ARC Tool
+
+Tool: https://nfdi4plants.github.io/elab2arc/ 
+
+Documentation: https://nfdi4plants.github.io/nfdi4plants.knowledgebase/resources/elab2arc/
+
+Issues/Problems:
+https://github.com/nfdi4plants/elab2arc
+
+---
+
+# Contributors
+
+<style scoped> section{font-size:20px}</style>
+
+If not referenced otherwise, figures and slides presented here were created by members of DataPLANT (https://nfdi4plants.org).
+Additional slides were contributed by
+
+- name: Dominik Brilhaus
+  github: https://github.com/brilator
+  orcid: https://orcid.org/0000-0001-9021-3197
+- name: Cristina Martins Rodrigues
+  github: https://github.com/CMR248
+  orcid: https://orcid.org/0000-0002-4849-1537
+- name: Hajira Jabeen
+  github: https://github.com/HajiraJabeen
+  orcid: https://orcid.org/0000-0003-1476-2121
+- name: Kevin Frey
+  github: https://github.com/Freymaurer
+  orcid: https://orcid.org/0000-0002-8493-1077
+- name: Sabrina Zander
+  orcid: https://orcid.org/0009-0000-4569-6126
+- name: Martin Kuhl
+  github: https://github.com/Martin-Kuhl
+  orcid: https://orcid.org/0000-0002-8493-1077
 
 ---
