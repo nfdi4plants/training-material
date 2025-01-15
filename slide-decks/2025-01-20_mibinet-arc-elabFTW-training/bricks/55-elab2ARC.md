@@ -3,8 +3,8 @@ marp: true
 paginate: true
 theme: marp-theme_dataplant-ceplas-mibinet-ccby
 license: '[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)'
-date: 2024-03-25
-title: MibiNet current state
+date: 2025-01-15
+title: elab2ARC
 author:
 - name: Sabrina Zander
   github: https://github.com/SabrinaZander

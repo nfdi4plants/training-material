@@ -57,8 +57,8 @@ Place to categorize content
 Very individual, some examples:
 - Investigation ID
 - Subgroup
-- Organism /part (e.g. A.taliana, leaf, root, mitrochondria)
-- Goal (strain generation, plasmid genertion)
+- Organism /part (e.g. A.thaliana, leaf, root, mitochondria)
+- Goal (strain generation, plasmid generation)
 - Methode (e.g. transformation, western blot, extraction, biolector)
 - Genes/ Proteins (e.g. mKate2, eGfp, Rrm4)
 

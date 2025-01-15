@@ -39,10 +39,10 @@ Time | Topics
 -------- | --------
 09:30 - 09:45 | Welcome, Intro RDM and NFDI
 09:45 - 10:15 | Overview DataPLANT, and DataPLANT Tool chain
-10:15 - 10:45 | Hands-on ARCitect Part I
+10:15 - 10:45 | Hands-on Start Here Guide Part I
 10:45 - 11:00 | *Short break* :coffee:
 11:00 - 11:30 | Metadata Intro 
-11:30 - 12:15 | Hands-on ARCitect Part II 
+11:30 - 12:15 | Hands-on Start Here Guide Part II 
 
 </div>
 
@@ -54,7 +54,7 @@ Time | Topics
 -------- | --------
 12:15 - 13:15 | *Lunch break* :pizza:
 13:15 - 13:45 | DataHUB Into
-13:45 - 14:15 | Hands-on Part II
+13:45 - 14:15 | Hands-on Start Here Guide Part III
 14:15 - 15:00 | Q & A ARC
 14:15 - 15:00 | *Short break* :coffee:
 15:00 - 16:00 | elabFTW Intro

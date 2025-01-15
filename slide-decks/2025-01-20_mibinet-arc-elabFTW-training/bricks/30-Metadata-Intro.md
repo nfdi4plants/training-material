@@ -142,6 +142,44 @@ Enable **related term directed search** to directly fill cells with child terms
 
 ---
 
+# Realization of lab-specific metadata templates
+
+![w:600px](./../../../images/swate-metadatatemplates.png)
+
+Facilities can define their most common workflows as templates
+
+---
+
+# Directly import templates via Swate
+
+- DataPLANT curated
+- Community templates
+
+![bg right w:450](./../../../images/swate-a-templates.png)
+
+---
+
+# Build on existing well-established standards
+
+![w:800](../../../images/start-here/standards.svg)
+
+Integration of established (meta)data standards ensures compatibility by design
+
+---
+
+# ISA abstract model in a nutshell
+
+![w:800](../../../images/start-here/standards-isa-in-a-nutshell.svg)
+
+---
+
+# ISA and CWL – Connected by similarity
+
+![w:800](../../../images/start-here/standards-isa-cwl.svg)
+
+<!-- 
+---
+
 # Hierarchical combination of ontologies
 
 ![w:800](./../../../images/swate-ontologycombination.svg)
@@ -154,28 +192,5 @@ Enable **related term directed search** to directly fill cells with child terms
 
 Metadata standards or repository requirements can be represented as templates
 
----
+-->
 
-# Realization of lab-specific metadata templates
-
-![w:650px](./../../../images/swate-metadatatemplates.png)
-
-Facilities can define their most common workflows as templates
-
-<style scoped>
-h1{
-  text-align: left
-}
-section {
-  text-align: center;
-}
-</style>
-
----
-
-# Directly import templates via Swate
-
-- DataPLANT curated
-- Community templates
-
-![bg right w:450](./../../../images/swate-a-templates.png)

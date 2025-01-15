@@ -197,7 +197,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
 ## Isolating the lab processes in an assay
 
-![w:600](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-modular1.svg)
+![w:600](../../../images/start-here/arc-prototypic-assay-modular1.svg)
 
 ---
 
@@ -270,7 +270,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
 ---
 
-# Realization of lab-specific metadata with templates
+## Realization of lab-specific metadata with templates
 
 ![w:650px](./../../../images/swate-metadatatemplates.png)
 

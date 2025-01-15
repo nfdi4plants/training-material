@@ -11,17 +11,32 @@ author:
   orcid: https://orcid.org/0000-0001-9021-3197
 ---
 
-<!-- 
 
-TODO 
+# NFDI – Nationale Forschungsdaten Infrastruktur
 
-- Galaxy
-- ARC / metadata registry
+![w:900](../../../images/nfdi/nfdi.drawio.png)
 
--->
+
+---
+
+# NFDI – A community-targeted approach for RDM
+
+![w:800](../../../images/nfdi/nfdi-consortia.drawio.png)
+
+---
+
 # MibiNet connection to NFDIs
 
 ![w:900](../../../images/ceplas/ceplas-nfdi-connection.drawio.png)
+
+---
+
+# DataPLANT &ndash; *NFDI4plants*
+
+![width:700px](./../../../images/dataplant/dataplant-landing-page.png)
+
+- https://nfdi4plants.org
+- https://arc-rdm.org
 
 ---
 
