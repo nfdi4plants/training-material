@@ -94,7 +94,7 @@ Slides are shared via [DataPLANT Training Material](https://github.com/nfdi4plan
 
 # Resources &ndash; join the open source movement
 
-### <img align="left" style="height:35px" src='https://raw.githubusercontent.com/nfdi4plants/Branding/7e7d442aafeaa767b9c14a63a16e459dadcbdaaf/logos/DataPLANT/dataplant-logo-minimal-rounded-bg-darkblue.svg'/> DataPLANT (nfdi4plants)
+### <img align="left" style="height:35px" src='https://raw.githubusercontent.com/nfdi4plants/Branding/7e7d442aafeaa767b9c14a63a16e459dadcbdaaf/logos/DataPLANT/DataPLANT_logo_square_bg_transparent.svg'/> DataPLANT (nfdi4plants)
 
 DataPLANT Website: <a href="https://nfdi4plants.org/" target="_blank">https://nfdi4plants.org/</a>
 Knowledge Base: <a href="https://nfdi4plants.org/nfdi4plants.knowledgebase/" target="_blank">https://nfdi4plants.org/nfdi4plants.knowledgebase/</a>
@@ -116,7 +116,7 @@ Data managers in Düsseldorf, Cologne, Jülich and close by (CEPLAS, MibiNet, TR
 1. Slack Workspace for ad hoc support
 2. Monthly user meeting (2nd Friday of the month)
 
-[&rarr; Details](https://nfdi4plants.github.io/events/2025-01-10_arc-user-support/).
+[&rarr; Details](https://nfdi4plants.github.io/events/arc-user-support/).
 
 <div>
   <img style="height:40px;margin-right:50px" src='https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg'/>
