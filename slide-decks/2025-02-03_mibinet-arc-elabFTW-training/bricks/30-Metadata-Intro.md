@@ -115,7 +115,7 @@ Swate (now integrated in ARCitect) can be used for the annotation of **isa.study
 </div>
 
 
-Let's take a detour on [Annotation Principles](https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/teaching-materials/units/AnnotationPrinciples/isa_AnnotationPrinciples-slides.html)
+Let's take a detour on [Annotation Principles](https://nfdi4plants.github.io/AnnotationPrinciples/)
 
 ---
 
