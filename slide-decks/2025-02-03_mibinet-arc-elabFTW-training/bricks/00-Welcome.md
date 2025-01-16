@@ -20,7 +20,7 @@ author:
 <!-- _paginate: false -->
 <style scoped>section {background: none; background-color: white;}</style>
 
-January, 2025
+February, 2025
 
 Sabrina Zander (MibiNet)
 Stella Eggels (DataPLANT)
@@ -53,13 +53,14 @@ Time | Topics
 Time | Topics
 -------- | --------
 12:15 - 13:15 | *Lunch break* :pizza:
-13:15 - 13:45 | DataHUB Into
-13:45 - 14:15 | Hands-on Start Here Guide Part III
-14:15 - 15:00 | Q & A ARC
-14:15 - 15:00 | *Short break* :coffee:
-15:00 - 16:00 | elabFTW Intro
-16:00 - 16:30 | elab2ARC tool 
-16:30 - 17:30 | Q & A and wrap-up 
+13:15 - 14:15 | Hands-on Start Here Guide Part III
+14:15 - 14:30 | DataHUB Intro
+14:30 - 15:00 | Hands-on Start Here Guide Part IV
+15:00 - 15:30 | Q & A ARC
+15:30 - 15:45 | *Short break* :coffee:
+15:45 - 16:15 | elabFTW Intro
+16:15 - 16:45 | elab2ARC tool 
+16:45 - 17:30 | Q & A and wrap-up 
 
 
 </div>
