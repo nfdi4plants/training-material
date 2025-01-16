@@ -12,8 +12,14 @@ author:
 - name: Sabrina Zander
   github: https://github.com/SabrinaZander
   orcid: https://orcid.org/0009-0000-4569-6126
+
 ---
 
+# Metadata
+
+What is metadata?
+
+---
 
 # ARCs come with comprehensive metadata
 
@@ -35,6 +41,12 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 ![w:900](./../../../images/isamodel-arc01-img01.svg)
 
 <span class="footer-reference">ISA Tools: https://isa-tools.org/format/specification.html</span>
+
+---
+
+# ISA abstract model in a nutshell
+
+![w:800](../../../images/start-here/standards-isa-in-a-nutshell.svg)
 
 ---
 
@@ -164,12 +176,6 @@ Facilities can define their most common workflows as templates
 ![w:800](../../../images/start-here/standards.svg)
 
 Integration of established (meta)data standards ensures compatibility by design
-
----
-
-# ISA abstract model in a nutshell
-
-![w:800](../../../images/start-here/standards-isa-in-a-nutshell.svg)
 
 ---
 

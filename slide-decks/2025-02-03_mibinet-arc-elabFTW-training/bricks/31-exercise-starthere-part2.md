@@ -269,7 +269,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 ![w:700](../../../images/start-here/arc-prototypic-assay-sop.svg)
 
 ---
-
+<!-- 
 ## Realization of lab-specific metadata with templates
 
 ![w:650px](./../../../images/swate-metadatatemplates.png)
@@ -277,7 +277,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 Facilities can define their most common workflows as templates
 
 ---
-
+-->
 ## Hands-on part 2: ARCitect (and Swate)
 
 Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) in the DataPLANT knowledge base.

@@ -5,7 +5,7 @@ paginate: true
 title: Hands-on
 ---
 
-# Hands-on part 4: DataHUB
+# DataHUB
 
 ---
 
@@ -70,7 +70,42 @@ ARC services are available as on-premise option
 </div>
 </div>
 
+---
+# Namespaces
 
+- Every user has a personal namespace, where they can upload or create new ARCs
+- Every group and subgroup has its own namespace
+
+<div class="table-container" style="font-size: 25px">
+
+Type | URL | Namespace | Name
+--- | --- | --- | --- 
+A **personal** ARC | https://git.nfdi4plants.org/brilator/Facultative-CAM-in-Talinum | `brilator` | Dominik Brilhaus
+An **group**-shared ARC | https://git.nfdi4plants.org/hhu-plant-biochemistry/Samuilov-2018-BOU-PSP | `hhu-plant-biochemistry` | HHU Plant Biochemistry
+
+</div>
+
+:bulb: **Personal** is not the same as **private**
+
+---
+
+# Visibility
+
+The visibility of ARCs and groups can be managed individually for each ARC or group
+  
+<img src="./../../../images/arc-sharing-visibility.drawio.png" style="display: block; margin: auto" width=800px>
+
+:bulb: By default every ARC and every group is set to **private**.
+
+---
+
+# Permissions & Roles
+
+When inviting new members to an ARC or group, you can choose between different levels.
+
+<img src="./../../../images/arc-sharing-permissionsroles.drawio.png" style="display: block; margin: auto" width=800px>
+
+:bulb: By default you are **Owner** of an ARC you create or upload to the DataHUB.
 
 ---
 
