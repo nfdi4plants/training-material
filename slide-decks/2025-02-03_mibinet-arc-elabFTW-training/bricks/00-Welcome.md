@@ -62,9 +62,9 @@ Time | Topics
 16:15 - 16:45 | elab2ARC tool 
 16:45 - 17:30 | Q & A and wrap-up 
 
+</div>
+</div>
 
-</div>
-</div>
 
 ---
 
