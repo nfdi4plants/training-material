@@ -118,17 +118,24 @@ fastqc assays/rnaseq/dataset/ ...
 # Installing bioinformatic tools 🎢
 
 - From source: https://www.bioinformatics.babraham.ac.uk/projects/download.html#fastqc
-- Docker: `docker pull quay.io/biocontainers/fastqc:0.11.9--hdfd78af_1`
+- Docker: `docker pull quay.io/biocontainers/fastqc`
 - Conda: `conda install fastqc`
 
 ---
 
-# Why CWL and ARCs
+
+# Why CWL and ARCs?
 
 - Reproducibility / Replicability **of the data**
   - Rerunning the same analysis on the **same** dataset
 - Reusability **of the analysis**
   - Applying the same (type of) analysis on **another** dataset
+
+---
+
+# Why CWL and ARCs?
+
+![w:800](../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards-isa-cwl.svg)
 
 ---
 
@@ -335,7 +342,7 @@ reads:
 
 ---
 
-# Example workflow: First steps RNASeq pipeline
+# Growing pipeline: First steps RNASeq pipeline
 
 <div class="mermaid">
 flowchart LR
@@ -363,15 +370,18 @@ There's a *tiny* learning curve and some dependencies
 - JavaScript
 - Docker
 - Conda and the cwltool (reference runner)
+- ...
+
+...but it pays off! 
 
 ---
 
 # Resources
 
 - Specification v1.2: https://www.commonwl.org/v1.2/CommandLineTool.html
+- CWL tool: https://github.com/common-workflow-language/cwltool
+- CWL Discourse: https://cwl.discourse.group
 - Published Workflows: https://view.commonwl.org/workflows
 - CWL repos: https://www.commonwl.org/repos/
 - bio-cwl-tools: https://github.com/common-workflow-library/bio-cwl-tools/tree/release
 - EBI-Metagenomics: https://github.com/EBI-Metagenomics/workflow-is-cwl/tree/master/tools
-- Scatter example: https://github.com/Gibbsdavidl/CWL_scatter_example
-- CWL tool: https://github.com/common-workflow-language/cwltool
