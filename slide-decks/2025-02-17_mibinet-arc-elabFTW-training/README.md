@@ -1,12 +1,12 @@
 ---
 title: MibiNet IMET Workshop 2025
-date: 2025-02-03
+date: 2025-02-17
 ---
 
 # MibiNet IMET Workshop 2025
 
 
-Here you can find the slides prepared for the January 2025 MibiNet IMET Workshop
+Here you can find the slides prepared for the February 2025 MibiNet IMET Workshop
 
 ## Slide decks
 
