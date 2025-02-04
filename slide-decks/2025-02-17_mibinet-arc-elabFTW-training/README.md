@@ -1,6 +1,6 @@
 ---
 title: MibiNet IMET Workshop 2025
-date: 2025-01-20
+date: 2025-02-03
 ---
 
 # MibiNet IMET Workshop 2025
