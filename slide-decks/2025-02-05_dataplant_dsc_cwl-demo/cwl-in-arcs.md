@@ -38,15 +38,23 @@ flowchart LR
 
 # FastQC has a GUI
 
-<div class="mermaid">
-flowchart LR
-  f1("Reads (*.fastq)") ---p1[QC]--> f3("QualityReport (*.html)")
-  subgraph p1[QC]
-      p1-1{{FastQC}}
-  end
+<div class="two-columns">
+
+  <div class="mermaid">
+  flowchart TD
+    f1("Reads (*.fastq)") ---p1[QC]--> f3("QualityReport (*.html)")
+    subgraph p1[QC]
+        p1-1{{FastQC}}
+    end
+  </div>
+
+  <div>
+
+  ![](images/fastqc-gui.png)
+
+  </div>
 </div>
 
-![bg right w:600](images/fastqc-gui.png)
 
 ---
 
@@ -187,7 +195,7 @@ outputs: []
 
 # Step 3: Define inputs
 
-<style scoped> section {font-size: 18px;}</style>
+<style scoped> section {font-size: 20px;}</style>
 
 ```yaml
 #!/usr/bin/env cwl-runner
@@ -212,7 +220,6 @@ arguments:
  
 outputs: []
 ```
-
 ---
 
 # Step 4: Define outputs
@@ -248,6 +255,61 @@ outputs:
           - "*_fastqc.zip"
           - "*_fastqc.html"
 ```
+
+---
+
+
+# Step 4: Define outputs
+
+<style scoped> section {font-size: 18px;}</style>
+
+<div class="two-columns">
+
+  <div>
+
+```yaml
+#!/usr/bin/env cwl-runner
+cwlVersion: v1.2
+class: CommandLineTool
+
+hints:
+  DockerRequirement:
+    dockerPull: quay.io/biocontainers/fastqc:0.11.9--hdfd78af_1
+
+baseCommand: ["fastqc"]
+
+inputs:
+  reads:
+    type: File[]
+    inputBinding:
+      position: 1
+
+arguments: 
+  - valueFrom: $(runtime.outdir)
+    prefix: "-o"
+
+outputs:
+  fastqc_out:
+      type: File[]
+      outputBinding:
+        glob:
+          - "*_fastqc.zip"
+          - "*_fastqc.html"
+```
+
+
+  </div>
+
+  <div class="mermaid">
+  flowchart TD
+    f1("Reads (*.fastq)") ---p1[QC]--> f3("QualityReport (*.html)")
+    subgraph p1[QC]
+        p1-1{{FastQC}}
+    end
+  </div>
+
+</div>
+
 
 ---
 
