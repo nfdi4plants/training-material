@@ -28,7 +28,7 @@ Sabrina Zander (MibiNet)
 - Share them via the DataHUB
 - Annotate with metadata
 
-![bg right w:500](./../../images/ceplas-arcs.drawio.svg)
+![bg right w:500](./../../../images/ceplas/ceplas-arcs.drawio.svg)
 
 ---
 
@@ -43,7 +43,7 @@ Sabrina Zander (MibiNet)
   </div>
 
   <div>
-  <a href="https://pad.hhu.de/8bwBC7pyRL2tFFOWMQzm1Q?edit" target="_blank"> <img src="./qr-code-pad.png"></a>
+  <a href="https://pad.hhu.de/8bwBC7pyRL2tFFOWMQzm1Q?edit" target="_blank"> <img src="./../qr-code-pad.png"></a>
   </div>
 </div>
 
@@ -51,13 +51,13 @@ Sabrina Zander (MibiNet)
 
 # Training Materials
 
-Slides are shared via [DataPLANT knowledge base](https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/teaching-materials/events-2024/2024-10-24_CEPLAS-ARCify-your-research-project/)
+Slides are shared via [DataPLANT Training Material](https://github.com/nfdi4plants/training-material/tree/main/slide-decks)
 
 ---
 
 # Resources &ndash; join the open source movement
 
-### <img align="left" style="height:35px" src='https://raw.githubusercontent.com/nfdi4plants/Branding/7e7d442aafeaa767b9c14a63a16e459dadcbdaaf/logos/DataPLANT/dataplant-logo-minimal-rounded-bg-darkblue.svg'/> DataPLANT (nfdi4plants)
+### <img align="left" style="height:35px" src='https://raw.githubusercontent.com/nfdi4plants/Branding/7e7d442aafeaa767b9c14a63a16e459dadcbdaaf/logos/DataPLANT/DataPLANT_logo_minimal_rounded_bg_darkblue.svg'/> DataPLANT (nfdi4plants)
 
 DataPLANT Website: <a href="https://nfdi4plants.org/" target="_blank">https://nfdi4plants.org/</a>
 Knowledge Base: <a href="https://nfdi4plants.org/nfdi4plants.knowledgebase/" target="_blank">https://nfdi4plants.org/nfdi4plants.knowledgebase/</a>
@@ -76,10 +76,8 @@ HelpDesk: <a href="https://helpdesk.nfdi4plants.org" target="_blank">https://hel
 
 Data managers in Düsseldorf, Cologne, Jülich and close by (CEPLAS, MibiNet, TRR341) offer support.
 
-1. Slack Workspace for ad hoc support
-2. Monthly user meeting (2nd Friday of the month)
-
-[&rarr; Details](https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/teaching-materials/disseminations/ARC-user-support_HHU-Uoc-FZJ/arc-user-support.html).
+- Join our [Slack](https://join.slack.com/t/arc-user-support/shared_invite/zt-2cadwq8cx-azPsJhUF8m0ukXsrstNc0A) or [Matrix](https://matrix.to/#/%23arc-user-support:matrix.org) for ad hoc support
+- Monthly [user support meeting](https://nfdi4plants.github.io/events/arc-user-support/) (2nd Friday of the month)
 
 <div>
   <img style="height:40px;margin-right:50px" src='https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg'/>
@@ -87,6 +85,7 @@ Data managers in Düsseldorf, Cologne, Jülich and close by (CEPLAS, MibiNet, TR
   <img style="height:70px;margin-right:50px" src='https://www.sfb1535.hhu.de/fileadmin/redaktion/Fakultaeten/Mathematisch-Naturwissenschaftliche_Fakultaet/Biologie/SFB1535/Bilder/MibiNet.png'/>
 </div>
 
+---
 
 # Introduce yourself
 
@@ -101,5 +100,3 @@ Data managers in Düsseldorf, Cologne, Jülich and close by (CEPLAS, MibiNet, TR
 ---
 
 # Let's draw a typical lab workflow :pencil:
-
----
