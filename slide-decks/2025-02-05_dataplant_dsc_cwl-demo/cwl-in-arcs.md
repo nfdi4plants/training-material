@@ -60,6 +60,7 @@ flowchart LR
 
 # Are we **FAIR** yet?
 
+
 <!-- 
 - Installation / Environment
 - Version
@@ -123,27 +124,55 @@ fastqc assays/rnaseq/dataset/ ...
 
 ---
 
-
 # Why CWL and ARCs?
 
-- Reproducibility / Replicability **of the data**
-  - Rerunning the same analysis on the **same** dataset
-- Reusability **of the analysis**
-  - Applying the same (type of) analysis on **another** dataset
+<div class="two-columns">
 
----
+<div>
 
-# Why CWL and ARCs?
+  ### Reproducibility / Replicability of the data
+  
+  Rerunning the same analysis on the **same** dataset
 
-![w:800](../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards-isa-cwl.svg)
+  <div class="mermaid">
+  flowchart LR
+    f1("dataset1") ---p1[analysis pipeline]--> r1("results1")
+  classDef one fill:#62d4c1;
+  class f1,r1 one;
+  </div>
+
+  <div class="mermaid">
+  flowchart LR
+    f1("dataset1") ---p1[analysis pipeline]--> r1("results1")
+  classDef one fill:#62d4c1;
+  class f1,r1 one;
+  </div>
+</div>
+
+<div>
+
+  ### Reusability of the analysis
+  
+  Applying the same analysis on **another** dataset
+
+  <div class="mermaid">
+  flowchart LR
+    f2("dataset2") ---p1[analysis pipeline]--> r2("results2")
+  classDef two fill:#ffd34d;
+  class f2,r2 two;
+  </div>
+
+</div>
+
+</div>
 
 ---
 
 # Some factors affecting reproducibility & reusability
 
-- Operating system (linux, win, mac) and version
 - Version of tool / software
 - Version of package/library and interpreter (python, R, F#, etc.)
+- Operating system (linux, win, mac) and version
 - ...
 
 ---
@@ -373,6 +402,12 @@ There's a *tiny* learning curve and some dependencies
 - ...
 
 ...but it pays off! 
+
+---
+
+# ARC-CWL tutorials
+
+- Knowledge Base: https://nfdi4plants.github.io/nfdi4plants.knowledgebase/guides/arc-cwl/
 
 ---
 
