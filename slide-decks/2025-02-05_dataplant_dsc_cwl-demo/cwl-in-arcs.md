@@ -18,7 +18,7 @@ license: CC-BY 4.0
 <!-- _paginate: false -->
 
 DataPLANT Data Steward Circle – Feb 5<sup>th</sup>, 2025
-Dominik Brilhaus
+Dominik Brilhaus, [CEPLAS Data](https://www.ceplas.eu/en/research/ceplas-data)
 
 ---
 
@@ -55,11 +55,17 @@ flowchart LR
   </div>
 </div>
 
-
 ---
 
-# Are we **FAIR** yet?
+# Are we **FAIR**, yet?
 
+- where did I click
+- reproducibility
+- record exactly what I've done
+- history
+- instruction
+- tool version
+- 
 
 <!-- 
 - Installation / Environment
