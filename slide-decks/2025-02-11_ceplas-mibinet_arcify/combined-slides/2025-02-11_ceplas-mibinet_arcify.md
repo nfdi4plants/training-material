@@ -9,14 +9,22 @@ date: 2025-02-06
 
 # ARCify your research project
 
+<!--  _color: white; -->
 <!-- _paginate: false -->
+<style scoped>section {background: none; background-color: white;}</style>
+
+<br>
 
 February 11<sup>th</sup>, 2025
 
-Dominik Brilhaus (CEPLAS)
-Sabrina Zander (MibiNet)
+Sabrina Zander, MibiNet
+Dominik Brilhaus, CEPLAS
 
----
+
+
+![bg fit](./../../../images/ceplas/ceplas-background-title-mibinet.drawio.svg)
+
+--- 
 
 # Goals
 
@@ -144,23 +152,18 @@ object-fit: cover;
 
 ---
 
-# CEPLAS &ndash; One cluster, four locations
+# CEPLAS & MibiNet &ndash; Scattered across six locations
 
-![w:800](./../../../images/ceplas/ceplas-data-fragmentation00.drawio.png)
-
----
-
-# Data silos impede collaboration
-
-![w:800](./../../../images/ceplas/ceplas-data-fragmentation01.drawio.png)
+![w:800](./../../../images/mibinet/ceplas-mibinet-data-fragmentation00.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../../images/ceplas/ceplas-data-fragmentation02.drawio.png)
+![w:800](./../../../images/mibinet/ceplas-mibinet-data-fragmentation01.drawio.png)
 
 ---
+
 
 # Missing interfaces impede collaboration
 
