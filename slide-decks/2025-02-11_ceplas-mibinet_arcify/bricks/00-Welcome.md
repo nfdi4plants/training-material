@@ -12,16 +12,22 @@ author:
 
 # ARCify your research project
 
+<!--  _color: white; -->
 <!-- _paginate: false -->
+<style scoped>section {background: none; background-color: white;}</style>
+
+<br>
 
 February 11<sup>th</sup>, 2025
 
-Sabrina Zander (MibiNet)
-Dominik Brilhaus (CEPLAS)
+Sabrina Zander, MibiNet
+Dominik Brilhaus, CEPLAS
 
-![bg fit](./../../images/ceplas/ceplas-background-title-mibinet.drawio.svg) 
 
----
+
+![bg fit](./../../../images/ceplas/ceplas-background-title-mibinet.drawio.svg)
+
+--- 
 
 # Goals
 
