@@ -16,8 +16,8 @@ author:
 
 February 11<sup>th</sup>, 2025
 
-Dominik Brilhaus (CEPLAS)
 Sabrina Zander (MibiNet)
+Dominik Brilhaus (CEPLAS)
 
 ---
 
