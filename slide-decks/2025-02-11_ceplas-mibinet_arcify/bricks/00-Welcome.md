@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: marp-theme_dataplant-ceplas-ccby
+theme: marp-theme_dataplant-ceplas-mibinet-ccby
 paginate: true
 license: '[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)'
 title: Welcome and Intro
@@ -18,6 +18,8 @@ February 11<sup>th</sup>, 2025
 
 Sabrina Zander (MibiNet)
 Dominik Brilhaus (CEPLAS)
+
+![bg fit](./../../images/ceplas/ceplas-background-title-mibinet.drawio.svg) 
 
 ---
 
