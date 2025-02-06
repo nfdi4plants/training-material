@@ -25,12 +25,6 @@ author:
 
 ---
 
-# CEPLAS connection to the NFDI
-
-![](../../../images/ceplas/ceplas-nfdi-connection-light.drawio.png)
-
----
-
 # DataPLANT &ndash; *NFDI4plants*
 
 ![width:700px](./../../../images/dataplant/dataplant-landing-page.png)
@@ -43,24 +37,4 @@ author:
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
-
----
-
-
-# CEPLAS Research Data Policy
-
-<div class="two-columns">
-  <div>
-  
-  ![](./../../../images/ceplas/ceplas-policy-title.png)
-
-  </div>
-  <div>
-  
-  ![](./../../../images/ceplas/ceplas-arcs.drawio.svg)
-  
-  </div>
-</div>
-
-The policy is available via [CEPLAS intranet](https://www.ceplas.eu/en/intranet/overview)
+![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)

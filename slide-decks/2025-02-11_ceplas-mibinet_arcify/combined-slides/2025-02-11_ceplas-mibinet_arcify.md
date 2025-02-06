@@ -4,7 +4,7 @@ layout: slides
 theme: marp-theme_dataplant-ceplas-mibinet-ccby
 paginate: true
 title: 2025-02-11_ceplas-mibinet_arcify
-date: 2025-02-05
+date: 2025-02-06
 ---
 
 # ARCify your research project
@@ -182,12 +182,6 @@ object-fit: cover;
 
 ---
 
-# CEPLAS connection to the NFDI
-
-![](../../../images/ceplas/ceplas-nfdi-connection-light.drawio.png)
-
----
-
 # DataPLANT &ndash; *NFDI4plants*
 
 ![width:700px](./../../../images/dataplant/dataplant-landing-page.png)
@@ -200,27 +194,7 @@ object-fit: cover;
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
-
----
-
-
-# CEPLAS Research Data Policy
-
-<div class="two-columns">
-  <div>
-  
-  ![](./../../../images/ceplas/ceplas-policy-title.png)
-
-  </div>
-  <div>
-  
-  ![](./../../../images/ceplas/ceplas-arcs.drawio.svg)
-  
-  </div>
-</div>
-
-The policy is available via [CEPLAS intranet](https://www.ceplas.eu/en/intranet/overview)
+![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration-hhu.drawio.png)
 
 ---
 
@@ -267,7 +241,7 @@ Your entire investigation in a single unified bag
 ![w:800](./../../../images/dataplant-bigpicture-seq6.png)
 
 ---
-
+<!-- 
 # Publish your ARC
 
 ![w:800](./../../../images/dataplant-bigpicture-seq7.png)
@@ -279,13 +253,16 @@ Your entire investigation in a single unified bag
 
 ![w:800px](../../../images/arc-seamlesspublication.svg)
 
----
+--- -->
 
 # ARC as single-entry point
 
 ![w:900](./../../../images/data-publications/publication-outlets.svg)
 
+
 ---
+
+<!-- 
 
 # Data analysis and workflows
 
@@ -293,8 +270,8 @@ Your entire investigation in a single unified bag
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
----
-<!-- 
+--- 
+
 # Galaxy integration: Extra value for plant research
 
 <div class="two-columns">
@@ -353,6 +330,8 @@ Your entire investigation in a single unified bag
 
 ![w:850](./../../../images/arc-ecosystem-10.drawio.png)
 
+<!-- 
+
 ---
 
 # What does an ARC look like?
@@ -377,7 +356,9 @@ Your entire investigation in a single unified bag
 
 ![width:950](./../../../images/arc-fillwithdata-seq6.png)
 
----
+-->
+
+--- 
 
 # ARC builds on standards <!-- fit -->
   
@@ -405,8 +386,9 @@ Your entire investigation in a single unified bag
 - version control
 - https://git-scm.com
 
----
+<!-- 
 
+---
 
 # Everything is a file
 
@@ -421,6 +403,8 @@ The ARC is a **data-centric** approach to RDM
 ![w:1000](./../../../images/arc-tool-assistance.drawio.png)
 
 (Meta)data transparency with tool assistance but **no technical lock-in**
+
+-->
 
 ---
 
