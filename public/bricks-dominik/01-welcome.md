@@ -15,7 +15,7 @@ layout: two-columns
 
 ::right::
 
-<a href="https://pad.hhu.de/8bwBC7pyRL2tFFOWMQzm1Q" target="_blank"> <img src="/qr-code-pad.png" width="300px"></a>
+<a href="https://pad.hhu.de/8bwBC7pyRL2tFFOWMQzm1Q" target="_blank"> <img src="/images-tm/ceplas/qr-code-hhu-pad.png"></a>
 
 ---
 layout: default
