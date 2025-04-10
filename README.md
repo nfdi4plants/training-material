@@ -10,10 +10,16 @@ Material are shared here under [CC BY 4.0 license](https://creativecommons.org/l
 
 ## Past events
 
+
 Event | Slide decks
 ----|---
-2024-11-11_ceplas_phd-module-2024 | [2024-11-11_ceplas_phd-module-2024.pdf](slide-decks/2024-11-11_ceplas_phd-module-2024/combined-slides/2024-11-11_ceplas_phd-module-2024.pdf)
-2024-10-24_ceplas_arcify-your-research-project | [2024-10-24_ceplas_arcify-your-research-project](slide-decks/2024-10-24_ceplas_arcify-your-research-project)
+2025-04-02_fdmnrw_fdm-werkstatt         | [slide-decks/2025-04-02_fdmnrw_fdm-werkstatt](slide-decks/2025-04-02_fdmnrw_fdm-werkstatt/slides.pdf)
+2025-02-17_mibinet-arc-elabFTW-training | [slide-decks/2025-02-17_mibinet-arc-elabFTW-training](slide-decks/2025-02-17_mibinet-arc-elabFTW-training/combined-slides/2025-02-17_mibinet-arc-elabFTW-training.pdf)
+2025-02-11_ceplas-mibinet_arcify        | [slide-decks/2025-02-11_ceplas-mibinet_arcify](slide-decks/2025-02-11_ceplas-mibinet_arcify)
+2025-02-05_dataplant_dsc_cwl-demo       | [slide-decks/2025-02-05_dataplant_dsc_cwl-demo](slide-decks/2025-02-05_dataplant_dsc_cwl-demo)
+2024-12-11_dp_dscirlce_knowledgebase    | [slide-decks/2024-12-11_dp_dscirlce_knowledgebase](slide-decks/2024-12-11_dp_dscirlce_knowledgebase)
+2024-11-11_ceplas_phd-module-2024 | [2024-11-11_ceplas_phd-module-2024](slide-decks/2024-11-11_ceplas_phd-module-2024/combined-slides/2024-11-11_ceplas_phd-module-2024.pdf)
+2024-10-24_ceplas_arcify-your-research-project | [2024-10-24_ceplas_arcify-your-research-project](slide-decks/2024-10-24_ceplas_arcify-your-research-project/_combined-slides/2024-10-24_CEPLAS-ARCify-your-research-project.pdf)
 2024-06-19_trr175_tutzing-retreat | [2024-06-19_trr175_tutzing-retreat](slide-decks/2024-06-19_trr175_tutzing-retreat)
 2024-04-11_mibinet-ceplas_arc-trainings | [2024-04-11_mibinet-ceplas_arc-trainings](slide-decks/2024-04-11_mibinet-ceplas_arc-trainings)
 2024-04-03_ceplas_arc-trainings | [2024-04-03_ceplas_arc-trainings](slide-decks/2024-04-03_ceplas_arc-trainings)
@@ -30,7 +36,7 @@ Event | Slide decks
 2023-06-28_hhu_arc-club | [2023-06-28_hhu_arc-club](slide-decks/2023-06-28_hhu_arc-club)
 2023-05-09_dataplant_teaching-materials-concept | [2023-05-09_dataplant_teaching-materials-concept](slide-decks/2023-05-09_dataplant_teaching-materials-concept)
 2023-05-09_ceplas_startyourarc-series | [2023-05-09_ceplas_startyourarc-series](slide-decks/2023-05-09_ceplas_startyourarc-series)
-2023-04-27_dataplant_mbs-onboarding | [2023-04-27_dataplant_mbs-onboarding](slide-decks/2023-04-27_dataplant_mbs-onboarding) 
+2023-04-27_dataplant_mbs-onboarding | [2023-04-27_dataplant_mbs-onboarding](slide-decks/2023-04-27_dataplant_mbs-onboarding)
 
 ---
 
