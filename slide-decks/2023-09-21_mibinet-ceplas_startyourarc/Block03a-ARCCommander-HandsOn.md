@@ -89,7 +89,7 @@ git clone "https://demo-user:1_eznikmzxzARAbUxxnF@git.nfdi4plants.org/teaching/d
 
 ## You just received your data
 
-![bg right width:400](./../../images/training-demo-talinum/demo-data-screenshot.png)
+![bg right width:400](./../../public/images-tm/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -108,7 +108,7 @@ git clone "https://demo-user:1_eznikmzxzARAbUxxnF@git.nfdi4plants.org/teaching/d
 
 ## Structure your data
 
-![width:800](./../../images/arc-fillwithdata-experimental.png)
+![width:800](./../../public/images-tm/arc-fillwithdata-experimental.png)
 
 ---
 
@@ -172,7 +172,7 @@ arc assay add -s talinum_drought -a metabolomics
 
 ## Collaborate and share
 
-![w:650](./../../images/arc-datasharing-experts02-img1.png)
+![w:650](./../../public/images-tm/arc-datasharing-experts02-img1.png)
 
 ---
 
@@ -186,7 +186,7 @@ arc sync -r https://git.nfdi4plants.org/<username>/arc-demo
 
 # Received two emails from "GitLab" about a failed pipeline? <!-- fit -->
 
-![w:600](./../../images/datahub-cqc/cqc-error-email.png)
+![w:600](./../../public/images-tm/datahub-cqc/cqc-error-email.png)
 
 :fire: Don't worry :smile:
 
@@ -194,7 +194,7 @@ arc sync -r https://git.nfdi4plants.org/<username>/arc-demo
 
 ## Pipeline Failed
 
-![bg right w:700](./../../images/datahub-cqc/cqc-error-badges.png)
+![bg right w:700](./../../public/images-tm/datahub-cqc/cqc-error-badges.png)
 
 - a "continuous quality control" (CQC) pipeline validates your ARC
 - This fails if one of the following metadata items is missing:
@@ -215,7 +215,7 @@ arc sync -r https://git.nfdi4plants.org/<username>/arc-demo
 
 Identify "raw dataset(s)" and "protocols" and move them to the proper subfolders in the ARC.
 
-![bg right w:500](./../../images/training-demo-talinum/demo-data-screenshot.png)
+![bg right w:500](./../../public/images-tm/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -238,8 +238,8 @@ arc sync -m "sorted the demo data"
 
 ## Your ARC is ready
 
-![bg 80% right:75%](./../../images/training-demo-talinum/demo-data-screenshot.png)
-![bg 80%](./../../images/training-demo-talinum/demo-arc-screenshot.png)
+![bg 80% right:75%](./../../public/images-tm/training-demo-talinum/demo-data-screenshot.png)
+![bg 80%](./../../public/images-tm/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 

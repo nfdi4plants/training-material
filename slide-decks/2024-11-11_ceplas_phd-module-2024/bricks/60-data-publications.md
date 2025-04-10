@@ -17,7 +17,7 @@ date: 2023-11-09
 
 # Spot the PIDs
 
-![w:900](././../../../images/ceplas/ceplas-teaching-exercise-pids.png)
+![w:900](././../../../public/images-tm/ceplas/ceplas-teaching-exercise-pids.png)
 
 <span class="footer-reference"> https://doi.org/10.1093/plcell/koab243</span>
 
@@ -32,7 +32,7 @@ date: 2023-11-09
 - Diminish “dead links”
 - Cope with name changes
 
-![bg right:45% width:400](././../../../images/teaching-publication/pid-collage.drawio.svg)
+![bg right:45% width:400](././../../../public/images-tm/teaching-publication/pid-collage.drawio.svg)
 
 ---
 
@@ -131,7 +131,7 @@ Domain-specific >> Generic >> Institutional
 
 # Generic data repositories
 
-![bg right:40% width:400](./../../../images/teaching-publication/repositories-genericrepos-collage.drawio.svg)
+![bg right:40% width:400](./../../../public/images-tm/teaching-publication/repositories-genericrepos-collage.drawio.svg)
 
 **Good**
 

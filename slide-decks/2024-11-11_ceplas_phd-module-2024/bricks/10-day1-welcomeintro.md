@@ -24,7 +24,7 @@ November 10<sup>th</sup>, 2024
 Vittorio Tracanna, Dominik Brilhaus
 CEPLAS Data
 
-![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
+![bg fit](./../../../public/images-tm/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -79,49 +79,49 @@ Slides will be shared via DataPLANT knowledge base and the Sciebo folder
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq1.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq1.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq2.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq2.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq3.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq3.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq4.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq4.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq5.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq5.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq6.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq6.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq7.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq7.png)
 
 ---
 
 # The Research Data Lifecycle ***is mutable***
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
 
 ---
 
@@ -134,7 +134,7 @@ Slides will be shared via DataPLANT knowledge base and the Sciebo folder
 
 https://doi.org/10.1038/sdata.2016.18
 
-![bg right:45% w:600](./../../../images/wilkinson2016-fair.png)
+![bg right:45% w:600](./../../../public/images-tm/wilkinson2016-fair.png)
 
 ---
 
@@ -150,7 +150,7 @@ object-fit: cover;
 }
 </style>
 
-![](./../../../images/ceplas/fair-benefits.png)
+![](./../../../public/images-tm/ceplas/fair-benefits.png)
 
 ---
 
@@ -164,7 +164,7 @@ object-fit: cover;
 - What tools do you use to analyse your data?
 - How do you reuse other people's data?
 
-![bg right:40% w:500](./../../../images/user-challenges-002.svg)
+![bg right:40% w:500](./../../../public/images-tm/user-challenges-002.svg)
 
 ---
 

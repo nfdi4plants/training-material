@@ -13,17 +13,17 @@ author:
 
 # CEPLAS & MibiNet &ndash; Scattered across six locations
 
-![w:800](./../../../images/mibinet/ceplas-mibinet-data-fragmentation00.drawio.png)
+![w:800](./../../../public/images-tm/mibinet/ceplas-mibinet-data-fragmentation00.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../../images/mibinet/ceplas-mibinet-data-fragmentation01.drawio.png)
+![w:800](./../../../public/images-tm/mibinet/ceplas-mibinet-data-fragmentation01.drawio.png)
 
 ---
 
 
 # Missing interfaces impede collaboration
 
-![w:800](./../../../images/ceplas/hhu-services-withoutdatahub.drawio.png)
+![w:800](./../../../public/images-tm/ceplas/hhu-services-withoutdatahub.drawio.png)

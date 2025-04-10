@@ -11,25 +11,25 @@ title: Hands-on
 
 # DataHUB overview
 
-![w:900px](./../../../images/dataplant-bigpicture-seq8.png)
+![w:900px](./../../../public/images-tm/dataplant-bigpicture-seq8.png)
 
 ---
 
 # ARC builds on standards + Git
 
-![w:900](./../../../images/arc-buildsonstandards2.png)
+![w:900](./../../../public/images-tm/arc-buildsonstandards2.png)
 
 ---
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../../images/datahub/datahub-gitlab.drawio.png)
+![](./../../../public/images-tm/datahub/datahub-gitlab.drawio.png)
 
 ---
 
 # On-premise DataHUBs
 
-![alt text](../../../images/datahub/datahub-onpremise.drawio.png)
+![alt text](../../../public/images-tm/datahub/datahub-onpremise.drawio.png)
 
 ARC services are available as on-premise option
 
@@ -38,19 +38,19 @@ ARC services are available as on-premise option
 
 ## Using the DataHUB to collaborate
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/collaboration-plantdatahub.svg)
+![](../../../public/kb/src/assets/images/start-here/collaboration-plantdatahub.svg)
 
 ---
 
 # The Research Data Lifecycle ***is mutable***
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
 
 ---
 
 # **Mutable** data life cycle
 
-![w:700](./../../../images/tpj16474-fig-0006-m.jpg)
+![w:700](./../../../public/images-tm/tpj16474-fig-0006-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -58,7 +58,7 @@ ARC services are available as on-premise option
 
 ## Project management
 
-![w:800](../../../images/tpj16474-fig-0007-m.jpg)
+![w:800](../../../public/images-tm/tpj16474-fig-0007-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -79,7 +79,7 @@ ARC services are available as on-premise option
 
 <div>
 
-![w:600](../../../images/datahub/datahub-wiki.png)
+![w:600](../../../public/images-tm/datahub/datahub-wiki.png)
 
 </div>
 </div>

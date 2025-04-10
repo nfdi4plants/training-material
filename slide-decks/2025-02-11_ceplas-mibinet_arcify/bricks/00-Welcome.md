@@ -25,7 +25,7 @@ Dominik Brilhaus, CEPLAS
 
 
 
-![bg fit](./../../../images/ceplas/ceplas-background-title-mibinet.drawio.svg)
+![bg fit](./../../../public/images-tm/ceplas/ceplas-background-title-mibinet.drawio.svg)
 
 --- 
 
@@ -36,7 +36,7 @@ Dominik Brilhaus, CEPLAS
 - Share them via the DataHUB
 - Annotate with metadata
 
-![bg right w:500](./../../../images/ceplas/ceplas-arcs.drawio.svg)
+![bg right w:500](./../../../public/images-tm/ceplas/ceplas-arcs.drawio.svg)
 
 ---
 

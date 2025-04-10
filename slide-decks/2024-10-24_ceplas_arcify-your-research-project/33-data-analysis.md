@@ -21,36 +21,36 @@ title: ARCitect Hands-on
 
 ## Options to annotate the data analysis
 
-![w:900](../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows1.svg)
+![w:900](../../public/kb/src/assets/images/start-here/arc-prototypic-workflows1.svg)
 
 ---
 
 ## A computational workflow is like a protocol
 
-![w:900](../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows2.svg)
+![w:900](../../public/kb/src/assets/images/start-here/arc-prototypic-workflows2.svg)
 
 ---
 
 ## Option I: Create a virtual assay
 
-![w:900](../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-virtual.svg)
+![w:900](../../public/kb/src/assets/images/start-here/arc-prototypic-workflows-virtual.svg)
 
 ---
 
 ## Option II: Create a workflow and run
 
-![w:900](../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl1.svg)
+![w:900](../../public/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl1.svg)
 
 ---
 
 ## Use CWL to wrap your workflow
 
-![w:900](../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
+![w:900](../../public/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
 
 ---
 
 
-<img class="arcitectLogo" src="../../nfdi4plants.knowledgebase/src/assets/images/start-here/arcitectlogo.png"/>
+<img class="arcitectLogo" src="../../public/kb/src/assets/images/start-here/arcitectlogo.png"/>
 
 ## Add datasets
 
@@ -62,5 +62,5 @@ In the file tree you can
 
 :warning: Depending on the file size, this may take a while. Test this with a small batch of files first.
 
-![bg right:40% w:400](./../../images/arcitect/arcitect-arcpanel-assay03.png)
+![bg right:40% w:400](./../../public/images-tm/arcitect/arcitect-arcpanel-assay03.png)
 

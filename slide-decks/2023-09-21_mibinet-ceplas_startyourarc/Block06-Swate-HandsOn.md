@@ -109,7 +109,7 @@ git clone "https://demo-user:5ehDYeHcqP2MqVXsNNPu@git.nfdi4plants.org/teaching/d
 
 <img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... **annotate the experimental data**
 
-![bg right:40% width:400](./../../images/training-demo-talinum/demo-arc-screenshot.png)
+![bg right:40% width:400](./../../public/images-tm/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -119,7 +119,7 @@ git clone "https://demo-user:5ehDYeHcqP2MqVXsNNPu@git.nfdi4plants.org/teaching/d
 
 ## Swate Overview
 
-![width:1000](./../../images/swate-overview.png)
+![width:1000](./../../public/images-tm/swate-overview.png)
 
 ---
 
@@ -160,7 +160,7 @@ Create a Swate annotation table via the <kbd>create annotation table</kbd> butto
 </div>
 
 <div class="columns-right">
-    <img src="./../../images/swate-createannotationtable-exp.jpg" style="width: 1200px">
+    <img src="./../../public/images-tm/swate-createannotationtable-exp.jpg" style="width: 1200px">
 </div>
 
 </div>
@@ -177,7 +177,7 @@ Create a Swate annotation table via the <kbd>create annotation table</kbd> butto
 
 > :bulb: This adds three columns to your table, one visible and **two** hidden.
 
-![bg right:30% w:400](./../../images/swate-addbuildingblock-exp.jpg?v31.01.22)
+![bg right:30% w:400](./../../public/images-tm/swate-addbuildingblock-exp.jpg?v31.01.22)
 
 
 ---
@@ -235,7 +235,7 @@ Click the <kbd>Update Ontology Terms</kbd> quick access buttons.
 
 At this point. Your table should look similar to this:
 
-![w:1000](./../../images/training-demo-talinum/demo-isa-study.png)
+![w:1000](./../../public/images-tm/training-demo-talinum/demo-isa-study.png)
 
 ---
 
@@ -271,7 +271,7 @@ Try to add suitable *building blocks* for other pieces of metadata from the plan
     - You will see a preview of all building blocks which are part of this template.
 2. Click <kbd>Add template</kbd> to add all Building Blocks from the template to your table, which <u>do not exist yet</u>.
 
-![bg right:30% w:350px](./../../images/swate-templates.svg)
+![bg right:30% w:350px](./../../public/images-tm/swate-templates.svg)
 
 ---
 
@@ -341,7 +341,7 @@ Example workflows with three *processes* each:
 
 ## Process Information
 
-![w:700](././../../images/arcitect/arcitect-assay-data.png)
+![w:700](././../../public/images-tm/arcitect/arcitect-assay-data.png)
 
 <!-- TODO Update ARCitect Annotation 
 Examples, Excelsheet... --> 

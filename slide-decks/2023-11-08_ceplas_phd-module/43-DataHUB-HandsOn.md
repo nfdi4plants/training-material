@@ -19,7 +19,7 @@ author:
 
 # Navigation Bar
 
-![](./../../images/datahub/datahub-navbar.drawio.svg)
+![](./../../public/images-tm/datahub/datahub-navbar.drawio.svg)
 
 1. navigate directly to the [projects panel](./../../../../../../DataHUB-Manual/datahub-Manual/datahub-projectsPanel.html) via the icon in the top-left (1)
 2. open the [hamburger Menu](#hamburger-menu) (2)
@@ -34,7 +34,7 @@ author:
 2. navigate to the [projects](./../../../DataHUB-Manual/datahub-projectsPanel.html) (2)
 3. or [groups](datahub-groupsPanel.html) (3) panels
 
-![bg right w:500](./../../images/datahub/datahub-hamburgermenu.drawio.svg)
+![bg right w:500](./../../public/images-tm/datahub/datahub-hamburgermenu.drawio.svg)
 
 ---
 
@@ -45,13 +45,13 @@ author:
 3. navigate to the [user settings](./../../../DataHUB-Manual/datahub-userSettings.html) (3) 
 4. or sign out (4) of the DataHUB.
 
-![bg right w:500](./../../images/datahub/datahub-avatarmenu.drawio.svg)
+![bg right w:500](./../../public/images-tm/datahub/datahub-avatarmenu.drawio.svg)
 
 ---
 
 # Projects Panel
 
-![](./../../images/datahub/datahub-projectspanel.drawio.svg)
+![](./../../public/images-tm/datahub/datahub-projectspanel.drawio.svg)
 
 1. Choose a tab (1) to see only your ARCs, or explore other publicly available ARCs. 
 2. The main panel (2) lists all ARCs
@@ -65,7 +65,7 @@ author:
 
 The ARC Panel is the main working area for your ARC.
 
-![w:1000](./../../images/datahub/datahub-arc-overview.drawio.svg)
+![w:1000](./../../public/images-tm/datahub/datahub-arc-overview.drawio.svg)
 
 ---
 
@@ -73,7 +73,7 @@ The ARC Panel is the main working area for your ARC.
 
 <style scoped> section {font-size: 23px;} </style>
 
-![bg right w:600](./../../images/datahub/datahub-arc-overview.drawio.svg)
+![bg right w:600](./../../public/images-tm/datahub/datahub-arc-overview.drawio.svg)
 
 1. access the project information (1), e.g. invite members to the ARC
 2. follow the progress of your ARC repository (2),
@@ -87,7 +87,7 @@ The ARC Panel is the main working area for your ARC.
 
 <style scoped> section {font-size: 23px;} </style>
 
-![bg right w:600](./../../images/datahub/datahub-arc-overview.drawio.svg)
+![bg right w:600](./../../public/images-tm/datahub/datahub-arc-overview.drawio.svg)
 
 6. see the ARC's name and visibility level (6),
 7. follow the ARC's commit history (7),
@@ -99,7 +99,7 @@ The ARC Panel is the main working area for your ARC.
 
 # Collaborate and share
 
-![w:650](./../../images/arc-datasharing-experts02-img1.png)
+![w:650](./../../public/images-tm/arc-datasharing-experts02-img1.png)
 
 ---
 
@@ -113,31 +113,31 @@ The ARC Panel is the main working area for your ARC.
 
 1. Click on **Project Information** in the left navigation panel
 
-![fit w:1050](./../../images/datahub/datahub-members-seq2.png)
+![fit w:1050](./../../public/images-tm/datahub/datahub-members-seq2.png)
 
 ---
 
 2. Click on **Members**
 
-![fit w:1050](./../../images/datahub/datahub-members-seq3.png)
+![fit w:1050](./../../public/images-tm/datahub/datahub-members-seq3.png)
 
 ---
 
 3. Click on **Invite members**
 
-![fit w:1050](./../../images/datahub/datahub-members-seq4.png)
+![fit w:1050](./../../public/images-tm/datahub/datahub-members-seq4.png)
 
 ---
 
 4. Search for potential collaborators
 
-![fit w:1050](./../../images/datahub/datahub-members-seq5.png)
+![fit w:1050](./../../public/images-tm/datahub/datahub-members-seq5.png)
 
 ---
 
 5. Select a role
 
-![fit w:1050](./../../images/datahub/datahub-members-seq6.png)
+![fit w:1050](./../../public/images-tm/datahub/datahub-members-seq6.png)
 
 ---
 
@@ -175,7 +175,7 @@ object-position: 100% 45%;
 }
 </style>
 
-![](./../../images/arc-sharing-img1.png)
+![](./../../public/images-tm/arc-sharing-img1.png)
 
 ---
 
@@ -199,7 +199,7 @@ object-position: 100% 45%;
 - share meeting minutes or ideas with collaboration partners
 - keep ARC clean of files that are not considered "research data"
 
-![bg right w:600](./../../images/datahub/datahub-wiki.png)
+![bg right w:600](./../../public/images-tm/datahub/datahub-wiki.png)
 
 ---
 

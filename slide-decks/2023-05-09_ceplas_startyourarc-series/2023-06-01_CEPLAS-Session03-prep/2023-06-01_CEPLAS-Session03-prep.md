@@ -28,7 +28,7 @@ author:
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
+![bg fit](./../../../public/images-tm/ceplas/ceplas-background-title.drawio.svg)
 
 (Preparation for) Session 03
 
@@ -88,7 +88,7 @@ arc sync -r https://git.nfdi4plants.org/<username>/my-arc
 
 Check if the upload was successful by visiting your ARC at the respective URL in your browser.
 
-![w:800](./../../../images/datahub/datahub-repository.png)
+![w:800](./../../../public/images-tm/datahub/datahub-repository.png)
 
 # Part 2: Adding subfolders for your data
 
@@ -140,7 +140,7 @@ arc assay add --studyidentifier <YourStudyID> --assayidentifier <YourAssayID>
 
 The ARC Commander adds subdirectories to the *studies* and *assays* folders. Your ARC should, look similar to this now:  
 
-![bg right w:600](./../../../images/arc-studies-assays.jpg)
+![bg right w:600](./../../../public/images-tm/arc-studies-assays.jpg)
 
 These steps can be repeated to add as many studies and assays as needed. Accordingly, more subdirectories will be added
 
@@ -177,31 +177,31 @@ Try to place your resources, datasets and protocols for each study and assay in 
 
 1. Click on **Project Information** in the left navigation panel
 
-![fit w:1050](./../../../images/datahub/datahub-members-seq2.png)
+![fit w:1050](./../../../public/images-tm/datahub/datahub-members-seq2.png)
 
 ---
 
 2. Click on **Members**
 
-![fit w:1050](./../../../images/datahub/datahub-members-seq3.png)
+![fit w:1050](./../../../public/images-tm/datahub/datahub-members-seq3.png)
 
 ---
 
 3. Click on **Invite members**
 
-![fit w:1050](./../../../images/datahub/datahub-members-seq4.png)
+![fit w:1050](./../../../public/images-tm/datahub/datahub-members-seq4.png)
 
 ---
 
 4. Search for potential collaborators
 
-![fit w:1050](./../../../images/datahub/datahub-members-seq5.png)
+![fit w:1050](./../../../public/images-tm/datahub/datahub-members-seq5.png)
 
 ---
 
 5. Select a role 
 
-![fit w:1050](./../../../images/datahub/datahub-members-seq6.png)
+![fit w:1050](./../../../public/images-tm/datahub/datahub-members-seq6.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/datahub_invite-collaborators.md -->
@@ -243,7 +243,7 @@ object-position: 100% 45%;
 }
 </style>
 
-![](./../../../images/arc-sharing-img1.png)
+![](./../../../public/images-tm/arc-sharing-img1.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/datahub_congrats-for-sharing.md -->

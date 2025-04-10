@@ -42,7 +42,7 @@ ul{
 
 If you do not have a DataPLANT account, please register at the <a href="https://register.nfdi4plants.org" target="_blank">DataPLANT website</a>.
 
-![w:800](./../../../images/dataplant-registration.png)
+![w:800](./../../../public/images-tm/dataplant-registration.png)
 
 ---
 
@@ -50,7 +50,7 @@ If you do not have a DataPLANT account, please register at the <a href="https://
 
 Please add your `Project/consortium` (e.g. CEPLAS, SFB, TRR) and choose the role `Guest`
 
-![bg right:40% fit](./../../../images/dataplant-registration-roles.png)
+![bg right:40% fit](./../../../public/images-tm/dataplant-registration-roles.png)
 
 ---
 
@@ -250,7 +250,7 @@ Dominik Brilhaus, [CEPLAS Data Science](https://www.ceplas.eu/en/research/data-s
 
 # DataPLANT &ndash; <br>The NFDI4Plants
 
-![bg right:50% width:500px](./../../../images/dataplant-taskareas.svg)
+![bg right:50% width:500px](./../../../public/images-tm/dataplant-taskareas.svg)
 
 - NFDI: "Nationale Forschungsdaten Infrastruktur" &ndash; [www.nfdi.de](https://www.nfdi.de/)
 - Funded since end of 2020
@@ -265,79 +265,79 @@ Dominik Brilhaus, [CEPLAS Data Science](https://www.ceplas.eu/en/research/data-s
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../../images/arc-datacentricintegration.svg)
+![width:950](./../../../public/images-tm/arc-datacentricintegration.svg)
 
 ---
 
-![left h:640](./../../../images/user-challenges-002.svg)
+![left h:640](./../../../public/images-tm/user-challenges-002.svg)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq1.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq1.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq2.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq2.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq3.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq3.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq4.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq4.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq5.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq5.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq6.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq6.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq7.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq7.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq8.png)
-
----
-
-# What does an ARC look like?
-
-![width:950](./../../../images/arc-fillwithdata-seq1.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq8.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq2.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq1.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq3.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq2.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq4.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq3.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq5.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq4.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq6.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq5.png)
+
+---
+
+# What does an ARC look like?
+
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq6.png)
 
 ---
 
@@ -411,13 +411,13 @@ Please install the latest version of the ARCitect: https://github.com/nfdi4plant
 
 https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZlS_Kzf7psk-5w-xg?e=u0sADd
 
-![bg right w:600](./../../../images/training-demo-talinum/demo-data-download.png)
+![bg right w:600](./../../../public/images-tm/training-demo-talinum/demo-data-download.png)
 
 ---
 
 ## You just received your data
 
-![bg right width:400](./../../../images/training-demo-talinum/demo-data-screenshot.png)
+![bg right width:400](./../../../public/images-tm/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -431,7 +431,7 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 
 :bulb: We'll talk about data annotation later
 
-![bg right width:600](./../../../images/arc-fillwithdata-experimental.png)
+![bg right width:600](./../../../public/images-tm/arc-fillwithdata-experimental.png)
 
 ---
 
@@ -443,7 +443,7 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 
 # Initiate the ARC folder structure
 
-![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../public/images-tm/arcitect/arcitect-help-sidebar.drawio.svg)
 
 1. Create a **New ARC** (2)
 2. Select a location and name it **TalinumPhotosynthesis**
@@ -464,7 +464,7 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 
 💡 Avoid spaces in your ARC's name
 
-![bg right:30% w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis.png)
+![bg right:30% w:500](./../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis.png)
 
 ---
 
@@ -475,7 +475,7 @@ https://nfdi4plant.sharepoint.com/:f:/s/Teaching/Eik7k-oJiMREgZ24kto7sIYBGxHmmZl
 3. Add a description
 4. Click "Update" to save your changes
 
-![bg right w:700](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationmetadata.png)
+![bg right w:700](./../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-investigationmetadata.png)
 
 ---
 
@@ -485,13 +485,13 @@ In the section "People" click "ADD PERSON" to add at least one contributor
 
 <br>
 
-![w:1000](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-addperson.png)
+![w:1000](./../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-addperson.png)
 
 ---
 
 # Add contributor details
 
-![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-investigationperson.png)
+![bg right w:500](./../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-investigationperson.png)
 
 :bulb: For each person that you add, make sure to add
 - First Name
@@ -505,7 +505,7 @@ In the section "People" click "ADD PERSON" to add at least one contributor
 
 by clicking "Add Study" and entering **talinum_drought** as identifier for the study
 
-![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-study.png)
+![bg right w:500](./../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-study.png)
 
 ---
 
@@ -518,13 +518,13 @@ In the study panel you can add
 - publications
 - data process information
 
-![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-studypanel.png)
+![bg right w:500](./../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-studypanel.png)
 
 ---
 
 # Add a protocol to the study
 
-![bg right w:500](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-study-protocol.png)
+![bg right w:500](../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-study-protocol.png)
 
 Click "Add Protocol" in the sidebar to add a protocol to the study
 
@@ -537,7 +537,7 @@ You can either
 - directly write a **new protocol** within the ARCitect or
 - import an existing one from your computer
 
-![w:800](./../../../images/arcitect/arcitect-arcpanel-protocol.png)
+![w:800](./../../../public/images-tm/arcitect/arcitect-arcpanel-protocol.png)
 
 ---
 
@@ -551,7 +551,7 @@ From the demo data, transfer the lab notes stored in `plant_material.txt` to the
 
 Click "Add Assay" in the sidebar
 
-![bg right:45% w:500](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-addassay.png)
+![bg right:45% w:500](../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-addassay.png)
 
 
 ---
@@ -561,7 +561,7 @@ Click "Add Assay" in the sidebar
 1. Enter **rnaseq** as the identifier
 2. Link the assay to the study **talinum_drought**
 
-![bg right:45%  w:600](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay2.png)
+![bg right:45%  w:600](./../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-assay2.png)
 
 ---
 
@@ -576,7 +576,7 @@ In the assay panel you can
    - technology platform.
 3. add data process information
 
-![bg right w:500](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assaypanel.png)
+![bg right w:500](./../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-assaypanel.png)
 
 
 ---
@@ -598,7 +598,7 @@ In the file tree you can
   - **add a dataset** and 
   - **protocols** associated with that dataset
 
-![bg right:40% w:400](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay3.png)
+![bg right:40% w:400](../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-assay3.png)
 
 ---
 
@@ -607,8 +607,8 @@ In the file tree you can
 1. Cick "Add Dataset"
 2. Select the *.fastq.gz files from the demo data
 
-![bg right w:300](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay4.png)
-![bg right w:300](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay5.png)
+![bg right w:300](../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-assay4.png)
+![bg right w:300](../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-assay5.png)
 
 ---
 
@@ -620,13 +620,13 @@ From the demo data, import the lab notes related to the `rnaseq` assay:
   - Illumina_libraries.txt
   - NGS_SampleSheet.xlsx
 
-![bg right w:500](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay6.png)
+![bg right w:500](../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-assay6.png)
 
 ---
 
 # Collaborate and share
 
-![w:650](./../../../images/arc-datasharing-experts02-img1.png)
+![w:650](./../../../public/images-tm/arc-datasharing-experts02-img1.png)
 
 ---
 
@@ -636,7 +636,7 @@ Click **Login** (1) in the sidebar to login to the DataHUB.
 
 :bulb: This automatically opens your browser at the DataHUB (https://git.nfdi4plants.org) and asks you to login, if you are not already logged in. 
 
-![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../public/images-tm/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -644,7 +644,7 @@ Click **Login** (1) in the sidebar to login to the DataHUB.
 
 To communicate with the DataHUB, navigate to **Versions** (6)
 
-![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../public/images-tm/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -656,7 +656,7 @@ The versions panel allows you to
 - sync the changes to the DataHUB, and
 - check the history of your ARC
 
-![bg right w:650](./../../../images/arcitect/arcitect-versionspanel.png)
+![bg right w:650](./../../../public/images-tm/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -666,7 +666,7 @@ If you are logged in, the versions panel shows
 - your DataHUB's *Full Name* and *eMail*
 - the URL of the current ARC in the DataHUB `https://git.nfdi4plants.org/<YourUserName>/<YourARC>`
 
-![bg right w:650](./../../../images/arcitect/arcitect-versionspanel.png)
+![bg right w:650](./../../../public/images-tm/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -676,7 +676,7 @@ If you are logged in, the versions panel shows
 2. Click "COMMIT" to save your changes locally
 3. Click "UPLOAD" to upload your ARC to the DataHUB
 
-![bg right w:700](./../../../images/arcitect/arcitect-versionspanel.png)
+![bg right w:700](./../../../public/images-tm/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -689,7 +689,7 @@ If you are logged in, the versions panel shows
 
 # Received two emails from "GitLab" about a failed pipeline? <!-- fit -->
 
-![w:600](./../../../images/datahub-cqc/cqc-error-email.png)
+![w:600](./../../../public/images-tm/datahub-cqc/cqc-error-email.png)
 
 :fire: Don't worry :smile:
 
@@ -697,7 +697,7 @@ If you are logged in, the versions panel shows
 
 ## Pipeline Failed
 
-![bg right w:700](./../../../images/datahub-cqc/cqc-error-badges.png)
+![bg right w:700](./../../../public/images-tm/datahub-cqc/cqc-error-badges.png)
 
 - a "continuous quality control" (CQC) pipeline validates your ARC
 - This fails if one of the following metadata items is missing:
@@ -718,7 +718,7 @@ If you are logged in, the versions panel shows
 
 If the pipeline has failed once, it is disabled by default
 
-![bg right w:500](./../../../images/datahub-cqc/cqc-error-email2.png)
+![bg right w:500](./../../../public/images-tm/datahub-cqc/cqc-error-email2.png)
 
 ---
 
@@ -735,13 +735,13 @@ To reactivate it and let the DataHUB validate your ARC again:
   3. check box "Default to Auto DevOps pipeline"
   4. Save changes
 
-![bg right:60% w:600](./../../../images/datahub-cqc/cqc-activate-autodevops.png)
+![bg right:60% w:600](./../../../public/images-tm/datahub-cqc/cqc-activate-autodevops.png)
 
 ---
 
 # Collaborate and share
 
-![w:650](./../../../images/arc-datasharing-experts02-img1.png)
+![w:650](./../../../public/images-tm/arc-datasharing-experts02-img1.png)
 
 ---
 
@@ -754,31 +754,31 @@ To reactivate it and let the DataHUB validate your ARC again:
 
 1. Click on **Project Information** in the left navigation panel
 
-![fit w:1050](./../../../images/datahub/datahub-members-seq2.png)
+![fit w:1050](./../../../public/images-tm/datahub/datahub-members-seq2.png)
 
 ---
 
 2. Click on **Members**
 
-![fit w:1050](./../../../images/datahub/datahub-members-seq3.png)
+![fit w:1050](./../../../public/images-tm/datahub/datahub-members-seq3.png)
 
 ---
 
 3. Click on **Invite members**
 
-![fit w:1050](./../../../images/datahub/datahub-members-seq4.png)
+![fit w:1050](./../../../public/images-tm/datahub/datahub-members-seq4.png)
 
 ---
 
 4. Search for potential collaborators
 
-![fit w:1050](./../../../images/datahub/datahub-members-seq5.png)
+![fit w:1050](./../../../public/images-tm/datahub/datahub-members-seq5.png)
 
 ---
 
 5. Select a role
 
-![fit w:1050](./../../../images/datahub/datahub-members-seq6.png)
+![fit w:1050](./../../../public/images-tm/datahub/datahub-members-seq6.png)
 
 
 ---
@@ -817,7 +817,7 @@ object-position: 100% 45%;
 }
 </style>
 
-![](./../../../images/arc-sharing-img1.png)
+![](./../../../public/images-tm/arc-sharing-img1.png)
 
 
 ---
@@ -831,7 +831,7 @@ object-position: 100% 45%;
    1. Add a "commit message"
    2. Upload your changes to the DataHUB
 
-![bg right:40% w:400](../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-assay3.png)
+![bg right:40% w:400](../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-assay3.png)
 
 ---
 
@@ -840,7 +840,7 @@ object-position: 100% 45%;
 1. Navigate to Versions
 2. Check the History panel at the bottom
 
-![w:650](./../../../images/training-demo-talinum/arcitect-talinumphotosynthesis-history.png)
+![w:650](./../../../public/images-tm/training-demo-talinum/arcitect-talinumphotosynthesis-history.png)
 
 ---
 
@@ -864,7 +864,7 @@ section p br {
 <br>
 🌐 Shared with collaborators
 
-![bg right width:400](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
+![bg right width:400](./../../../public/images-tm/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -881,7 +881,7 @@ section p br {
 2. Navigate to the general (1) settings
 3. In the advanced section (4) you can **delete** your ARC
 
-![bg right w:600](./../../../images/datahub/datahub-arc-settings.drawio.svg)
+![bg right w:600](./../../../public/images-tm/datahub/datahub-arc-settings.drawio.svg)
 
 ---
 
@@ -891,7 +891,7 @@ section p br {
 2. In the sidebar on the left, navigate to `Repository` &rarr; `Commits`
 3. There you find a chronological list of syncing messages together with who synced and when
 
-![bg right w:600](./../../../images/datahub/datahub-commits.png)
+![bg right w:600](./../../../public/images-tm/datahub/datahub-commits.png)
 
 ---
 
@@ -900,7 +900,7 @@ section p br {
 4. Click on the latest (i.e. uppermost) commit.
 5. In the top-right corner select `Revert` from the drop-down menu `Options`.
 
-<img src="./../../../images/datahub/datahub-commits-revert01.png" style="width:75%;display: block;margin-left: auto;margin-right: auto;">
+<img src="./../../../public/images-tm/datahub/datahub-commits-revert01.png" style="width:75%;display: block;margin-left: auto;margin-right: auto;">
 
 
 --- 
@@ -909,7 +909,7 @@ section p br {
 6. Un-check the box "Start a new merge request with these changes".
 7. Click "Revert"
 
-<img src="./../../../images/datahub/datahub-commits-revert02.png" style="width:55%;display: block;margin-left: auto;margin-right: auto;">
+<img src="./../../../public/images-tm/datahub/datahub-commits-revert02.png" style="width:55%;display: block;margin-left: auto;margin-right: auto;">
 
 
 ---
@@ -976,7 +976,7 @@ section {
 }
 </style>
 
-![width:800px](./../../../images/teaching-toolbox/feedback01-fivefinger.drawio.svg)
+![width:800px](./../../../public/images-tm/teaching-toolbox/feedback01-fivefinger.drawio.svg)
 
 <!-- 
 - Invite participants to give feedback
@@ -1254,7 +1254,7 @@ ul {
 
 # ARC builds on ISA
 
-![w:900](./../../../images/isamodel-arc01-img01.svg)
+![w:900](./../../../public/images-tm/isamodel-arc01-img01.svg)
 
 <https://isa-tools.org/format/specification.html>
 
@@ -1262,19 +1262,19 @@ ul {
 
 # ARC builds on ISA
 
-![w:1100](./../../../images/isamodel-arc01-img02.svg)
+![w:1100](./../../../public/images-tm/isamodel-arc01-img02.svg)
 
 ---
 
 # isa.<>.xlsx files within ARCs
 
-![w:1000](./../../../images/isamodel-arc01-img03.svg)
+![w:1000](./../../../public/images-tm/isamodel-arc01-img03.svg)
 
 ---
 
 # Study and assay files are registered in the investigation file <!-- fit -->
 
-![w:950](./../../../images/isamodel-arc01-img04.svg)
+![w:950](./../../../public/images-tm/isamodel-arc01-img04.svg)
 
 ---
 
@@ -1286,13 +1286,13 @@ Output building blocks:
 - Raw Data File
 - Derived Data File
 
-![bg right w:600](./../../../images/isamodel-arc01-img05.svg)
+![bg right w:600](./../../../public/images-tm/isamodel-arc01-img05.svg)
 
 ---
 
 #
 
-![bg w:1050](./../../../images/isamodel-arc01-img6.svg)
+![bg w:1050](./../../../public/images-tm/isamodel-arc01-img6.svg)
 
 ---
 
@@ -1302,7 +1302,7 @@ Output building blocks:
 
 # Annotation by flattening the knowledge graph
 
-![w:800](./../../../images/swate-parentchildterm.svg)
+![w:800](./../../../public/images-tm/swate-parentchildterm.svg)
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
@@ -1317,7 +1317,7 @@ section p img{
 }  
 </style> -->
 
-![w:650](./../../../images/swate-parentchildterm2.svg)
+![w:650](./../../../public/images-tm/swate-parentchildterm2.svg)
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
@@ -1326,7 +1326,7 @@ section p img{
 
 # Adding new building blocks (columns)
 
-![w:750](./../../../images/swate-newparameter.svg)
+![w:750](./../../../public/images-tm/swate-newparameter.svg)
 
 - Swate can be used for the annotation of **isa.study.xlsx and isa.assay.xlsx** files
 
@@ -1342,7 +1342,7 @@ section{
 
 </style>
 
-![bg right w:700](./../../../images/swate-overview.svg)
+![bg right w:700](./../../../public/images-tm/swate-overview.svg)
 
 - Source Name (Input)
 - Protocol Columns
@@ -1369,7 +1369,7 @@ section {
 }
 </style>
 
-![w:750](./../../../images/swate-ontologytermsearch.svg)
+![w:750](./../../../public/images-tm/swate-ontologytermsearch.svg)
 
 Enable **related term directed search** to directly fill cells with child terms
 
@@ -1377,13 +1377,13 @@ Enable **related term directed search** to directly fill cells with child terms
 
 # Fill your table with ontology terms
 
-![w:800](./../../../images/swate-ontologytermsearch2.svg)
+![w:800](./../../../public/images-tm/swate-ontologytermsearch2.svg)
 
 ---
 
 # Hierarchical combination of ontologies
 
-![w:800](./../../../images/swate-ontologycombination.svg)
+![w:800](./../../../public/images-tm/swate-ontologycombination.svg)
 
 <!-- combination of ISA (Characteristics, Parameter, Factor) and a biological or technological ontology (e.g. temperature, strain, instrument model) gives the flexibility to display an ontology term, e.g. temperature, as a regular process parameter or as the factor your study is based on (Parameter \[temperature\] or Factor \[temperature\]). -->
 
@@ -1395,7 +1395,7 @@ Enable **related term directed search** to directly fill cells with child terms
 
 # Checklists and Templates
 
-![w:800px](./../../../images/swate-templateschecklists.svg)
+![w:800px](./../../../public/images-tm/swate-templateschecklists.svg)
 
 Metadata standards or repository requirements can be represented as templates
 
@@ -1412,7 +1412,7 @@ section {
 
 # Realization of lab-specific metadata templates
 
-![w:850px](./../../../images/swate-metadatatemplates.png)
+![w:850px](./../../../public/images-tm/swate-metadatatemplates.png)
 
 Facilities can define their most common workflows as templates
 
@@ -1432,7 +1432,7 @@ section {
 - DataPLANT curated
 - Community templates
 
-![bg right w:450](./../../../images/swate-templates.svg)
+![bg right w:450](./../../../public/images-tm/swate-templates.svg)
 
 ---
 
@@ -1497,7 +1497,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 ## Download the demo data
 
-![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../public/images-tm/arcitect/arcitect-help-sidebar.drawio.svg)
 
 1. Open the ARCitect
 2. Login (1) to your DataHUB account
@@ -1511,7 +1511,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 4. Search for **Talinum-CAM-Photosynthesis**
 5. Click the download button, select a location and open the ARC.
 
-![w:700](./../../../images/training-demo-talinum/arcitect-talinum-download-arc.png)
+![w:700](./../../../public/images-tm/training-demo-talinum/arcitect-talinum-download-arc.png)
 
 :bulb: This is basically the ARC we created last session.
 
@@ -1529,7 +1529,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 <img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... **annotate the experimental data**
 
-![bg right:40% width:400](./../../../images/training-demo-talinum/arcitect-talinum-demo-arc.png)
+![bg right:40% width:400](./../../../public/images-tm/training-demo-talinum/arcitect-talinum-demo-arc.png)
 
 ---
 
@@ -1539,7 +1539,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 ## Swate Overview
 
-![width:1000](./../../../images/swate-overview.png)
+![width:1000](./../../../public/images-tm/swate-overview.png)
 
 ---
 
@@ -1580,7 +1580,7 @@ Create a Swate annotation table via the <kbd>create annotation table</kbd> butto
 </div>
 
 <div class="columns-right">
-    <img src="./../../../images/swate-createannotationtable-exp.jpg" style="width: 1200px">
+    <img src="./../../../public/images-tm/swate-createannotationtable-exp.jpg" style="width: 1200px">
 </div>
 
 </div>
@@ -1597,7 +1597,7 @@ Create a Swate annotation table via the <kbd>create annotation table</kbd> butto
 
 > :bulb: This adds three columns to your table, one visible and **two** hidden.
 
-![bg right:30% w:400](./../../../images/swate-addbuildingblock-exp.jpg?v31.01.22)
+![bg right:30% w:400](./../../../public/images-tm/swate-addbuildingblock-exp.jpg?v31.01.22)
 
 
 ---
@@ -1655,7 +1655,7 @@ Click the <kbd>Update Ontology Terms</kbd> quick access buttons.
 
 At this point. Your table should look similar to this:
 
-![w:1000](./../../../images/training-demo-talinum/demo-isa-study.png)
+![w:1000](./../../../public/images-tm/training-demo-talinum/demo-isa-study.png)
 
 ---
 
@@ -1690,7 +1690,7 @@ Try to add suitable *building blocks* for other pieces of metadata from the plan
     - You will see a preview of all building blocks which are part of this template.
 2. Click <kbd>Add template</kbd> to add all Building Blocks from the template to your table, which <u>do not exist yet</u>.
 
-![bg right:30% w:350px](./../../../images/swate-templates.svg)
+![bg right:30% w:350px](./../../../public/images-tm/swate-templates.svg)
 
 ---
 
@@ -1821,15 +1821,15 @@ Dominik Brilhaus, [CEPLAS Data Science](https://www.ceplas.eu/en/research/data-s
 
 <br>
 
-![bg left w:350](./../../../images/rdmkit-data-life-cycle-9.svg)
+![bg left w:350](./../../../public/images-tm/rdmkit-data-life-cycle-9.svg)
 
 <span class="footer-reference">https://rdmkit.elixir-europe.org, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>
 
 ---
 
-# Collect <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-02-collect.png'/>
+# Collect <img align="left" class="center" style="height:75px" src='./../../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-02-collect.png'/>
 
-![width:800](./../../../images/arc-fillwithdata-experimental.png)
+![width:800](./../../../public/images-tm/arc-fillwithdata-experimental.png)
 
 <!-- 
 
@@ -1842,7 +1842,7 @@ Dominik Brilhaus, [CEPLAS Data Science](https://www.ceplas.eu/en/research/data-s
 
 ---
 
-# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-03-process.png'/>
+# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-03-process.png'/>
 
 <style scoped>
 
@@ -1856,7 +1856,7 @@ object-position: 50% 60%;
 </style>
 
 
-![](./../../../images/swate-metadatatemplates.png)
+![](./../../../public/images-tm/swate-metadatatemplates.png)
 
 <!-- 
 
@@ -1865,54 +1865,54 @@ object-position: 50% 60%;
 
 ---
 
-# Analyse <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-04-analyse.png'/>
+# Analyse <img align="left" class="center" style="height:75px" src='./../../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-04-analyse.png'/>
 
 <!-- 
 - run fastqc
 - receive back results
 -->
 
-![w:800](./../../../images/tpj16474-fig-0005-m.jpg)
+![w:800](./../../../public/images-tm/tpj16474-fig-0005-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
 ---
 
-# Preserve  <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
+# Preserve  <img align="left" class="center" style="height:75px" src='./../../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
 2. Publication: DOI
 -->
 
-![h:400](./../../../images/tpj16474-fig-0008-m-modified.png)
+![h:400](./../../../public/images-tm/tpj16474-fig-0008-m-modified.png)
 
 <span class="footer-reference"> adapted from Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
 ---
 
-# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
+# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
 2. Publication: DOI
 -->
 
-![h:400](././../../../images/tpj16474-fig-0008-m.jpg)
+![h:400](././../../../public/images-tm/tpj16474-fig-0008-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
 ---
 
-# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-06-share.png'/>
+# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-06-share.png'/>
 
-![w:700](./../../../images/arc-datasharing-experts02-img1.png)
+![w:700](./../../../public/images-tm/arc-datasharing-experts02-img1.png)
 
 ---
 
-# Reuse <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-07-reuse.png'/>
+# Reuse <img align="left" class="center" style="height:75px" src='./../../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-07-reuse.png'/>
 
-![w:800](./../../../images/tpj16474-fig-0001-m.jpg)
+![w:800](./../../../public/images-tm/tpj16474-fig-0001-m.jpg)
 
 <!-- 
 - via ARC https://arcregistry.nfdi4plants.org/arcsearch
@@ -1925,7 +1925,7 @@ object-position: 50% 60%;
 
 # **Mutable** data life cycle
 
-![w:700](./../../../images/tpj16474-fig-0006-m.jpg)
+![w:700](./../../../public/images-tm/tpj16474-fig-0006-m.jpg)
 
 <!-- 
 
@@ -1937,9 +1937,9 @@ object-position: 50% 60%;
 
 ---
 
-# Plan (ARC scale) <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
+# Plan (ARC scale) <img align="left" class="center" style="height:75px" src='./../../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
-![w:800](./../../../images/tpj16474-fig-0007-m.jpg)
+![w:800](./../../../public/images-tm/tpj16474-fig-0007-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -1960,13 +1960,13 @@ object-position: 50% 60%;
 
 ---
 
-# Plan (proposal scale) <img align="left" class="center" style="height:75px" src='./../../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
+# Plan (proposal scale) <img align="left" class="center" style="height:75px" src='./../../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
 <span class="footer-reference">**Zhou *et al.* (2023)**, DataPLAN: a web-based data management plan generator for the plant sciences, bioRxiv 2023.07.07.548147; doi: https://doi.org/10.1101/2023.07.07.548147 </span>
 
 https://dmpg.nfdi4plants.org
 
-![w:800](././../../../images/zhou2023-dataplan.png)
+![w:800](././../../../public/images-tm/zhou2023-dataplan.png)
 
 ---
 

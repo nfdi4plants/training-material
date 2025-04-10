@@ -13,7 +13,7 @@ author:
 
 # Annotated Research Context (ARC)
 
-![width:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-bag.svg)
+![width:800](../../../public/kb/src/assets/images/start-here/arc-bag.svg)
 
 Your entire investigation in a single unified bag
 
@@ -21,56 +21,56 @@ Your entire investigation in a single unified bag
 
 # You can store your ARC in the DataHUB
 
-![w:500](./../../../images/user-challenges-002.svg)
+![w:500](./../../../public/images-tm/user-challenges-002.svg)
 
 ---
 
 # You can store your ARC in the DataHUB
 
-![w:800](./../../../images/dataplant-bigpicture-seq2.png)
+![w:800](./../../../public/images-tm/dataplant-bigpicture-seq2.png)
 
 ---
 
 # ARCs are versioned
 
-![w:800](./../../../images/dataplant-bigpicture-seq3.png)
+![w:800](./../../../public/images-tm/dataplant-bigpicture-seq3.png)
 
 ---
 
 # You can invite collaborators
 
-![w:800](./../../../images/dataplant-bigpicture-seq4.png)
+![w:800](./../../../public/images-tm/dataplant-bigpicture-seq4.png)
 
 ---
 
 # Collaborate and contribute
 
-![w:800](./../../../images/dataplant-bigpicture-seq5.png)
+![w:800](./../../../public/images-tm/dataplant-bigpicture-seq5.png)
 
 ---
 
 # Reuse data in ARCs
 
-![w:800](./../../../images/dataplant-bigpicture-seq6.png)
+![w:800](./../../../public/images-tm/dataplant-bigpicture-seq6.png)
 
 ---
 <!-- 
 # Publish your ARC
 
-![w:800](./../../../images/dataplant-bigpicture-seq7.png)
+![w:800](./../../../public/images-tm/dataplant-bigpicture-seq7.png)
 
 ---
 
 
 # Publish your ARC, get a DOI
 
-![w:800px](../../../images/arc-seamlesspublication.svg)
+![w:800px](../../../public/images-tm/arc-seamlesspublication.svg)
 
 --- -->
 
 # ARC as single-entry point
 
-![w:900](./../../../images/data-publications/publication-outlets.svg)
+![w:900](./../../../public/images-tm/data-publications/publication-outlets.svg)
 
 
 ---
@@ -79,7 +79,7 @@ Your entire investigation in a single unified bag
 
 # Data analysis and workflows
 
-![w:800](./../../../images/tpj16474-fig-0005-m.jpg)
+![w:800](./../../../public/images-tm/tpj16474-fig-0005-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -90,7 +90,7 @@ Your entire investigation in a single unified bag
 <div class="two-columns">
 <div>
 
-![](./../../../images/galaxy-integration.drawio.png)
+![](./../../../public/images-tm/galaxy-integration.drawio.png)
 
 </div>
 
@@ -119,7 +119,7 @@ Your entire investigation in a single unified bag
   
   </div><div>
   
-  ![](./../../../images/ceplas/ceplas-enablingplatforms.drawio.png)
+  ![](./../../../public/images-tm/ceplas/ceplas-enablingplatforms.drawio.png)
   
   </div>
 </div>
@@ -129,19 +129,19 @@ Your entire investigation in a single unified bag
 
 # Streamlined data exchange
 
-<img src="./../../../images/enablingplatform-fileshare.drawio.png" style="width:60%;display: block;margin-left: auto;margin-right: auto;">
+<img src="./../../../public/images-tm/enablingplatform-fileshare.drawio.png" style="width:60%;display: block;margin-left: auto;margin-right: auto;">
 
 ---
 
 # Meet your collaborators in an ARC
 
-<img src="./../../../images/enablingplatform-timeline.drawio.png" style="width:80%;display: block;margin-left: auto;margin-right: auto;">
+<img src="./../../../public/images-tm/enablingplatform-timeline.drawio.png" style="width:80%;display: block;margin-left: auto;margin-right: auto;">
 
 ---
 
 # The ARC ecosystem
 
-![w:850](./../../../images/arc-ecosystem-10.drawio.png)
+![w:850](./../../../public/images-tm/arc-ecosystem-10.drawio.png)
 
 <!-- 
 
@@ -149,25 +149,25 @@ Your entire investigation in a single unified bag
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq1.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq1.png)
 
 ---
 
 # ARCs store experimental data
 
-![width:950](./../../../images/arc-fillwithdata-seq3.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq3.png)
 
 ---
 
 # Computations can be run inside ARCs
 
-![width:950](./../../../images/arc-fillwithdata-seq5.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq5.png)
 
 ---
 
 # ARCs come with comprehensive metadata
 
-![width:950](./../../../images/arc-fillwithdata-seq6.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq6.png)
 
 -->
 
@@ -175,7 +175,7 @@ Your entire investigation in a single unified bag
 
 # ARC builds on standards <!-- fit -->
   
-![bg left:45% w:500](./../../../images/arc-buildsonstandards3.png)
+![bg left:45% w:500](./../../../public/images-tm/arc-buildsonstandards3.png)
 
 <div style="font-size:0.7em">
 
@@ -207,13 +207,13 @@ Your entire investigation in a single unified bag
 
 The ARC is a **data-centric** approach to RDM
 
-![w:800](./../../../images/arc-data-centric-everything-is-a-file.drawio.png)
+![w:800](./../../../public/images-tm/arc-data-centric-everything-is-a-file.drawio.png)
 
 ---
 
 # No technical lock-in
 
-![w:1000](./../../../images/arc-tool-assistance.drawio.png)
+![w:1000](./../../../public/images-tm/arc-tool-assistance.drawio.png)
 
 (Meta)data transparency with tool assistance but **no technical lock-in**
 

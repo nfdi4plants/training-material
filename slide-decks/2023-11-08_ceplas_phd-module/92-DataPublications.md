@@ -21,7 +21,7 @@ date: 2023-11-09
 
 # Spot the PIDs
 
-![w:900](././../../images/ceplas/ceplas-teaching-exercise-pids.png)
+![w:900](././../../public/images-tm/ceplas/ceplas-teaching-exercise-pids.png)
 
 <span class="footer-reference"> https://doi.org/10.1093/plcell/koab243</span>
 
@@ -34,7 +34,7 @@ date: 2023-11-09
 - Diminish “dead links”
 - Cope with name changes
 
-![bg right width:500](././../../images/teaching-publication/pid-collage.drawio.svg)
+![bg right width:500](././../../public/images-tm/teaching-publication/pid-collage.drawio.svg)
 
 ---
 
@@ -133,7 +133,7 @@ Domain-specific >> Generic >> Institutional
 
 # Generic data repositories
 
-![bg right:40% width:400](./../../images/teaching-publication/repositories-genericrepos-collage.drawio.svg)
+![bg right:40% width:400](./../../public/images-tm/teaching-publication/repositories-genericrepos-collage.drawio.svg)
 
 **Good**
 
@@ -178,7 +178,7 @@ object-position: 100% 80%;
 
 # Publish your ARC, get a DOI
 
-![w:800px](../../images/arc-seamlesspublication.svg)
+![w:800px](../../public/images-tm/arc-seamlesspublication.svg)
 
 
 ---
@@ -192,7 +192,7 @@ object-position: 100% 80%;
 # Validation
 
 
-![h:400](./../../images/tpj16474-fig-0008-m-modified.png)
+![h:400](./../../public/images-tm/tpj16474-fig-0008-m-modified.png)
 
 <span class="footer-reference"> adapted from Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -201,7 +201,7 @@ object-position: 100% 80%;
 # Validate & publish
 
 
-![h:400](././../../images/tpj16474-fig-0008-m.jpg)
+![h:400](././../../public/images-tm/tpj16474-fig-0008-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 

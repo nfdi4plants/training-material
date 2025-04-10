@@ -53,7 +53,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 ## Download the demo data
 
-![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../public/images-tm/arcitect/arcitect-help-sidebar.drawio.svg)
 
 1. Open the ARCitect
 2. Login (1) to your DataHUB account
@@ -66,7 +66,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 4. Search for **Talinum-CAM-Photosynthesis**
 5. Click the download button, select a location and open the ARC.
 
-![w:700](./../../images/training-demo-talinum/arcitect-talinum-download-arc.png)
+![w:700](./../../public/images-tm/training-demo-talinum/arcitect-talinum-download-arc.png)
 
 :bulb: This is basically the ARC we created last session.
 
@@ -84,7 +84,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 <img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... **annotate the experimental data**
 
-![bg right:40% width:400](./../../images/training-demo-talinum/arcitect-talinum-demo-arc.png)
+![bg right:40% width:400](./../../public/images-tm/training-demo-talinum/arcitect-talinum-demo-arc.png)
 
 ---
 
@@ -94,7 +94,7 @@ Recommended text editor with code highlighting, git support, terminal, etc: <a h
 
 ## Swate Overview
 
-![width:1000](./../../images/swate-overview.png)
+![width:1000](./../../public/images-tm/swate-overview.png)
 
 ---
 
@@ -135,7 +135,7 @@ Create a Swate annotation table via the <kbd>create annotation table</kbd> butto
 </div>
 
 <div class="columns-right">
-    <img src="./../../images/swate-createannotationtable-exp.jpg" style="width: 1200px">
+    <img src="./../../public/images-tm/swate-createannotationtable-exp.jpg" style="width: 1200px">
 </div>
 
 </div>
@@ -152,7 +152,7 @@ Create a Swate annotation table via the <kbd>create annotation table</kbd> butto
 
 :bulb: This adds three columns to your table, one visible and **two** hidden.
 
-![bg right:30% w:400](./../../images/swate-addbuildingblock-exp.jpg?v31.01.22)
+![bg right:30% w:400](./../../public/images-tm/swate-addbuildingblock-exp.jpg?v31.01.22)
 
 ---
 
@@ -211,7 +211,7 @@ Click the <kbd>Update Ontology Terms</kbd> quick access buttons.
 
 At this point. Your table should look similar to this:
 
-![w:1000](./../../images/training-demo-talinum/demo-isa-study.png)
+![w:1000](./../../public/images-tm/training-demo-talinum/demo-isa-study.png)
 
 ---
 
@@ -274,7 +274,7 @@ Transfer the sample ids from the protocol.
     - You will see a preview of all building blocks which are part of this template.
 2. Click <kbd>Add template</kbd> to add all Building Blocks from the template to your table, which <u>do not exist yet</u>.
 
-![bg right:30% w:350px](./../../images/swate-templates.svg)
+![bg right:30% w:350px](./../../public/images-tm/swate-templates.svg)
 
 ---
 
@@ -372,7 +372,7 @@ Insert values using Swate Term search and add input and output.
 4. Select the file "swate_agilent_gc.json" from the demo data.
 5. Click <kbd>Insert json</kbd>
 
-![bg right:25% w:300px](./../../images/swate-tab-templates.png)
+![bg right:25% w:300px](./../../public/images-tm/swate-tab-templates.png)
 
 :bulb: This adds not only an empty template, but a filled out table with keys (headers) and values (cells).
 

@@ -22,7 +22,7 @@ November 10<sup>th</sup>, 2024
 Vittorio Tracanna, Dominik Brilhaus
 CEPLAS Data
 
-![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
+![bg fit](./../../../public/images-tm/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -77,49 +77,49 @@ Slides will be shared via DataPLANT knowledge base and the Sciebo folder
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq1.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq1.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq2.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq2.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq3.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq3.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq4.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq4.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq5.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq5.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq6.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq6.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq7.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq7.png)
 
 ---
 
 # The Research Data Lifecycle ***is mutable***
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
 
 ---
 
@@ -132,7 +132,7 @@ Slides will be shared via DataPLANT knowledge base and the Sciebo folder
 
 https://doi.org/10.1038/sdata.2016.18
 
-![bg right:45% w:600](./../../../images/wilkinson2016-fair.png)
+![bg right:45% w:600](./../../../public/images-tm/wilkinson2016-fair.png)
 
 ---
 
@@ -148,7 +148,7 @@ object-fit: cover;
 }
 </style>
 
-![](./../../../images/ceplas/fair-benefits.png)
+![](./../../../public/images-tm/ceplas/fair-benefits.png)
 
 ---
 
@@ -162,7 +162,7 @@ object-fit: cover;
 - What tools do you use to analyse your data?
 - How do you reuse other people's data?
 
-![bg right:40% w:500](./../../../images/user-challenges-002.svg)
+![bg right:40% w:500](./../../../public/images-tm/user-challenges-002.svg)
 
 ---
 
@@ -228,25 +228,25 @@ object-fit: cover;
 
 # CEPLAS &ndash; One cluster, four locations
 
-![w:800](./../../../images/ceplas/ceplas-data-fragmentation00.drawio.png)
+![w:800](./../../../public/images-tm/ceplas/ceplas-data-fragmentation00.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../../images/ceplas/ceplas-data-fragmentation01.drawio.png)
+![w:800](./../../../public/images-tm/ceplas/ceplas-data-fragmentation01.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../../images/ceplas/ceplas-data-fragmentation02.drawio.png)
+![w:800](./../../../public/images-tm/ceplas/ceplas-data-fragmentation02.drawio.png)
 
 ---
 
 # Missing interfaces impede collaboration
 
-![w:800](./../../../images/ceplas/hhu-services-withoutdatahub.drawio.png)
+![w:800](./../../../public/images-tm/ceplas/hhu-services-withoutdatahub.drawio.png)
 
 ---
 
@@ -277,7 +277,7 @@ Participant n | Participant n+1
 
 # Let's discuss your findings
 
-![bg right:40% w:500](./../../../images/user-challenges-002.svg)
+![bg right:40% w:500](./../../../public/images-tm/user-challenges-002.svg)
 
 ---
 
@@ -285,26 +285,26 @@ Participant n | Participant n+1
 
 # NFDI – Nationale Forschungsdaten Infrastruktur
 
-![w:900](../../../images/nfdi/nfdi.drawio.png)
+![w:900](../../../public/images-tm/nfdi/nfdi.drawio.png)
 
 
 ---
 
 # NFDI – A community-targeted approach for RDM
 
-![w:800](../../../images/nfdi/nfdi-consortia.drawio.png)
+![w:800](../../../public/images-tm/nfdi/nfdi-consortia.drawio.png)
 
 ---
 
 # CEPLAS connection to the NFDI
 
-![](../../../images/ceplas/ceplas-nfdi-connection-light.drawio.png)
+![](../../../public/images-tm/ceplas/ceplas-nfdi-connection-light.drawio.png)
 
 ---
 
 # DataPLANT &ndash; *NFDI4plants*
 
-![width:700px](./../../../images/dataplant/dataplant-landing-page.png)
+![width:700px](./../../../public/images-tm/dataplant/dataplant-landing-page.png)
 
 - https://nfdi4plants.org
 - https://arc-rdm.org
@@ -314,7 +314,7 @@ Participant n | Participant n+1
 
 # Data Stewardship between DataPLANT and the community <!-- fit -->
 
-![w:880](./../../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
+![w:880](./../../../public/images-tm/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 
@@ -324,12 +324,12 @@ Participant n | Participant n+1
 <div class="two-columns">
   <div>
   
-  ![](./../../../images/ceplas/ceplas-policy-title.png)
+  ![](./../../../public/images-tm/ceplas/ceplas-policy-title.png)
 
   </div>
   <div>
   
-  ![](./../../../images/ceplas/ceplas-arcs.drawio.svg)
+  ![](./../../../public/images-tm/ceplas/ceplas-arcs.drawio.svg)
   
   </div>
 </div>
@@ -341,7 +341,7 @@ The policy is available via [CEPLAS intranet](https://www.ceplas.eu/en/intranet/
 
 # Annotated Research Context (ARC)
 
-![width:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-bag.svg)
+![width:800](../../../public/kb/src/assets/images/start-here/arc-bag.svg)
 
 Your entire investigation in a single unified bag
 
@@ -349,62 +349,62 @@ Your entire investigation in a single unified bag
 
 # You can store your ARC in the DataHUB
 
-![w:500](./../../../images/user-challenges-002.svg)
+![w:500](./../../../public/images-tm/user-challenges-002.svg)
 
 ---
 
 # You can store your ARC in the DataHUB
 
-![w:800](./../../../images/dataplant-bigpicture-seq2.png)
+![w:800](./../../../public/images-tm/dataplant-bigpicture-seq2.png)
 
 ---
 
 # ARCs are versioned
 
-![w:800](./../../../images/dataplant-bigpicture-seq3.png)
+![w:800](./../../../public/images-tm/dataplant-bigpicture-seq3.png)
 
 ---
 
 # You can invite collaborators
 
-![w:800](./../../../images/dataplant-bigpicture-seq4.png)
+![w:800](./../../../public/images-tm/dataplant-bigpicture-seq4.png)
 
 ---
 
 # Collaborate and contribute
 
-![w:800](./../../../images/dataplant-bigpicture-seq5.png)
+![w:800](./../../../public/images-tm/dataplant-bigpicture-seq5.png)
 
 ---
 
 # Reuse data in ARCs
 
-![w:800](./../../../images/dataplant-bigpicture-seq6.png)
+![w:800](./../../../public/images-tm/dataplant-bigpicture-seq6.png)
 
 ---
 
 # Publish your ARC
 
-![w:800](./../../../images/dataplant-bigpicture-seq7.png)
+![w:800](./../../../public/images-tm/dataplant-bigpicture-seq7.png)
 
 ---
 
 
 # Publish your ARC, get a DOI
 
-![w:800px](../../../images/arc-seamlesspublication.svg)
+![w:800px](../../../public/images-tm/arc-seamlesspublication.svg)
 
 ---
 
 # ARC as single-entry point
 
-![w:900](./../../../images/data-publications/publication-outlets.svg)
+![w:900](./../../../public/images-tm/data-publications/publication-outlets.svg)
 
 ---
 
 # Data analysis and workflows
 
-![w:800](./../../../images/tpj16474-fig-0005-m.jpg)
+![w:800](./../../../public/images-tm/tpj16474-fig-0005-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -415,7 +415,7 @@ Your entire investigation in a single unified bag
 <div class="two-columns">
 <div>
 
-![](./../../../images/galaxy-integration.drawio.png)
+![](./../../../public/images-tm/galaxy-integration.drawio.png)
 
 </div>
 
@@ -444,7 +444,7 @@ Your entire investigation in a single unified bag
   
   </div><div>
   
-  ![](./../../../images/ceplas/ceplas-enablingplatforms.drawio.png)
+  ![](./../../../public/images-tm/ceplas/ceplas-enablingplatforms.drawio.png)
   
   </div>
 </div>
@@ -454,49 +454,49 @@ Your entire investigation in a single unified bag
 
 # Streamlined data exchange
 
-<img src="./../../../images/enablingplatform-fileshare.drawio.png" style="width:60%;display: block;margin-left: auto;margin-right: auto;">
+<img src="./../../../public/images-tm/enablingplatform-fileshare.drawio.png" style="width:60%;display: block;margin-left: auto;margin-right: auto;">
 
 ---
 
 # Meet your collaborators in an ARC
 
-<img src="./../../../images/enablingplatform-timeline.drawio.png" style="width:80%;display: block;margin-left: auto;margin-right: auto;">
+<img src="./../../../public/images-tm/enablingplatform-timeline.drawio.png" style="width:80%;display: block;margin-left: auto;margin-right: auto;">
 
 ---
 
 # The ARC ecosystem
 
-![w:850](./../../../images/arc-ecosystem-10.drawio.png)
+![w:850](./../../../public/images-tm/arc-ecosystem-10.drawio.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq1.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq1.png)
 
 ---
 
 # ARCs store experimental data
 
-![width:950](./../../../images/arc-fillwithdata-seq3.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq3.png)
 
 ---
 
 # Computations can be run inside ARCs
 
-![width:950](./../../../images/arc-fillwithdata-seq5.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq5.png)
 
 ---
 
 # ARCs come with comprehensive metadata
 
-![width:950](./../../../images/arc-fillwithdata-seq6.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq6.png)
 
 ---
 
 # ARC builds on standards <!-- fit -->
   
-![bg left:45% w:500](./../../../images/arc-buildsonstandards3.png)
+![bg left:45% w:500](./../../../public/images-tm/arc-buildsonstandards3.png)
 
 <div style="font-size:0.7em">
 
@@ -527,13 +527,13 @@ Your entire investigation in a single unified bag
 
 The ARC is a **data-centric** approach to RDM
 
-![w:800](./../../../images/arc-data-centric-everything-is-a-file.drawio.png)
+![w:800](./../../../public/images-tm/arc-data-centric-everything-is-a-file.drawio.png)
 
 ---
 
 # No technical lock-in
 
-![w:1000](./../../../images/arc-tool-assistance.drawio.png)
+![w:1000](./../../../public/images-tm/arc-tool-assistance.drawio.png)
 
 (Meta)data transparency with tool assistance but **no technical lock-in**
 
@@ -566,37 +566,37 @@ The ARC is a **data-centric** approach to RDM
 
 ## ARC: Annotated research context
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-bag.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-bag.svg)
 
 ---
 
 ## The ARC scaffold structure
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-scaffold.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-scaffold.svg)
 
 ---
 
 ## A small prototypic project
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic.svg)
+![](../../../public/kb/src/assets/images/start-here/arc-prototypic.svg)
 
 ---
 
 ## Divide and conquer for reproducibility
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-divide-conquer.svg)
+![](../../../public/kb/src/assets/images/start-here/arc-prototypic-study-divide-conquer.svg)
 
 ---
 
 ## Identifying the ‘study’ part
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-identify.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-prototypic-study-identify.svg)
 
 ---
 
 ## A table-based organization schema
 
-![w:700](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-metadata-table-representation.svg)
+![w:700](../../../public/kb/src/assets/images/start-here/arc-prototypic-metadata-table-representation.svg)
 
 ---
 
@@ -604,7 +604,7 @@ The ARC is a **data-centric** approach to RDM
 
 This allows you to reference the free-text, human-readable protocol.
 
-![w:700](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-protocolref.svg)
+![w:700](../../../public/kb/src/assets/images/start-here/arc-prototypic-study-protocolref.svg)
 
 :bulb: It is recommended that the protocol is in an open format (.md|.txt|.docx|…)
 :bulb: But everything is possible also an URI to an electronic lab notebook
@@ -613,7 +613,7 @@ This allows you to reference the free-text, human-readable protocol.
 
 ## Parameterizing the ‘study’
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-parameterization.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-prototypic-study-parameterization.svg)
 
 ---
 
@@ -645,7 +645,7 @@ This allows you to reference the free-text, human-readable protocol.
 
 ## OLS: Finding the right metadata vocabulary
 
-![w:1000](../../../images/teaching-ontologies/ontology-lookup-service.svg)
+![w:1000](../../../public/images-tm/teaching-ontologies/ontology-lookup-service.svg)
 
 Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
@@ -653,7 +653,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
 ## Finding the metadata vocabulary and descriptors
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-metadata.svg)
+![](../../../public/kb/src/assets/images/start-here/arc-prototypic-metadata.svg)
 
 ---
 
@@ -979,7 +979,7 @@ Examples from [Minimum Information for Biological and Biomedical Investigations 
 
 # How does google "know"?!
 
-![w:800](./../../../images/teaching-ontologies/googlecom-screenshot-kg.png)
+![w:800](./../../../public/images-tm/teaching-ontologies/googlecom-screenshot-kg.png)
 
 ---
 
@@ -1186,7 +1186,7 @@ Alphabetically lists terms and their definitions
 
 Hierarchy or classification
 
-![bg right:60% w:780](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq1.png)
+![bg right:60% w:780](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq1.png)
 
 ---
 
@@ -1209,31 +1209,31 @@ Dictionary of synonyms and relations
 
 # The semantic triple
 
-![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq2.png)
+![w:1000](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq2.png)
 
 ---
 
 # Modeling a pizza menu
 
-![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq3.png)
+![w:1000](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq3.png)
 
 ---
 
 # Modeling a pizza menu
 
-![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq4.png)
+![w:1000](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq4.png)
 
 ---
 
 # Modeling a pizza menu
 
-![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq5.png)
+![w:1000](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq5.png)
 
 ---
 
 # Predicates have two directions
 
-![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq6.png)
+![w:1000](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq6.png)
 
 ---
 
@@ -1241,13 +1241,13 @@ Dictionary of synonyms and relations
 
 An object of one triplet can be the subject to another
 
-![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq7.png)
+![w:1000](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq7.png)
 
 ---
 
 # (Towards) a knowledge graph
 
-![w:1020](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq8.png)
+![w:1020](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq8.png)
 
 ---
 
@@ -1257,7 +1257,7 @@ An ontology can be queried:
 
 - *"name all pizzas with topping mushrooms"*
 
-![bg right w:1020](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq9.png)
+![bg right w:1020](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq9.png)
 
 <!-- 
 TODO: 
@@ -1311,13 +1311,13 @@ LIVE-Demo
 
 # ARC builds on standards
 
-![w:600](../../../images/arc-buildsonstandards3.png)
+![w:600](../../../public/images-tm/arc-buildsonstandards3.png)
 
 ---
 
 # ARC builds on ISA
 
-![w:900](./../../../images/isamodel-arc01-img01.svg)
+![w:900](./../../../public/images-tm/isamodel-arc01-img01.svg)
 
 <https://isa-tools.org/format/specification.html>
 
@@ -1326,13 +1326,13 @@ LIVE-Demo
 
 # ARC builds on ISA
 
-![w:900](./../../../images/isamodel-arc01-img02.svg)
+![w:900](./../../../public/images-tm/isamodel-arc01-img02.svg)
 
 ---
 
 # Annotation by flattening the knowledge graph
 
-![w:800](./../../../images/swate-parentchildterm.svg)
+![w:800](./../../../public/images-tm/swate-parentchildterm.svg)
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
@@ -1341,7 +1341,7 @@ LIVE-Demo
 
 # Annotation principle
 
-![w:650](./../../../images/swate-parentchildterm2.svg)
+![w:650](./../../../public/images-tm/swate-parentchildterm2.svg)
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
@@ -1358,7 +1358,7 @@ section{
 
 </style>
 
-![bg right w:700](./../../../images/swate-overview.svg)
+![bg right w:700](./../../../public/images-tm/swate-overview.svg)
 
 - Source Name (Input)
 - Protocol Columns
@@ -1377,7 +1377,7 @@ Let's take a detour on [Annotation Principles](https://nfdi4plants.org/nfdi4plan
 
 # Realization of lab-specific metadata templates
 
-![w:700px](./../../../images/swate-metadatatemplates.png)
+![w:700px](./../../../public/images-tm/swate-metadatatemplates.png)
 
 Facilities can define their most common workflows as templates
 
@@ -1386,7 +1386,7 @@ Facilities can define their most common workflows as templates
 
 # Build on existing well-established standards
 
-![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards.svg)
+![w:800](../../../public/kb/src/assets/images/start-here/standards.svg)
 
 Integration of established (meta)data standards ensures compatibility by design
 
@@ -1394,13 +1394,13 @@ Integration of established (meta)data standards ensures compatibility by design
 
 # ISA abstract model in a nutshell
 
-![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards-isa-in-a-nutshell.svg)
+![w:800](../../../public/kb/src/assets/images/start-here/standards-isa-in-a-nutshell.svg)
 
 ---
 
 # ISA and CWL – Connected by similarity
 
-![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards-isa-cwl.svg)
+![w:800](../../../public/kb/src/assets/images/start-here/standards-isa-cwl.svg)
 
 ---
 
@@ -1411,25 +1411,25 @@ Integration of established (meta)data standards ensures compatibility by design
 
 ## Identifying assays
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-identify.svg)
+![](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-identify.svg)
 
 ---
 
 ## Assay for sugar measurement
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sugar.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-sugar.svg)
 
 ---
 
 ## Separating different assay elements
 
-![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-modular2.svg)
+![w:800](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-modular2.svg)
 
 ---
 
 ## Isolating the lab processes in an assay
 
-![w:600](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-modular1.svg)
+![w:600](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-modular1.svg)
 
 ---
 
@@ -1440,7 +1440,7 @@ Integration of established (meta)data standards ensures compatibility by design
 - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> Temperature  
   - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 95 degree celsius
 
-![bg right w:600](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-labprocess1-extraction.svg)
+![bg right w:600](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-labprocess1-extraction.svg)
 
 ---
 
@@ -1455,7 +1455,7 @@ Integration of established (meta)data standards ensures compatibility by design
 - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> cycle count
   - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 5
 
-![bg right w:600](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-labprocess2-measurement.svg)
+![bg right w:600](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-labprocess2-measurement.svg)
 
 ---
 
@@ -1489,7 +1489,7 @@ Integration of established (meta)data standards ensures compatibility by design
 </div>
 <div>
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sop-proteomics.svg)
+![](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-sop-proteomics.svg)
 </div>
 
 </div>
@@ -1498,13 +1498,13 @@ Integration of established (meta)data standards ensures compatibility by design
 
 ## Applying standard procedures to sample record
 
-![w:700](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sop.svg)
+![w:700](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-sop.svg)
 
 ---
 
 # Realization of lab-specific metadata with templates
 
-![w:650px](./../../../images/swate-metadatatemplates.png)
+![w:650px](./../../../public/images-tm/swate-metadatatemplates.png)
 
 Facilities can define their most common workflows as templates
 
@@ -1573,7 +1573,7 @@ Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.kn
 
 ## Common Workflow Language
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
+![](../../../public/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
 
 ---
 
@@ -1625,7 +1625,7 @@ Platform that makes using code-based tools easy to use in a graphical user inter
 <div class="two-columns">
 <div>
 
-![](./../../../images/galaxy-integration.drawio.png)
+![](./../../../public/images-tm/galaxy-integration.drawio.png)
 
 </div>
 
@@ -1665,31 +1665,31 @@ Platform that makes using code-based tools easy to use in a graphical user inter
 
 ## Options to annotate the data analysis
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows1.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-prototypic-workflows1.svg)
 
 ---
 
 ## A computational workflow is like a protocol
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows2.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-prototypic-workflows2.svg)
 
 ---
 
 ## Option I: Create a virtual assay
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-virtual.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-prototypic-workflows-virtual.svg)
 
 ---
 
 ## Option II: Create a workflow and run
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl1.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl1.svg)
 
 ---
 
 ## Use CWL to wrap your workflow
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
 
 ---
 
@@ -1769,7 +1769,7 @@ section {
 }
 </style>
 
-![width:800px](./../../../images/teaching-toolbox/feedback01-fivefinger.drawio.svg)
+![width:800px](./../../../public/images-tm/teaching-toolbox/feedback01-fivefinger.drawio.svg)
 
 <!-- 
 - Invite participants to give feedback
@@ -1799,7 +1799,7 @@ November 12<sup>th</sup>, 2024
 Vittorio Tracanna, Dominik Brilhaus
 CEPLAS Data
 
-![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
+![bg fit](./../../../public/images-tm/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -1821,7 +1821,7 @@ Pad:  https://pad.hhu.de/0NdPKO5LQ5CHBRN2iuG91Q
 
 # Data stores
 
-![w:900](././../../../images/teaching-storage-backup/data-stores.drawio.svg)
+![w:900](././../../../public/images-tm/teaching-storage-backup/data-stores.drawio.svg)
 
 ---
 
@@ -1841,7 +1841,7 @@ Pad:  https://pad.hhu.de/0NdPKO5LQ5CHBRN2iuG91Q
 
 # 3-2-1 backup rule
 
-![w:800](././../../../images/teaching-storage-backup/3-2-1-backup-rule.drawio.svg)
+![w:800](././../../../public/images-tm/teaching-storage-backup/3-2-1-backup-rule.drawio.svg)
 
 ---
 
@@ -1907,7 +1907,7 @@ things you use and ignore
 
 # Cloud Services
 
-![bg right:50% w:800](./../../../images/teaching-git/datasharing-cloud.png)
+![bg right:50% w:800](./../../../public/images-tm/teaching-git/datasharing-cloud.png)
 
 <span style="color:#B4CE82">✓ Documents</span>  
 <span style="color:#B4CE82">✓ Small data</span>  
@@ -1921,7 +1921,7 @@ things you use and ignore
 
 # Git and git platforms
 
-![bg right:50% w:800](./../../../images/datasharing-git-img1.png)
+![bg right:50% w:800](./../../../public/images-tm/datasharing-git-img1.png)
 
 <span style="color:#F9CD69">∼ Documents</span>
 <span style="color:#B4CE82">✓ Small data</span>  
@@ -1944,31 +1944,31 @@ things you use and ignore
 
 # A simple example: RNASeq project
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img1.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img1.png)
 
 ---
 
 # A simple example: RNASeq project
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img2.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img2.png)
 
 ---
 
 # A simple example: RNASeq project
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img3.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img3.png)
 
 ---
 
 # A simple example: RNASeq project
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img4.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img4.png)
 
 ---
 
 # A simple example: RNASeq project
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img5.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img5.png)
 
 ---
 
@@ -1976,7 +1976,7 @@ things you use and ignore
 
 (... as long as it works)
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img6.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img6.png)
 
 ---
 
@@ -1984,85 +1984,85 @@ things you use and ignore
 
 (... as long as it works)
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img7.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img7.png)
 
 ---
 
 # Scenario 1: More data
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img8.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img8.png)
 
 ---
 
 # Scenario 1: More data
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img9.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img9.png)
 
 ---
 
 # Scenario 1: More data
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img10.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img10.png)
 
 ---
 
 # Let git track changes and keep things clean
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img11.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img11.png)
 
 ---
 
 # Scenario 2: Pipeline breaks
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img12.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img12.png)
 
 ---
 
 # Revert to snapshot
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img13.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img13.png)
 
 ---
 
 # Scenario 3: New project, same type of data and analysis
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img14.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img14.png)
 
 ---
 
 # Scenario 3: New project, same type of data and analysis
 
-![w:900](./../../../images/teaching-git/git-rnaseq-example-img15.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-example-img15.png)
 
 ---
 
 # Re-use code
 
-![w:900](./../../../images/teaching-git/git-rnaseq-reusecode-img1.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-reusecode-img1.png)
 
 ---
 
 # Re-use code
 
-![w:900](./../../../images/teaching-git/git-rnaseq-reusecode-img2.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-reusecode-img2.png)
 
 ---
 
 # Re-use code – People have done this
 
-![w:900](./../../../images/teaching-git/git-rnaseq-reusecode-img3.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-reusecode-img3.png)
 
 ---
 
 # Re-use code – People have done this
 
-![w:900](./../../../images/teaching-git/git-rnaseq-reusecode-img4.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-reusecode-img4.png)
 
 ---
 
 # Re-use code – Link and contribute
 
-![w:900](./../../../images/teaching-git/git-rnaseq-reusecode-img5.png)
+![w:900](./../../../public/images-tm/teaching-git/git-rnaseq-reusecode-img5.png)
 
 ---
 
@@ -2102,7 +2102,7 @@ Simplifies concurrent work & merging changes
 
 # Cloud vs. Git
 
-![w:1000](./../../../images/teaching-git/git-cloud-comparison.png)
+![w:1000](./../../../public/images-tm/teaching-git/git-cloud-comparison.png)
 
 
 ---
@@ -2114,25 +2114,25 @@ Simplifies concurrent work & merging changes
 
 # DataHUB overview
 
-![w:900px](./../../../images/dataplant-bigpicture-seq8.png)
+![w:900px](./../../../public/images-tm/dataplant-bigpicture-seq8.png)
 
 ---
 
 # ARC builds on standards + Git
 
-![w:900](./../../../images/arc-buildsonstandards2.png)
+![w:900](./../../../public/images-tm/arc-buildsonstandards2.png)
 
 ---
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../../images/datahub/datahub-gitlab.drawio.png)
+![](./../../../public/images-tm/datahub/datahub-gitlab.drawio.png)
 
 ---
 
 # On-premise DataHUBs
 
-![alt text](../../../images/datahub/datahub-onpremise.drawio.png)
+![alt text](../../../public/images-tm/datahub/datahub-onpremise.drawio.png)
 
 ARC services are available as on-premise option
 
@@ -2141,19 +2141,19 @@ ARC services are available as on-premise option
 
 ## Using the DataHUB to collaborate
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/collaboration-plantdatahub.svg)
+![](../../../public/kb/src/assets/images/start-here/collaboration-plantdatahub.svg)
 
 ---
 
 # The Research Data Lifecycle ***is mutable***
 
-![h:500](./../../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
+![h:500](./../../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
 
 ---
 
 # **Mutable** data life cycle
 
-![w:700](./../../../images/tpj16474-fig-0006-m.jpg)
+![w:700](./../../../public/images-tm/tpj16474-fig-0006-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -2161,7 +2161,7 @@ ARC services are available as on-premise option
 
 ## Project management
 
-![w:800](../../../images/tpj16474-fig-0007-m.jpg)
+![w:800](../../../public/images-tm/tpj16474-fig-0007-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -2182,7 +2182,7 @@ ARC services are available as on-premise option
 
 <div>
 
-![w:600](../../../images/datahub/datahub-wiki.png)
+![w:600](../../../public/images-tm/datahub/datahub-wiki.png)
 
 </div>
 </div>
@@ -2208,7 +2208,7 @@ Continue the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.kn
 
 When inviting new members to an ARC or group, you can choose between different levels.
 
-<img src="../../../images/arc-sharing-permissionsroles.drawio.png" style="display: block; margin: auto" width=800px>
+<img src="../../../public/images-tm/arc-sharing-permissionsroles.drawio.png" style="display: block; margin: auto" width=800px>
 
 :bulb: By default you are **Owner** of an ARC you create or upload to the DataHUB.
 
@@ -2239,7 +2239,7 @@ When inviting new members to an ARC or group, you can choose between different l
 
 ## Options to share an ARC via the DataHUB
 
-<img src="../../../images/arc-sharing-options.drawio.png" style="display: block; margin: auto" width=700px>
+<img src="../../../public/images-tm/arc-sharing-options.drawio.png" style="display: block; margin: auto" width=700px>
 
 ---
 
@@ -2263,7 +2263,7 @@ An **group**-shared ARC | https://git.nfdi4plants.org/hhu-plant-biochemistry/Sam
 
 The visibility of ARCs and groups can be managed individually for each ARC or group
   
-<img src="../../../images/arc-sharing-visibility.drawio.png" style="display: block; margin: auto" width=800px>
+<img src="../../../public/images-tm/arc-sharing-visibility.drawio.png" style="display: block; margin: auto" width=800px>
 
 :bulb: By default every ARC and every group is set to **private**.
 
@@ -2271,7 +2271,7 @@ The visibility of ARCs and groups can be managed individually for each ARC or gr
 
 ## ARC DataHUB members // ARC Investigation contacts <!-- fit -->
 
-![w:1100](../../../images/arc-sharing-membersvscontacts.drawio.png)
+![w:1100](../../../public/images-tm/arc-sharing-membersvscontacts.drawio.png)
 
 :bulb: Investigation contacts are not automatically invited as members to the ARC.
 
@@ -2281,7 +2281,7 @@ The visibility of ARCs and groups can be managed individually for each ARC or gr
 
 Check out the **commit history** of your ARC via Repository (2) or directly via commits (7)
 
-![w:1000](../../../images/datahub/datahub-arc-overview.drawio.svg)
+![w:1000](../../../public/images-tm/datahub/datahub-arc-overview.drawio.svg)
 
 ---
 
@@ -2301,7 +2301,7 @@ Check out the **commit history** of your ARC via Repository (2) or directly via 
 
 # Spot the PIDs
 
-![w:900](././../../../images/ceplas/ceplas-teaching-exercise-pids.png)
+![w:900](././../../../public/images-tm/ceplas/ceplas-teaching-exercise-pids.png)
 
 <span class="footer-reference"> https://doi.org/10.1093/plcell/koab243</span>
 
@@ -2316,7 +2316,7 @@ Check out the **commit history** of your ARC via Repository (2) or directly via 
 - Diminish “dead links”
 - Cope with name changes
 
-![bg right:45% width:400](././../../../images/teaching-publication/pid-collage.drawio.svg)
+![bg right:45% width:400](././../../../public/images-tm/teaching-publication/pid-collage.drawio.svg)
 
 ---
 
@@ -2415,7 +2415,7 @@ Domain-specific >> Generic >> Institutional
 
 # Generic data repositories
 
-![bg right:40% width:400](./../../../images/teaching-publication/repositories-genericrepos-collage.drawio.svg)
+![bg right:40% width:400](./../../../public/images-tm/teaching-publication/repositories-genericrepos-collage.drawio.svg)
 
 **Good**
 
@@ -2433,40 +2433,40 @@ Domain-specific >> Generic >> Institutional
 
 # Hands-on part 5: ARC data publication
 
-![w:500](../../../images/data-publications/calssical-to-arc-publication.svg)
+![w:500](../../../public/images-tm/data-publications/calssical-to-arc-publication.svg)
 
 ---
 
 # Moving from paper to FAIR data publication
 
-![w:900](../../../images/fairdata-classicalpublication.svg)
+![w:900](../../../public/images-tm/fairdata-classicalpublication.svg)
 
 ---
 
 # Moving from paper to data publications
 
 
-![w:900px](../../../images/data-publications/publication-fair-data-publication.svg)
+![w:900px](../../../public/images-tm/data-publications/publication-fair-data-publication.svg)
 
 ---
 
 # Publish your ARC, get a DOI
 
-![w:800px](../../../images/arc-seamlesspublication.svg)
+![w:800px](../../../public/images-tm/arc-seamlesspublication.svg)
 
 
 ---
 
 # Publish your ARC with a few clicks
 
-![w:900px](../../../nfdi4plants.knowledgebase/src/assets/images/data-publications/cqc-results.png)
+![w:900px](../../../public/kb/src/assets/images/data-publications/cqc-results.png)
 
 ---
 
 # Validation
 
 
-![h:400](./../../../images/tpj16474-fig-0008-m-modified.png)
+![h:400](./../../../public/images-tm/tpj16474-fig-0008-m-modified.png)
 
 <span class="footer-reference"> adapted from Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -2475,7 +2475,7 @@ Domain-specific >> Generic >> Institutional
 # Validate & publish
 
 
-![h:400](../../../images/tpj16474-fig-0008-m.jpg)
+![h:400](../../../public/images-tm/tpj16474-fig-0008-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -2483,13 +2483,13 @@ Domain-specific >> Generic >> Institutional
 
 ## Validation towards publication
 
-![w:900px](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/publication-validation.svg)
+![w:900px](../../../public/kb/src/assets/images/start-here/publication-validation.svg)
 
 ---
 
 ## Receive a DOI
 
-![w:800px](../../../nfdi4plants.knowledgebase/src/assets/images/data-publications/doi-accession.png)
+![w:800px](../../../public/kb/src/assets/images/data-publications/doi-accession.png)
 
 ---
 
@@ -2507,7 +2507,7 @@ Domain-specific >> Generic >> Institutional
 
 # Different laws touched by RDM
 
-![w:700](././../../../images/teaching-legal/hartmann-terraincognita-forschungsdaten-rechtlicheheimat.png)
+![w:700](././../../../public/images-tm/teaching-legal/hartmann-terraincognita-forschungsdaten-rechtlicheheimat.png)
 
 <span class="footer-reference">Hartmann, Thomas. (2019). Rechtsfragen: Institutioneller Rahmen und Handlungsoptionen für universitäres FDM. Zenodo. https://doi.org/10.5281/zenodo.2654306</span>
 
@@ -2537,7 +2537,7 @@ Domain-specific >> Generic >> Institutional
 
 Check out: https://creativecommons.org/about/cclicenses/
 
-![w:400](././../../../images/teaching-legal/creative-commons-brochure.png)
+![w:400](././../../../public/images-tm/teaching-legal/creative-commons-brochure.png)
 
 <span class="footer-reference">adapted from https://wiki.creativecommons.org../images/0/01/6licenses-folded.pdf</span>
 
@@ -2575,7 +2575,7 @@ Check out: https://creativecommons.org/about/cclicenses/
 ---
 
 # Research Data policies
-![w:500](./../../../images/teaching-legal/forschungsdaten-policy-kit-abb2.png)
+![w:500](./../../../public/images-tm/teaching-legal/forschungsdaten-policy-kit-abb2.png)
 
 
 <span class="footer-reference">Hiemenz, Bea & Kuberek, Monika (2018) http://dx.doi.org/10.14279/depositonce-7521</span>

@@ -11,25 +11,25 @@ title: Hands-on
 
 # DataHUB overview
 
-![w:900px](./../../../images/dataplant-bigpicture-seq8.png)
+![w:900px](./../../../public/images-tm/dataplant-bigpicture-seq8.png)
 
 ---
 
 # ARC builds on standards + Git
 
-![w:900](./../../../images/arc-buildsonstandards2.png)
+![w:900](./../../../public/images-tm/arc-buildsonstandards2.png)
 
 ---
 
 # The DataPLANT DataHUB &ndash; a GitLab ***Plus***
 
-![](./../../../images/datahub/datahub-gitlab.drawio.png)
+![](./../../../public/images-tm/datahub/datahub-gitlab.drawio.png)
 
 ---
 
 # On-premise DataHUBs
 
-![alt text](../../../images/datahub/datahub-onpremise.drawio.png)
+![alt text](../../../public/images-tm/datahub/datahub-onpremise.drawio.png)
 
 ARC services are available as on-premise option
 
@@ -38,13 +38,13 @@ ARC services are available as on-premise option
 
 ## Using the DataHUB to collaborate
 
-![](../../../images/start-here/collaboration-plantdatahub.svg)
+![](../../../public/images-tm/start-here/collaboration-plantdatahub.svg)
 
 ---
 
 ## Project management
 
-![w:800](../../../images/tpj16474-fig-0007-m.jpg)
+![w:800](../../../public/images-tm/tpj16474-fig-0007-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -65,7 +65,7 @@ ARC services are available as on-premise option
 
 <div>
 
-![w:600](../../../images/datahub/datahub-wiki.png)
+![w:600](../../../public/images-tm/datahub/datahub-wiki.png)
 
 </div>
 </div>
@@ -93,7 +93,7 @@ An **group**-shared ARC | https://git.nfdi4plants.org/hhu-plant-biochemistry/Sam
 
 The visibility of ARCs and groups can be managed individually for each ARC or group
   
-<img src="./../../../images/arc-sharing-visibility.drawio.png" style="display: block; margin: auto" width=800px>
+<img src="./../../../public/images-tm/arc-sharing-visibility.drawio.png" style="display: block; margin: auto" width=800px>
 
 :bulb: By default every ARC and every group is set to **private**.
 
@@ -103,7 +103,7 @@ The visibility of ARCs and groups can be managed individually for each ARC or gr
 
 When inviting new members to an ARC or group, you can choose between different levels.
 
-<img src="./../../../images/arc-sharing-permissionsroles.drawio.png" style="display: block; margin: auto" width=800px>
+<img src="./../../../public/images-tm/arc-sharing-permissionsroles.drawio.png" style="display: block; margin: auto" width=800px>
 
 :bulb: By default you are **Owner** of an ARC you create or upload to the DataHUB.
 

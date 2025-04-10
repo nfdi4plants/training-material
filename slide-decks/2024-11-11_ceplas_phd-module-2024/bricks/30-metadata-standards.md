@@ -254,7 +254,7 @@ Examples from [Minimum Information for Biological and Biomedical Investigations 
 
 # How does google "know"?!
 
-![w:800](./../../../images/teaching-ontologies/googlecom-screenshot-kg.png)
+![w:800](./../../../public/images-tm/teaching-ontologies/googlecom-screenshot-kg.png)
 
 ---
 
@@ -461,7 +461,7 @@ Alphabetically lists terms and their definitions
 
 Hierarchy or classification
 
-![bg right:60% w:780](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq1.png)
+![bg right:60% w:780](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq1.png)
 
 ---
 
@@ -484,31 +484,31 @@ Dictionary of synonyms and relations
 
 # The semantic triple
 
-![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq2.png)
+![w:1000](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq2.png)
 
 ---
 
 # Modeling a pizza menu
 
-![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq3.png)
+![w:1000](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq3.png)
 
 ---
 
 # Modeling a pizza menu
 
-![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq4.png)
+![w:1000](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq4.png)
 
 ---
 
 # Modeling a pizza menu
 
-![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq5.png)
+![w:1000](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq5.png)
 
 ---
 
 # Predicates have two directions
 
-![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq6.png)
+![w:1000](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq6.png)
 
 ---
 
@@ -516,13 +516,13 @@ Dictionary of synonyms and relations
 
 An object of one triplet can be the subject to another
 
-![w:1000](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq7.png)
+![w:1000](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq7.png)
 
 ---
 
 # (Towards) a knowledge graph
 
-![w:1020](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq8.png)
+![w:1020](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq8.png)
 
 ---
 
@@ -532,7 +532,7 @@ An ontology can be queried:
 
 - *"name all pizzas with topping mushrooms"*
 
-![bg right w:1020](./../../../images/teaching-ontologies/ontologies-pizzaanalogy-seq9.png)
+![bg right w:1020](./../../../public/images-tm/teaching-ontologies/ontologies-pizzaanalogy-seq9.png)
 
 <!-- 
 TODO: 
@@ -586,13 +586,13 @@ LIVE-Demo
 
 # ARC builds on standards
 
-![w:600](../../../images/arc-buildsonstandards3.png)
+![w:600](../../../public/images-tm/arc-buildsonstandards3.png)
 
 ---
 
 # ARC builds on ISA
 
-![w:900](./../../../images/isamodel-arc01-img01.svg)
+![w:900](./../../../public/images-tm/isamodel-arc01-img01.svg)
 
 <https://isa-tools.org/format/specification.html>
 
@@ -601,13 +601,13 @@ LIVE-Demo
 
 # ARC builds on ISA
 
-![w:900](./../../../images/isamodel-arc01-img02.svg)
+![w:900](./../../../public/images-tm/isamodel-arc01-img02.svg)
 
 ---
 
 # Annotation by flattening the knowledge graph
 
-![w:800](./../../../images/swate-parentchildterm.svg)
+![w:800](./../../../public/images-tm/swate-parentchildterm.svg)
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
@@ -616,7 +616,7 @@ LIVE-Demo
 
 # Annotation principle
 
-![w:650](./../../../images/swate-parentchildterm2.svg)
+![w:650](./../../../public/images-tm/swate-parentchildterm2.svg)
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
@@ -633,7 +633,7 @@ section{
 
 </style>
 
-![bg right w:700](./../../../images/swate-overview.svg)
+![bg right w:700](./../../../public/images-tm/swate-overview.svg)
 
 - Source Name (Input)
 - Protocol Columns
@@ -652,7 +652,7 @@ Let's take a detour on [Annotation Principles](https://nfdi4plants.org/nfdi4plan
 
 # Realization of lab-specific metadata templates
 
-![w:700px](./../../../images/swate-metadatatemplates.png)
+![w:700px](./../../../public/images-tm/swate-metadatatemplates.png)
 
 Facilities can define their most common workflows as templates
 
@@ -661,7 +661,7 @@ Facilities can define their most common workflows as templates
 
 # Build on existing well-established standards
 
-![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards.svg)
+![w:800](../../../public/kb/src/assets/images/start-here/standards.svg)
 
 Integration of established (meta)data standards ensures compatibility by design
 
@@ -669,10 +669,10 @@ Integration of established (meta)data standards ensures compatibility by design
 
 # ISA abstract model in a nutshell
 
-![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards-isa-in-a-nutshell.svg)
+![w:800](../../../public/kb/src/assets/images/start-here/standards-isa-in-a-nutshell.svg)
 
 ---
 
 # ISA and CWL – Connected by similarity
 
-![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/standards-isa-cwl.svg)
+![w:800](../../../public/kb/src/assets/images/start-here/standards-isa-cwl.svg)

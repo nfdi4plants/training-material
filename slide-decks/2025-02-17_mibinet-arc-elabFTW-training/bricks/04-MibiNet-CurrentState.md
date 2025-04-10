@@ -16,17 +16,17 @@ author:
 
 # MibiNet &ndash; One SFB, six locations
 
-![w:800](./../../../images/mibinet/data-fragmentation-mibinet00.drawio.png)
+![w:800](./../../../public/images-tm/mibinet/data-fragmentation-mibinet00.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../../images/mibinet/data-fragmentation-mibinet01.drawio.png)
+![w:800](./../../../public/images-tm/mibinet/data-fragmentation-mibinet01.drawio.png)
 
 
 ---
 
 # Missing interfaces impede collaboration
 
-![w:800](./../../../images/ceplas/hhu-services-withoutdatahub.drawio.png)
+![w:800](./../../../public/images-tm/ceplas/hhu-services-withoutdatahub.drawio.png)

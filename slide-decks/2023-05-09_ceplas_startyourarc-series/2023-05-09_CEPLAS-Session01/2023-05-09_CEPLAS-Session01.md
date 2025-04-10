@@ -19,7 +19,7 @@ author:
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
+![bg fit](./../../../public/images-tm/ceplas/ceplas-background-title.drawio.svg)
 
 Session 01 - Introduction to the ARC (demo)
 May 9th, 2023
@@ -52,7 +52,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../../images/arc-datacentricintegration.svg)
+![width:950](./../../../public/images-tm/arc-datacentricintegration.svg)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_DataCentricIntegration.md -->
@@ -62,7 +62,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq1.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq1.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_Structure_DataPLANT-1Folder_Structure.md -->
@@ -72,7 +72,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq2.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq2.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_Structure_DataPLANT-2Folder_Structure_ExperimentalData.md -->
@@ -82,7 +82,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq3.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq3.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_Structure_DataPLANT-3Folder_Structure_ExperimentalData_Images.md -->
@@ -92,7 +92,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq4.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq4.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_Structure_DataPLANT-4Folder_Structure_DataAnalysis-Computation.md -->
@@ -102,7 +102,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq5.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq5.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_Structure_DataPLANT-5Folder_Structure_DataAnalysis-Computation_Images.md -->
@@ -112,7 +112,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq6.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq6.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_Structure_DataPLANT-6Folder_Structure_MetadataAnnotation.md -->
@@ -125,7 +125,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ---
 
-![left h:640](./../../../images/user-challenges-002.svg)
+![left h:640](./../../../public/images-tm/user-challenges-002.svg)
 
 <!-- Here you could address the general problems of the user. FAIRData_ActivationEnergy and FAIRData_ActivationEnergy_withDataPLANT would also be appropriate.-->
 
@@ -136,7 +136,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq1.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq1.png)
 
 <!-- Here one could elaborate on the ARC structure as deeply as desired. In addition, Swate incl. ontology could be discussed here.-->
 
@@ -146,7 +146,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq2.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq2.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/BigPicture_ARC_DataPLANT-1Storage-and-BackUp.md -->
@@ -154,7 +154,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq3.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq3.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/BigPicture_ARC_DataPLANT-2Versioning.md -->
@@ -162,7 +162,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq4.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq4.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/BigPicture_ARC_DataPLANT-3CollaborationAndAccessManagement.md -->
@@ -170,7 +170,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq5.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq5.png)
 
 <!-- Here one could address repositories in general, but also ROC, Galaxy or Invenio.-->
 
@@ -181,7 +181,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq6.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq6.png)
 
 
 <!-- Source to slide(s) -->
@@ -190,7 +190,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq7.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq7.png)
 
 
 <!-- Source to slide(s) -->
@@ -199,7 +199,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq8.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq8.png)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/BigPicture_ARC_DataPLANT.md -->
@@ -236,7 +236,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ## You just received your data
 
-![bg right width:400](./../../../images/training-demo-talinum/demo-data-screenshot.png)
+![bg right width:400](./../../../public/images-tm/training-demo-talinum/demo-data-screenshot.png)
 
 ---
 
@@ -263,14 +263,14 @@ Dominik Brilhaus - CEPLAS Data Science
 
 ## Structure your data
 
-![width:800](./../../../images/arc-fillwithdata-experimental.png)
+![width:800](./../../../public/images-tm/arc-fillwithdata-experimental.png)
 
 ---
 
 
 ## Annotate your data
 
-![w:650](./../../../images/swate-metadatatemplates.png)
+![w:650](./../../../public/images-tm/swate-metadatatemplates.png)
 
 <!-- 
 1. Fill study characteristics (completely manually)
@@ -287,7 +287,7 @@ Dominik Brilhaus - CEPLAS Data Science
 
 
 
-![w:650](./../../../images/arc-datasharing-experts02-img1.png)
+![w:650](./../../../public/images-tm/arc-datasharing-experts02-img1.png)
 
 
 ---
@@ -350,8 +350,8 @@ arc assay add -s talinum_drought -a metabolomics
 
 ## Your ARC is ready
 
-![bg 80% right:75%](./../../../images/training-demo-talinum/demo-data-screenshot.png)
-![bg 80%](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
+![bg 80% right:75%](./../../../public/images-tm/training-demo-talinum/demo-data-screenshot.png)
+![bg 80%](./../../../public/images-tm/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -375,7 +375,7 @@ section p br {
 <br>
 🌐 Shared with collaborators
 
-![bg right width:400](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
+![bg right width:400](./../../../public/images-tm/training-demo-talinum/demo-arc-screenshot.png)
 
 
 <!-- ## Outlook
@@ -453,7 +453,7 @@ section {
 }
 </style>
 
-![width:800px](./../../../images/teaching-toolbox/feedback01-fivefinger.drawio.svg)
+![width:800px](./../../../public/images-tm/teaching-toolbox/feedback01-fivefinger.drawio.svg)
 
 <!-- 
 - Invite participants to give feedback

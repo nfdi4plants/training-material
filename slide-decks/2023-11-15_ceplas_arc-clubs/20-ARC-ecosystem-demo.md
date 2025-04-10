@@ -41,13 +41,13 @@ figcaption {
 
 <br>
 
-![bg fit](./../../images/ceplas/ceplas-background-title.drawio.svg)
+![bg fit](./../../public/images-tm/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
 # Data Stewardship between DataPLANT and the community  <!-- fit -->
 
-![w:880](././../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
+![w:880](././../../public/images-tm/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 
@@ -55,7 +55,7 @@ figcaption {
 
 <br>
 
-![w:350](./../../images/rdmkit-data-life-cycle-9.svg)
+![w:350](./../../public/images-tm/rdmkit-data-life-cycle-9.svg)
 
 <span class="footer-reference">https://rdmkit.elixir-europe.org, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>
 
@@ -63,37 +63,37 @@ figcaption {
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../images/arc-datacentricintegration.svg)
+![width:950](./../../public/images-tm/arc-datacentricintegration.svg)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq1.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq1.png)
 
 ---
 
 # ARCs store experimental data
 
-![width:950](./../../images/arc-fillwithdata-seq3.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq3.png)
 
 ---
 
 # Computations can be run inside ARCs
 
-![width:950](./../../images/arc-fillwithdata-seq5.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq5.png)
 
 ---
 
 # ARCs come with comprehensive metadata
 
-![width:950](./../../images/arc-fillwithdata-seq6.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq6.png)
 
 ---
 
 # ARC builds on standards
 
-![w:880](./../../images/arc-buildsonstandards2.png)
+![w:880](./../../public/images-tm/arc-buildsonstandards2.png)
 
 <span class="footer-reference">https://isa-tools.org/ | https://www.commonwl.org/
 https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
@@ -107,9 +107,9 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 ---
 
 
-# Collect <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-02-collect.png'/>
+# Collect <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-02-collect.png'/>
 
-![width:800](./../../images/arc-fillwithdata-experimental.png)
+![width:800](./../../public/images-tm/arc-fillwithdata-experimental.png)
 
 <!-- 
 
@@ -122,9 +122,9 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
 
-# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-03-process.png'/>
+# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-03-process.png'/>
 
-![w:650](./../../images/swate-metadatatemplates.png)
+![w:650](./../../public/images-tm/swate-metadatatemplates.png)
 
 <!-- 
 
@@ -133,54 +133,54 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
 
-# Analyse <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-04-analyse.png'/>
+# Analyse <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-04-analyse.png'/>
 
 <!-- 
 - run fastqc
 - receive back results
 -->
 
-![w:800](./../../images/tpj16474-fig-0005-m.jpg)
+![w:800](./../../public/images-tm/tpj16474-fig-0005-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
 ---
 
-# Preserve  <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
+# Preserve  <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
 2. Publication: DOI
 -->
 
-![h:400](./../../images/tpj16474-fig-0008-m-modified.png)
+![h:400](./../../public/images-tm/tpj16474-fig-0008-m-modified.png)
 
 <span class="footer-reference"> adapted from Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
 ---
 
-# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
+# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
 2. Publication: DOI
 -->
 
-![h:400](././../../images/tpj16474-fig-0008-m.jpg)
+![h:400](././../../public/images-tm/tpj16474-fig-0008-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
 ---
 
-# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-06-share.png'/>
+# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-06-share.png'/>
 
-![w:700](./../../images/arc-datasharing-experts02-img1.png)
+![w:700](./../../public/images-tm/arc-datasharing-experts02-img1.png)
 
 ---
 
-# Reuse <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-07-reuse.png'/>
+# Reuse <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-07-reuse.png'/>
 
-![w:800](./../../images/tpj16474-fig-0001-m.jpg)
+![w:800](./../../public/images-tm/tpj16474-fig-0001-m.jpg)
 
 <!-- 
 - via ARC https://arcregistry.nfdi4plants.org/arcsearch
@@ -193,7 +193,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # **Mutable** data life cycle
 
-![w:700](./../../images/tpj16474-fig-0006-m.jpg)
+![w:700](./../../public/images-tm/tpj16474-fig-0006-m.jpg)
 
 <!-- 
 
@@ -205,9 +205,9 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
 
-# Plan &ndash; ARC scale <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
+# Plan &ndash; ARC scale <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
-![w:800](./../../images/tpj16474-fig-0007-m.jpg)
+![w:800](./../../public/images-tm/tpj16474-fig-0007-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -228,31 +228,31 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
 
-# Plan  &ndash; proposal scale <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
+# Plan  &ndash; proposal scale <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
 <span class="footer-reference">**Zhou *et al.* (2023)**, DataPLAN: a web-based data management plan generator for the plant sciences, bioRxiv 2023.07.07.548147; doi: https://doi.org/10.1101/2023.07.07.548147 </span>
 
 https://dmpg.nfdi4plants.org
 
-![w:800](././../../images/zhou2023-dataplan.png)
+![w:800](././../../public/images-tm/zhou2023-dataplan.png)
 
 ---
 
 # The ARC ecosystem
 
-![w:850](./../../images/arc-ecosystem-07.drawio.png)
+![w:850](./../../public/images-tm/arc-ecosystem-07.drawio.png)
 
 ---
 
 # The ARC ecosystem
 
-![w:850](./../../images/arc-ecosystem-09.drawio.png)
+![w:850](./../../public/images-tm/arc-ecosystem-09.drawio.png)
 
 ---
 
 # The ARC ecosystem
 
-![w:850](./../../images/arc-ecosystem-10.drawio.png)
+![w:850](./../../public/images-tm/arc-ecosystem-10.drawio.png)
 
 ---
 
