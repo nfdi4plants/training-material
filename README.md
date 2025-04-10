@@ -11,7 +11,7 @@ Material are shared here under [CC BY 4.0 license](https://creativecommons.org/l
 ## Past events
 
 Event | Slide decks
---------------------------|-------------------------------------------
+----|---
 2024-11-11_ceplas_phd-module-2024 | [2024-11-11_ceplas_phd-module-2024.pdf](slide-decks/2024-11-11_ceplas_phd-module-2024/combined-slides/2024-11-11_ceplas_phd-module-2024.pdf)
 2024-10-24_ceplas_arcify-your-research-project | [2024-10-24_ceplas_arcify-your-research-project](slide-decks/2024-10-24_ceplas_arcify-your-research-project)
 2024-06-19_trr175_tutzing-retreat | [2024-06-19_trr175_tutzing-retreat](slide-decks/2024-06-19_trr175_tutzing-retreat)
@@ -30,23 +30,50 @@ Event | Slide decks
 2023-06-28_hhu_arc-club | [2023-06-28_hhu_arc-club](slide-decks/2023-06-28_hhu_arc-club)
 2023-05-09_dataplant_teaching-materials-concept | [2023-05-09_dataplant_teaching-materials-concept](slide-decks/2023-05-09_dataplant_teaching-materials-concept)
 2023-05-09_ceplas_startyourarc-series | [2023-05-09_ceplas_startyourarc-series](slide-decks/2023-05-09_ceplas_startyourarc-series)
-2023-04-27_dataplant_mbs-onboarding | [2023-04-27_dataplant_mbs-onboarding](slide-decks/2023-04-27_dataplant_mbs-onboarding)
+2023-04-27_dataplant_mbs-onboarding | [2023-04-27_dataplant_mbs-onboarding](slide-decks/2023-04-27_dataplant_mbs-onboarding) 
 
+---
 
-## dev
+## Development
 
-### Add knowledgebase via git submodule
+In order to reuse images from the knowledge base, the repo is added here as a submodule.
+
+### Add knowledge base via git submodule
 
 ```bash
 git submodule add -b main https://github.com/nfdi4plants/nfdi4plants.knowledgebase/ public/kb
 git submodule update --init --recursive
 ```
 
-### Install slidev
+### Slidev
+
+[Slidev](http://sli.dev/) is a pretty strong vue.js based framework to build slides from markdown files.
+
+- This can also be used to compile slide decks from smaller slide decks ("bricks").
+- There's a vscode extension available
+- while in watch or building it checks, that all referenced / reused images or imported bricks actually exist.
+
+#### Install slidev
 
 ```bash
 ## npm init slidev (done once)
 npm install ## (done once per machine)
 ```
 
+#### watch a slidev slide deck
+
+You can see an example slide deck built with slidev here using the following command. 
+This should open a browser with the presentation, including some presentation controls in the bottom-left corner.
+(Note: this will only work, if above `git submodule` (i.e. the images from knowledge base) are correctly added.)
+
+```bash
 npm run dev -- slide-decks/2025-04-02_fdmnrw_fdm-werkstatt/slides.md
+```
+
+#### export a slidev slide deck to pdf
+
+You can directly export a slide deck to pdf using slidev's browser controls or use the export command, e.g.
+
+```bash
+npm run export -- slide-decks/2025-04-02_fdmnrw_fdm-werkstatt/slides.md --output slide-decks/2025-04-02_fdmnrw_fdm-werkstatt/slides.pdf
+```
