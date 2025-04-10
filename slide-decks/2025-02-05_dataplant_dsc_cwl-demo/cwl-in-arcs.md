@@ -1,23 +1,26 @@
 ---
-title: Using CWL in ARCs
-marp: true
-theme: marp-theme_dataplant-ceplas-ccby
-paginate: true
+theme: ../../themes/dataplant-ceplas
+themeConfig:
+  paginationX: r
+  paginationY: b
+  paginationPagesDisabled: [ 1 ]
+  logoPagesDisabled: [ 1 ]
 author: Dominik Brilhaus
-date: 2025-02-05
 license: CC-BY 4.0
+coverDate: 2025-02-05
+fonts:
+  sans: Gulim
+# canvasWidth: 1200
+title: Using CWL in ARCs
+transition: slide-up
+download: true
+layout: cover
 ---
-
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
 
 # CWL in ARCs
 
-<!-- _paginate: false -->
-
 DataPLANT Data Steward Circle – Feb 5<sup>th</sup>, 2025
+
 Dominik Brilhaus, [CEPLAS Data](https://www.ceplas.eu/en/research/ceplas-data)
 
 ---
@@ -26,34 +29,33 @@ Dominik Brilhaus, [CEPLAS Data](https://www.ceplas.eu/en/research/ceplas-data)
 
 First step in RNASeq data analysis: QC of read files (e.g. *.fastq)
 
-<div class="mermaid">
+```mermaid
 flowchart LR
   f1("Reads (*.fastq)") ---p1[QC]--> f3("QualityReport (*.html)")
   subgraph p1[QC]
       p1-1{{FastQC}}
   end
-</div>
+```
 
+---
+layout: two-columns
 ---
 
 # FastQC has a GUI
 
-<div class="two-columns">
+::left::
 
-  <div class="mermaid">
-  flowchart TD
-    f1("Reads (*.fastq)") ---p1[QC]--> f3("QualityReport (*.html)")
-    subgraph p1[QC]
-        p1-1{{FastQC}}
-    end
-  </div>
+```mermaid
+flowchart TD
+  f1("Reads (*.fastq)") ---p1[QC]--> f3("QualityReport (*.html)")
+  subgraph p1[QC]
+      p1-1{{FastQC}}
+  end
+```
 
-  <div>
+::right::
 
-  ![](images/fastqc-gui.png)
-
-  </div>
-</div>
+![](./images/fastqc-gui.png)
 
 ---
 
@@ -97,16 +99,15 @@ fastqc --help
 
 # FastQC via command line
 
-
 `fastqc assays/rnaseq/dataset/blau1_CGATGT_L005_R1_002.fastq.gz`
 
-<div class="mermaid">
+```mermaid
 flowchart LR
   f1("Reads (*.fastq)") ---p1[QC]--> f3("QualityReport (*.html)")
   subgraph p1[QC]
       p1-1{{FastQC}}
   end
-</div>
+```
 
 ---
 
@@ -129,48 +130,43 @@ fastqc assays/rnaseq/dataset/ ...
 - Conda: `conda install fastqc`
 
 ---
+layout: two-columns
+---
 
 # Why CWL and ARCs?
 
-<div class="two-columns">
+::left::
 
-<div>
+### Reproducibility / Replicability of the data
 
-  ### Reproducibility / Replicability of the data
-  
-  Rerunning the same analysis on the **same** dataset
+Rerunning the same analysis on the **same** dataset
 
-  <div class="mermaid">
-  flowchart LR
-    f1("dataset1") ---p1[analysis pipeline]--> r1("results1")
-  classDef one fill:#62d4c1;
-  class f1,r1 one;
-  </div>
+```mermaid
+flowchart LR
+  f1("dataset1") ---p1[analysis pipeline]--> r1("results1")
+classDef one fill:#62d4c1;
+class f1,r1 one;
+```
 
-  <div class="mermaid">
-  flowchart LR
-    f1("dataset1") ---p1[analysis pipeline]--> r1("results1")
-  classDef one fill:#62d4c1;
-  class f1,r1 one;
-  </div>
-</div>
+```mermaid
+flowchart LR
+  f1("dataset1") ---p1[analysis pipeline]--> r1("results1")
+classDef one fill:#62d4c1;
+class f1,r1 one;
+```
 
-<div>
+::right::
 
-  ### Reusability of the analysis
-  
-  Applying the same analysis on **another** dataset
+### Reusability of the analysis
 
-  <div class="mermaid">
-  flowchart LR
-    f2("dataset2") ---p1[analysis pipeline]--> r2("results2")
-  classDef two fill:#ffd34d;
-  class f2,r2 two;
-  </div>
+Applying the same analysis on **another** dataset
 
-</div>
-
-</div>
+```mermaid
+flowchart LR
+  f2("dataset2") ---p1[analysis pipeline]--> r2("results2")
+classDef two fill:#ffd34d;
+class f2,r2 two;
+```
 
 ---
 
@@ -190,6 +186,8 @@ fastqc assays/rnaseq/dataset/ ...
 3. Reuse an existing CWL document (command line tool or full workflow)
 4. ...
 
+---
+layout: center
 ---
 
 # Demo: CWL-Wrapping the CommandLineTool FastQC
@@ -237,8 +235,6 @@ outputs: []
 
 # Step 3: Define inputs
 
-<style scoped> section {font-size: 20px;}</style>
-
 ```yaml
 #!/usr/bin/env cwl-runner
 cwlVersion: v1.2
@@ -266,9 +262,8 @@ outputs: []
 
 # Step 4: Define outputs
 
-<style scoped> section {font-size: 18px;}</style>
 
-```yaml
+```yaml{*}{maxHeight:'80%'}
 #!/usr/bin/env cwl-runner
 cwlVersion: v1.2
 class: CommandLineTool
@@ -299,17 +294,14 @@ outputs:
 ```
 
 ---
-
+layout: two-columns
+---
 
 # Step 4: Define outputs
 
-<style scoped> section {font-size: 18px;}</style>
+::left::
 
-<div class="two-columns">
-
-  <div>
-
-```yaml
+```yaml{*}{maxHeight:'80%'}
 #!/usr/bin/env cwl-runner
 cwlVersion: v1.2
 class: CommandLineTool
@@ -339,19 +331,15 @@ outputs:
           - "*_fastqc.html"
 ```
 
+::right::
 
-  </div>
-
-  <div class="mermaid">
-  flowchart TD
-    f1("Reads (*.fastq)") ---p1[QC]--> f3("QualityReport (*.html)")
-    subgraph p1[QC]
-        p1-1{{FastQC}}
-    end
-  </div>
-
-</div>
-
+```mermaid
+flowchart TD
+  f1("Reads (*.fastq)") ---p1[QC]--> f3("QualityReport (*.html)")
+  subgraph p1[QC]
+      p1-1{{FastQC}}
+  end
+```
 
 ---
 
@@ -379,7 +367,7 @@ reads:
 
 # Growing pipeline: First steps RNASeq pipeline
 
-<div class="mermaid">
+```mermaid
 flowchart LR
   f1("Reads (*.fastq)") ---p1[QC]--> f3(QualityReport)
   f1 ---p2--> f2(reads_trimmed)
@@ -394,7 +382,7 @@ flowchart LR
   subgraph p3[Quantification]
       p3-1{{Kallisto}}
   end
-</div>
+```
 
 ---
 
