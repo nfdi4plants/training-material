@@ -31,3 +31,13 @@ Event | Slide decks
 2023-05-09_dataplant_teaching-materials-concept | [2023-05-09_dataplant_teaching-materials-concept](slide-decks/2023-05-09_dataplant_teaching-materials-concept)
 2023-05-09_ceplas_startyourarc-series | [2023-05-09_ceplas_startyourarc-series](slide-decks/2023-05-09_ceplas_startyourarc-series)
 2023-04-27_dataplant_mbs-onboarding | [2023-04-27_dataplant_mbs-onboarding](slide-decks/2023-04-27_dataplant_mbs-onboarding)
+
+
+## dev
+
+### Add knowledgebase via git submodule
+
+```bash
+git submodule add -b main https://github.com/nfdi4plants/nfdi4plants.knowledgebase/ public/kb
+git submodule update --init --recursive
+```
