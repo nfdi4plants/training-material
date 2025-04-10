@@ -12,7 +12,7 @@ for unit in $bricks_dir/*.md; do
     
     if grep -q "^marp: true" "$unit"
     then
-        npx @marp-team/marp-cli@latest --html --allow-local-files $unit --theme-set $marpTheme ../../style/ --
+        npx @marp-team/marp-cli@latest --html --allow-local-files $unit --theme-set $marpTheme ../../style/marp/ --
     fi
 
 done
@@ -70,7 +70,7 @@ for unit in $bricks_dir/*.md; do
     fi
 done
 
-npx @marp-team/marp-cli@latest --html --allow-local-files $outfile --theme-set $marpTheme ../../style/ --
-npx @marp-team/marp-cli@latest --html --allow-local-files --pdf $outfile --theme-set $marpTheme ../../style/ --
+npx @marp-team/marp-cli@latest --html --allow-local-files $outfile --theme-set $marpTheme ../../style/marp/ --
+npx @marp-team/marp-cli@latest --html --allow-local-files --pdf $outfile --theme-set $marpTheme ../../style/marp/ --
 
 ```

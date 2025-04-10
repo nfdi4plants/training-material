@@ -17,11 +17,11 @@ marpTheme=marp-theme_dataplant-ceplas-ccby
 ### render slides in watch mode
 
 ```bash
-npx @marp-team/marp-cli@latest --html --allow-local-files --watch $slides --theme-set $marpTheme ../../style/ --
+npx @marp-team/marp-cli@latest --html --allow-local-files --watch $slides --theme-set $marpTheme ../../style/marp/ --
 ```
 
 ### render pdf
 
 ```bash
-npx @marp-team/marp-cli@latest --pdf --allow-local-files $slides --theme-set $marpTheme ../../style/ --
+npx @marp-team/marp-cli@latest --pdf --allow-local-files $slides --theme-set $marpTheme ../../style/marp/ --
 ```

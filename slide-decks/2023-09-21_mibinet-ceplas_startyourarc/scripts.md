@@ -16,7 +16,7 @@ cd src/docs/teaching-materials/events-2023/2023-09-MibiNet-CEPLAS-StartYourARC
 
 ```bash
 
-marpTheme=../../style/marp-theme_dataplant-ceplas-mibinet-ccby.css
+marpTheme=../../style/marp/marp-theme_dataplant-ceplas-mibinet-ccby.css
 
 for unit in *.md; do
     
@@ -55,7 +55,7 @@ done
 sed "s|\.\./\.\./\.\./images/|\.\./\.\./\.\./\.\./images/|g" $outfile > tmp; mv tmp $outfile
 
 
-npx @marp-team/marp-cli@latest --html --allow-local-files $outfile --theme-set $marpTheme ../../style/ --
-npx @marp-team/marp-cli@latest --html --allow-local-files --pdf $outfile --theme-set $marpTheme ../../style/ --
+npx @marp-team/marp-cli@latest --html --allow-local-files $outfile --theme-set $marpTheme ../../style/marp/ --
+npx @marp-team/marp-cli@latest --html --allow-local-files --pdf $outfile --theme-set $marpTheme ../../style/marp/ --
 
 ```

@@ -27,7 +27,7 @@ for unit in *.md; do
     
     if grep -q "^marp: true" "$unit"
     then
-        npx @marp-team/marp-cli@latest --html --allow-local-files $unit --theme-set $marpTheme ../../style/ --
+        npx @marp-team/marp-cli@latest --html --allow-local-files $unit --theme-set $marpTheme ../../style/marp/ --
     fi
 
 done
@@ -85,7 +85,7 @@ sed "s|\.\./\.\./\.\./images/|\.\./\.\./\.\./\.\./images/|g" $outfile > tmp; mv 
 sed "s|\./qr-code|\./\.\./qr-code|g" $outfile > tmp; mv tmp $outfile
 sed "s|\./start-here|\./\.\./start-here|g" $outfile > tmp; mv tmp $outfile
 
-npx @marp-team/marp-cli@latest --html --allow-local-files $outfile --theme-set $marpTheme ../../style/ --
-npx @marp-team/marp-cli@latest --html --allow-local-files --pdf $outfile --theme-set $marpTheme ../../style/ --
+npx @marp-team/marp-cli@latest --html --allow-local-files $outfile --theme-set $marpTheme ../../style/marp/ --
+npx @marp-team/marp-cli@latest --html --allow-local-files --pdf $outfile --theme-set $marpTheme ../../style/marp/ --
 
 ```

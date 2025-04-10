@@ -12,6 +12,6 @@ For details, see [kick off slides](./00-kickoff.md)
 ```bash
 cd src/docs/teaching-materials/disseminations/DataSteward-Circle/
 
-marp -p --html true --theme ../../style/marp-theme_dataplant-ceplas-ccby.css 01-DataPLANT-contribution.md
+marp -p --html true --theme ../../style/marp/marp-theme_dataplant-ceplas-ccby.css 01-DataPLANT-contribution.md
 
 ```

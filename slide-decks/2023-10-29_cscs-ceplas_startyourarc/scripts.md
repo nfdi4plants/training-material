@@ -20,7 +20,7 @@ cd src/docs/teaching-materials/events-2023/2023-10-CSCS-CEPLAS-StartYourARC
 
 ```bash
 
-marpTheme=../../style/marp-theme_dataplant-ceplas-ccby.css
+marpTheme=../../style/marp/marp-theme_dataplant-ceplas-ccby.css
 
 for unit in *.md; do
     
@@ -37,7 +37,7 @@ done
 
 ```bash
 unit=Block05-Intro-Day2.md
-marpTheme=../../style/marp-theme_dataplant-ceplas-ccby.css
+marpTheme=../../style/marp/marp-theme_dataplant-ceplas-ccby.css
 
 
 marp --html $unit --allow-local-files --theme-set $marpTheme --watch
@@ -71,7 +71,7 @@ sed "s|\.\./\.\./\.\./images/|\.\./\.\./\.\./\.\./images/|g" $outfile > tmp; mv 
 sed "s|\./custom|\./\.\./custom|g" $outfile > tmp; mv tmp $outfile
 
 
-npx @marp-team/marp-cli@latest --html --allow-local-files $outfile --theme-set $marpTheme ../../style/ --
-npx @marp-team/marp-cli@latest --html --allow-local-files --pdf $outfile --theme-set $marpTheme ../../style/ --
+npx @marp-team/marp-cli@latest --html --allow-local-files $outfile --theme-set $marpTheme ../../style/marp/ --
+npx @marp-team/marp-cli@latest --html --allow-local-files --pdf $outfile --theme-set $marpTheme ../../style/marp/ --
 
 ```
