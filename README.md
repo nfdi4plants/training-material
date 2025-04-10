@@ -41,3 +41,12 @@ Event | Slide decks
 git submodule add -b main https://github.com/nfdi4plants/nfdi4plants.knowledgebase/ public/kb
 git submodule update --init --recursive
 ```
+
+### Install slidev
+
+```bash
+## npm init slidev (done once)
+npm install ## (done once per machine)
+```
+
+npm run dev -- slide-decks/2025-04-02_fdmnrw_fdm-werkstatt/slides.md
