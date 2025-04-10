@@ -159,7 +159,7 @@ layout: default
 
 ## Two representations of the ARC
 
-<img src="/images-db/ro-crate-vs-scaffold.png" style="width:900px;display: block; margin: auto;margin-top:100px" />
+<img src="/images-tm/ro-crate-vs-scaffold.png" style="width:900px;display: block; margin: auto;margin-top:100px" />
 
 ---
 layout: two-columns
@@ -228,8 +228,8 @@ layout: two-columns
 
   **"User View": ARC Scaffold and metadata tables**
 
-  <img src="/images-db/two-sides-01-user.png" />
-  <img src="/images-db/two-sides-02-user.png" />
+  <img src="/images-tm/two-sides-01-user.png" />
+  <img src="/images-tm/two-sides-02-user.png" />
 
 ---
 layout: default

@@ -42,7 +42,7 @@ layout: default
 
 ## ARC and DataHUB as entry point
 
-<img src="/images-db/plantdatahub.drawio.svg"/>
+<img src="/images-tm/ceplas/plantdatahub.drawio.svg"/>
 
 ---
 layout: default
@@ -50,4 +50,4 @@ layout: default
 
 ## HHU-DataHUB – On-premise DataHUB node
 
-<img src="/images-db/hhu-datahub.drawio.svg"/>
+<img src="/images-tm/ceplas/hhu-datahub.drawio.svg"/>
