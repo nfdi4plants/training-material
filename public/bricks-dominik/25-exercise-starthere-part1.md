@@ -35,7 +35,7 @@ layout: default
 
 ## ARC: Annotated research context
 
-<img src="/images-kb/start-here/arc-bag.svg" />
+<img src="/kb/src/assets/images/start-here/arc-bag.svg" />
 
 ---
 layout: default
@@ -44,7 +44,7 @@ layout: default
 
 ## The ARC scaffold structure
 
-<img src="/images-kb/start-here/arc-scaffold.svg" />
+<img src="/kb/src/assets/images/start-here/arc-scaffold.svg" />
 
 ---
 layout: default
@@ -52,7 +52,7 @@ layout: default
 
 ## A small prototypic project
 
-<img src="/images-kb/start-here/arc-prototypic.svg" />
+<img src="/kb/src/assets/images/start-here/arc-prototypic.svg" />
 
 ---
 layout: default
@@ -60,7 +60,7 @@ layout: default
 
 ## Divide and conquer for reproducibility
 
-<img src="/images-kb/start-here/arc-prototypic-study-divide-conquer.svg" />
+<img src="/kb/src/assets/images/start-here/arc-prototypic-study-divide-conquer.svg" />
 
 ---
 layout: default
@@ -68,7 +68,7 @@ layout: default
 
 ## Identifying the ‘study’ part
 
-<img src="/images-kb/start-here/arc-prototypic-study-identify.svg"/>
+<img src="/kb/src/assets/images/start-here/arc-prototypic-study-identify.svg"/>
 
 ---
 layout: default
@@ -78,7 +78,7 @@ layout: default
 
 ## A table-based organization schema
 
-<img src="/images-kb/start-here/arc-prototypic-metadata-table-representation.svg" />
+<img src="/kb/src/assets/images/start-here/arc-prototypic-metadata-table-representation.svg" />
 
 ---
 layout: two-columns
@@ -96,7 +96,7 @@ This allows you to reference the free-text, human-readable protocol.
 
 ::right::
 
-<img src="/images-kb/start-here/arc-prototypic-study-protocolref.svg" />
+<img src="/kb/src/assets/images/start-here/arc-prototypic-study-protocolref.svg" />
 
 ---
 layout: default
@@ -104,7 +104,7 @@ layout: default
 
 ## Parameterizing the ‘study’
 
-<img src="/images-kb/start-here/arc-prototypic-study-parameterization.svg" />
+<img src="/kb/src/assets/images/start-here/arc-prototypic-study-parameterization.svg" />
 
 ---
 layout: two-columns
@@ -145,7 +145,7 @@ layout: default
 
 ## Finding the metadata vocabulary and descriptors
 
-<img src="/images-kb/start-here/arc-prototypic-metadata.svg" />
+<img src="/kb/src/assets/images/start-here/arc-prototypic-metadata.svg" />
 
 ---
 layout: two-columns

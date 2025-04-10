@@ -10,7 +10,7 @@ layout: default
 
 # Annotated Research Context (ARC)
 
-<img src="/images-kb/start-here/arc-bag.svg" />
+<img src="/kb/src/assets/images/start-here/arc-bag.svg" />
 
 Your entire investigation in a single unified bag
 
@@ -20,7 +20,7 @@ layout: default
 
 ## The ARC scaffold structure
 
-<img src="/images-kb/start-here/arc-scaffold.svg" />
+<img src="/kb/src/assets/images/start-here/arc-scaffold.svg" />
 
 ---
 layout: two-columns
@@ -65,7 +65,7 @@ layout: default
 
 ## ISA abstract model in a nutshell
 
-<img src="/images-kb/start-here/standards-isa-in-a-nutshell.svg" />
+<img src="/kb/src/assets/images/start-here/standards-isa-in-a-nutshell.svg" />
 
 ---
 layout: default
@@ -73,7 +73,7 @@ layout: default
 
 ## ISA and CWL – Connected by similarity
 
-<img src="/images-kb/start-here/standards-isa-cwl.svg" />
+<img src="/kb/src/assets/images/start-here/standards-isa-cwl.svg" />
 
 ---
 layout: default
@@ -81,7 +81,7 @@ layout: default
 
 ## Metadata annotation – from sample to data
 
-<img src="/images-kb/start-here/arc-prototypic.svg" />
+<img src="/kb/src/assets/images/start-here/arc-prototypic.svg" />
 
 ---
 layout: default
@@ -89,7 +89,7 @@ layout: default
 
 ## Modular separation of experimental processes
 
-<img src="/images-kb/start-here/arc-prototypic-assay-identify.svg" />
+<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-identify.svg" />
 
 ---
 layout: default
@@ -97,7 +97,7 @@ layout: default
 
 ## Modular separation of experimental processes
 
-<img src="/images-kb/start-here/arc-prototypic-assay-modular2.svg" />
+<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-modular2.svg" />
 
 ---
 layout: default
@@ -105,7 +105,7 @@ layout: default
 
 ## Applying standard procedures to sample record
 
-<img src="/images-kb/start-here/arc-prototypic-assay-sop.svg" />
+<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-sop.svg" />
 
 ---
 layout: default
@@ -123,7 +123,7 @@ layout: default
 
 ## Data analysis: CWL workflows and runs
 
-<img src="/images-kb/start-here/arc-prototypic-workflows-cwl1.svg" />
+<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl1.svg" />
 
 ---
 layout: default
@@ -131,7 +131,7 @@ layout: default
 
 ## Metadata annotation – from data to result
 
-<img src="/images-kb/start-here/arc-prototypic-workflows-cwl2.svg" />
+<img src="/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg" />
 
 ---
 layout: default

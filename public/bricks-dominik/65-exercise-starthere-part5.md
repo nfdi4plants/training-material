@@ -30,7 +30,7 @@ layout: default
 
 ## Publish your ARC with a few clicks
 
-![](/images-kb/data-publications/cqc-results.png)
+![](/kb/src/assets/images/data-publications/cqc-results.png)
 
 ---
 layout: default
@@ -56,7 +56,7 @@ layout: default
 
 ## Receive a DOI
 
-![](/images-kb/data-publications/doi-accession.png)
+![](/kb/src/assets/images/data-publications/doi-accession.png)
 
 ---
 layout: center
