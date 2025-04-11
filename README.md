@@ -16,6 +16,7 @@ Event | Slide decks
 2025-04-02_fdmnrw_fdm-werkstatt         | [slide-decks/2025-04-02_fdmnrw_fdm-werkstatt](slide-decks/2025-04-02_fdmnrw_fdm-werkstatt/slides.pdf)
 2025-02-17_mibinet-arc-elabFTW-training | [slide-decks/2025-02-17_mibinet-arc-elabFTW-training](slide-decks/2025-02-17_mibinet-arc-elabFTW-training/combined-slides/2025-02-17_mibinet-arc-elabFTW-training.pdf)
 2025-02-11_ceplas-mibinet_arcify        | [slide-decks/2025-02-11_ceplas-mibinet_arcify](slide-decks/2025-02-11_ceplas-mibinet_arcify)
+2025-02-06_ARC_Workshop | [slide-decks/2025-02-06_workshop_FZJ/2025-02-06_ARC_Workshop](slide-decks/2025-02-06_workshop_FZJ/2025-02-06_ARC_Workshop.pdf)
 2025-02-05_dataplant_dsc_cwl-demo       | [slide-decks/2025-02-05_dataplant_dsc_cwl-demo](slide-decks/2025-02-05_dataplant_dsc_cwl-demo)
 2024-12-11_dp_dscirlce_knowledgebase    | [slide-decks/2024-12-11_dp_dscirlce_knowledgebase](slide-decks/2024-12-11_dp_dscirlce_knowledgebase)
 2024-11-11_ceplas_phd-module-2024 | [2024-11-11_ceplas_phd-module-2024](slide-decks/2024-11-11_ceplas_phd-module-2024/combined-slides/2024-11-11_ceplas_phd-module-2024.pdf)
