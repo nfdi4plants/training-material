@@ -41,15 +41,26 @@ Event | Slide decks
 
 ---
 
-## Development
+## Markdown-based slide decks
 
-In order to reuse images from the knowledge base, the repo is added here as a submodule.
+In order to reuse images from the knowledge base, that repo is added here as a submodule.
 
 ### Add knowledge base via git submodule
 
 ```bash
 git submodule add -b main https://github.com/nfdi4plants/nfdi4plants.knowledgebase/ public/kb
+```
+
+On a fresh clone, one needs to init the submodule via
+
+```bash
 git submodule update --init --recursive
+```
+
+To pull the latest commit from the original repo
+
+```bash
+git submodule update --recursive --remote
 ```
 
 ### Slidev
@@ -84,3 +95,9 @@ You can directly export a slide deck to pdf using slidev's browser controls or u
 ```bash
 npm run export -- slide-decks/2025-04-02_fdmnrw_fdm-werkstatt/slides.md --output slide-decks/2025-04-02_fdmnrw_fdm-werkstatt/slides.pdf
 ```
+
+### Marp
+
+Alternatively, you can use [Marp](https://marpit.marp.app/markdown) to build slide decks.
+There's also a [VSCode](https://github.com/marp-team/marp-vscode) extension available.
+Some basic DataPLANT [css styles](https://marpit.marp.app/theme-css) are provided in [style/marp](style/marp).
