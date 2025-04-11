@@ -29,7 +29,7 @@ May, 2024
 Dominik Brilhaus (CEPLAS)
 Stella Eggels (DataPLANT)
 
-![bg fit](./../../images/ceplas/ceplas-background-title.drawio.svg)
+![bg fit](./../../public/images-tm/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -147,4 +147,4 @@ Data managers in Düsseldorf, Cologne, Jülich and close by (CEPLAS, MibiNet, TR
 - First few steps into ARCs
 - You or collaborators can pick them up from there
 
-![bg right w:500](./../../images/ceplas-arcs.drawio.svg)
+![bg right w:500](./../../public/images-tm/ceplas-arcs.drawio.svg)

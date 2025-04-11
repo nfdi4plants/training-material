@@ -21,7 +21,7 @@ author:
 
 When inviting new members to an ARC or group, you can choose between different levels.
 
-<img src="../../../images/arc-sharing-permissionsroles.drawio.png" style="display: block; margin: auto" width=800px>
+<img src="../../../public/images-tm/arc-sharing-permissionsroles.drawio.png" style="display: block; margin: auto" width=800px>
 
 :bulb: By default you are **Owner** of an ARC you create or upload to the DataHUB.
 
@@ -52,7 +52,7 @@ When inviting new members to an ARC or group, you can choose between different l
 
 ## Options to share an ARC via the DataHUB
 
-<img src="../../../images/arc-sharing-options.drawio.png" style="display: block; margin: auto" width=700px>
+<img src="../../../public/images-tm/arc-sharing-options.drawio.png" style="display: block; margin: auto" width=700px>
 
 ---
 
@@ -76,7 +76,7 @@ An **group**-shared ARC | https://git.nfdi4plants.org/hhu-plant-biochemistry/Sam
 
 The visibility of ARCs and groups can be managed individually for each ARC or group
   
-<img src="../../../images/arc-sharing-visibility.drawio.png" style="display: block; margin: auto" width=800px>
+<img src="../../../public/images-tm/arc-sharing-visibility.drawio.png" style="display: block; margin: auto" width=800px>
 
 :bulb: By default every ARC and every group is set to **private**.
 
@@ -84,7 +84,7 @@ The visibility of ARCs and groups can be managed individually for each ARC or gr
 
 ## ARC DataHUB members // ARC Investigation contacts <!-- fit -->
 
-![w:1100](../../../images/arc-sharing-membersvscontacts.drawio.png)
+![w:1100](../../../public/images-tm/arc-sharing-membersvscontacts.drawio.png)
 
 :bulb: Investigation contacts are not automatically invited as members to the ARC.
 
@@ -94,4 +94,4 @@ The visibility of ARCs and groups can be managed individually for each ARC or gr
 
 Check out the **commit history** of your ARC via Repository (2) or directly via commits (7)
 
-![w:1000](../../../images/datahub/datahub-arc-overview.drawio.svg)
+![w:1000](../../../public/images-tm/datahub/datahub-arc-overview.drawio.svg)

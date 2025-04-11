@@ -11,25 +11,25 @@ title: Hands-on
 
 ## Identifying assays
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-identify.svg)
+![](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-identify.svg)
 
 ---
 
 ## Assay for sugar measurement
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sugar.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-sugar.svg)
 
 ---
 
 ## Separating different assay elements
 
-![w:800](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-modular2.svg)
+![w:800](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-modular2.svg)
 
 ---
 
 ## Isolating the lab processes in an assay
 
-![w:600](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-modular1.svg)
+![w:600](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-modular1.svg)
 
 ---
 
@@ -40,7 +40,7 @@ title: Hands-on
 - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> Temperature  
   - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 95 degree celsius
 
-![bg right w:600](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-labprocess1-extraction.svg)
+![bg right w:600](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-labprocess1-extraction.svg)
 
 ---
 
@@ -55,7 +55,7 @@ title: Hands-on
 - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> cycle count
   - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 5
 
-![bg right w:600](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-labprocess2-measurement.svg)
+![bg right w:600](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-labprocess2-measurement.svg)
 
 ---
 
@@ -89,7 +89,7 @@ title: Hands-on
 </div>
 <div>
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sop-proteomics.svg)
+![](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-sop-proteomics.svg)
 </div>
 
 </div>
@@ -98,13 +98,13 @@ title: Hands-on
 
 ## Applying standard procedures to sample record
 
-![w:700](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-assay-sop.svg)
+![w:700](../../../public/kb/src/assets/images/start-here/arc-prototypic-assay-sop.svg)
 
 ---
 
 # Realization of lab-specific metadata with templates
 
-![w:650px](./../../../images/swate-metadatatemplates.png)
+![w:650px](./../../../public/images-tm/swate-metadatatemplates.png)
 
 Facilities can define their most common workflows as templates
 

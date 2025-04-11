@@ -25,7 +25,7 @@ February, 2025
 Sabrina Zander (MibiNet)
 Stella Eggels (DataPLANT)
 
-![bg fit](./../../../images/ceplas/ceplas-background-title-mibinet.drawio.svg)
+![bg fit](./../../../public/images-tm/ceplas/ceplas-background-title-mibinet.drawio.svg)
 
 ---
 # Tentative agenda
@@ -153,5 +153,5 @@ Data managers in Düsseldorf, Cologne, Jülich and close by (CEPLAS, MibiNet, TR
 - Introduction into elabFTW 
 - elab2ARC tool
 
-![bg right w:500](./../../images/ceplas-arcs.drawio.svg)
+![bg right w:500](./../../public/images-tm/ceplas-arcs.drawio.svg)
 

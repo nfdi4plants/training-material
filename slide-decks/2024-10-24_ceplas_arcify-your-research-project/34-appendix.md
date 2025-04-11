@@ -12,13 +12,13 @@ author:
 
 ## Where do I store my ARC?
 
-![](./../../images/arc-storagelocations-withnotes.drawio.png)
+![](./../../public/images-tm/arc-storagelocations-withnotes.drawio.png)
 
 ---
 
 ## ARC storage and sharing
 
-![w:600](./../../images/arc-storagelocations-withnotes.drawio.png)
+![w:600](./../../public/images-tm/arc-storagelocations-withnotes.drawio.png)
 
 - DataHUB as "ground truth" / original clone
 - You can sync and communicate all changes to your ARC via the DataHUB
@@ -65,7 +65,7 @@ author:
 
 ## Download the demo data
 
-![bg right:40% w:250](./../../images/arcitect/arcitect-help-sidebar.png)
+![bg right:40% w:250](./../../public/images-tm/arcitect/arcitect-help-sidebar.png)
 
 1. Open the ARCitect
 2. Login (1) to your DataHUB account
@@ -81,7 +81,7 @@ author:
 5. Click the download button, select a location and open the ARC.
 6. Open the downloaded ARC
 
-![w:700](./../../images/training-demo-talinum/arcitect-talinum-download-arc.png)
+![w:700](./../../public/images-tm/training-demo-talinum/arcitect-talinum-download-arc.png)
 
 :bulb: This is basically the ARC we created in the last session.
 
@@ -89,7 +89,7 @@ author:
 
 ## Annotation of the result data points
 
-![w:700](../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-datamap.svg)
+![w:700](../../public/kb/src/assets/images/start-here/arc-prototypic-datamap.svg)
 
 Persistence from sample to data point using fragment selectors
 
@@ -97,10 +97,10 @@ Persistence from sample to data point using fragment selectors
 
 ## Point into results - Fragment selectors
 
-![w:700](../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-datamap-fragment-selectors1.svg)
+![w:700](../../public/kb/src/assets/images/start-here/arc-prototypic-datamap-fragment-selectors1.svg)
 
 ---
 
 ## DataMAP: Annotation for the fragment selectors
 
-![w:700](../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-datamap-fragment-selectors2.svg)
+![w:700](../../public/kb/src/assets/images/start-here/arc-prototypic-datamap-fragment-selectors2.svg)

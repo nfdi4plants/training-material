@@ -347,7 +347,13 @@ healthchecksdb
 MigrationBackup/
 
 
-# Macos temporary files
+
+## slidev
+
+node_modules
 .DS_Store
-rename-images.md
-todos.md
+dist
+*.local
+.vite-inspect
+.remote-assets
+components.d.ts

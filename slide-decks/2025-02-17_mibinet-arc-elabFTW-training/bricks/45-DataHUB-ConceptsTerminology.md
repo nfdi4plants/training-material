@@ -31,13 +31,13 @@ author:
 
 # Where do I store my ARC?
 
-![](./../../../images/arc-storagelocations-withnotes.drawio.png)
+![](./../../../public/images-tm/arc-storagelocations-withnotes.drawio.png)
 
 ---
 
 # ARC storage and sharing
 
-![w:600](./../../../images/arc-storagelocations-withnotes.drawio.png)
+![w:600](./../../../public/images-tm/arc-storagelocations-withnotes.drawio.png)
 
 - DataHUB as "ground truth" / original clone
 - You can sync and communicate all changes to your ARC via the DataHUB
@@ -108,13 +108,13 @@ author:
 
 # Options to share an ARC via the DataHUB
 
-<img src="./../../../images/arc-sharing-options.drawio.png" style="display: block; margin: auto" width=700px>
+<img src="./../../../public/images-tm/arc-sharing-options.drawio.png" style="display: block; margin: auto" width=700px>
 
 
 ---
 
 # ARC DataHUB members // ARC Investigation contacts <!-- fit -->
 
-![](./../../../images/arc-sharing-membersvscontacts.drawio.png)
+![](./../../../public/images-tm/arc-sharing-membersvscontacts.drawio.png)
 
 :bulb: Investigation contacts are not automatically invited as members to the ARC.

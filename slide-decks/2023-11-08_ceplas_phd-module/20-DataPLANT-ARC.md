@@ -22,7 +22,7 @@ author:
 
 # DataPLANT &ndash; <br>The NFDI4Plants
 
-![bg right:50% width:500px](./../../images/dataplant-taskareas.svg)
+![bg right:50% width:500px](./../../public/images-tm/dataplant-taskareas.svg)
 
 - NFDI: "Nationale Forschungsdaten Infrastruktur" &ndash; [www.nfdi.de](https://www.nfdi.de/)
 - Funded since end of 2020
@@ -31,61 +31,61 @@ author:
 
 # Data Stewardship between DataPLANT and the community  <!-- fit -->
 
-![w:880](././../../images/ceplas/ceplas-dataplant-collaboration.drawio.png)
+![w:880](././../../public/images-tm/ceplas/ceplas-dataplant-collaboration.drawio.png)
 
 ---
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../images/arc-datacentricintegration.svg)
+![width:950](./../../public/images-tm/arc-datacentricintegration.svg)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq1.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq1.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq2.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq2.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq3.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq3.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq4.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq4.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq5.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq5.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq6.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq6.png)
 
 ---
 
 # ARC builds on standards
 
-![w:900](./../../images/arc-buildsonstandards1.png)
+![w:900](./../../public/images-tm/arc-buildsonstandards1.png)
 
 ---
 
 # ARC builds on standards + Git
 
-![w:900](./../../images/arc-buildsonstandards2.png)
+![w:900](./../../public/images-tm/arc-buildsonstandards2.png)
 
 ---
 

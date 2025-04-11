@@ -23,13 +23,13 @@ What is metadata?
 
 # ARCs come with comprehensive metadata
 
-![width:900](./../../../images/arc-fillwithdata-seq6.png)
+![width:900](./../../../public/images-tm/arc-fillwithdata-seq6.png)
 
 ---
 
 # ARC builds on standards
 
-![w:500](./../../../images/arc-buildsonstandards3.png)
+![w:500](./../../../public/images-tm/arc-buildsonstandards3.png)
 
 <span class="footer-reference">https://isa-tools.org/ | https://www.commonwl.org/
 https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
@@ -38,7 +38,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
  
 # ARC builds on ISA
 
-![w:900](./../../../images/isamodel-arc01-img01.svg)
+![w:900](./../../../public/images-tm/isamodel-arc01-img01.svg)
 
 <span class="footer-reference">ISA Tools: https://isa-tools.org/format/specification.html</span>
 
@@ -46,13 +46,13 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # ISA abstract model in a nutshell
 
-![w:800](../../../images/start-here/standards-isa-in-a-nutshell.svg)
+![w:800](../../../public/images-tm/start-here/standards-isa-in-a-nutshell.svg)
 
 ---
 
 # ARC builds on ISA to connect data
 
-![w:900](./../../../images/isamodel-arc01-img02.svg)
+![w:900](./../../../public/images-tm/isamodel-arc01-img02.svg)
 
 ---
 
@@ -71,7 +71,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
   <div>
   
-  ![w:800](./../../../images/isamodel-arc01-img02.svg)
+  ![w:800](./../../../public/images-tm/isamodel-arc01-img02.svg)
   
   </div>
 </div>
@@ -82,7 +82,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # Annotation by flattening the knowledge graph
 
-![w:700](./../../../images/swate-parentchildterm.svg)
+![w:700](./../../../public/images-tm/swate-parentchildterm.svg)
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
@@ -91,7 +91,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # Annotation principle
 
-![w:550](./../../../images/swate-parentchildterm2.svg)
+![w:550](./../../../public/images-tm/swate-parentchildterm2.svg)
 
 - Low-friction metadata annotation
 - Familiar spreadsheet, row/column-based environment
@@ -100,7 +100,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 # Adding new building blocks
 
-![w:900](./../../../images/swate-a-newbuildingblocks.png)
+![w:900](./../../../public/images-tm/swate-a-newbuildingblocks.png)
 
 Swate (now integrated in ARCitect) can be used for the annotation of **isa.study.xlsx and isa.assay.xlsx** files
 
@@ -121,7 +121,7 @@ Swate (now integrated in ARCitect) can be used for the annotation of **isa.study
   
   <div>
   
-  ![w:600px](./../../../images/swate-a-overview.png)
+  ![w:600px](./../../../public/images-tm/swate-a-overview.png)
     
   </div>
 </div>
@@ -142,7 +142,7 @@ section {
 }
 </style>
 
-![w:750](./../../../images/swate-a-ontologytermsearch.png)
+![w:750](./../../../public/images-tm/swate-a-ontologytermsearch.png)
 
 Enable **related term directed search** to directly fill cells with child terms
 
@@ -150,13 +150,13 @@ Enable **related term directed search** to directly fill cells with child terms
 
 # Fill your table with ontology terms
 
-![w:800](./../../../images/swate-a-ontologytermsearch2.png)
+![w:800](./../../../public/images-tm/swate-a-ontologytermsearch2.png)
 
 ---
 
 # Realization of lab-specific metadata templates
 
-![w:600px](./../../../images/swate-metadatatemplates.png)
+![w:600px](./../../../public/images-tm/swate-metadatatemplates.png)
 
 Facilities can define their most common workflows as templates
 
@@ -167,13 +167,13 @@ Facilities can define their most common workflows as templates
 - DataPLANT curated
 - Community templates
 
-![bg right w:450](./../../../images/swate-a-templates.png)
+![bg right w:450](./../../../public/images-tm/swate-a-templates.png)
 
 ---
 
 # Build on existing well-established standards
 
-![w:800](../../../images/start-here/standards.svg)
+![w:800](../../../public/images-tm/start-here/standards.svg)
 
 Integration of established (meta)data standards ensures compatibility by design
 
@@ -181,20 +181,20 @@ Integration of established (meta)data standards ensures compatibility by design
 
 # ISA and CWL – Connected by similarity
 
-![w:800](../../../images/start-here/standards-isa-cwl.svg)
+![w:800](../../../public/images-tm/start-here/standards-isa-cwl.svg)
 
 <!-- 
 ---
 
 # Hierarchical combination of ontologies
 
-![w:800](./../../../images/swate-ontologycombination.svg)
+![w:800](./../../../public/images-tm/swate-ontologycombination.svg)
 
 ---
 
 # Checklists and Templates
 
-![w:800px](./../../../images/swate-templateschecklists.svg)
+![w:800px](./../../../public/images-tm/swate-templateschecklists.svg)
 
 Metadata standards or repository requirements can be represented as templates
 

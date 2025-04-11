@@ -22,7 +22,7 @@ cd src/docs/teaching-materials/disseminations/2023-11-08_CEPLAS-module
 
 ```bash
 
-marpTheme=../../style/marp-theme_dataplant-ceplas-ccby.css
+marpTheme=../../style/marp/marp-theme_dataplant-ceplas-ccby.css
 
 for unit in *.md; do
     

@@ -43,79 +43,79 @@ August 16th, 2023
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../images/arc-datacentricintegration.svg)
+![width:950](./../../public/images-tm/arc-datacentricintegration.svg)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq1.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq1.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq2.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq2.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq3.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq3.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq4.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq4.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq5.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq5.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../images/arc-fillwithdata-seq6.png)
+![width:950](./../../public/images-tm/arc-fillwithdata-seq6.png)
 
 ---
 
-![left h:640](./../../images/user-challenges-002.svg)
+![left h:640](./../../public/images-tm/user-challenges-002.svg)
 
 ---
 
-![bg cover](./../../images/dataplant-bigpicture-seq1.png)
+![bg cover](./../../public/images-tm/dataplant-bigpicture-seq1.png)
 
 ---
 
-![bg cover](./../../images/dataplant-bigpicture-seq2.png)
+![bg cover](./../../public/images-tm/dataplant-bigpicture-seq2.png)
 
 ---
 
-![bg cover](./../../images/dataplant-bigpicture-seq3.png)
+![bg cover](./../../public/images-tm/dataplant-bigpicture-seq3.png)
 
 ---
 
-![bg cover](./../../images/dataplant-bigpicture-seq4.png)
+![bg cover](./../../public/images-tm/dataplant-bigpicture-seq4.png)
 
 ---
 
-![bg cover](./../../images/dataplant-bigpicture-seq5.png)
+![bg cover](./../../public/images-tm/dataplant-bigpicture-seq5.png)
 
 ---
 
-![bg cover](./../../images/dataplant-bigpicture-seq6.png)
+![bg cover](./../../public/images-tm/dataplant-bigpicture-seq6.png)
 
 ---
 
-![bg cover](./../../images/dataplant-bigpicture-seq7.png)
+![bg cover](./../../public/images-tm/dataplant-bigpicture-seq7.png)
 
 ---
 
-![bg cover](./../../images/dataplant-bigpicture-seq8.png)
+![bg cover](./../../public/images-tm/dataplant-bigpicture-seq8.png)
 
 --- 
 

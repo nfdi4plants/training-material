@@ -33,19 +33,19 @@ title: Hands-on
 
 ## Divide and conquer for reproducibility
 
-![](../../../images/start-here/arc-prototypic-study-divide-conquer.svg)
+![](../../../public/images-tm/start-here/arc-prototypic-study-divide-conquer.svg)
 
 ---
 
 ## Identifying the ‘study’ part
 
-![w:900](../../../images/start-here/arc-prototypic-study-identify.svg)
+![w:900](../../../public/images-tm/start-here/arc-prototypic-study-identify.svg)
 
 ---
 
 ## A table-based organization schema
 
-![w:700](../../../images/start-here/arc-prototypic-metadata-table-representation.svg)
+![w:700](../../../public/images-tm/start-here/arc-prototypic-metadata-table-representation.svg)
 
 ---
 
@@ -53,7 +53,7 @@ title: Hands-on
 
 This allows you to reference the free-text, human-readable protocol.
 
-![w:700](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-protocolref.svg)
+![w:700](../../../public/kb/src/assets/images/start-here/arc-prototypic-study-protocolref.svg)
 
 :bulb: It is recommended that the protocol is in an open format (.md|.txt|.docx|…)
 :bulb: But everything is possible also an URI to an electronic lab notebook
@@ -62,7 +62,7 @@ This allows you to reference the free-text, human-readable protocol.
 
 ## Parameterizing the ‘study’
 
-![w:900](../../../images/start-here/arc-prototypic-study-parameterization.svg)
+![w:900](../../../public/images-tm/start-here/arc-prototypic-study-parameterization.svg)
 
 ---
 
@@ -94,7 +94,7 @@ This allows you to reference the free-text, human-readable protocol.
 
 ## OLS: Finding the right metadata vocabulary
 
-![w:1000](../../../images/teaching-ontologies/ontology-lookup-service.svg)
+![w:1000](../../../public/images-tm/teaching-ontologies/ontology-lookup-service.svg)
 
 Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
@@ -102,7 +102,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
 ## Finding the metadata vocabulary and descriptors
 
-![](../../../images/start-here/arc-prototypic-metadata.svg)
+![](../../../public/images-tm/start-here/arc-prototypic-metadata.svg)
 
 ---
 
@@ -179,25 +179,25 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 ---
 ## Identifying assays
 
-![](../../../images/start-here/arc-prototypic-assay-identify.svg)
+![](../../../public/images-tm/start-here/arc-prototypic-assay-identify.svg)
 
 ---
 
 ## Assay for sugar measurement
 
-![w:900](../../../images/start-here/arc-prototypic-assay-sugar.svg)
+![w:900](../../../public/images-tm/start-here/arc-prototypic-assay-sugar.svg)
 
 ---
 
 ## Separating different assay elements
 
-![w:800](../../../images/start-here/arc-prototypic-assay-modular2.svg)
+![w:800](../../../public/images-tm/start-here/arc-prototypic-assay-modular2.svg)
 
 ---
 
 ## Isolating the lab processes in an assay
 
-![w:600](../../../images/start-here/arc-prototypic-assay-modular1.svg)
+![w:600](../../../public/images-tm/start-here/arc-prototypic-assay-modular1.svg)
 
 ---
 
@@ -208,7 +208,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> Temperature  
   - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 95 degree celsius
 
-![bg right w:600](../../../images/start-here/arc-prototypic-assay-labprocess1-extraction.svg)
+![bg right w:600](../../../public/images-tm/start-here/arc-prototypic-assay-labprocess1-extraction.svg)
 
 ---
 
@@ -223,7 +223,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 - <span style="display: inline-block;width: 1em;height: 1em;background-color: #FFC000;"></span> cycle count
   - <span style="display: inline-block;width: 1em;height: 1em;background-color: #2D3E50;"></span> 5
 
-![bg right w:600](../../../images/start-here/arc-prototypic-assay-labprocess2-measurement.svg)
+![bg right w:600](../../../public/images-tm/start-here/arc-prototypic-assay-labprocess2-measurement.svg)
 
 ---
 
@@ -257,7 +257,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 </div>
 <div>
 
-![](../../../images/start-here/arc-prototypic-assay-sop-proteomics.svg)
+![](../../../public/images-tm/start-here/arc-prototypic-assay-sop-proteomics.svg)
 </div>
 
 </div>
@@ -266,13 +266,13 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
 ## Applying standard procedures to sample record
 
-![w:700](../../../images/start-here/arc-prototypic-assay-sop.svg)
+![w:700](../../../public/images-tm/start-here/arc-prototypic-assay-sop.svg)
 
 ---
 <!-- 
 ## Realization of lab-specific metadata with templates
 
-![w:650px](./../../../images/swate-metadatatemplates.png)
+![w:650px](./../../../public/images-tm/swate-metadatatemplates.png)
 
 Facilities can define their most common workflows as templates
 

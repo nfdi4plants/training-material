@@ -22,12 +22,12 @@ June 28th, 2023
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../../images/arc-datacentricintegration.svg)
+![width:950](./../../../public/images-tm/arc-datacentricintegration.svg)
 
 
 # The ARC &ndash; a package for your research data
 
-![width:950](./../../../images/arc-fillwithdata-seq8.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq8.png)
 
 
 # The DataHUB &ndash; a place to share your ARCs
@@ -35,7 +35,7 @@ June 28th, 2023
 <style scoped>
 
 section {
-  background-image: url('././../../../images/datahub/datahub-icon-placeholder.drawio.svg');
+  background-image: url('././../../../public/images-tm/datahub/datahub-icon-placeholder.drawio.svg');
   background-repeat: no-repeat;  
   background-size: 10%;
   background-position: 96% 5%;
@@ -44,7 +44,7 @@ section {
 
 </style>
 
-![](./../../../images/datahub/datahub-landingpage.png)
+![](./../../../public/images-tm/datahub/datahub-landingpage.png)
 
 
 DataHUB: https://git.nfdi4plants.org/
@@ -53,21 +53,21 @@ DataHUB: https://git.nfdi4plants.org/
 
 ## Status quo: Institute FileShare
 
-![w:900](./../../../images/ceplas/insitutefileshare01.drawio.svg)
+![w:900](./../../../public/images-tm/ceplas/insitutefileshare01.drawio.svg)
 
 
 ## Moving from FileShare to DataHUB
 
-![w:900](./../../../images/ceplas/insitutefileshare02todatahub.drawio.svg)
+![w:900](./../../../public/images-tm/ceplas/insitutefileshare02todatahub.drawio.svg)
 
 ## Moving from FileShare to DataHUB &ndash; *via* ARCs
 
-![w:900](./../../../images/ceplas/insitutefileshare03todatahubviaarc.drawio.svg)
+![w:900](./../../../public/images-tm/ceplas/insitutefileshare03todatahubviaarc.drawio.svg)
 
 
 ## There's a tiny burden
 
-![w:500](./../../../images/user-challenges-002.svg)
+![w:500](./../../../public/images-tm/user-challenges-002.svg)
 
 
 ## The ARC Club &ndash; Setting
@@ -79,7 +79,7 @@ DataHUB: https://git.nfdi4plants.org/
 - Agile, communicative, collaborative, positive
 - Technical *ad-hoc* support by DataPLANT
 
-![bg right:40% w:450px](./../../../images/ceplas/arc-club.drawio.svg)
+![bg right:40% w:450px](./../../../public/images-tm/ceplas/arc-club.drawio.svg)
 
 ## The ARC Club &ndash; Goals
 
@@ -227,7 +227,7 @@ Recommended (for trouble-shooting):
 
 If you do not have a DataPLANT account, please register at the <a href="https://register.nfdi4plants.org" target="_blank">DataPLANT website</a>.
 
-![w:800](./../../../images/dataplant-registration.png)
+![w:800](./../../../public/images-tm/dataplant-registration.png)
 
 ---
 
@@ -235,7 +235,7 @@ If you do not have a DataPLANT account, please register at the <a href="https://
 
 Please add your `Project/consortium` (e.g. CEPLAS, SFB, TRR) and choose the role `Guest`
 
-![bg right:40% fit](./../../../images/dataplant-registration-roles.png)
+![bg right:40% fit](./../../../public/images-tm/dataplant-registration-roles.png)
 
 ---
 
@@ -291,7 +291,7 @@ Check if the ARC Commander is functional by displaying the ARC Commander version
 arc --version
 ```
 
-![bg right:30% width:300](./../../../images/arc-manual-setup.png)
+![bg right:30% width:300](./../../../public/images-tm/arc-manual-setup.png)
 
 ---
 
@@ -348,79 +348,79 @@ August 16th, 2023
 
 # Annotated Research Context (ARC)
 
-![width:950](./../../../images/arc-datacentricintegration.svg)
+![width:950](./../../../public/images-tm/arc-datacentricintegration.svg)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq1.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq1.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq2.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq2.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq3.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq3.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq4.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq4.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq5.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq5.png)
 
 ---
 
 # What does an ARC look like?
 
-![width:950](./../../../images/arc-fillwithdata-seq6.png)
+![width:950](./../../../public/images-tm/arc-fillwithdata-seq6.png)
 
 ---
 
-![left h:640](./../../../images/user-challenges-002.svg)
+![left h:640](./../../../public/images-tm/user-challenges-002.svg)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq1.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq1.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq2.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq2.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq3.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq3.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq4.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq4.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq5.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq5.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq6.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq6.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq7.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq7.png)
 
 ---
 
-![bg cover](./../../../images/dataplant-bigpicture-seq8.png)
+![bg cover](./../../../public/images-tm/dataplant-bigpicture-seq8.png)
 
 --- 
 
@@ -446,7 +446,7 @@ August 16th, 2023
 
 ## Initiate the ARC folder structure
 
-![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../public/images-tm/arcitect/arcitect-help-sidebar.drawio.svg)
 
 1. Create a **New ARC** (2)
 2. Select a location and name for your ARC
@@ -462,7 +462,7 @@ August 16th, 2023
 
 💡 Make sure that no ARC exists at  `https://git.nfdi4plants.org/<YourUserName>/<YourARC>`. Otherwise you will sync to that ARC.
 
-![bg right:30% w:450](./../../../images/arcitect/arcitect-arcpanel.png)
+![bg right:30% w:450](./../../../public/images-tm/arcitect/arcitect-arcpanel.png)
 
 ---
 
@@ -470,7 +470,7 @@ August 16th, 2023
 
 by clicking "Add Study" and entering an identifier for your study
 
-![bg right w:500](./../../../images/arcitect/arcitect-arcpanel-study01.png)
+![bg right w:500](./../../../public/images-tm/arcitect/arcitect-arcpanel-study01.png)
 
 ---
 
@@ -482,7 +482,7 @@ In the study panel you can add
 - people, and
 - publications
 
-![bg right w:600](./../../../images/arcitect/arcitect-studypanel.png)
+![bg right w:600](./../../../public/images-tm/arcitect/arcitect-studypanel.png)
 
 ---
 
@@ -490,7 +490,7 @@ In the study panel you can add
 
 In the file tree you can **add protocols**
 
-![bg right w:500](./../../../images/arcitect/arcitect-arcpanel-study02.png)
+![bg right w:500](./../../../public/images-tm/arcitect/arcitect-arcpanel-study02.png)
 
 ---
 
@@ -500,7 +500,7 @@ You can either
 - directly write a **new protocol** within the ARCitect or
 - import an existing one from your computer
 
-![w:800](./../../../images/arcitect/arcitect-arcpanel-protocol.png)
+![w:800](./../../../public/images-tm/arcitect/arcitect-arcpanel-protocol.png)
 
 ---
 
@@ -508,7 +508,7 @@ You can either
 
 by clicking "Add Assay" and entering an identifier for your assay
 
-![bg right w:500](./../../../images/arcitect/arcitect-arcpanel-assay01.png)
+![bg right w:500](./../../../public/images-tm/arcitect/arcitect-arcpanel-assay01.png)
 
 ---
 
@@ -518,7 +518,7 @@ You can either
 - link your new assay to an existing study in your ARC or
 - create a new one
 
-![bg right w:500](./../../../images/arcitect/arcitect-arcpanel-assay02.png)
+![bg right w:500](./../../../public/images-tm/arcitect/arcitect-arcpanel-assay02.png)
 
 ---
 
@@ -532,7 +532,7 @@ In the assay panel you can
    - technology type, and
    - technology platform.
 
-![bg right w:700](./../../../images/arcitect/arcitect-assaypanel.png)
+![bg right w:700](./../../../public/images-tm/arcitect/arcitect-assaypanel.png)
 
 ---
 
@@ -546,7 +546,7 @@ In the file tree you can
 
 :warning: Depending on the file size, this may take a while. Test this with a small batch of files first.
 
-![bg right:40% w:400](./../../../images/arcitect/arcitect-arcpanel-assay03.png)
+![bg right:40% w:400](./../../../public/images-tm/arcitect/arcitect-arcpanel-assay03.png)
 
 ---
 
@@ -556,7 +556,7 @@ Click **Login** (1) in the sidebar to login to the DataHUB.
 
 :bulb: This automatically opens your browser at the DataHUB (https://git.nfdi4plants.org) and asks you to login, if you are not already logged in. 
 
-![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../public/images-tm/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -564,7 +564,7 @@ Click **Login** (1) in the sidebar to login to the DataHUB.
 
 From the sidebar, navigate to **Versions** (6)
 
-![bg right:40% w:250](./../../../images/arcitect/arcitect-help-sidebar.drawio.svg)
+![bg right:40% w:250](./../../../public/images-tm/arcitect/arcitect-help-sidebar.drawio.svg)
 
 ---
 
@@ -575,7 +575,7 @@ The versions panel allows you to
 - sync the changes to the DataHUB, and
 - check the history of your ARC
 
-![bg right w:650](./../../../images/arcitect/arcitect-versionspanel.png)
+![bg right w:650](./../../../public/images-tm/arcitect/arcitect-versionspanel.png)
 
 ---
 
@@ -585,7 +585,7 @@ If you are logged in, the versions panel shows
 - your DataHUB's *Full Name* and *eMail*
 - the URL of the current ARC in the DataHUB `https://git.nfdi4plants.org/<YourUserName>/<YourARC>`
 
-![bg right w:650](./../../../images/arcitect/arcitect-versionspanel.png)
+![bg right w:650](./../../../public/images-tm/arcitect/arcitect-versionspanel.png)
 ---
 
 
@@ -600,7 +600,7 @@ August 16th, 2023
 
 ## Moving from FileShare to DataHUB &ndash; *via* ARCs
 
-![w:900](./../../../images/ceplas/insitutefileshare03todatahubviaarc.drawio.svg)
+![w:900](./../../../public/images-tm/ceplas/insitutefileshare03todatahubviaarc.drawio.svg)
 
 ---
 
@@ -682,7 +682,7 @@ arc sync -f -r https://git.nfdi4plants.org/hhu-plant-biochemistry/<Investigation
 
 ## Administration / Backup
 
-![Alt text](./../../../images/ceplas/insitutefileshare04-backupclones.drawio.svg)
+![Alt text](./../../../public/images-tm/ceplas/insitutefileshare04-backupclones.drawio.svg)
 
 ---
 
@@ -747,7 +747,7 @@ git clone "https://demo-user:5ehDYeHcqP2MqVXsNNPu@git.nfdi4plants.org/teaching/d
 
 <img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... **annotate the experimental data**
 
-![bg right:40% width:400](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
+![bg right:40% width:400](./../../../public/images-tm/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -757,7 +757,7 @@ git clone "https://demo-user:5ehDYeHcqP2MqVXsNNPu@git.nfdi4plants.org/teaching/d
 
 ## ARC builds on ISA
 
-![w:900](./../../../images/isamodel-arc01-img01.svg)
+![w:900](./../../../public/images-tm/isamodel-arc01-img01.svg)
 
 https://isa-tools.org/format/specification.html
 
@@ -765,19 +765,19 @@ https://isa-tools.org/format/specification.html
 
 # ARC builds on ISA
 
-![w:1100](./../../../images/isamodel-arc01-img02.svg)
+![w:1100](./../../../public/images-tm/isamodel-arc01-img02.svg)
 
 ---
 
 # isa.<>.xlsx files within ARCs
 
-![w:1000](./../../../images/isamodel-arc01-img03.svg)
+![w:1000](./../../../public/images-tm/isamodel-arc01-img03.svg)
 
 ---
 
 # Study and assay files are registered in the investigation file 
 
-![w:950](./../../../images/isamodel-arc01-img04.svg)
+![w:950](./../../../public/images-tm/isamodel-arc01-img04.svg)
 
 ---
 
@@ -788,17 +788,17 @@ Output building blocks:
 - Raw Data File
 - Derived Data File
 
-![bg right w:600](./../../../images/isamodel-arc01-img05.svg)
+![bg right w:600](./../../../public/images-tm/isamodel-arc01-img05.svg)
 
 ---
 
-![bg w:1050](./../../../images/isamodel-arc01-img6.svg)
+![bg w:1050](./../../../public/images-tm/isamodel-arc01-img6.svg)
 
 ---
 
 # Annotation Building Block types
 
-![bg right:40% w:520](./../../../images/swate-overview.svg)
+![bg right:40% w:520](./../../../public/images-tm/swate-overview.svg)
 
 - Source Name (Input)
 - Protocol Columns
@@ -821,7 +821,7 @@ Output building blocks:
 ## Swate Overview
 
 <figure>
-  <img src="./../../../images/swate-overlay-exp.jpg?v27.01.202" style="height: 400px">
+  <img src="./../../../public/images-tm/swate-overlay-exp.jpg?v27.01.202" style="height: 400px">
   <figcaption>Major areas of the Swate user interface.</figcaption>
 </figure>
 
@@ -863,7 +863,7 @@ Create a Swate annotation table via the <kbd>create annotation table</kbd> butto
 </div>
 
 <div class="columns-right">
-    <img src="./../../../images/swate-createannotationtable-exp.jpg" style="width: 1200px">
+    <img src="./../../../public/images-tm/swate-createannotationtable-exp.jpg" style="width: 1200px">
 </div>
 
 </div>
@@ -880,7 +880,7 @@ Create a Swate annotation table via the <kbd>create annotation table</kbd> butto
 
 > :bulb: This adds three columns to your table, one visible and **two** hidden.
 
-![bg right:30% w:400](./../../../images/swate-addbuildingblock-exp.jpg?v31.01.22)
+![bg right:30% w:400](./../../../public/images-tm/swate-addbuildingblock-exp.jpg?v31.01.22)
 
 ---
 ## Insert values to annotate your data
@@ -937,7 +937,7 @@ Click the <kbd>Update Ontology Terms</kbd> quick access buttons.
 
 At this point. Your table should look similar to this:
 
-![w:1000](./../../../images/training-demo-talinum/demo-isa-study.png)
+![w:1000](./../../../public/images-tm/training-demo-talinum/demo-isa-study.png)
 
 ---
 
@@ -971,7 +971,7 @@ Try to add suitable *building blocks* for other pieces of metadata from the plan
     - You will see a preview of all building blocks which are part of this template.
 2. Click <kbd>Add template</kbd> to add all Building Blocks from the template to your table, which <u>do not exist yet</u>.
 
-![bg right:30% w:350px](./../../../images/swate-templates.svg)
+![bg right:30% w:350px](./../../../public/images-tm/swate-templates.svg)
 
 ---
 

@@ -16,21 +16,21 @@ author:
 # Login into eLabFTW HHU
 
 
-![alt text](../../../images/elabftw/elabftw-hhu-login.png)
+![alt text](../../../public/images-tm/elabftw/elabftw-hhu-login.png)
 
 ---
 
 # eLab-FTW - Dashboard
 
 
-![alt text](../../../images/elabFTW/elabFTW-dashboard.png)
+![alt text](../../../public/images-tm/elabFTW/elabFTW-dashboard.png)
 
 ---
 
 # eLabFTW - Experiment panel
 
 
-![alt text](../../../images/elabFTW/elabFTW-experiment-panel.png)
+![alt text](../../../public/images-tm/elabFTW/elabFTW-experiment-panel.png)
 
 Default "working area" for protocols of daily lab work
 
@@ -39,7 +39,7 @@ Default "working area" for protocols of daily lab work
 # eLabFTW - Resource panel
 
 
-![alt text](../../../images/elabFTW/elabFTW-resource-panel.png)
+![alt text](../../../public/images-tm/elabFTW/elabFTW-resource-panel.png)
 
 Place to categorize content
 
@@ -48,7 +48,7 @@ Place to categorize content
 # eLabFTW - Experiment information
 
 
-![alt text](../../../images/elabFTW/elabftw-experiment-settings.png)
+![alt text](../../../public/images-tm/elabFTW/elabftw-experiment-settings.png)
 
 ---
 
@@ -69,7 +69,7 @@ Use keywords you would search/filter for
 
 # eLabFTW - Extra fields
 
-![w:400](../../../images/elabFTW/elabftw-extra-field.png)
+![w:400](../../../public/images-tm/elabFTW/elabftw-extra-field.png)
 
 ---
 
@@ -77,7 +77,7 @@ Use keywords you would search/filter for
 
 Dropdown            |  URL | Number          |  Date
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![alt text](../../../images/elabFTW/elabftw-extra-field-ex1.png)  |  ![alt text](../../../images/elabFTW/elabftw-extra-field-ex2.png) | ![alt text](../../../images/elabFTW/elabftw-extra-field-ex3.png) | ![alt text](../../../images/elabFTW/elabftw-extra-field-ex4.png)
+![alt text](../../../public/images-tm/elabFTW/elabftw-extra-field-ex1.png)  |  ![alt text](../../../public/images-tm/elabFTW/elabftw-extra-field-ex2.png) | ![alt text](../../../public/images-tm/elabFTW/elabftw-extra-field-ex3.png) | ![alt text](../../../public/images-tm/elabFTW/elabftw-extra-field-ex4.png)
 
 ---
 
@@ -129,7 +129,7 @@ Use unique identifier & naming conventions ( e.g. Methode MTH0001, Media MED0001
 
 # eLabFTW - Scheduler
 
-![w:900](../../../images/elabFTW/elabftw-scheduler.png)
+![w:900](../../../public/images-tm/elabFTW/elabftw-scheduler.png)
 
 ---
 
@@ -137,7 +137,7 @@ Use unique identifier & naming conventions ( e.g. Methode MTH0001, Media MED0001
 
 You can modify booking parameter for reach Resource
 
-![alt text](../../../images/elabFTW/elabftw-booking-parameter.png)
+![alt text](../../../public/images-tm/elabFTW/elabftw-booking-parameter.png)
 
 ---
 

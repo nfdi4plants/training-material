@@ -158,49 +158,49 @@ Time | Topics
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq1.png)
+![h:500](./../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq1.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq2.png)
+![h:500](./../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq2.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq3.png)
+![h:500](./../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq3.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq4.png)
+![h:500](./../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq4.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq5.png)
+![h:500](./../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq5.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq6.png)
+![h:500](./../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq6.png)
 
 ---
 
 # The Research Data Lifecycle
 
-![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq7.png)
+![h:500](./../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq7.png)
 
 ---
 
 # The Research Data Lifecycle ***is mutable***
 
-![h:500](./../../images/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
+![h:500](./../../public/images-tm/teaching-rdm-fundamentals/researchdatalifecycle-seq9.png)
 
 ---
 
@@ -230,7 +230,7 @@ footer {
 
 https://doi.org/10.1038/sdata.2016.18
 
-![bg right w:600](./../../images/wilkinson2016-fair.png)
+![bg right w:600](./../../public/images-tm/wilkinson2016-fair.png)
 
 ---
 
@@ -246,7 +246,7 @@ object-fit: cover;
 }
 </style>
 
-![](./../../images/ceplas/fair-benefits.png)
+![](./../../public/images-tm/ceplas/fair-benefits.png)
 
 ---
 
@@ -322,13 +322,13 @@ object-fit: cover;
 
 # Scattered Data Silos
 
-![w:900](././../../images/ceplas/ceplas-data-fragmentation.png)
+![w:900](././../../public/images-tm/ceplas/ceplas-data-fragmentation.png)
 
 ---
 
 # Scattered Data Silos
 
-![w:900](././../../images/ceplas/ceplas-data-fragmentation-mibinet-trr.png)
+![w:900](././../../public/images-tm/ceplas/ceplas-data-fragmentation-mibinet-trr.png)
 
 ---
 
@@ -344,4 +344,4 @@ object-fit: cover;
 }
 </style>
 
-![](./../../images/ceplas/fair-unfair-stories.png)
+![](./../../public/images-tm/ceplas/fair-unfair-stories.png)

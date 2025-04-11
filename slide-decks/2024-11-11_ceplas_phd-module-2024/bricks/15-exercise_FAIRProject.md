@@ -36,4 +36,4 @@ Participant n | Participant n+1
 
 # Let's discuss your findings
 
-![bg right:40% w:500](./../../../images/user-challenges-002.svg)
+![bg right:40% w:500](./../../../public/images-tm/user-challenges-002.svg)

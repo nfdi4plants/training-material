@@ -48,15 +48,15 @@ Dominik Brilhaus
 
 <br>
 
-![bg left w:350](./../../images/rdmkit-data-life-cycle-9.svg)
+![bg left w:350](./../../public/images-tm/rdmkit-data-life-cycle-9.svg)
 
 <span class="footer-reference">https://rdmkit.elixir-europe.org, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>
 
 ---
 
-# Collect <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-02-collect.png'/>
+# Collect <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-02-collect.png'/>
 
-![width:800](./../../images/arc-fillwithdata-experimental.png)
+![width:800](./../../public/images-tm/arc-fillwithdata-experimental.png)
 
 <!-- 
 
@@ -69,7 +69,7 @@ Dominik Brilhaus
 
 ---
 
-# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-03-process.png'/>
+# Process (e.g. annotate)  <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-03-process.png'/>
 
 <style scoped>
 
@@ -83,7 +83,7 @@ object-position: 50% 60%;
 </style>
 
 
-![](./../../images/swate-metadatatemplates.png)
+![](./../../public/images-tm/swate-metadatatemplates.png)
 
 <!-- 
 
@@ -92,54 +92,54 @@ object-position: 50% 60%;
 
 ---
 
-# Analyse <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-04-analyse.png'/>
+# Analyse <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-04-analyse.png'/>
 
 <!-- 
 - run fastqc
 - receive back results
 -->
 
-![w:800](./../../images/tpj16474-fig-0005-m.jpg)
+![w:800](./../../public/images-tm/tpj16474-fig-0005-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
 ---
 
-# Preserve  <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
+# Preserve  <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
 2. Publication: DOI
 -->
 
-![h:400](./../../images/tpj16474-fig-0008-m-modified.png)
+![h:400](./../../public/images-tm/tpj16474-fig-0008-m-modified.png)
 
 <span class="footer-reference"> adapted from Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
 ---
 
-# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
+# Preserve and publish <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-05-preserve.png'/>
 
 <!--
 1. Validation: CQC on each DataHUB commit
 2. Publication: DOI
 -->
 
-![h:400](././../../images/tpj16474-fig-0008-m.jpg)
+![h:400](././../../public/images-tm/tpj16474-fig-0008-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
 ---
 
-# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-06-share.png'/>
+# Share and collaborate <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-06-share.png'/>
 
-![w:700](./../../images/arc-datasharing-experts02-img1.png)
+![w:700](./../../public/images-tm/arc-datasharing-experts02-img1.png)
 
 ---
 
-# Reuse <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-07-reuse.png'/>
+# Reuse <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-07-reuse.png'/>
 
-![w:800](./../../images/tpj16474-fig-0001-m.jpg)
+![w:800](./../../public/images-tm/tpj16474-fig-0001-m.jpg)
 
 <!-- 
 - via ARC https://arcregistry.nfdi4plants.org/arcsearch
@@ -152,7 +152,7 @@ object-position: 50% 60%;
 
 # **Mutable** data life cycle
 
-![w:700](./../../images/tpj16474-fig-0006-m.jpg)
+![w:700](./../../public/images-tm/tpj16474-fig-0006-m.jpg)
 
 <!-- 
 
@@ -164,9 +164,9 @@ object-position: 50% 60%;
 
 ---
 
-# Plan (ARC scale) <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
+# Plan (ARC scale) <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
-![w:800](./../../images/tpj16474-fig-0007-m.jpg)
+![w:800](./../../public/images-tm/tpj16474-fig-0007-m.jpg)
 
 <span class="footer-reference"> Weil, H.L., Schneider, K., et al. (2023), PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research. Plant J. https://doi.org/10.1111/tpj.16474 </span>
 
@@ -187,13 +187,13 @@ object-position: 50% 60%;
 
 ---
 
-# Plan (proposal scale) <img align="left" class="center" style="height:75px" src='./../../images/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
+# Plan (proposal scale) <img align="left" class="center" style="height:75px" src='./../../public/images-tm/teaching-rdm-fundamentals/screenshot-rdmkit-01-plan.png'/>
 
 <span class="footer-reference">**Zhou *et al.* (2023)**, DataPLAN: a web-based data management plan generator for the plant sciences, bioRxiv 2023.07.07.548147; doi: https://doi.org/10.1101/2023.07.07.548147 </span>
 
 https://dmpg.nfdi4plants.org
 
-![w:800](././../../images/zhou2023-dataplan.png)
+![w:800](././../../public/images-tm/zhou2023-dataplan.png)
 
 ---
 

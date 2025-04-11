@@ -13,22 +13,22 @@ author:
 
 # CEPLAS &ndash; One cluster, four locations
 
-![w:800](./../../../images/ceplas/ceplas-data-fragmentation00.drawio.png)
+![w:800](./../../../public/images-tm/ceplas/ceplas-data-fragmentation00.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../../images/ceplas/ceplas-data-fragmentation01.drawio.png)
+![w:800](./../../../public/images-tm/ceplas/ceplas-data-fragmentation01.drawio.png)
 
 ---
 
 # Data silos impede collaboration
 
-![w:800](./../../../images/ceplas/ceplas-data-fragmentation02.drawio.png)
+![w:800](./../../../public/images-tm/ceplas/ceplas-data-fragmentation02.drawio.png)
 
 ---
 
 # Missing interfaces impede collaboration
 
-![w:800](./../../../images/ceplas/hhu-services-withoutdatahub.drawio.png)
+![w:800](./../../../public/images-tm/ceplas/hhu-services-withoutdatahub.drawio.png)

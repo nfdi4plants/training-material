@@ -10,4 +10,4 @@ date: 2022-10-21
 
 Please add your `Project/consortium` (e.g. CEPLAS, SFB, TRR) and choose the role `Guest`
 
-![bg right:40% fit](./../../../../images/dataplant-registration-roles.png)
+![bg right:40% fit](./../../../../public/images-tm/dataplant-registration-roles.png)

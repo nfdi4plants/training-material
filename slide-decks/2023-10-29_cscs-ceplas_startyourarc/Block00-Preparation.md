@@ -45,7 +45,7 @@ ul{
 
 If you do not have a DataPLANT account, please register at the <a href="https://register.nfdi4plants.org" target="_blank">DataPLANT website</a>.
 
-![w:800](./../../images/dataplant-registration.png)
+![w:800](./../../public/images-tm/dataplant-registration.png)
 
 ---
 
@@ -53,7 +53,7 @@ If you do not have a DataPLANT account, please register at the <a href="https://
 
 Please add your `Project/consortium` (e.g. CEPLAS, SFB, TRR) and choose the role `Guest`
 
-![bg right:40% fit](./../../images/dataplant-registration-roles.png)
+![bg right:40% fit](./../../public/images-tm/dataplant-registration-roles.png)
 
 ---
 

@@ -65,7 +65,7 @@ title: Code Reproducibility
 
 ## Common Workflow Language
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
+![](../../../public/kb/src/assets/images/start-here/arc-prototypic-workflows-cwl2.svg)
 
 ---
 
@@ -117,7 +117,7 @@ Platform that makes using code-based tools easy to use in a graphical user inter
 <div class="two-columns">
 <div>
 
-![](./../../../images/galaxy-integration.drawio.png)
+![](./../../../public/images-tm/galaxy-integration.drawio.png)
 
 </div>
 

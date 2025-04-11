@@ -27,7 +27,7 @@ date: 2023-06-14
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
+![bg fit](./../../../public/images-tm/ceplas/ceplas-background-title.drawio.svg)
 
 Session 03 - Annotate your data
 June 14th, 2023
@@ -121,7 +121,7 @@ git clone "https://demo-user:5ehDYeHcqP2MqVXsNNPu@git.nfdi4plants.org/teaching/d
 
 <img align="left" height=35px src='https://raw.githubusercontent.com/nfdi4plants/Branding/master/icons/Swate/Excel/Core/swate-c-40x40.png'/> ... **annotate the experimental data**
 
-![bg right:40% width:400](./../../../images/training-demo-talinum/demo-arc-screenshot.png)
+![bg right:40% width:400](./../../../public/images-tm/training-demo-talinum/demo-arc-screenshot.png)
 
 ---
 
@@ -131,7 +131,7 @@ git clone "https://demo-user:5ehDYeHcqP2MqVXsNNPu@git.nfdi4plants.org/teaching/d
 
 ## ARC builds on ISA
 
-![w:900](./../../../images/isamodel-arc01-img01.svg)
+![w:900](./../../../public/images-tm/isamodel-arc01-img01.svg)
 
 https://isa-tools.org/format/specification.html
 
@@ -142,7 +142,7 @@ https://isa-tools.org/format/specification.html
 
 # ARC builds on ISA
 
-![w:1100](./../../../images/isamodel-arc01-img02.svg)
+![w:1100](./../../../public/images-tm/isamodel-arc01-img02.svg)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_ISA-tab.md -->
@@ -152,7 +152,7 @@ https://isa-tools.org/format/specification.html
 
 # isa.<>.xlsx files within ARCs
 
-![w:1000](./../../../images/isamodel-arc01-img03.svg)
+![w:1000](./../../../public/images-tm/isamodel-arc01-img03.svg)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_ISAxlsx01.md -->
@@ -162,7 +162,7 @@ https://isa-tools.org/format/specification.html
 
 # Study and assay files are registered in the investigation file <!-- fit -->
 
-![w:950](./../../../images/isamodel-arc01-img04.svg)
+![w:950](./../../../public/images-tm/isamodel-arc01-img04.svg)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_ISAxlsx02.md -->
@@ -177,7 +177,7 @@ Output building blocks:
 - Raw Data File
 - Derived Data File
 
-![bg right w:600](./../../../images/isamodel-arc01-img05.svg)
+![bg right w:600](./../../../public/images-tm/isamodel-arc01-img05.svg)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_ISAxlsx03.md -->
@@ -187,7 +187,7 @@ Output building blocks:
 
 # 
 
-![bg w:1050](./../../../images/isamodel-arc01-img6.svg)
+![bg w:1050](./../../../public/images-tm/isamodel-arc01-img6.svg)
 
 <!-- Source to slide(s) -->
 <!-- ../../bricks/ARC_ISAxlsx04.md -->
@@ -198,7 +198,7 @@ Output building blocks:
 
 # Annotation Building Block types <!--fit-->
 
-![bg right:40% w:520](./../../../images/swate-overview.svg)
+![bg right:40% w:520](./../../../public/images-tm/swate-overview.svg)
 
 - Source Name (Input)
 - Protocol Columns
@@ -227,7 +227,7 @@ Output building blocks:
 ## Swate Overview
 
 <figure>
-  <img src="./../../../images/swate-overlay-exp.jpg?v27.01.202" style="height: 400px">
+  <img src="./../../../public/images-tm/swate-overlay-exp.jpg?v27.01.202" style="height: 400px">
   <figcaption>Major areas of the Swate user interface.</figcaption>
 </figure>
 
@@ -271,7 +271,7 @@ Create a Swate annotation table via the <kbd>create annotation table</kbd> butto
 </div>
 
 <div class="columns-right">
-    <img src="./../../../images/swate-createannotationtable-exp.jpg" style="width: 1200px">
+    <img src="./../../../public/images-tm/swate-createannotationtable-exp.jpg" style="width: 1200px">
 </div>
 
 </div>
@@ -288,7 +288,7 @@ Create a Swate annotation table via the <kbd>create annotation table</kbd> butto
 
 > :bulb: This adds three columns to your table, one visible and **two** hidden.
 
-![bg right:30% w:400](./../../../images/swate-addbuildingblock-exp.jpg?v31.01.22)
+![bg right:30% w:400](./../../../public/images-tm/swate-addbuildingblock-exp.jpg?v31.01.22)
 
 
 ---
@@ -346,7 +346,7 @@ Click the <kbd>Update Ontology Terms</kbd> quick access buttons.
 
 At this point. Your table should look similar to this:
 
-![w:1000](./../../../images/training-demo-talinum/demo-isa-study.png)
+![w:1000](./../../../public/images-tm/training-demo-talinum/demo-isa-study.png)
 
 ---
 
@@ -382,7 +382,7 @@ Try to add suitable *building blocks* for other pieces of metadata from the plan
     - You will see a preview of all building blocks which are part of this template.
 2. Click <kbd>Add template</kbd> to add all Building Blocks from the template to your table, which <u>do not exist yet</u>.
 
-![bg right:30% w:350px](./../../../images/swate-templates.svg)
+![bg right:30% w:350px](./../../../public/images-tm/swate-templates.svg)
 
 ---
 

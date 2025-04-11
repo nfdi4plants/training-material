@@ -21,7 +21,7 @@ author:
 
 Dominik Brilhaus, [CEPLAS Data](https://www.ceplas.eu/en/research/data-science-and-data-management/)
 
-![bg fit](./../../../images/ceplas/ceplas-background-title.drawio.svg)
+![bg fit](./../../../public/images-tm/ceplas/ceplas-background-title.drawio.svg)
 
 ---
 
@@ -50,7 +50,7 @@ ul{
 
 If you do not have a DataPLANT account, please register at the <a href="https://register.nfdi4plants.org" target="_blank">DataPLANT website</a>.
 
-![w:800](./../../../images/dataplant-registration.png)
+![w:800](./../../../public/images-tm/dataplant-registration.png)
 
 ---
 
@@ -58,7 +58,7 @@ If you do not have a DataPLANT account, please register at the <a href="https://
 
 Please add your `Project/consortium` (e.g. CEPLAS) and choose the role `Guest`
 
-![bg right:40% fit](./../../../images/dataplant-registration-roles.png)
+![bg right:40% fit](./../../../public/images-tm/dataplant-registration-roles.png)
 
 ---
 
@@ -129,7 +129,7 @@ Check if the ARC Commander is functional by displaying the ARC Commander version
 arc --version
 ```
 
-![bg right:30% width:300](./../../../images/arc-manual-setup.png)
+![bg right:30% width:300](./../../../public/images-tm/arc-manual-setup.png)
 
 ---
 

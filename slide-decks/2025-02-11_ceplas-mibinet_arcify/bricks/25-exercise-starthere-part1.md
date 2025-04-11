@@ -31,37 +31,37 @@ title: Hands-on
 
 ## ARC: Annotated research context
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-bag.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-bag.svg)
 
 ---
 
 ## The ARC scaffold structure
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-scaffold.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-scaffold.svg)
 
 ---
 
 ## A small prototypic project
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic.svg)
+![](../../../public/kb/src/assets/images/start-here/arc-prototypic.svg)
 
 ---
 
 ## Divide and conquer for reproducibility
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-divide-conquer.svg)
+![](../../../public/kb/src/assets/images/start-here/arc-prototypic-study-divide-conquer.svg)
 
 ---
 
 ## Identifying the ‘study’ part
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-identify.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-prototypic-study-identify.svg)
 
 ---
 
 ## A table-based organization schema
 
-![w:700](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-metadata-table-representation.svg)
+![w:700](../../../public/kb/src/assets/images/start-here/arc-prototypic-metadata-table-representation.svg)
 
 ---
 
@@ -69,7 +69,7 @@ title: Hands-on
 
 This allows you to reference the free-text, human-readable protocol.
 
-![w:700](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-protocolref.svg)
+![w:700](../../../public/kb/src/assets/images/start-here/arc-prototypic-study-protocolref.svg)
 
 :bulb: It is recommended that the protocol is in an open format (.md|.txt|.docx|…)
 :bulb: But everything is possible also an URI to an electronic lab notebook
@@ -78,7 +78,7 @@ This allows you to reference the free-text, human-readable protocol.
 
 ## Parameterizing the ‘study’
 
-![w:900](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-study-parameterization.svg)
+![w:900](../../../public/kb/src/assets/images/start-here/arc-prototypic-study-parameterization.svg)
 
 ---
 
@@ -110,7 +110,7 @@ This allows you to reference the free-text, human-readable protocol.
 
 ## OLS: Finding the right metadata vocabulary
 
-![w:1000](../../../images/teaching-ontologies/ontology-lookup-service.svg)
+![w:1000](../../../public/images-tm/teaching-ontologies/ontology-lookup-service.svg)
 
 Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
@@ -118,7 +118,7 @@ Ontology Lookup Sevice (OLS): https://www.ebi.ac.uk/ols4/
 
 ## Finding the metadata vocabulary and descriptors
 
-![](../../../nfdi4plants.knowledgebase/src/assets/images/start-here/arc-prototypic-metadata.svg)
+![](../../../public/kb/src/assets/images/start-here/arc-prototypic-metadata.svg)
 
 ---
 
