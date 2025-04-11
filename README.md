@@ -43,12 +43,13 @@ Event | Slide decks
 
 ## Markdown-based slide decks
 
+
+### Knowledge Base git submodule
+
 In order to reuse images from the knowledge base, that repo is added here as a submodule.
 
-### Add knowledge base via git submodule
-
 ```bash
-git submodule add -b main https://github.com/nfdi4plants/nfdi4plants.knowledgebase/ public/kb
+# git submodule add -b main https://github.com/nfdi4plants/nfdi4plants.knowledgebase/ public/kb (done once for the repo)
 ```
 
 On a fresh clone, one needs to init the submodule via
@@ -67,18 +68,18 @@ git submodule update --recursive --remote
 
 [Slidev](http://sli.dev/) is a pretty strong vue.js based framework to build slides from markdown files.
 
-- This can also be used to compile slide decks from smaller slide decks ("bricks").
-- There's a vscode extension available
-- while in watch or building it checks, that all referenced / reused images or imported bricks actually exist.
+- This can also be used to compile slide decks from smaller slide decks ("bricks")
+- There's a [vscode extension](https://sli.dev/features/vscode-extension) available
+- during watch or build it checks, that all referenced / reused images or imported bricks actually exist
 
 #### Install slidev
 
 ```bash
-## npm init slidev (done once)
+## npm init slidev (done once for the repo)
 npm install ## (done once per machine)
 ```
 
-#### watch a slidev slide deck
+#### Watch a slidev slide deck
 
 You can see an example slide deck built with slidev here using the following command. 
 This should open a browser with the presentation, including some presentation controls in the bottom-left corner.
@@ -88,7 +89,7 @@ This should open a browser with the presentation, including some presentation co
 npm run dev -- slide-decks/2025-04-02_fdmnrw_fdm-werkstatt/slides.md
 ```
 
-#### export a slidev slide deck to pdf
+#### Export a slidev slide deck to pdf
 
 You can directly export a slide deck to pdf using slidev's browser controls or use the export command, e.g.
 
