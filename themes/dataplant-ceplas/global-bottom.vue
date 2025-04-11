@@ -9,7 +9,7 @@ const logos = ref([
     width: 40 
   },
   { 
-    src: "https://github.com/nfdi4plants/training-material/blob/main/images/ceplas/logos/CEPLAS_Icon.jpeg?raw=true", 
+    src: "https://github.com/nfdi4plants/training-material/blob/main/public/images-tm/ceplas/logos/CEPLAS_Icon.jpeg?raw=true", 
     alt: "CEPLAS Logo", 
     width: 30 
   },
