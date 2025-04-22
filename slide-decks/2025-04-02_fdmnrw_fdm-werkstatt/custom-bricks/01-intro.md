@@ -11,7 +11,6 @@ layout: two-columns
 
 - Use the pad to raise questions and feedback
 - Copy / paste links (hands-on)
-<!-- - Slides are shared via [DataPLANT Training Material](https://github.com/nfdi4plants/training-material/tree/main/slide-decks) -->
 
 ::right::
 

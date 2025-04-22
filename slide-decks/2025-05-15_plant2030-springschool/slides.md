@@ -5,7 +5,7 @@ themeConfig:
   paginationY: b
   paginationPagesDisabled: [ 1 ]
   logoPagesDisabled: [ 1 ]
-coverDate: April 2nd, 2025
+coverDate: May 15th, 2025
 fonts:
   sans: Gulim
 canvasWidth: 1200
@@ -15,11 +15,22 @@ drawings:
   enabled: true
   persist: false
 layout: cover
-src: './custom-bricks/00-title.md'
 ---
 
+# ARCify your research project
+
+## **Plant2030 Spring School – Introduction to bioinformatics**
+<!-- May 15<sup>th</sup>, 2025 -->
+
+Dominik Brilhaus, [CEPLAS](https://www.ceplas.eu/en/research/ceplas-data)
+
+<div class="flex items-center absolute right-30px bottom-30px">
+  <img style="height:40px;margin-right:50px" src='/images-tm/ceplas/logos/CEPLAS-Logo.svg'/>
+  <img style="height:100px;margin-right:50px" src='/images-tm/dataplant/DataPLANT_logo_bg_transparent.svg'/>
+</div>
+
 ---
-src: './custom-bricks/01-intro.md'
+src: '../../public/bricks-dominik/01-welcome.md'
 ---
 
 ---
@@ -63,5 +74,5 @@ src: '../../public/bricks-dominik/00-resources.md'
 ---
 
 ---
-src: './custom-bricks/99-acknowledgements.md'
+src: '../../public/bricks-dominik/99-acknowledgements.md'
 ---
