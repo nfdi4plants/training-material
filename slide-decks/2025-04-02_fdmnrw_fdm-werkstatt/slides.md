@@ -23,43 +23,51 @@ src: './custom-bricks/01-intro.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/00-resources.md'
+src: '../../public/bricks-dominik/dataplant-resources.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/18-overview-arc.md'
+src: '../../public/bricks-dominik/arc-overview.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/19-datahubs.md'
+src: '../../public/bricks-dominik/arc-standards.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/25-exercise-starthere-part1.md'
+src: '../../public/bricks-dominik/datahub-plantdatahub.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/32-exercise-starthere-part2.md'
+src: '../../public/bricks-dominik/datahub-onpremise-hhu.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/35-exercise-starthere-part3.md'
+src: '../../public/bricks-dominik/exercise-starthere-part1.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/53-exercise-starthere-part4.md'
+src: '../../public/bricks-dominik/exercise-starthere-part2.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/54-datahub-datasharing.md'
+src: '../../public/bricks-dominik/exercise-starthere-part3.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/65-exercise-starthere-part5.md'
+src: '../../public/bricks-dominik/exercise-starthere-part4.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/00-resources.md'
+src: '../../public/bricks-dominik/datahub-datasharing.md'
+---
+
+---
+src: '../../public/bricks-dominik/exercise-starthere-part5.md'
+---
+
+---
+src: '../../public/bricks-dominik/dataplant-resources.md'
 ---
 
 ---
