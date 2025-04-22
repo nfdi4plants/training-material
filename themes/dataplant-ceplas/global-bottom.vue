@@ -8,7 +8,7 @@ const logos = ref([
     alt: "DataPLANT Logo", 
     width: 40 
   },
-  { 
+  {
     src: "/images-tm/ceplas/logos/CEPLAS_Icon.jpeg", 
     alt: "CEPLAS Logo", 
     width: 30 
