@@ -24,40 +24,8 @@ layout: default
 
 ---
 layout: two-columns
+src: './arc-standards.md'
 ---
-
-## ARC builds on standards
-
-::left::
-
-<img src="/images-tm/arc-buildsonstandards3.png" />
-
-::right::
-
-<style>
-div{font-size:13px}
-</style>
-
-### ISA
-
-- Structured, machine-readable experimental metadata
-- https://isa-tools.org/
-
-### CWL
-
-- Reproducible, re-usable data analysis
-- https://www.commonwl.org/
-
-### Git
-
-- Version control
-- https://git-scm.com
-
-### RO-Crate
-
-- Standardized exchange
-- https://www.researchobject.org/ro-crate/ 
-
 
 ---
 layout: default
