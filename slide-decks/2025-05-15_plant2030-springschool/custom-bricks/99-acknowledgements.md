@@ -8,6 +8,8 @@ layout: four-panels
 
 ::top-left::
 
+<div style="margin-left:140px">
+
 <img src='https://github.com/nfdi4plants/Branding/raw/master/logos/DataPLANT/DataPLANT_logo_bg_transparent.svg' style="width:180px" />
 
 **Team Kaiserslautern**
@@ -25,13 +27,19 @@ layout: four-panels
 - Marcel Tschöpe
 - Julian Weidhase
 
+</div>
+
 ::top-right::
+
+<div style="margin-top:60px">
 
 <img style="width:300px;margin-bottom:20px" src='https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg'/>
 
 - Björn Usadel
 - Vittorio Tracanna
 - Yaser Alashloo
+
+</div>
 
 ::bottom-right::
 

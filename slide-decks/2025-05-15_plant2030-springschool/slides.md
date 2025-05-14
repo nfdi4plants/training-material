@@ -5,7 +5,7 @@ themeConfig:
   paginationY: b
   paginationPagesDisabled: [ 1 ]
   logoPagesDisabled: [ 1 ]
-coverDate: May 14th, 2025
+coverDate: May 15th, 2025
 fonts:
   sans: Gulim
 canvasWidth: 1200
@@ -17,6 +17,7 @@ drawings:
   persist: false
 layout: cover
 src: './custom-bricks/00-title.md'
+author: Dominik Brilhaus
 ---
 
 ---
