@@ -471,7 +471,7 @@ https://dmpg.nfdi4plants.org
 
 # The ARC ecosystem
 
-![w:800](./../../../public/images-tm/arc-ecosystem-10.drawio.png)
+![w:800](./../../../public/images-tm/arc-ecosystem.drawio.svg)
 
 ---
 

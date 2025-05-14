@@ -205,4 +205,4 @@ layout: default
 
 ## The ARC ecosystem
 
-<img src="/images-tm/arc-ecosystem-10.drawio.svg" width=700px/>
+<img src="/images-tm/arc-ecosystem.drawio.svg" width=700px/>
