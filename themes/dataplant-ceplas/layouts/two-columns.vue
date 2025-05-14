@@ -3,7 +3,7 @@
 <template>
   <div class="slidev-layout two-columns">
     <slot></slot>
-    <div class="grid grid-cols-2 gap-8 mt-2">
+    <div class="grid grid-cols-2 gap-4 mt-2">
       <div class="left">
         <slot name="left" />
       </div>

@@ -5,7 +5,7 @@
     <slot></slot>
     <div 
     class="grid grid-cols-2 gap-4 mt-12"
-    style="grid-template-rows: 220px 220px;"
+    style="grid-template-rows: 250px 250px;"
     >
       <div class="top-left">
         <slot name="top-left" />

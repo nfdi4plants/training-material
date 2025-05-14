@@ -35,6 +35,10 @@ src: '../../public/bricks-dominik/arc-standards.md'
 ---
 
 ---
+src: '../../public/bricks-dominik/arc-ecosystem.md
+---
+
+---
 src: '../../public/bricks-dominik/datahub-plantdatahub.md'
 ---
 

@@ -140,7 +140,7 @@ layout: two-columns
 **"Developer View": RO-Crate**
 
 
-```yaml{*}{maxHeight:'220px'}
+```yaml{*}{maxHeight:'140px'}
 {
 "Identifier": "Proteomics_MS",
 "MeasurementType": {
@@ -163,7 +163,7 @@ layout: two-columns
 
 <span height=50px></span>
 
-```yaml{*}{maxHeight:'220px'}
+```yaml{*}{maxHeight:'200px'}
 ...
 "Tables": [
   {
@@ -198,11 +198,3 @@ layout: two-columns
 
   <img src="/images-tm/two-sides-01-user.png" />
   <img src="/images-tm/two-sides-02-user.png" />
-
----
-layout: default
----
-
-## The ARC ecosystem
-
-<img src="/images-tm/arc-ecosystem-10.drawio.svg" width=700px/>

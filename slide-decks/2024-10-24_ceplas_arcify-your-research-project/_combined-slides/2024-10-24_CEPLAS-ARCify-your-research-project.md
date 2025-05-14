@@ -244,7 +244,7 @@ Your entire investigation in a single unified bag
 
 # The ARC ecosystem
 
-![w:850](./../../../public/images-tm/arc-ecosystem-10.drawio.png)
+![w:850](./../../../public/images-tm/arc-ecosystem.drawio.svg)
 
 ---
 
