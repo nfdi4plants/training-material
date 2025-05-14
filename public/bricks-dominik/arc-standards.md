@@ -15,22 +15,26 @@ layout: two-columns
 
 ::right::
 
-### RO-Crate
+<div style="font-size: 0.8em">
 
-- Standardized exchange
-- https://www.researchobject.org/ro-crate/ 
+  ### RO-Crate
+  
+  - Standardized exchange
+  - https://www.researchobject.org/ro-crate/ 
+  
+  ### ISA
+  
+  - Structured, machine-readable metadata
+  - https://isa-tools.org/
+  
+  ### CWL
+  
+  - Reproducible, re-usable data analysis 
+  - https://www.commonwl.org/
+  
+  ### Git
+  
+  - Version control
+  - https://git-scm.com
 
-### ISA
-
-- Structured, machine-readable metadata
-- https://isa-tools.org/
-
-### CWL
-
-- Reproducible, re-usable data analysis 
-- https://www.commonwl.org/
-
-### Git
-
-- Version control
-- https://git-scm.com
+</div>

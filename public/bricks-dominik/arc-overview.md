@@ -140,7 +140,7 @@ layout: two-columns
 **"Developer View": RO-Crate**
 
 
-```yaml{*}{maxHeight:'220px'}
+```yaml{*}{maxHeight:'140px'}
 {
 "Identifier": "Proteomics_MS",
 "MeasurementType": {
@@ -163,7 +163,7 @@ layout: two-columns
 
 <span height=50px></span>
 
-```yaml{*}{maxHeight:'220px'}
+```yaml{*}{maxHeight:'200px'}
 ...
 "Tables": [
   {
