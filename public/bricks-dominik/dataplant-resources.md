@@ -27,7 +27,8 @@ layout: four-panels
 
 - HelpDesk: https://helpdesk.nfdi4plants.org
 - Matrix for ad hoc support: https://matrix.to/#/%23arc-user-support:matrix.org
-- User support meeting (2nd Friday of the month | 1 - 2pm): https://nfdi4plants.github.io/events/arc-user-support/
+- User Support Meeting (2nd Friday of the month | 1 - 2pm): https://nfdi4plants.github.io/events/arc-user-support/
+- User Support Mailing List: <a href="mailto:arc-user-support-join@lists.nfdi.de?subject=subscribe&body=Hit send on this email to join the ARC user support mailing list">Click here to subscribe</a>
 
 ::bottom-left::
 
