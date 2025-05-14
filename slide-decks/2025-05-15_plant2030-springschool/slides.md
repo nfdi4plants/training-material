@@ -5,12 +5,13 @@ themeConfig:
   paginationY: b
   paginationPagesDisabled: [ 1 ]
   logoPagesDisabled: [ 1 ]
-coverDate: April 2nd, 2025
+coverDate: May 14th, 2025
 fonts:
   sans: Gulim
 canvasWidth: 1200
 title: ARCify your research project
 transition: slide-up
+favicon: images-tm/dataplant/DataPLANT_logo_minimal_rounded_bg_darkblue.svg
 drawings:
   enabled: true
   persist: false
@@ -36,10 +37,6 @@ src: '../../public/bricks-dominik/arc-standards.md'
 
 ---
 src: '../../public/bricks-dominik/datahub-plantdatahub.md'
----
-
----
-src: '../../public/bricks-dominik/datahub-onpremise-hhu.md'
 ---
 
 ---
