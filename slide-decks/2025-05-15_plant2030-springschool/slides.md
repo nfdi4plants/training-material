@@ -40,6 +40,10 @@ src: '../../public/bricks-dominik/datahub-plantdatahub.md'
 ---
 
 ---
+src: '../../public/bricks-dominik/arc-ecosystem.md
+---
+
+---
 src: '../../public/bricks-dominik/exercise-starthere-part1.md'
 ---
 

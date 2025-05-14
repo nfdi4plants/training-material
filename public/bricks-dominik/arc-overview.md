@@ -198,11 +198,3 @@ layout: two-columns
 
   <img src="/images-tm/two-sides-01-user.png" />
   <img src="/images-tm/two-sides-02-user.png" />
-
----
-layout: default
----
-
-## The ARC ecosystem
-
-<img src="/images-tm/arc-ecosystem.drawio.svg" width=700px/>
