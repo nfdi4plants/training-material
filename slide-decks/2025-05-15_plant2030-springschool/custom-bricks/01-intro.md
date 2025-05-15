@@ -9,19 +9,27 @@ layout: two-columns
 
 # Training Materials
 
+::left::
+
 - Use the pad to raise questions and feedback
-- Copy / paste links (hands-on)
+- Provide links for hands-on
 
 ::right::
 
 <a href="https://pad.hhu.de/8bwBC7pyRL2tFFOWMQzm1Q" target="_blank"> <img src="/images-tm/ceplas/qr-code-hhu-pad.png"></a>
 
 ---
-layout: default
+layout: center
 ---
 
 ## Introduce yourself
 
-- Used code / programming language before
-- Experience with Git / GitLab / GitHub?
-- Expectation
+<v-clicks>
+
+  - Used code / programming language before?
+  - Experience with Git / GitLab / GitHub?
+  - Operating system: Linux / Windows / Mac?
+
+</v-clicks>
+
+<!-- - Expectation -->
