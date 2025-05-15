@@ -196,5 +196,5 @@ layout: two-columns
 
   **"User View": ARC Scaffold and metadata tables**
 
-  <img src="/images-tm/two-sides-01-user.png" />
+  <img src="/images-tm/two-sides-01-user.png" style="padding-bottom:20px"/>
   <img src="/images-tm/two-sides-02-user.png" />

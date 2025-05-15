@@ -26,7 +26,7 @@ When inviting new members to an ARC or group, you can choose between different l
 💡 By default you are **Owner** of an ARC you create or upload to the DataHUB.
 
 ---
-layout: default
+layout: center
 ---
 
 ## **Projects** and **Groups** are not the same
@@ -35,16 +35,7 @@ layout: default
 - "Groups" = Group of users
 
 ---
-layout: statement
----
-
-## **Projects** and **Groups** are not the same
-
-- "Project" = ARC
-- "Groups" = Group of users
-
----
-layout: default
+layout: center
 ---
 
 ## Project = ARC
@@ -53,7 +44,7 @@ layout: default
 - An ARC can be shared with individual users (invited as "members") or a group.
 
 ---
-layout: default
+layout: center
 ---
 
 ## DataHUB Groups = Group of members (e.g. lab)
