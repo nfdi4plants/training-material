@@ -157,6 +157,34 @@ Create templates for experiments you often use
 - Use .gb files for plasmid cards ( can be opend in a plasmid viewer in elabFTW) 
 - Use versions, possibility to upload new versions of files/methods
 
+
+---
+# eLabFTW Version 5.2 
+
+<div class="two-columns">
+  <div>
+
+ ## New features
+- chemical compounds database, sketcher
+- Inventory management 
+- OpenCloning embed
+
+## Changes
+- move search input into page 
+- create Template page to list templates 
+  </div>
+
+  <div>
+  
+  ![alt text](../../../slide-decks/2025-05-26_mibinet-arc-elabFTW-training/images/elab2arc/elabftw-5_2.png)
+
+  </div>
+</div>
+
+## Changes
+- move search input into page 
+- create Template page to list templates 
+
 ---
 # eLabFTW - Support
 
@@ -164,7 +192,10 @@ Create templates for experiments you often use
 https://github.com/elabftw/elabftw 
 https://www.elabftw.net/ (Newsletter)
 
+
+
 ## HHU specific
 elabftw@hhu.de
 https://rocketchat.hhu.de/channel/elb_eln
 https://wiki.hhu.de/display/ZIM/eLabFTW
+

@@ -27,6 +27,7 @@ What is metadata?
 
 ---
 
+<!--
 # ARC builds on standards
 
 ![w:500](./../../../public/images-tm/arc-buildsonstandards3.png)
@@ -35,6 +36,7 @@ What is metadata?
 https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 
 ---
+
  
 # ARC builds on ISA
 
@@ -43,6 +45,7 @@ https://www.researchobject.org/ro-crate/ | https://git-scm.com</span>
 <span class="footer-reference">ISA Tools: https://isa-tools.org/format/specification.html</span>
 
 ---
+-->
 
 # ISA abstract model in a nutshell
 

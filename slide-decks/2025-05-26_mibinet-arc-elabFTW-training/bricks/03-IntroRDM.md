@@ -9,8 +9,7 @@ author:
   github: https://github.com/brilator
   orcid: https://orcid.org/0000-0001-9021-3197
 ---
-
-<!-- 
+ 
 # Why research data management (RDM)?
 
 - Increase transparency
@@ -23,7 +22,7 @@ author:
 
 ![bg right:40% w:400](https://rdmpromotion.rbind.io/material/CC-BY-NC/futureself.png)
 
---- -->
+---
 
 # FAIR data stewardship
 

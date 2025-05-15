@@ -20,7 +20,7 @@ author:
 <!-- _paginate: false -->
 <style scoped>section {background: none; background-color: white;}</style>
 
-February, 2025
+May, 2025
 
 Sabrina Zander (MibiNet)
 Stella Eggels (DataPLANT)
@@ -111,18 +111,14 @@ HelpDesk: <a href="https://helpdesk.nfdi4plants.org" target="_blank">https://hel
 
 # Continuous support
 
-Data managers in Düsseldorf, Cologne, Jülich and close by (CEPLAS, MibiNet, TRR341) offer support.
 
-1. Slack Workspace for ad hoc support
-2. Monthly user meeting (2nd Friday of the month)
+1. HelpDesk: https://helpdesk.nfdi4plants.org
+2. Matrix workspace for ad hoc support: https://matrix.to/#/%23arc-usersupport:matrix.org
 
-[&rarr; Details](https://nfdi4plants.github.io/events/arc-user-support/).
+3. User Support Mailing List:  <arc-user-support-join@lists.nfdi.de>
 
-<div>
-  <img style="height:40px;margin-right:50px" src='https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg'/>
-  <img style="height:100px;margin-right:50px" src='https://trr341.uni-koeln.de/sites/crc_trr_341/TRR341_logo.png'/>
-  <img style="height:70px;margin-right:50px" src='https://www.sfb1535.hhu.de/fileadmin/redaktion/Fakultaeten/Mathematisch-Naturwissenschaftliche_Fakultaet/Biologie/SFB1535/Bilder/MibiNet.png'/>
-</div>
+4. User Support Meeting ( 2nd Friday of the month | 1-2pm): https://nfdi4plants.github.io/events/arc-user-support/
+
 
 ---
 
@@ -147,7 +143,7 @@ Data managers in Düsseldorf, Cologne, Jülich and close by (CEPLAS, MibiNet, TR
 # BYOD &ndash; Goals
 
 - First few steps into ARC ecosystem
-- Move existing datasets into ARCs
+- Move demo datasets into ARCs
 - Share them via the DataHUB
 - Annotate with metadata
 - Introduction into elabFTW 
