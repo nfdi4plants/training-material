@@ -64,7 +64,8 @@ https://nfdi4plants.github.io/nfdi4plants.knowledgebase/resources/elab2arc/
 ---
 # Conversion 
 
-![alt text](../images/elab2arc/elab2arc-conversion.png)
+![w:800](../images/elab2arc/elab2arc-output.png)
+
 
 ---
 
