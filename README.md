@@ -13,8 +13,8 @@ Material are shared here under [CC BY 4.0 license](https://creativecommons.org/l
 
 Event | Slide decks
 ----|---
+2025-05-26_mibinet-arc-elabFTW-training | [slide-decks/2025-05-26_mibinet-arc-elabFTW-training](slide-decks/2025-05-26_mibinet-arc-elabFTW-training/combined-slides/2025-05-26_mibinet-arc-elabFTW-training.pdf)
 2025-04-02_fdmnrw_fdm-werkstatt         | [slide-decks/2025-04-02_fdmnrw_fdm-werkstatt](slide-decks/2025-04-02_fdmnrw_fdm-werkstatt/slides.pdf)
-2025-02-17_mibinet-arc-elabFTW-training | [slide-decks/2025-02-17_mibinet-arc-elabFTW-training](slide-decks/2025-02-17_mibinet-arc-elabFTW-training/combined-slides/2025-02-17_mibinet-arc-elabFTW-training.pdf)
 2025-02-11_ceplas-mibinet_arcify        | [slide-decks/2025-02-11_ceplas-mibinet_arcify](slide-decks/2025-02-11_ceplas-mibinet_arcify)
 2025-02-06_ARC_Workshop | [slide-decks/2025-02-06_workshop_FZJ/2025-02-06_ARC_Workshop](slide-decks/2025-02-06_workshop_FZJ/2025-02-06_ARC_Workshop.pdf)
 2025-02-05_dataplant_dsc_cwl-demo       | [slide-decks/2025-02-05_dataplant_dsc_cwl-demo](slide-decks/2025-02-05_dataplant_dsc_cwl-demo)
