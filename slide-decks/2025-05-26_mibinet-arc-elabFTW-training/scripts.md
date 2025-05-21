@@ -1,7 +1,7 @@
 ## Change into current slide deck folder
 
 ```bash
-cd slide-decks/2025-02-17_mibinet-arc-elabFTW-training/
+cd slide-decks/2025-05-26_mibinet-arc-elabFTW-training/
 ```
 
 ## Combine all slide decks into one
