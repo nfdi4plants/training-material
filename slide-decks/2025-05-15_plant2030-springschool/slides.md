@@ -45,11 +45,23 @@ src: '../../public/bricks-dominik/arc-ecosystem.md
 ---
 
 ---
+src: './custom-bricks/99-acknowledgements.md'
+---
+
+---
+src: './custom-bricks/goal.md'
+---
+
+---
 src: '../../public/bricks-dominik/exercise-starthere-part1.md'
 ---
 
 ---
 src: '../../public/bricks-dominik/exercise-starthere-part2.md'
+---
+
+---
+src: './custom-bricks/recap.md'
 ---
 
 ---
