@@ -21,11 +21,6 @@ author: Dominik Brilhaus
 ---
 
 
-
----
-src: './custom-bricks/training-material.md'
----
-
 ---
 src: ./custom-bricks/02-participants.md
 ---
@@ -44,6 +39,10 @@ src: '../../public/bricks-dominik/ceplas-dataplant.md'
 
 ---
 src: '../../public/bricks-dominik/dataplant-resources.md'
+---
+
+---
+src: './custom-bricks/training-material.md'
 ---
 
 ---
