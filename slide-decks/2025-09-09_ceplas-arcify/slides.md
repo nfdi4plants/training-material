@@ -74,27 +74,30 @@ src: './custom-bricks/goal.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/exercise-starthere-part1.md'
+src: '../../public/bricks-dominik/exercise-starthere-checkpoint-1.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/exercise-starthere-part2.md'
+src: '../../public/bricks-dominik/exercise-starthere-checkpoint-2.md'
+---
+
+<!-- This is the break point between 3 vs. 6 hrs workshops -->
+
+---
+src: '../../public/bricks-dominik/dataplant-resources.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/exercise-starthere-part3.md'
+src: './custom-bricks/99-acknowledgements.md'
+---
+
+
+---
+src: '../../public/bricks-dominik/exercise-starthere-checkpoint-3.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/exercise-starthere-part4.md'
----
-
----
-src: '../../public/bricks-dominik/datahub-datasharing.md'
----
-
----
-src: '../../public/bricks-dominik/exercise-starthere-part5.md'
+src: '../../public/bricks-dominik/exercise-starthere-checkpoint-4.md'
 ---
 
 ---

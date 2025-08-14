@@ -6,11 +6,17 @@ layout: four-panels
 
 ## Acknowledgements
 
+<style>
+  
+  p,ul {font-size:0.7em}
+
+</style>
+
 ::top-left::
 
 <div style="margin-left:140px">
 
-<img src='https://github.com/nfdi4plants/Branding/raw/master/logos/DataPLANT/DataPLANT_logo_bg_transparent.svg' style="width:180px" />
+<img src='https://github.com/nfdi4plants/Branding/raw/master/logos/DataPLANT/DataPLANT_logo_bg_transparent.svg' style="width:140px" />
 
 **Team Kaiserslautern**
 
@@ -27,13 +33,18 @@ layout: four-panels
 - Marcel Tschöpe
 - Julian Weidhase
 
+**Team Jülich**
+
+- Stella Eggels
+- Angela Kranz
+
 </div>
 
 ::top-right::
 
 <div style="margin-top:60px">
 
-<img style="width:300px;margin-bottom:20px" src='https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg'/>
+<img style="width:250px;margin-bottom:20px" src='https://www.ceplas.eu/typo3conf/ext/fksitepackage/Resources/Public/Images/CEPLAS-Logo.svg'/>
 
 - Björn Usadel
 - Vittorio Tracanna
