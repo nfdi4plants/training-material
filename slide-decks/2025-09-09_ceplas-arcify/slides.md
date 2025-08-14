@@ -10,7 +10,7 @@ fonts:
   sans: Gulim
 canvasWidth: 1200
 title: ARCify your research project
-transition: slide-up
+transition: slide-left
 favicon: images-tm/dataplant/DataPLANT_logo_minimal_rounded_bg_darkblue.svg
 drawings:
   enabled: true
