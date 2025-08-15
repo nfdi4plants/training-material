@@ -16,13 +16,13 @@ drawings:
   enabled: true
   persist: false
 layout: cover
-src: './custom-bricks/00-title.md'
+src: './custom/00-title.md'
 author: Dominik Brilhaus
 ---
 
 
 ---
-src: ./custom-bricks/02-participants.md
+src: ./custom/02-participants.md
 ---
 
 ---
@@ -42,7 +42,7 @@ src: '../../public/bricks-dominik/dataplant-resources.md'
 ---
 
 ---
-src: './custom-bricks/training-material.md'
+src: './custom/training-material.md'
 ---
 
 ---
@@ -66,11 +66,11 @@ src: '../../public/bricks-dominik/arc-ecosystem.md
 ---
 
 ---
-src: './custom-bricks/99-acknowledgements.md'
+src: './custom/99-acknowledgements.md'
 ---
 
 ---
-src: './custom-bricks/goal.md'
+src: './custom/goal.md'
 ---
 
 ---
@@ -88,7 +88,7 @@ src: '../../public/bricks-dominik/dataplant-resources.md'
 ---
 
 ---
-src: './custom-bricks/99-acknowledgements.md'
+src: './custom/99-acknowledgements.md'
 ---
 
 
@@ -105,5 +105,5 @@ src: '../../public/bricks-dominik/dataplant-resources.md'
 ---
 
 ---
-src: './custom-bricks/99-acknowledgements.md'
+src: './custom/99-acknowledgements.md'
 ---
