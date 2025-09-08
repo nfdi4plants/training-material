@@ -22,11 +22,10 @@ layout: center
 
 ## Your OS
 
-<img style="height:80%;" src='./participants-os.png'/>
+<img style="height:80%;" src='./participants-os.svg'/>
 
 ---
 
 ## Your experience with ARCs
 
-<img style="height:80%;" src='./participants-experiences.png'/>
-
+<img style="width:150%;" src='./participants-experiences.svg'/>
