@@ -16,21 +16,13 @@ favicon: images-tm/dataplant/DataPLANT_logo_minimal_rounded_bg_darkblue.svg
 transition: slide-left
 download: true
 layout: cover
+src: './bricks/00-title.md'
 ---
 
-# (ARCify your)<br>Computational Workflows
-
-Dominik Brilhaus, [CEPLAS Data](https://www.ceplas.eu/en/research/ceplas-data)
 
 ---
-
-## Goals
-
-1. Write and execute a simple CWL workflow
-2. Structure a demo workflow into an ARC
-3. Convert an existing CLI tool or script into a CWL-wrapped workflow
-
-
+src: './bricks/01-goals.md'
+---
 
 ---
 src: ./bricks/workflows-intro.md

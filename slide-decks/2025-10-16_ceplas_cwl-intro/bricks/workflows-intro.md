@@ -5,14 +5,6 @@ license: CC-BY 4.0
 date: 2025-10-14
 ---
 
-# Computational Workflows
-
-### Automating and Reproducing Data Analysis Pipelines
-
----
-layout: two-columns
----
-
 # What Are Computational Workflows?
 
 - Define **steps** in data analysis (e.g., preprocessing → alignment → QC)
@@ -45,9 +37,17 @@ layout: two-columns
 
 ::left::
 
-### Reproducibility / Replicability of the data
+- **Reproducibility** of the data
+- **Replicability** of the analysis
 
-Rerunning the same analysis on the **same** dataset
+
+```mermaid
+flowchart LR
+  f1("dataset1") ---p1[analysis pipeline]--> r1("results1")
+classDef one fill:#62d4c1;
+class f1,r1 one;
+```
+
 
 ```mermaid
 flowchart LR
@@ -56,18 +56,11 @@ classDef one fill:#62d4c1;
 class f1,r1 one;
 ```
 
-```mermaid
-flowchart LR
-  f1("dataset1") ---p1[analysis pipeline]--> r1("results1")
-classDef one fill:#62d4c1;
-class f1,r1 one;
-```
+Re-running the **same** analysis on the **same** dataset
 
 ::right::
 
-### Reusability of the analysis
-
-Applying the same analysis on **another** dataset
+- **Reusability** of the analysis
 
 ```mermaid
 flowchart LR
@@ -76,12 +69,14 @@ classDef two fill:#ffd34d;
 class f2,r2 two;
 ```
 
+Applying the same analysis on **another** dataset
+
 ---
 
 # Some factors affecting reproducibility & reusability
 
-- Version of tool / software
-- Version of package/library and interpreter (python, R, F#, etc.)
+- Version of tool, software, package, or library
+- Version of interpreter (python, R, F#, etc.)
 - Operating system (linux, win, mac) and version
 - ...
 
@@ -105,7 +100,8 @@ class f2,r2 two;
 
 # CWL: Common Workflow Language
 
-<img src="https://www.commonwl.org/assets/images/CWL-Logo.png" alt="CWL Logo" width="120"/>
+<img alt="Common Workflow Language" type="image/svg" width="200" src="https://cdn.rawgit.com/common-workflow-language/logo/0b98d341/CWL-Logo-nofonts.svg" />
+http://www.commonwl.org/
 
 - Open community standard
 - Describes:
@@ -129,4 +125,4 @@ There's a *tiny* learning curve and some dependencies
 - JavaScript (good to know for file handling)
 - ...
 
-...but it pays off! 
+...but it pays off!
