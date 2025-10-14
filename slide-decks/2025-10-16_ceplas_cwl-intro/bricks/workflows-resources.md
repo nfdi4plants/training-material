@@ -3,12 +3,11 @@ title: Workflow Resources
 author: Dominik Brilhaus
 license: CC-BY 4.0
 date: 2025-10-14
+layout: center
 ---
 
-# Workflow Platforms
 
-- [https://galaxyproject.org](https://galaxyproject.org)  
-- [https://workflowhub.eu](https://workflowhub.eu)
+# Workflow Platforms
 
 ---
 
@@ -24,31 +23,21 @@ https://galaxyproject.org
 
 ---
 
+<div class="absolute top-20 left-230">
+  <img alt="WorkflowHub" 
+      type="image/svg" width="200" src="../assets/workflowhub-logo.svg" />
+  <a class="text-xs text-gray-400" target="_blank" href="https://workflowhub.eu/">https://workflowhub.eu</a>
+</div>
+
+
 # WorkflowHub
 
 - **FAIR registry** for describing, sharing and publishing scientific computational workflows
 - Supports multiple workflow languages  
 - Provides metadata, versioning, and citation info  
+- Facilitates discovery and re-use of workflows in an accessible and interoperable way
 - Encourages **reusability** and **collaboration**
-
-WorkflowHub aims to facilitate discovery and re-use of workflows in an accessible and interoperable way. This is achieved through extensive use of **open standards and tools** in accordance with the FAIR principles:
-
-https://workflowhub.eu
-
-<img src="./images/workflowhub-logo.svg" width="200px"/>
-
-- [CWL](https://www.commonwl.org/)
-- [RO-Crate](https://www.researchobject.org/ro-crate/)
-- [Bioschemas](https://bioschemas.org/)
-
----
-
-# Resources
-
-- Specification v1.2: https://www.commonwl.org/v1.2/CommandLineTool.html
-- CWL tool: https://github.com/common-workflow-language/cwltool
-- CWL Discourse: https://cwl.discourse.group
-- Published Workflows: https://view.commonwl.org/workflows
-- CWL repos: https://www.commonwl.org/repos/
-- bio-cwl-tools: https://github.com/common-workflow-library/bio-cwl-tools/tree/release
-- EBI-Metagenomics: https://github.com/EBI-Metagenomics/workflow-is-cwl/tree/master/tools
+- extensive use of **open standards and tools**:
+  - [CWL](https://www.commonwl.org/)
+  - [RO-Crate](https://www.researchobject.org/ro-crate/)
+  - [Bioschemas](https://bioschemas.org/)

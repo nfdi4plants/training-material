@@ -24,8 +24,9 @@ date: 2025-10-14
 
 - Knowledge Base: https://nfdi4plants.github.io/nfdi4plants.knowledgebase/guides/arc-cwl/
 
+---
 
 # Outlook
 
-- WorkflowHub
-- Galaxy
+- Publish to WorkflowHub
+- Execute Galaxy (.ga) workflows

@@ -1,4 +1,10 @@
-
+---
+title: CWL on (HHU) HPC
+author: Dominik Brilhaus
+license: CC-BY 4.0
+date: 2025-10-14
+layout: center
+---
 
 ## HPC HHU
 

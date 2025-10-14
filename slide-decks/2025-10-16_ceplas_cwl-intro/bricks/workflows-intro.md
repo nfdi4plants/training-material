@@ -100,8 +100,11 @@ Applying the same analysis on **another** dataset
 
 # CWL: Common Workflow Language
 
-<img alt="Common Workflow Language" type="image/svg" width="200" src="https://cdn.rawgit.com/common-workflow-language/logo/0b98d341/CWL-Logo-nofonts.svg" />
-http://www.commonwl.org/
+<div class="absolute top-20 left-200">
+  <img alt="Common Workflow Language" 
+      type="image/svg" width="200" src="https://cdn.rawgit.com/common-workflow-language/logo/0b98d341/CWL-Logo-nofonts.svg" />
+  <a class="text-xs text-gray-400" target="_blank" href="https://www.commonwl.org/">https://www.commonwl.org</a>
+</div>
 
 - Open community standard
 - Describes:
@@ -116,6 +119,12 @@ http://www.commonwl.org/
 layout: default
 ---
 
+<div class="absolute top-20 left-200">
+  <img alt="Common Workflow Language" 
+      type="image/svg" width="200" src="https://cdn.rawgit.com/common-workflow-language/logo/0b98d341/CWL-Logo-nofonts.svg" />
+  <a class="text-xs text-gray-400" target="_blank" href="https://www.commonwl.org/">https://www.commonwl.org</a>
+</div>
+
 # CWL is a time investment at first
 
 There's a *tiny* learning curve and some dependencies
@@ -125,4 +134,22 @@ There's a *tiny* learning curve and some dependencies
 - JavaScript (good to know for file handling)
 - ...
 
-...but it pays off!
+... but it pays off!
+
+---
+layout: center
+---
+
+# CWL Resources
+
+- CWL user guide: https://www.commonwl.org/user_guide/
+- Specification v1.2: https://www.commonwl.org/v1.2/CommandLineTool.html
+- CWL Discourse: https://cwl.discourse.group
+- CWL tool: https://github.com/common-workflow-language/cwltool
+- CWL tool docs: https://cwltool.readthedocs.io/en/latest/
+
+# CWL workflow repos
+
+- Published CWL Workflows: https://view.commonwl.org/workflows
+- CWL repos: https://www.commonwl.org/repos/
+- Bio-cwl-tools: https://github.com/common-workflow-library/bio-cwl-tools/
