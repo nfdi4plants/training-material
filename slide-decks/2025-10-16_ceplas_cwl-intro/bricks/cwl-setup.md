@@ -18,9 +18,14 @@ layout: two-columns
 
 # Conda
 
-::left::
+<div class="absolute top-20 left-250">  
+  <img alt="CONDA" 
+      type="image/svg" width="100" src="https://docs.conda.io/projects/conda/en/latest/_static/conda_logo_full.svg" />
+  <a class="text-xs text-gray-400" target="_blank" href="https://conda.io">https://www.conda.io/</a>
+</div>
 
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="80"/> -->
+
+::left::
 
 - Miniconda, Anaconda, Miniforge, ...
 - **Package manager** for scientific software  
@@ -76,7 +81,6 @@ channels:
 layout: two-columns
 ---
 
-# Docker
 
 <div class="absolute top-20 left-250">
   <img alt="Common Workflow Language" 
@@ -84,9 +88,19 @@ layout: two-columns
   <a class="text-xs text-gray-400" target="_blank" href="https://www.docker.com/">https://www.docker.com/</a>
 </div>
 
+# Docker
+
+::left::
+
 - **Containerization platform**
 - Bundles software + dependencies
 - CWL can define Docker images for each tool
+
+### Install docker
+
+https://docs.docker.com/engine/install/
+
+::right::
 
 ### Install tool or package
 
@@ -95,10 +109,75 @@ docker pull commonworkflowlanguage/cwltool
 ```
 
 ---
-layout: default
+layout: two-cols-header
 ---
 
-# Dockerfile
+# Building a custom Docker image – Dockerfile
+
+::left::
+
+Simple `Dockerfile` for Samtools
+
+<div class="scale-75 origin-left">
+
+```dockerfile [Dockerfile]
+# Start from a lightweight base image with Python and system utilities
+FROM ubuntu:22.04
+
+LABEL description="Samtools - Tools for alignments in the SAM, BAM, and CRAM formats" \
+      version="1.20"
+
+# Install dependencies
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+        wget \
+        build-essential \
+        libncurses5-dev \
+        libbz2-dev \
+        liblzma-dev \
+        libcurl4-openssl-dev \
+        ca-certificates \
+        zlib1g-dev && \
+    rm -rf /var/lib/apt/lists/*
+
+# Download and build Samtools from source
+WORKDIR /opt
+RUN wget https://github.com/samtools/samtools/releases/download/1.20/samtools-1.20.tar.bz2 && \
+    tar -xjf samtools-1.20.tar.bz2 && \
+    cd samtools-1.20 && \
+    ./configure --prefix=/usr/local && \
+    make && make install && \
+    cd .. && \
+    rm -rf samtools-1.20 samtools-1.20.tar.bz2
+
+# Set working directory for user data
+WORKDIR /data
+
+# Default command
+ENTRYPOINT ["samtools"]
+CMD ["--help"]
+```
+
+</div>
+
+::right::
+
+<div class="scale-95 origin-right">
+
+### Build the image
+
+```bash
+docker build -t samtools:1.20 .
+```
+
+### Run container (e.g. check version)
+
+```bash
+docker run --rm samtools:1.20 --version
+```
+
+
+</div>
 
 
 ---
