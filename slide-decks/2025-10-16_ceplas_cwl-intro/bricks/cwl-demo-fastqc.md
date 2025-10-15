@@ -37,23 +37,6 @@ flowchart TD
 
 ![](../assets/fastqc-gui.png)
 
----
-
-# Are we **FAIR**, yet?
-
-- where did I click
-- reproducibility
-- record exactly what I've done
-- history
-- instruction
-- tool version
-- ...
-
-<!-- 
-- Installation / Environment
-- Version
-- Input / Output
- -->
 
 ---
 

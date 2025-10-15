@@ -33,6 +33,10 @@ src: ./bricks/workflows-containers.md
 ---
 
 ---
+src: bricks/workflows-languages.md
+---
+
+---
 src: ./bricks/cwl-demo-fastqc.md
 ---
 
