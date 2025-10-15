@@ -45,7 +45,7 @@ src: ./bricks/workflows-resources.md
 ---
 
 ---
-src: ./bricks/cwl-setup.md
+src: ./bricks/cwl-setup.mdx
 ---
 
 ---
