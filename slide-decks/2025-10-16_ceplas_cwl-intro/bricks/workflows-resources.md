@@ -6,20 +6,17 @@ date: 2025-10-14
 layout: center
 ---
 
-
-# Workflow Platforms
-
----
-
 # Galaxy
 
-<img src="https://galaxyproject.org/images/galaxy_logo_blue.png" alt="Galaxy Logo" width="180"/>
+<img src="https://usegalaxy.eu/static/favicon.svg" alt="Galaxy Logo" width="180"/>
 
 - Web-based platform for **data-intensive research**
 - Visual drag-and-drop workflow builder
 - Integrates with CWL, Nextflow, Snakemake
 
 https://galaxyproject.org
+- EU: https://usegalaxy.eu
+- Plants: https://plants.usegalaxy.eu
 
 ---
 

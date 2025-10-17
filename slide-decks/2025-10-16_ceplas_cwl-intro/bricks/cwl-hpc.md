@@ -3,49 +3,44 @@ title: CWL on (HHU) HPC
 author: Dominik Brilhaus
 license: CC-BY 4.0
 date: 2025-10-14
-layout: center
+layout: two-columns
 ---
 
-## HPC HHU
-
-- conda mirrors
-- cwl-toil
-
-
----
-layout: two-cols-header
----
-
-# CWL & HPC => toil-runner
+# CWL & HPC
 
 ::left::
 
 ## CWL
 
 ```yml{4-7}
-cwlVersion: v1.0
+cwlVersion: v1.2
 class: CommandLineTool
-baseCommand: echo
 hints:
   ResourceRequirement:
-    coresMin: 1
-    ramMin: 100
-stdout: output.txt
-inputs:
-  message:
-    type: string
-    inputBinding:
-      position: 1
-outputs:
-  output:
-    type: stdout
+    coresMin: 3
+    ramMin: 1000
+
+baseCommand: [blastx]
+
+inputs: []
+
+outputs: []
 ```
 
 ::right::
 
-## PBS job script
+## PBS `qsub` job script
 
-```bash
+```bash {2}
+#!/bin/bash
+#PBS -l select=1:ncpus=3:mem=1000mb
+
+set -e
+
+module load blastx
+
+blastx
+
 ```
 
 ---
@@ -93,3 +88,8 @@ outputs:
     type: stdout
 ```
 
+<!-- ## HPC HHU
+
+- TODO: conda mirrors
+
+-->
