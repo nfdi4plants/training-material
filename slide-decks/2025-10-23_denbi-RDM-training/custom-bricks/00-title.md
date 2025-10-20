@@ -5,6 +5,7 @@ author:
     github: https://github.com/brilator
     orcid: https://orcid.org/0000-0001-9021-3197
 layout: cover
+coverDate: October 23rd, 2025
 ---
 
 # Fundamentals of ARCs
