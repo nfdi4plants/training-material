@@ -20,7 +20,7 @@ src: './custom-bricks/00-title.md'
 ---
 
 ---
-src: ./custom-bricks/02-participants.md
+src: ./custom-bricks/03-participants-interactive.md
 ---
 
 ---
@@ -40,7 +40,7 @@ src: '../../public/bricks-dominik/dataplant-resources.md'
 ---
 
 ---
-src: './custom-bricks/training-material.md'
+src: './custom-bricks/google-docs.md'
 ---
 
 ---
@@ -68,11 +68,67 @@ src: './custom-bricks/goal.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/exercise-starthere-checkpoint-1.md'
+layout: center
+---
+
+## Start an ARC for your investigation
+
+<AdmonitionType type="handson">
+
+Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) until **Describe the investigation**
+
+</AdmonitionType>
+
+---
+src: ../../public/bricks-dominik/exercise-starthere-checkpoint-1.md#2-3
 ---
 
 ---
-src: '../../public/bricks-dominik/exercise-starthere-checkpoint-2.md'
+layout: center
+---
+
+## Add and describe a study
+
+<AdmonitionType type="handson">
+
+Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) until **Add a study**
+
+</AdmonitionType>
+
+---
+src: ../../public/bricks-dominik/exercise-starthere-checkpoint-1.md#4-14
+---
+
+---
+layout: center
+---
+
+## Add and describe an assay
+
+<AdmonitionType type="handson">
+
+Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) until **Add assay data**
+
+</AdmonitionType>
+
+---
+src: ../../public/bricks-dominik/exercise-starthere-checkpoint-2.md#2-7
+---
+
+---
+layout: center
+---
+
+## Share your ARC
+
+<AdmonitionType type="handson">
+
+Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.knowledgebase/start-here/) until **Share your ARC via the DataHUB**
+
+</AdmonitionType>
+
+---
+src: "../../public/bricks-dominik/datahub-datasharing.md"
 ---
 
 <!-- This is the break point between 3 vs. 6 hrs workshops -->
