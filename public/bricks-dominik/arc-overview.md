@@ -12,7 +12,13 @@ layout: default
 
 <img src="/kb/src/assets/images/start-here/arc-bag.svg" />
 
-Your entire investigation in a single unified bag
+<span class="flex flex-row justify-center">
+  
+  Your entire investigation in a single unified bag
+
+</span>
+
+
 
 ---
 layout: default

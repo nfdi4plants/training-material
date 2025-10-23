@@ -12,8 +12,12 @@ layout: default
 
 <img src="/images-tm/dataplant/dataplant-landing-page.png" style='display: block; width:70%; margin: auto'/>
 
-- https://nfdi4plants.org
-- https://arc-rdm.org
+<span class="flex flex-row justify-center">
+  
+  https://nfdi4plants.org
+
+</span>
+
 
 ---
 layout: default

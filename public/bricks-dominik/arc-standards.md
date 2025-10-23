@@ -9,10 +9,11 @@ layout: default
 
 # ARC builds on standards
 
-<img src="/images-tm/arc-standards.svg" style="display:block; margin:auto; width:80%" />
+<img src="/images-tm/arc-standards.svg" style="display:block; margin:auto; width:90%" />
 
-<div class="absolute bottom-50px" >
+
+<span class="flex flex-row justify-center mt-5">
   
-https://isa-tools.org | https://www.commonwl.org | https://www.researchobject.org/ro-crate | https://git-scm.com
+  https://isa-tools.org | https://www.commonwl.org | https://www.researchobject.org/ro-crate | https://git-scm.com
 
-</div>
+</span>
