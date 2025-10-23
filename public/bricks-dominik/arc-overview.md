@@ -18,9 +18,9 @@ Your entire investigation in a single unified bag
 layout: default
 ---
 
-## The ARC scaffold structure
+# The ARC scaffold structure
 
-<img src="/kb/src/assets/images/start-here/arc-scaffold.svg" />
+<img src="/kb/src/assets/images/start-here/arc-scaffold.svg"/>
 
 ---
 layout: two-columns
@@ -31,7 +31,7 @@ src: './arc-standards.md'
 layout: default
 ---
 
-## ISA abstract model in a nutshell
+# ISA abstract model in a nutshell
 
 <img src="/kb/src/assets/images/start-here/standards-isa-in-a-nutshell.svg" />
 
