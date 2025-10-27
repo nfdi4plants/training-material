@@ -11,10 +11,10 @@ layout: two-columns
 
 ::left::
 
-### Questions
+### Google Doc
 
-- Please use the [google doc](https://docs.google.com/document/d/1DAEoLeL7aXGnbMx3FrJX4rI2-qRR0JfxmJVpYvHAMpo/edit?tab=t.0) to interact, raise questions and feedback
-- I will provide all links for hands-on there
+- Please use the [google doc](https://docs.google.com/document/d/1DAEoLeL7aXGnbMx3FrJX4rI2-qRR0JfxmJVpYvHAMpo/edit?tab=t.0) to interact, raise **questions and feedback**
+- Links for hands-on sections
 
 ::right::
 

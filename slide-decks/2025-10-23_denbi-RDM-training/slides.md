@@ -80,6 +80,10 @@ Follow the [**Start Here** guide](https://nfdi4plants.github.io/nfdi4plants.know
 </AdmonitionType>
 
 ---
+src: './custom-bricks/google-docs.md'
+---
+
+---
 src: ../../public/bricks-dominik/exercise-starthere-checkpoint-1.md#2-3
 ---
 
