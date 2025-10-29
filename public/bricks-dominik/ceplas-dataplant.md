@@ -23,6 +23,6 @@ layout: default
 layout: default
 ---
 
-## Data Stewardship between DataPLANT and the community <!-- fit -->
+# Data Stewardship between DataPLANT and the community <!-- fit -->
 
 <img src="/images-tm/ceplas/ceplas-dataplant-collaboration-hhu.drawio.svg" style='display: block; width:70%; margin: auto' />

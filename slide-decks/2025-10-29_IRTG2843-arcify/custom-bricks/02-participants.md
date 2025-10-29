@@ -11,9 +11,11 @@ layout: center
 
 <v-clicks>
 
+- My motivation / expectation
+- Operating system: Linux / Windows / Mac?
 - Used code / programming language before?
 - Experience with Git / GitLab / GitHub?
-- Operating system: Linux / Windows / Mac?
-- Expectation
+- Have an ORCID
+- My favorite lab assay
 
 </v-clicks>
