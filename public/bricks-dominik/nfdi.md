@@ -20,3 +20,23 @@ layout: default
 ## NFDI – A community-targeted approach for RDM
 
 <img src="/images-tm/nfdi/nfdi-consortia.drawio.svg" style='display: block; width:70%; margin: auto'/>
+
+---
+layout: default
+---
+
+## NFDI – A community-targeted approach for RDM
+
+<img src="https://www.nfdi.de/wp-content/uploads/2025/01/Base4NFDI_hell.png" style='display: block; width:70%; margin: auto'/>
+
+<span class="flex flex-row justify-center">
+  
+  https://base4nfdi.de/
+
+</span>
+
+
+
+
+
+

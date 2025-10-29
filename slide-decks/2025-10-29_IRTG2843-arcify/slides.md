@@ -9,7 +9,7 @@ coverDate: October 29th, 2025
 fonts:
   sans: Gulim
 canvasWidth: 1200
-title: ARCify your research project
+title: "ARCify your research project"
 transition: slide-left
 favicon: images-tm/dataplant/DataPLANT_logo_minimal_rounded_bg_darkblue.svg
 drawings:
@@ -45,7 +45,11 @@ src: '../../public/bricks-dominik/nfdi.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/ceplas-dataplant.md'
+src: '../../public/bricks-dominik/dataplant.md'
+---
+
+---
+src: 'custom-bricks/datastewardship-community.md'
 ---
 
 ---

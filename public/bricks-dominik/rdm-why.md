@@ -12,11 +12,11 @@ layout: two-cols
 - Increase transparency
 - Make data accessible
 - Save time (writing, reusing)
-- Reduce the risk of data loss
-- Optimize the costs
+- Reduce risk of data loss
+- Optimize costs
 - Facilitate future reuse and sharing
 - Improve citations
 
 ::right::
 
-![](https://rdmpromotion.rbind.io/material/CC-BY-NC/futureself.png)
+<img width="400px" src="https://rdmpromotion.rbind.io/material/CC-BY-NC/futureself.png" />
