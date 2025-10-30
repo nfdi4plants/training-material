@@ -73,13 +73,6 @@ layout: default
 
 <img src="/kb/src/assets/images/start-here/arc-prototypic-assay-modular2.svg" />
 
----
-layout: default
----
-
-## Applying standard procedures to sample record
-
-<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-sop.svg" />
 
 ---
 layout: default
@@ -89,7 +82,28 @@ layout: default
 
 <img src="/images-tm/swate-metadatatemplates.png"/>
 
-Facilities can define their most common workflows as templates
+You can define your most common workflows as templates
+
+
+---
+layout: default
+---
+
+## Applying standard procedures to sample record
+
+<img src="/kb/src/assets/images/start-here/arc-prototypic-assay-sop.svg" />
+
+SOPs can be designed for routine assays
+
+---
+layout: default
+---
+
+## Save time with templates and SOPs
+
+<img src="/images-tm/swate-templates-sops.svg"/>
+
+
 
 ---
 layout: default

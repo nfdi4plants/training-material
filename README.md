@@ -13,6 +13,7 @@ Material are shared here under [CC BY 4.0 license](https://creativecommons.org/l
 
 Event | Slide decks
 ----|---
+2025-10-29_IRTG2843-arcify | [slide-decks/2025-10-29_IRTG2843-arcify](slide-decks/2025-10-29_IRTG2843-arcify)
 2025-10-23_denbi-RDM-training | [slide-decks/2025-10-23_denbi-RDM-training](slide-decks/2025-10-23_denbi-RDM-training/slides.pdf)
 2025-09-09_ceplas-arcify | [slide-decks/2025-09-09_ceplas-arcify](slide-decks/2025-09-09_ceplas-arcify/slides.pdf)
 2025-05-26_mibinet-arc-elabFTW-training | [slide-decks/2025-05-26_mibinet-arc-elabFTW-training](slide-decks/2025-05-26_mibinet-arc-elabFTW-training/combined-slides/2025-05-26_mibinet-arc-elabFTW-training.pdf)

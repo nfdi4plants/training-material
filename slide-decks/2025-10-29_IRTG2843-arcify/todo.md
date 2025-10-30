@@ -1,0 +1,4 @@
+- Day 2
+  - ARC Commander
+  - ARCtrl
+  - CWL workflows / runs
