@@ -98,13 +98,13 @@ src: '../../public/bricks-dominik/exercise-starthere-checkpoint-1.md'
 ---
 
 ---
-src: '../../public/bricks-dominik/exercise-starthere-checkpoint-2.md'
----
-
----
 layout: cover
 coverDate: October 30th, 2025
 src: './custom-bricks/00-title.md'
+---
+
+---
+src: '../../public/bricks-dominik/exercise-starthere-checkpoint-2.md'
 ---
 
 
@@ -119,6 +119,17 @@ src: './custom-bricks/goals-day2.md'
 ---
 src: '../../public/bricks-dominik/exercise-starthere-checkpoint-3.md'
 ---
+
+---
+src: '../../public/bricks-dominik/data-publication-repositories.md'
+---
+
+---
+src: '../../public/bricks-dominik/dataplant-publication-outlets.md'
+---
+
+
+
 
 ---
 src: '../../public/bricks-dominik/exercise-starthere-checkpoint-4.md'

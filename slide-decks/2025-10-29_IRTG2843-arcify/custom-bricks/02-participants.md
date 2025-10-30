@@ -16,6 +16,6 @@ layout: center
 - Used code / programming language before?
 - Experience with Git / GitLab / GitHub?
 - Have an ORCID
-- My favorite lab assay
+- My favorite experiment (lab / field / computational)
 
 </v-clicks>

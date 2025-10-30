@@ -3,6 +3,7 @@
   - dataplant service landscape
 
 - Day 2
-  - Repositories
-  - Publication
 
+  - ARC Commander
+  - ARCtrl
+  - CWL workflows / runs

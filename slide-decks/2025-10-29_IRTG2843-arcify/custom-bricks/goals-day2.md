@@ -13,4 +13,7 @@ title: Goal
 - Continue preparing Viola's ARC
 - Start to create an ARC for your own project
 - More parts of the ARC ecosystem
-- ...
+  - ARC Commander
+  - ARCtrl
+  - Templates
+  - Workflows / Runs
